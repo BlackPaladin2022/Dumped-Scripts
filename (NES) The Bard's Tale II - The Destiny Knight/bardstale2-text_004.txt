@@ -1,0 +1,78 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		Bard's Tale 2 Text Block 05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $DA0B - STRING #0 @ $DA29
+
+#W16($DA0B)
+オりジナル_ゲームデザイン[LN]
+
+//POINTER #1 @ $DA0D - STRING #1 @ $DA49
+
+#W16($DA0D)
+にほんご_スタッフ[LN]
+
+//POINTER #2 @ $DA0F - STRING #2 @ $DA54
+
+#W16($DA0F)
+ゲーム_デザイン[LN]
+
+//POINTER #3 @ $DA11 - STRING #3 @ $DA6B
+
+#W16($DA11)
+チーフ_プログラマ[LN]
+
+//POINTER #4 @ $DA13 - STRING #4 @ $DA82
+
+#W16($DA13)
+プログラム[LN]
+
+//POINTER #5 @ $DA15 - STRING #5 @ $DAA8
+
+#W16($DA15)
+おんがく_プログラム[LN]
+
+//POINTER #6 @ $DA17 - STRING #6 @ $DAC1
+
+#W16($DA17)
+さっきょく[LN]
+
+//POINTER #7 @ $DA19 - STRING #7 @ $DACF
+
+#W16($DA19)
+モンスター_デザイン[LN]
+
+//POINTER #8 @ $DA1B - STRING #8 @ $DAE5
+
+#W16($DA1B)
+がめん_デザイン[LN]
+
+//POINTER #9 @ $DA1D - STRING #9 @ $DB05
+
+#W16($DA1D)
+せんでん_たんとう[LN]
+
+//POINTER #10 @ $DA1F - STRING #10 @ $DB25
+
+#W16($DA1F)
+スぺシャル_サンクス[LN]
+
+//POINTER #11 @ $DA21 - STRING #11 @ $DB50
+
+#W16($DA21)
+しんこう_かんり[LN]
+
+//POINTER #12 @ $DA23 - STRING #12 @ $DB63
+
+#W16($DA23)
+ディレクター[LN]
+
+//POINTER #13 @ $DA25 - STRING #13 @ $DB74
+
+#W16($DA25)
+プロデューサー[LN]
+
+//POINTER #14 @ $DA27 - STRING #14 @ $DB89
+
+#W16($DA27)
+エグゼクティブ_プロデューサー[LN]

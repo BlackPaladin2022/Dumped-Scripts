@@ -1,0 +1,58 @@
+//GAME NAME:		
+
+//BLOCK #007 NAME:		Bard's Tale 2 Text Block 19 (POINTER_RELATIVE)
+
+//POINTER #0 @ $3785A - STRING #0 @ $37ABC
+
+#W16($3785A)
+ブレーブス_シャドー[LN]
+ダブルエッジ_ソング[LN]
+レンジャー_ロード[LN]
+ミラージュ[ED]
+
+
+//POINTER #1 @ $3785C - STRING #1 @ $37AEC
+
+#W16($3785C)
+_OK？[ED]
+
+
+//POINTER #2 @ $3785E - STRING #2 @ $37AF1
+
+#W16($3785E)
+たたかう[LN]
+にげる[ED]
+
+
+//POINTER #3 @ $37860 - STRING #3 @ $37AFB
+
+#W16($37860)
+いまはつかえない[ED]
+
+
+//POINTER #4 @ $37862 - STRING #4 @ $37B04
+
+#W16($37862)
+ならびかえ[LN]
+ぜんえいこうえい[ED]
+
+
+//POINTER #5 @ $37864 - STRING #5 @ $37886
+
+#W16($37864)
+[ED]
+
+
+//POINTER #6 @ $37866 - STRING #6 @ $37886
+
+#W16($37866)
+[ED]
+
+
+//POINTER #7 @ $37868 - STRING #7 @ $37B15
+
+#W16($37868)
+ちりょう[LN]
+かいふく[LN]
+みせをでる[ED]
+

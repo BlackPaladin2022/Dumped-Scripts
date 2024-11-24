@@ -1,0 +1,323 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		Bard's Tale 2 Text Block 04 (POINTER_RELATIVE)
+
+//POINTER #0 @ $8A86 - STRING #0 @ $8B06
+
+#W16($8A86)
+マジック・フレーム[LN]
+
+//POINTER #1 @ $8A88 - STRING #1 @ $8B11
+
+#W16($8A88)
+マジック・ドロップス[LN]
+
+//POINTER #2 @ $8A8A - STRING #2 @ $8B1F
+
+#W16($8A8A)
+フりーズ・フォース[LN]
+
+//POINTER #3 @ $8A8C - STRING #3 @ $8B2A
+
+#W16($8A8C)
+ワード・オブ・ヒール[LN]
+
+//POINTER #4 @ $8A8E - STRING #4 @ $8B37
+
+#W16($8A8E)
+エりクス・ウルフ[LN]
+
+//POINTER #5 @ $8A90 - STRING #5 @ $8B40
+
+#W16($8A90)
+ウォー・ストライク[LN]
+
+//POINTER #6 @ $8A92 - STRING #6 @ $8B4A
+
+#W16($8A92)
+カンジュラー・サイト[LN]
+
+//POINTER #7 @ $8A94 - STRING #7 @ $8B56
+
+#W16($8A94)
+フレッシュ・りストア[LN]
+
+//POINTER #8 @ $8A96 - STRING #8 @ $8B61
+
+#W16($8A96)
+アーク・ファイアー[LN]
+
+//POINTER #9 @ $8A98 - STRING #9 @ $8B6B
+
+#W16($8A98)
+フレッシュ・アニュー[LN]
+
+//POINTER #10 @ $8A9A - STRING #10 @ $8B76
+
+#W16($8A9A)
+エりクス・オーガ[LN]
+
+//POINTER #11 @ $8A9C - STRING #11 @ $8B80
+
+#W16($8A9C)
+フレッシュ・オール[LN]
+
+//POINTER #12 @ $8A9E - STRING #12 @ $8B8A
+
+#W16($8A9E)
+エりクス・スレイヤー[LN]
+
+//POINTER #13 @ $8AA0 - STRING #13 @ $8B95
+
+#W16($8AA0)
+ブレイク・スフィア[LN]
+
+//POINTER #14 @ $8AA2 - STRING #14 @ $8BA0
+
+#W16($8AA2)
+ボーパル・プレート[LN]
+
+//POINTER #15 @ $8AA4 - STRING #15 @ $8BAD
+
+#W16($8AA4)
+スクライ・サイト[LN]
+
+//POINTER #16 @ $8AA6 - STRING #16 @ $8BB6
+
+#W16($8AA6)
+ホーりー・ウェーブ[LN]
+
+//POINTER #17 @ $8AA8 - STRING #17 @ $8BC1
+
+#W16($8AA8)
+メイジ・ガントレット[LN]
+
+//POINTER #18 @ $8AAA - STRING #18 @ $8BCE
+
+#W16($8AAA)
+イバラーズ・フォール[LN]
+
+//POINTER #19 @ $8AAC - STRING #19 @ $8BDB
+
+#W16($8AAC)
+オスコンズ・ストレングス[LN]
+
+//POINTER #20 @ $8AAE - STRING #20 @ $8BEA
+
+#W16($8AAE)
+スター・フレア[LN]
+
+//POINTER #21 @ $8AB0 - STRING #21 @ $8BF2
+
+#W16($8AB0)
+スぺクター・タッチ[LN]
+
+//POINTER #22 @ $8AB2 - STRING #22 @ $8BFD
+
+#W16($8AB2)
+デス・ストライク[LN]
+
+//POINTER #23 @ $8AB4 - STRING #23 @ $8C07
+
+#W16($8AB4)
+アンチ・マジック[LN]
+
+//POINTER #24 @ $8AB6 - STRING #24 @ $8C11
+
+#W16($8AB6)
+ストーン・タッチ[LN]
+
+//POINTER #25 @ $8AB8 - STRING #25 @ $8C1A
+
+#W16($8AB8)
+イバラーズ・ミスト[LN]
+
+//POINTER #26 @ $8ABA - STRING #26 @ $8C26
+
+#W16($8ABA)
+ドラゴン・ブレス[LN]
+
+//POINTER #27 @ $8ABC - STRING #27 @ $8C32
+
+#W16($8ABC)
+メイジ・サイト[LN]
+
+//POINTER #28 @ $8ABE - STRING #28 @ $8C3B
+
+#W16($8ABE)
+ディスビりーブ[LN]
+
+//POINTER #29 @ $8AC0 - STRING #29 @ $8C46
+
+#W16($8AC0)
+ウィンド・ウルフ[LN]
+
+//POINTER #30 @ $8AC2 - STRING #30 @ $8C50
+
+#W16($8AC2)
+マンガーズ・ジャブ[LN]
+
+//POINTER #31 @ $8AC4 - STRING #31 @ $8C5E
+
+#W16($8AC4)
+エンジェル・ボイス[LN]
+
+//POINTER #32 @ $8AC6 - STRING #32 @ $8C6A
+
+#W16($8AC6)
+ウィンド・オーガ[LN]
+
+//POINTER #33 @ $8AC8 - STRING #33 @ $8C75
+
+#W16($8AC8)
+カイラーランズ・スぺル[LN]
+
+//POINTER #34 @ $8ACA - STRING #34 @ $8C83
+
+#W16($8ACA)
+ワード・オブ・フィアー[LN]
+
+//POINTER #35 @ $8ACC - STRING #35 @ $8C91
+
+#W16($8ACC)
+ウィンド・メイジ[LN]
+
+//POINTER #36 @ $8ACE - STRING #36 @ $8C9C
+
+#W16($8ACE)
+ウィンド・ヒーロー[LN]
+
+//POINTER #37 @ $8AD0 - STRING #37 @ $8CA7
+
+#W16($8AD0)
+マンガーズ・ブレード[LN]
+
+//POINTER #38 @ $8AD2 - STRING #38 @ $8CB6
+
+#W16($8AD2)
+ウィンド・ジャイアント[LN]
+
+//POINTER #39 @ $8AD4 - STRING #39 @ $8CC4
+
+#W16($8AD4)
+ウィンド・ウォール[LN]
+
+//POINTER #40 @ $8AD6 - STRING #40 @ $8CCF
+
+#W16($8AD6)
+ウィンド・ドラゴン[LN]
+
+//POINTER #41 @ $8AD8 - STRING #41 @ $8CDC
+
+#W16($8AD8)
+メルストローム[LN]
+
+//POINTER #42 @ $8ADA - STRING #42 @ $8CE4
+
+#W16($8ADA)
+サモン・エレメンタル[LN]
+
+//POINTER #43 @ $8ADC - STRING #43 @ $8CEF
+
+#W16($8ADC)
+フォース・フォーカス[LN]
+
+//POINTER #44 @ $8ADE - STRING #44 @ $8CFA
+
+#W16($8ADE)
+クりエイト・ゲート[LN]
+
+//POINTER #45 @ $8AE0 - STRING #45 @ $8D05
+
+#W16($8AE0)
+インサート・ハート[LN]
+
+//POINTER #46 @ $8AE2 - STRING #46 @ $8D0F
+
+#W16($8AE2)
+フレーム・コラム[LN]
+
+//POINTER #47 @ $8AE4 - STRING #47 @ $8D18
+
+#W16($8AE4)
+ディスポゼス[LN]
+
+//POINTER #48 @ $8AE6 - STRING #48 @ $8D22
+
+#W16($8AE6)
+デーモン・べイン[LN]
+
+//POINTER #49 @ $8AE8 - STRING #49 @ $8D2D
+
+#W16($8AE8)
+りバイブ・フロム・デス[LN]
+
+//POINTER #50 @ $8AEA - STRING #50 @ $8D3C
+
+#W16($8AEA)
+エンジェル・ブレス[LN]
+
+//POINTER #51 @ $8AEC - STRING #51 @ $8D48
+
+#W16($8AEC)
+ソウル・ウィップ[LN]
+
+//POINTER #52 @ $8AEE - STRING #52 @ $8D52
+
+#W16($8AEE)
+グレーター・サモニング[LN]
+
+//POINTER #53 @ $8AF0 - STRING #53 @ $8D60
+
+#W16($8AF0)
+オスコン・ホールド[LN]
+
+//POINTER #54 @ $8AF2 - STRING #54 @ $8D6B
+
+#W16($8AF2)
+ウェイカムズ・ウォー[LN]
+
+//POINTER #55 @ $8AF4 - STRING #55 @ $8D77
+
+#W16($8AF4)
+サモン・ハーブ[LN]
+
+//POINTER #56 @ $8AF6 - STRING #56 @ $8D80
+
+#W16($8AF6)
+メイレイ・メン[LN]
+
+//POINTER #57 @ $8AF8 - STRING #57 @ $8D88
+
+#W16($8AF8)
+バッチ・スぺル[LN]
+
+//POINTER #58 @ $8AFA - STRING #58 @ $8D92
+
+#W16($8AFA)
+りープ・ワード[LN]
+
+//POINTER #59 @ $8AFC - STRING #59 @ $8D9C
+
+#W16($8AFC)
+ファンスカーズ・ランス[LN]
+
+//POINTER #60 @ $8AFE - STRING #60 @ $8DA9
+
+#W16($8AFE)
+ヒール・オール[LN]
+
+//POINTER #61 @ $8B00 - STRING #61 @ $8DB1
+
+#W16($8B00)
+クりングル・ブラザース[LN]
+
+//POINTER #62 @ $8B02 - STRING #62 @ $8DC0
+
+#W16($8B02)
+マンガーズ・マレット[LN]
+
+//POINTER #63 @ $8B04 - STRING #63 @ $8DCD
+
+#W16($8B04)
+ドりームスぺル[LN]

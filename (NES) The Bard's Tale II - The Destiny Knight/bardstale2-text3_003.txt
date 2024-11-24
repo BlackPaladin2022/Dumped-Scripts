@@ -1,0 +1,31 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		Bard's Tale 2 Text Block 15 (POINTER_RELATIVE)
+
+//POINTER #0 @ $3783A - STRING #0 @ $379F7
+
+#W16($3783A)
+たびのきろく[LN]
+やすむ[LN]
+みせをでる[ED]
+
+
+//POINTER #1 @ $3783C - STRING #1 @ $37A0A
+
+#W16($3783C)
+_ステータスをみる[LN]
+_まほうをかける[LN]
+_うたをうたう[LN]
+_そうびする[LN]
+_アイテム[LN]
+_たいれつをかえる[LN]
+_ちずをつかう[ED]
+
+
+//POINTER #2 @ $3783E - STRING #2 @ $37884
+
+#W16($3783E)
+[LN]
+[LN]
+[ED]
+

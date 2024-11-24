@@ -1,0 +1,46 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Bard's Tale 2 Text Block 12 (POINTER_RELATIVE)
+
+//POINTER #0 @ $37818 - STRING #0 @ $37884
+
+#W16($37818)
+[LN]
+[LN]
+[ED]
+
+
+//POINTER #1 @ $3781A - STRING #1 @ $3787C
+
+#W16($3781A)
+[LN]
+[LN]
+[LN]
+[LN]
+[LN]
+[LN]
+[LN]
+[LN]
+[LN]
+[LN]
+[ED]
+
+
+//POINTER #2 @ $3781C - STRING #2 @ $37887
+
+#W16($3781C)
+おとこ[LN]
+おんな[ED]
+
+
+//POINTER #3 @ $3781E - STRING #3 @ $3788F
+
+#W16($3781E)
+ファイター[LN]
+ナイト[LN]
+シーフ[LN]
+ハンター[LN]
+バード[LN]
+カンジュラー[LN]
+メイジ[ED]
+

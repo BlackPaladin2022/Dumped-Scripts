@@ -1,0 +1,17 @@
+//GAME NAME:		
+
+//BLOCK #005 NAME:		Bard's Tale 2 Text Block 17 (POINTER_RELATIVE)
+
+//POINTER #0 @ $3784E - STRING #0 @ $37A97
+
+#W16($3784E)
+‚ä‚¤‚«‚ð‚à‚Á‚Ä‚½‚½‚©‚¤[LN]
+‚µ‚Á‚Û‚ð‚Ü‚¢‚Ä‚É‚°‚é[ED]
+
+
+//POINTER #1 @ $37850 - STRING #1 @ $37AB0
+
+#W16($37850)
+‚à‚¿‚à‚Ì[LN]
+ƒZƒOƒƒ“ƒg[ED]
+

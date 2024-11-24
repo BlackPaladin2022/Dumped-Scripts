@@ -1,0 +1,633 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Bard's Tale 2 Text Block 08 (POINTER_RELATIVE)
+
+//POINTER #0 @ $18864 - STRING #0 @ $18960
+
+#W16($18864)
+スライム[LN]
+
+//POINTER #1 @ $18866 - STRING #1 @ $18960
+
+#W16($18866)
+スライム[LN]
+
+//POINTER #2 @ $18868 - STRING #2 @ $18965
+
+#W16($18868)
+コボルト[LN]
+
+//POINTER #3 @ $1886A - STRING #3 @ $1896B
+
+#W16($1886A)
+ゴブりン[LN]
+
+//POINTER #4 @ $1886C - STRING #4 @ $18972
+
+#W16($1886C)
+カンジュラー[LN]
+
+//POINTER #5 @ $1886E - STRING #5 @ $1897A
+
+#W16($1886E)
+コブラ[LN]
+
+//POINTER #6 @ $18870 - STRING #6 @ $1897F
+
+#W16($18870)
+グール[LN]
+
+//POINTER #7 @ $18872 - STRING #7 @ $18984
+
+#W16($18872)
+ダークロード[LN]
+
+//POINTER #8 @ $18874 - STRING #8 @ $1898D
+
+#W16($18874)
+バグマン[LN]
+
+//POINTER #9 @ $18876 - STRING #9 @ $18994
+
+#W16($18876)
+フォレストジャイアント[LN]
+
+//POINTER #10 @ $18878 - STRING #10 @ $189A1
+
+#W16($18878)
+コロッサス[LN]
+
+//POINTER #11 @ $1887A - STRING #11 @ $189A7
+
+#W16($1887A)
+デビルドッグ[LN]
+
+//POINTER #12 @ $1887C - STRING #12 @ $189B2
+
+#W16($1887C)
+ゾンビ[LN]
+
+//POINTER #13 @ $1887E - STRING #13 @ $189B8
+
+#W16($1887E)
+コープス[LN]
+
+//POINTER #14 @ $18880 - STRING #14 @ $189BE
+
+#W16($18880)
+バンパイア[LN]
+
+//POINTER #15 @ $18882 - STRING #15 @ $189C6
+
+#W16($18882)
+ダストドラゴン[LN]
+
+//POINTER #16 @ $18884 - STRING #16 @ $189D1
+
+#W16($18884)
+フレームスプライト[LN]
+
+//POINTER #17 @ $18886 - STRING #17 @ $189DC
+
+#W16($18886)
+ワイト[LN]
+
+//POINTER #18 @ $18888 - STRING #18 @ $189E0
+
+#W16($18888)
+スケルトン[LN]
+
+//POINTER #19 @ $1888A - STRING #19 @ $189E6
+
+#W16($1888A)
+ウルフマン[LN]
+
+//POINTER #20 @ $1888C - STRING #20 @ $189EC
+
+#W16($1888C)
+シャドウ[LN]
+
+//POINTER #21 @ $1888E - STRING #21 @ $189F2
+
+#W16($1888E)
+ファントム[LN]
+
+//POINTER #22 @ $18890 - STRING #22 @ $189F8
+
+#W16($18890)
+デッドキング[LN]
+
+//POINTER #23 @ $18892 - STRING #23 @ $18A02
+
+#W16($18892)
+クラウドジャイアント[LN]
+
+//POINTER #24 @ $18894 - STRING #24 @ $18A0F
+
+#W16($18894)
+ガーディアン[LN]
+
+//POINTER #25 @ $18896 - STRING #25 @ $18A18
+
+#W16($18896)
+オーガ[LN]
+
+//POINTER #26 @ $18898 - STRING #26 @ $18A1D
+
+#W16($18898)
+パイパー[LN]
+
+//POINTER #27 @ $1889A - STRING #27 @ $18A24
+
+#W16($1889A)
+ドルイド[LN]
+
+//POINTER #28 @ $1889C - STRING #28 @ $18A2B
+
+#W16($1889C)
+デーモン[LN]
+
+//POINTER #29 @ $1889E - STRING #29 @ $18A31
+
+#W16($1889E)
+ブラックプりースト[LN]
+
+//POINTER #30 @ $188A0 - STRING #30 @ $18A3D
+
+#W16($188A0)
+トロール[LN]
+
+//POINTER #31 @ $188A2 - STRING #31 @ $18A42
+
+#W16($188A2)
+ホブゴブりン[LN]
+
+//POINTER #32 @ $188A4 - STRING #32 @ $18A4C
+
+#W16($188A4)
+ファンスカー[LN]
+
+//POINTER #33 @ $188A6 - STRING #33 @ $18A53
+
+#W16($188A6)
+ポルターガイスト[LN]
+
+//POINTER #34 @ $188A8 - STRING #34 @ $18A5E
+
+#W16($188A8)
+マーシナりー[LN]
+
+//POINTER #35 @ $188AA - STRING #35 @ $18A65
+
+#W16($188AA)
+ウォりアー[LN]
+
+//POINTER #36 @ $188AC - STRING #36 @ $18A6B
+
+#W16($188AC)
+バーサーカー[LN]
+
+//POINTER #37 @ $188AE - STRING #37 @ $18A73
+
+#W16($188AE)
+アーチャー[LN]
+
+//POINTER #38 @ $188B0 - STRING #38 @ $18A79
+
+#W16($188B0)
+レンジャー[LN]
+
+//POINTER #39 @ $188B2 - STRING #39 @ $18A80
+
+#W16($188B2)
+ソードマン[LN]
+
+//POINTER #40 @ $188B4 - STRING #40 @ $18A87
+
+#W16($188B4)
+シュりーカー[LN]
+
+//POINTER #41 @ $188B6 - STRING #41 @ $18A8E
+
+#W16($188B6)
+ミミック[LN]
+
+//POINTER #42 @ $188B8 - STRING #42 @ $18A93
+
+#W16($188B8)
+ダイアモンドドッグ[LN]
+
+//POINTER #43 @ $188BA - STRING #43 @ $18AA1
+
+#W16($188BA)
+グラフナー[LN]
+
+//POINTER #44 @ $188BC - STRING #44 @ $18AA8
+
+#W16($188BC)
+ポイゾンジャイアント[LN]
+
+//POINTER #45 @ $188BE - STRING #45 @ $18AB6
+
+#W16($188BE)
+ゴーレム[LN]
+
+//POINTER #46 @ $188C0 - STRING #46 @ $18ABC
+
+#W16($188C0)
+バシりスク[LN]
+
+//POINTER #47 @ $188C2 - STRING #47 @ $18AC3
+
+#W16($188C2)
+ハーピィ[LN]
+
+//POINTER #48 @ $188C4 - STRING #48 @ $18AC9
+
+#W16($188C4)
+マンティス[LN]
+
+//POINTER #49 @ $188C6 - STRING #49 @ $18ACF
+
+#W16($188C6)
+ワーロック[LN]
+
+//POINTER #50 @ $188C8 - STRING #50 @ $18AD5
+
+#W16($188C8)
+ウェアウルフ[LN]
+
+//POINTER #51 @ $188CA - STRING #51 @ $18ADC
+
+#W16($188CA)
+ウォールマン[LN]
+
+//POINTER #52 @ $188CC - STRING #52 @ $18AE3
+
+#W16($188CC)
+ドアウォール[LN]
+
+//POINTER #53 @ $188CE - STRING #53 @ $18AEB
+
+#W16($188CE)
+アイスパイ[LN]
+
+//POINTER #54 @ $188D0 - STRING #54 @ $18AF2
+
+#W16($188D0)
+インプ[LN]
+
+//POINTER #55 @ $188D2 - STRING #55 @ $18AF7
+
+#W16($188D2)
+ダゴス[LN]
+
+//POINTER #56 @ $188D4 - STRING #56 @ $18AFD
+
+#W16($188D4)
+カズテック[LN]
+
+//POINTER #57 @ $188D6 - STRING #57 @ $18B04
+
+#W16($188D6)
+ダークバンパイア[LN]
+
+//POINTER #58 @ $188D8 - STRING #58 @ $18B10
+
+#W16($188D8)
+ノール[LN]
+
+//POINTER #59 @ $188DA - STRING #59 @ $18B14
+
+#W16($188DA)
+りーパー[LN]
+
+//POINTER #60 @ $188DC - STRING #60 @ $18B1A
+
+#W16($188DC)
+ピックポケット[LN]
+
+//POINTER #61 @ $188DE - STRING #61 @ $18B24
+
+#W16($188DE)
+アサッシン[LN]
+
+//POINTER #62 @ $188E0 - STRING #62 @ $18B2A
+
+#W16($188E0)
+スぺクター[LN]
+
+//POINTER #63 @ $188E2 - STRING #63 @ $18B31
+
+#W16($188E2)
+サキュバス[LN]
+
+//POINTER #64 @ $188E4 - STRING #64 @ $18B38
+
+#W16($188E4)
+ブレスドラゴン[LN]
+
+//POINTER #65 @ $188E6 - STRING #65 @ $18B43
+
+#W16($188E6)
+スチールジャイアント[LN]
+
+//POINTER #66 @ $188E8 - STRING #66 @ $18B4F
+
+#W16($188E8)
+マーダーフィッシュ[LN]
+
+//POINTER #67 @ $188EA - STRING #67 @ $18B5A
+
+#W16($188EA)
+エレキイール[LN]
+
+//POINTER #68 @ $188EC - STRING #68 @ $18B61
+
+#W16($188EC)
+マスターメイジ・オスコン[LN]
+
+//POINTER #69 @ $188EE - STRING #69 @ $18B6F
+
+#W16($188EE)
+ゾンビキング[LN]
+
+//POINTER #70 @ $188F0 - STRING #70 @ $18B79
+
+#W16($188F0)
+ガスト[LN]
+
+//POINTER #71 @ $188F2 - STRING #71 @ $18B7E
+
+#W16($188F2)
+ニンジャ[LN]
+
+//POINTER #72 @ $188F4 - STRING #72 @ $18B84
+
+#W16($188F4)
+サムライ[LN]
+
+//POINTER #73 @ $188F6 - STRING #73 @ $18B89
+
+#W16($188F6)
+クりプトナイト[LN]
+
+//POINTER #74 @ $188F8 - STRING #74 @ $18B92
+
+#W16($188F8)
+ドッぺルゲンガー[LN]
+
+//POINTER #75 @ $188FA - STRING #75 @ $18B9F
+
+#W16($188FA)
+ウィッチ[LN]
+
+//POINTER #76 @ $188FC - STRING #76 @ $18BA4
+
+#W16($188FC)
+デビルソード[LN]
+
+//POINTER #77 @ $188FE - STRING #77 @ $18BAE
+
+#W16($188FE)
+デスドラゴン[LN]
+
+//POINTER #78 @ $18900 - STRING #78 @ $18BB8
+
+#W16($18900)
+ブルードラゴン[LN]
+
+//POINTER #79 @ $18902 - STRING #79 @ $18BC3
+
+#W16($18902)
+りッチ[LN]
+
+//POINTER #80 @ $18904 - STRING #80 @ $18BC7
+
+#W16($18904)
+ヒースニール[LN]
+
+//POINTER #81 @ $18906 - STRING #81 @ $18BCE
+
+#W16($18906)
+ソーサラー[LN]
+
+//POINTER #82 @ $18908 - STRING #82 @ $18BD4
+
+#W16($18908)
+ウィザード[LN]
+
+//POINTER #83 @ $1890A - STRING #83 @ $18BDC
+
+#W16($1890A)
+ジャック・オブ・ダイヤ[LN]
+
+//POINTER #84 @ $1890C - STRING #84 @ $18BEB
+
+#W16($1890C)
+ファイアーマスター[LN]
+
+//POINTER #85 @ $1890E - STRING #85 @ $18BF5
+
+#W16($1890E)
+サモンマスター[LN]
+
+//POINTER #86 @ $18910 - STRING #86 @ $18BFD
+
+#W16($18910)
+タイタン[LN]
+
+//POINTER #87 @ $18912 - STRING #87 @ $18C02
+
+#W16($18912)
+ドレッチ[LN]
+
+//POINTER #88 @ $18914 - STRING #88 @ $18C08
+
+#W16($18914)
+バンパイアロード[LN]
+
+//POINTER #89 @ $18916 - STRING #89 @ $18C14
+
+#W16($18916)
+オーガヒーロー[LN]
+
+//POINTER #90 @ $18918 - STRING #90 @ $18C1D
+
+#W16($18918)
+サイクロプス[LN]
+
+//POINTER #91 @ $1891A - STRING #91 @ $18C25
+
+#W16($1891A)
+ソロン[LN]
+
+//POINTER #92 @ $1891C - STRING #92 @ $18C29
+
+#W16($1891C)
+コッカトライス[LN]
+
+//POINTER #93 @ $1891E - STRING #93 @ $18C31
+
+#W16($1891E)
+サンダードラゴン[LN]
+
+//POINTER #94 @ $18920 - STRING #94 @ $18C3D
+
+#W16($18920)
+ミラクルメイジ[LN]
+
+//POINTER #95 @ $18922 - STRING #95 @ $18C46
+
+#W16($18922)
+マイクロメイジ[LN]
+
+//POINTER #96 @ $18924 - STRING #96 @ $18C4F
+
+#W16($18924)
+ギーマー[LN]
+
+//POINTER #97 @ $18926 - STRING #97 @ $18C55
+
+#W16($18926)
+ジャイアントバット[LN]
+
+//POINTER #98 @ $18928 - STRING #98 @ $18C61
+
+#W16($18928)
+やみのうたいて[LN]
+
+//POINTER #99 @ $1892A - STRING #99 @ $18C69
+
+#W16($1892A)
+シェイド[LN]
+
+//POINTER #100 @ $1892C - STRING #100 @ $18C6F
+
+#W16($1892C)
+メジャーデーモン[LN]
+
+//POINTER #101 @ $1892E - STRING #101 @ $18C7A
+
+#W16($1892E)
+メイズドラゴン[LN]
+
+//POINTER #102 @ $18930 - STRING #102 @ $18BDC
+
+#W16($18930)
+ジャック・オブ・ダイヤ[LN]
+
+//POINTER #103 @ $18932 - STRING #103 @ $18C85
+
+#W16($18932)
+キング・オブ・クラブ[LN]
+
+//POINTER #104 @ $18934 - STRING #104 @ $18C93
+
+#W16($18934)
+クィーン・オブ・ハート[LN]
+
+//POINTER #105 @ $18936 - STRING #105 @ $18CA0
+
+#W16($18936)
+エース・オブ・スぺード[LN]
+
+//POINTER #106 @ $18938 - STRING #106 @ $18CAF
+
+#W16($18938)
+ラゴス・ザンタ[LN]
+
+//POINTER #107 @ $1893A - STRING #107 @ $18CB9
+
+#W16($1893A)
+エッグ[LN]
+
+//POINTER #108 @ $1893C - STRING #108 @ $18CBE
+
+#W16($1893C)
+エりクスウルフ[LN]
+
+//POINTER #109 @ $1893E - STRING #109 @ $18CC6
+
+#W16($1893E)
+エりクスオーガ[LN]
+
+//POINTER #110 @ $18940 - STRING #110 @ $18CCF
+
+#W16($18940)
+エりクススレイヤー[LN]
+
+//POINTER #111 @ $18942 - STRING #111 @ $18CD9
+
+#W16($18942)
+ウィンドウルフ[LN]
+
+//POINTER #112 @ $18944 - STRING #112 @ $18CE2
+
+#W16($18944)
+ウィンドオーガ[LN]
+
+//POINTER #113 @ $18946 - STRING #113 @ $18CEC
+
+#W16($18946)
+ウィンドメイジ[LN]
+
+//POINTER #114 @ $18948 - STRING #114 @ $18CF6
+
+#W16($18948)
+ウィンドヒーロー[LN]
+
+//POINTER #115 @ $1894A - STRING #115 @ $18D00
+
+#W16($1894A)
+ウィンドジャイアント[LN]
+
+//POINTER #116 @ $1894C - STRING #116 @ $18D0D
+
+#W16($1894C)
+ウィンドドラゴン[LN]
+
+//POINTER #117 @ $1894E - STRING #117 @ $18D19
+
+#W16($1894E)
+ファイアーエレメンタル[LN]
+
+//POINTER #118 @ $18950 - STRING #118 @ $18D25
+
+#W16($18950)
+イバラーズミスト[LN]
+
+//POINTER #119 @ $18952 - STRING #119 @ $18D30
+
+#W16($18952)
+ウィンドウォール[LN]
+
+//POINTER #120 @ $18954 - STRING #120 @ $18D3A
+
+#W16($18954)
+ライオン[LN]
+
+//POINTER #121 @ $18956 - STRING #121 @ $18D3F
+
+#W16($18956)
+イーグル[LN]
+
+//POINTER #122 @ $18958 - STRING #122 @ $18D45
+
+#W16($18958)
+キャット[LN]
+
+//POINTER #123 @ $1895A - STRING #123 @ $18D4A
+
+#W16($1895A)
+ハーブ[LN]
+
+//POINTER #124 @ $1895C - STRING #124 @ $18D4F
+
+#W16($1895C)
+クりングル[LN]
+
+//POINTER #125 @ $1895E - STRING #125 @ $18D56
+
+#W16($1895E)
+あくのしじん[LN]

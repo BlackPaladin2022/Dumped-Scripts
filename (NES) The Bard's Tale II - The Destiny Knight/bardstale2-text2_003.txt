@@ -1,0 +1,78 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		Bard's Tale 2 Text Block 09 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2EE47 - STRING #0 @ $2EE6A
+
+#W16($2EE47)
+タングラメン[LN]
+
+//POINTER #1 @ $2EE49 - STRING #1 @ $2EE72
+
+#W16($2EE49)
+げすいどう[LN]
+
+//POINTER #2 @ $2EE4B - STRING #2 @ $2EE7A
+
+#W16($2EE4B)
+エフィソス[LN]
+
+//POINTER #3 @ $2EE4D - STRING #3 @ $2EE80
+
+#W16($2EE4D)
+ちかぼちの[LN]
+
+//POINTER #4 @ $2EE4F - STRING #4 @ $2EE87
+
+#W16($2EE4F)
+ファンスカーのしろの[LN]
+
+//POINTER #5 @ $2EE51 - STRING #5 @ $2EE92
+
+#W16($2EE51)
+セッサロニカ[LN]
+
+//POINTER #6 @ $2EE53 - STRING #6 @ $2EE99
+
+#W16($2EE53)
+グラフナーのアジトの[LN]
+
+//POINTER #7 @ $2EE55 - STRING #7 @ $2EEA6
+
+#W16($2EE55)
+フィりッピ[LN]
+
+//POINTER #8 @ $2EE57 - STRING #8 @ $2EEAD
+
+#W16($2EE57)
+ダゴスのとうの[LN]
+
+//POINTER #9 @ $2EE59 - STRING #9 @ $2EEB7
+
+#W16($2EE59)
+コりンス[LN]
+
+//POINTER #10 @ $2EE5B - STRING #10 @ $2EEBC
+
+#W16($2EE5B)
+オスコンのようさいの[LN]
+
+//POINTER #11 @ $2EE5D - STRING #11 @ $2EEC7
+
+#W16($2EE5D)
+はいいろのじいんの[LN]
+
+//POINTER #12 @ $2EE5F - STRING #12 @ $2EED2
+
+#W16($2EE5F)
+コロッセ[LN]
+
+//POINTER #13 @ $2EE61 - STRING #13 @ $2EED7
+
+#W16($2EE61)
+うんめいのめいきゅうの[LN]
+
+//POINTER #14 @ $2EE63 - STRING #14 @ $2EEE3
+
+#W16($2EE63)
+パズルルーム[LN]

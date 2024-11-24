@@ -1,0 +1,31 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		Bard's Tale 2 Text Block 16 (POINTER_RELATIVE)
+
+//POINTER #0 @ $37844 - STRING #0 @ $37A46
+
+#W16($37844)
+つかう[LN]
+わたす[LN]
+すてる[ED]
+
+
+//POINTER #1 @ $37846 - STRING #1 @ $37A52
+
+#W16($37846)
+ロード_オブ_ジャスティス[LN]
+ラバーズ_ソング[LN]
+トラべラーズ_ターン[ED]
+
+
+//POINTER #2 @ $37848 - STRING #2 @ $37A7C
+
+#W16($37848)
+MPがたりない！[ED]
+
+
+//POINTER #3 @ $3784A - STRING #3 @ $37A86
+
+#W16($3784A)
+_モンスターが_あらわれた！！[ED]
+
