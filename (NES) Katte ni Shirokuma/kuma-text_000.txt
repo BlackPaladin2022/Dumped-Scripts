@@ -1,0 +1,770 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Kuma Text Block 01 (POINTER_RELATIVE)
+
+//POINTER #0 @ $C1A6 - STRING #0 @ $C2D8
+
+#W16($C1A6)
+あいろん[BR]
+
+//POINTER #1 @ $C1A8 - STRING #1 @ $C2DD
+
+#W16($C1A8)
+ふたごのき[BR]
+
+//POINTER #2 @ $C1AA - STRING #2 @ $C2E3
+
+#W16($C1AA)
+あきのたま[BR]
+
+//POINTER #3 @ $C1AC - STRING #3 @ $C2E9
+
+#W16($C1AC)
+あこやがい[BR]
+
+//POINTER #4 @ $C1AE - STRING #4 @ $C2EF
+
+#W16($C1AE)
+あしあと[BR]
+
+//POINTER #5 @ $C1B0 - STRING #5 @ $C2F4
+
+#W16($C1B0)
+あたり[BR]
+
+//POINTER #6 @ $C1B2 - STRING #6 @ $C2F8
+
+#W16($C1B2)
+あな[BR]
+
+//POINTER #7 @ $C1B4 - STRING #7 @ $C2FB
+
+#W16($C1B4)
+あらいぐま[BR]
+
+//POINTER #8 @ $C1B6 - STRING #8 @ $C301
+
+#W16($C1B6)
+いし[BR]
+
+//POINTER #9 @ $C1B8 - STRING #9 @ $C304
+
+#W16($C1B8)
+いけ[BR]
+
+//POINTER #10 @ $C1BA - STRING #10 @ $C307
+
+#W16($C1BA)
+いずみ[BR]
+
+//POINTER #11 @ $C1BC - STRING #11 @ $C30B
+
+#W16($C1BC)
+いのしし[BR]
+
+//POINTER #12 @ $C1BE - STRING #12 @ $C310
+
+#W16($C1BE)
+いわ[BR]
+
+//POINTER #13 @ $C1C0 - STRING #13 @ $C313
+
+#W16($C1C0)
+いわかべ[BR]
+
+//POINTER #14 @ $C1C2 - STRING #14 @ $C318
+
+#W16($C1C2)
+いんりょく[BR]
+
+//POINTER #15 @ $C1C4 - STRING #15 @ $C31E
+
+#W16($C1C4)
+うさぎ[BR]
+
+//POINTER #16 @ $C1C6 - STRING #16 @ $C322
+
+#W16($C1C6)
+ウリぼう[BR]
+
+//POINTER #17 @ $C1C8 - STRING #17 @ $C327
+
+#W16($C1C8)
+うみたなご[BR]
+
+//POINTER #18 @ $C1CA - STRING #18 @ $C32D
+
+#W16($C1CA)
+うみ[BR]
+
+//POINTER #19 @ $C1CC - STRING #19 @ $C330
+
+#W16($C1CC)
+うんこ[BR]
+
+//POINTER #20 @ $C1CE - STRING #20 @ $C334
+
+#W16($C1CE)
+うんこ くろ[BR]
+
+//POINTER #21 @ $C1D0 - STRING #21 @ $C33B
+
+#W16($C1D0)
+うんこ あか[BR]
+
+//POINTER #22 @ $C1D2 - STRING #22 @ $C342
+
+#W16($C1D2)
+うんこ き[BR]
+
+//POINTER #23 @ $C1D4 - STRING #23 @ $C348
+
+#W16($C1D4)
+うんこ しろ[BR]
+
+//POINTER #24 @ $C1D6 - STRING #24 @ $C34F
+
+#W16($C1D6)
+うんこしろ[BR]
+
+//POINTER #25 @ $C1D8 - STRING #25 @ $C355
+
+#W16($C1D8)
+えだ[BR]
+
+//POINTER #26 @ $C1DA - STRING #26 @ $C358
+
+#W16($C1DA)
+えあこん[BR]
+
+//POINTER #27 @ $C1DC - STRING #27 @ $C35D
+
+#W16($C1DC)
+おかあさん[BR]
+
+//POINTER #28 @ $C1DE - STRING #28 @ $C363
+
+#W16($C1DE)
+かいばしら[BR]
+
+//POINTER #29 @ $C1E0 - STRING #29 @ $C369
+
+#W16($C1E0)
+かいがら[BR]
+
+//POINTER #30 @ $C1E2 - STRING #30 @ $C36E
+
+#W16($C1E2)
+かめ[BR]
+
+//POINTER #31 @ $C1E4 - STRING #31 @ $C371
+
+#W16($C1E4)
+かめのこと[BR]
+
+//POINTER #32 @ $C1E6 - STRING #32 @ $C377
+
+#W16($C1E6)
+かみきれ[BR]
+
+//POINTER #33 @ $C1E8 - STRING #33 @ $C37C
+
+#W16($C1E8)
+かみさま[BR]
+
+//POINTER #34 @ $C1EA - STRING #34 @ $C381
+
+#W16($C1EA)
+かわ[BR]
+
+//POINTER #35 @ $C1EC - STRING #35 @ $C384
+
+#W16($C1EC)
+がけ[BR]
+
+//POINTER #36 @ $C1EE - STRING #36 @ $C387
+
+#W16($C1EE)
+かべ[BR]
+
+//POINTER #37 @ $C1F0 - STRING #37 @ $C38A
+
+#W16($C1F0)
+かんがるー[BR]
+
+//POINTER #38 @ $C1F2 - STRING #38 @ $C390
+
+#W16($C1F2)
+き[BR]
+
+//POINTER #39 @ $C1F4 - STRING #39 @ $C392
+
+#W16($C1F4)
+きけ[BR]
+
+//POINTER #40 @ $C1F6 - STRING #40 @ $C395
+
+#W16($C1F6)
+きつね[BR]
+
+//POINTER #41 @ $C1F8 - STRING #41 @ $C399
+
+#W16($C1F8)
+きんのかーど[BR]
+
+//POINTER #42 @ $C1FA - STRING #42 @ $C3A0
+
+#W16($C1FA)
+けんびきょう[BR]
+
+//POINTER #43 @ $C1FC - STRING #43 @ $C3A7
+
+#W16($C1FC)
+こうもり[BR]
+
+//POINTER #44 @ $C1FE - STRING #44 @ $C3AC
+
+#W16($C1FE)
+こころのかぎ[BR]
+
+//POINTER #45 @ $C200 - STRING #45 @ $C3B3
+
+#W16($C200)
+こんぴゅーた[BR]
+
+//POINTER #46 @ $C202 - STRING #46 @ $C3BA
+
+#W16($C202)
+さる[BR]
+
+//POINTER #47 @ $C204 - STRING #47 @ $C3BD
+
+#W16($C204)
+さる1[BR]
+
+//POINTER #48 @ $C206 - STRING #48 @ $C3C1
+
+#W16($C206)
+さる2[BR]
+
+//POINTER #49 @ $C208 - STRING #49 @ $C3C5
+
+#W16($C208)
+さる3[BR]
+
+//POINTER #50 @ $C20A - STRING #50 @ $C3C9
+
+#W16($C20A)
+さる4[BR]
+
+//POINTER #51 @ $C20C - STRING #51 @ $C3CD
+
+#W16($C20C)
+シロ[BR]
+
+//POINTER #52 @ $C20E - STRING #52 @ $C3D0
+
+#W16($C20E)
+しきのたま[BR]
+
+//POINTER #53 @ $C210 - STRING #53 @ $C3D6
+
+#W16($C210)
+じめん[BR]
+
+//POINTER #54 @ $C212 - STRING #54 @ $C3DA
+
+#W16($C212)
+しんぞう[BR]
+
+//POINTER #55 @ $C214 - STRING #55 @ $C3DF
+
+#W16($C214)
+すあな[BR]
+
+//POINTER #56 @ $C216 - STRING #56 @ $C3E3
+
+#W16($C216)
+すいっち[BR]
+
+//POINTER #57 @ $C218 - STRING #57 @ $C3E8
+
+#W16($C218)
+すてろ[BR]
+
+//POINTER #58 @ $C21A - STRING #58 @ $C3EC
+
+#W16($C21A)
+たいぼく[BR]
+
+//POINTER #59 @ $C21C - STRING #59 @ $C3F1
+
+#W16($C21C)
+たたけ[BR]
+
+//POINTER #60 @ $C21E - STRING #60 @ $C3F5
+
+#W16($C21E)
+たてもの[BR]
+
+//POINTER #61 @ $C220 - STRING #61 @ $C3FA
+
+#W16($C220)
+たてふだ[BR]
+
+//POINTER #62 @ $C222 - STRING #62 @ $C3FF
+
+#W16($C222)
+たべろ[BR]
+
+//POINTER #63 @ $C224 - STRING #63 @ $C403
+
+#W16($C224)
+たま[BR]
+
+//POINTER #64 @ $C226 - STRING #64 @ $C406
+
+#W16($C226)
+だい[BR]
+
+//POINTER #65 @ $C228 - STRING #65 @ $C406
+
+#W16($C228)
+だい[BR]
+
+//POINTER #66 @ $C22A - STRING #66 @ $C409
+
+#W16($C22A)
+だいちゃん[BR]
+
+//POINTER #67 @ $C22C - STRING #67 @ $C409
+
+#W16($C22C)
+だいちゃん[BR]
+
+//POINTER #68 @ $C22E - STRING #68 @ $C40F
+
+#W16($C22E)
+たね[BR]
+
+//POINTER #69 @ $C230 - STRING #69 @ $C40F
+
+#W16($C230)
+たね[BR]
+
+//POINTER #70 @ $C232 - STRING #70 @ $C412
+
+#W16($C232)
+ちどり[BR]
+
+//POINTER #71 @ $C234 - STRING #71 @ $C416
+
+#W16($C234)
+ちょしちゃん[BR]
+
+//POINTER #72 @ $C236 - STRING #72 @ $C41D
+
+#W16($C236)
+つかえ[BR]
+
+//POINTER #73 @ $C238 - STRING #73 @ $C421
+
+#W16($C238)
+どうくつ[BR]
+
+//POINTER #74 @ $C23A - STRING #74 @ $C426
+
+#W16($C23A)
+とびら[BR]
+
+//POINTER #75 @ $C23C - STRING #75 @ $C42A
+
+#W16($C23C)
+とれ[BR]
+
+//POINTER #76 @ $C23E - STRING #76 @ $C42D
+
+#W16($C23E)
+とっしん[BR]
+
+//POINTER #77 @ $C240 - STRING #77 @ $C432
+
+#W16($C240)
+どらいやー[BR]
+
+//POINTER #78 @ $C242 - STRING #78 @ $C438
+
+#W16($C242)
+とりのす[BR]
+
+//POINTER #79 @ $C244 - STRING #79 @ $C43D
+
+#W16($C244)
+なつのたま[BR]
+
+//POINTER #80 @ $C246 - STRING #80 @ $C443
+
+#W16($C246)
+ねもと[BR]
+
+//POINTER #81 @ $C248 - STRING #81 @ $C447
+
+#W16($C248)
+はぐるまゆり[BR]
+
+//POINTER #82 @ $C24A - STRING #82 @ $C44E
+
+#W16($C24A)
+はし[BR]
+
+//POINTER #83 @ $C24C - STRING #83 @ $C451
+
+#W16($C24C)
+はちのす[BR]
+
+//POINTER #84 @ $C24E - STRING #84 @ $C456
+
+#W16($C24E)
+はっぴ[BR]
+
+//POINTER #85 @ $C250 - STRING #85 @ $C45A
+
+#W16($C250)
+はな[BR]
+
+//POINTER #86 @ $C252 - STRING #86 @ $C45D
+
+#W16($C252)
+はるのたま[BR]
+
+//POINTER #87 @ $C254 - STRING #87 @ $C463
+
+#W16($C254)
+ひかるもの[BR]
+
+//POINTER #88 @ $C256 - STRING #88 @ $C469
+
+#W16($C256)
+ひぐま[BR]
+
+//POINTER #89 @ $C258 - STRING #89 @ $C46D
+
+#W16($C258)
+ひな[BR]
+
+//POINTER #90 @ $C25A - STRING #90 @ $C470
+
+#W16($C25A)
+ぴよこ[BR]
+
+//POINTER #91 @ $C25C - STRING #91 @ $C474
+
+#W16($C25C)
+ふくろう[BR]
+
+//POINTER #92 @ $C25E - STRING #92 @ $C479
+
+#W16($C25E)
+ふしぎなびん[BR]
+
+//POINTER #93 @ $C260 - STRING #93 @ $C480
+
+#W16($C260)
+ふっかつしん[BR]
+
+//POINTER #94 @ $C262 - STRING #94 @ $C487
+
+#W16($C262)
+ふゆのたま[BR]
+
+//POINTER #95 @ $C264 - STRING #95 @ $C48D
+
+#W16($C264)
+ぺんぎん[BR]
+
+//POINTER #96 @ $C266 - STRING #96 @ $C492
+
+#W16($C266)
+ぼう[BR]
+
+//POINTER #97 @ $C268 - STRING #97 @ $C495
+
+#W16($C268)
+ほたてがい[BR]
+
+//POINTER #98 @ $C26A - STRING #98 @ $C49B
+
+#W16($C26A)
+ぽっと[BR]
+
+//POINTER #99 @ $C26C - STRING #99 @ $C49F
+
+#W16($C26C)
+ましんやま[BR]
+
+//POINTER #100 @ $C26E - STRING #100 @ $C4A5
+
+#W16($C26E)
+まるいもの[BR]
+
+//POINTER #101 @ $C270 - STRING #101 @ $C4AB
+
+#W16($C270)
+みずうみ[BR]
+
+//POINTER #102 @ $C272 - STRING #102 @ $C4B0
+
+#W16($C272)
+みき[BR]
+
+//POINTER #103 @ $C274 - STRING #103 @ $C4B3
+
+#W16($C274)
+みのむし[BR]
+
+//POINTER #104 @ $C276 - STRING #104 @ $C4B8
+
+#W16($C276)
+みろ[BR]
+
+//POINTER #105 @ $C278 - STRING #105 @ $C4BB
+
+#W16($C278)
+むささび[BR]
+
+//POINTER #106 @ $C27A - STRING #106 @ $C4C0
+
+#W16($C27A)
+もちもの[BR]
+
+//POINTER #107 @ $C27C - STRING #107 @ $C4C5
+
+#W16($C27C)
+もにたー[BR]
+
+//POINTER #108 @ $C27E - STRING #108 @ $C4CA
+
+#W16($C27E)
+ももちゃん[BR]
+
+//POINTER #109 @ $C280 - STRING #109 @ $C4D0
+
+#W16($C280)
+もみのき[BR]
+
+//POINTER #110 @ $C282 - STRING #110 @ $C4D5
+
+#W16($C282)
+もり[BR]
+
+//POINTER #111 @ $C284 - STRING #111 @ $C4D8
+
+#W16($C284)
+もりのまおう[BR]
+
+//POINTER #112 @ $C286 - STRING #112 @ $C4DF
+
+#W16($C286)
+やしのき[BR]
+
+//POINTER #113 @ $C288 - STRING #113 @ $C4E4
+
+#W16($C288)
+やしのみ[BR]
+
+//POINTER #114 @ $C28A - STRING #114 @ $C4E9
+
+#W16($C28A)
+ゆか[BR]
+
+//POINTER #115 @ $C28C - STRING #115 @ $C4EC
+
+#W16($C28C)
+ゆき[BR]
+
+//POINTER #116 @ $C28E - STRING #116 @ $C4EF
+
+#W16($C28E)
+よかんのたま[BR]
+
+//POINTER #117 @ $C290 - STRING #117 @ $C4F6
+
+#W16($C290)
+らっこ[BR]
+
+//POINTER #118 @ $C292 - STRING #118 @ $C4FA
+
+#W16($C292)
+ろうじん[BR]
+
+//POINTER #119 @ $C294 - STRING #119 @ $C4FF
+
+#W16($C294)
+いいえ[BR]
+
+//POINTER #120 @ $C296 - STRING #120 @ $C503
+
+#W16($C296)
+はい[BR]
+
+//POINTER #121 @ $C298 - STRING #121 @ $C506
+
+#W16($C298)
+50ばい[BR]
+
+//POINTER #122 @ $C29A - STRING #122 @ $C50B
+
+#W16($C29A)
+150ばい[BR]
+
+//POINTER #123 @ $C29C - STRING #123 @ $C511
+
+#W16($C29C)
+300ばい[BR]
+
+//POINTER #124 @ $C29E - STRING #124 @ $C517
+
+#W16($C29E)
+(next)
+
+[BR]
+
+//POINTER #125 @ $C2A0 - STRING #125 @ $C519
+
+#W16($C2A0)
+たき[BR]
+
+//POINTER #126 @ $C2A2 - STRING #126 @ $C51C
+
+#W16($C2A2)
+ぎんのかーど[BR]
+
+//POINTER #127 @ $C2A4 - STRING #127 @ $C523
+
+#W16($C2A4)
+やしのたね[BR]
+
+//POINTER #128 @ $C2A6 - STRING #128 @ $C529
+
+#W16($C2A6)
+かぎ[BR]
+
+//POINTER #129 @ $C2A8 - STRING #129 @ $C52C
+
+#W16($C2A8)
+ぶどうとう[BR]
+
+//POINTER #130 @ $C2AA - STRING #130 @ $C532
+
+#W16($C2AA)
+かんぽうやく[BR]
+
+//POINTER #131 @ $C2AC - STRING #131 @ $C539
+
+#W16($C2AC)
+けん[BR]
+
+//POINTER #132 @ $C2AE - STRING #132 @ $C53C
+
+#W16($C2AE)
+よろい[BR]
+
+//POINTER #133 @ $C2B0 - STRING #133 @ $C540
+
+#W16($C2B0)
+たて[BR]
+
+//POINTER #134 @ $C2B2 - STRING #134 @ $C543
+
+#W16($C2B2)
+かぶと[BR]
+
+//POINTER #135 @ $C2B4 - STRING #135 @ $C547
+
+#W16($C2B4)
+たたかえ[BR]
+
+//POINTER #136 @ $C2B6 - STRING #136 @ $C54C
+
+#W16($C2B6)
+わざ[BR]
+
+//POINTER #137 @ $C2B8 - STRING #137 @ $C54F
+
+#W16($C2B8)
+にげろ[BR]
+
+//POINTER #138 @ $C2BA - STRING #138 @ $C553
+
+#W16($C2BA)
+たいあたり[BR]
+
+//POINTER #139 @ $C2BC - STRING #139 @ $C559
+
+#W16($C2BC)
+ぎゃぐ[BR]
+
+//POINTER #140 @ $C2BE - STRING #140 @ $C55D
+
+#W16($C2BE)
+おじぎ[BR]
+
+//POINTER #141 @ $C2C0 - STRING #141 @ $C561
+
+#W16($C2C0)
+あやまる[BR]
+
+//POINTER #142 @ $C2C2 - STRING #142 @ $C566
+
+#W16($C2C2)
+べあはっぐ[BR]
+
+//POINTER #143 @ $C2C4 - STRING #143 @ $C56C
+
+#W16($C2C4)
+おたけび[BR]
+
+//POINTER #144 @ $C2C6 - STRING #144 @ $C571
+
+#W16($C2C6)
+うた[BR]
+
+//POINTER #145 @ $C2C8 - STRING #145 @ $C574
+
+#W16($C2C8)
+するどいつめ[BR]
+
+//POINTER #146 @ $C2CA - STRING #146 @ $C57B
+
+#W16($C2CA)
+すごいこうげき[BR]
+
+//POINTER #147 @ $C2CC - STRING #147 @ $C583
+
+#W16($C2CC)
+うりのあし[BR]
+
+//POINTER #148 @ $C2CE - STRING #148 @ $C589
+
+#W16($C2CE)
+くりのき[BR]
+
+//POINTER #149 @ $C2D0 - STRING #149 @ $C58E
+
+#W16($C2D0)
+いがぐり[BR]
+
+//POINTER #150 @ $C2D2 - STRING #150 @ $C593
+
+#W16($C2D2)
+ゆうひ[BR]
+
+//POINTER #151 @ $C2D4 - STRING #151 @ $C597
+
+#W16($C2D4)
+そら[BR]
+
+//POINTER #152 @ $C2D6 - STRING #152 @ $C59A
+
+#W16($C2D6)
+くも[BR]

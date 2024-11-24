@@ -1,0 +1,466 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Kuma Text Block 02 (POINTER_RELATIVE)
+
+//POINTER #0 @ $17A99 - STRING #0 @ $17B4F
+
+#W16($17A99)
+もりのまおう[BR]
+
+//POINTER #1 @ $17A9B - STRING #1 @ $17B56
+
+#W16($17A9B)
+かみさま[BR]
+
+//POINTER #2 @ $17A9D - STRING #2 @ $17B5B
+
+#W16($17A9D)
+(FACE02)てにいれた.(FACE02)(6A)[BR]
+
+//POINTER #3 @ $17A9F - STRING #3 @ $17B65
+
+#W16($17A9F)
+ちょしちゃん[BR]
+
+//POINTER #4 @ $17AA1 - STRING #4 @ $17B6C
+
+#W16($17AA1)
+ももちゃん[BR]
+
+//POINTER #5 @ $17AA3 - STRING #5 @ $17B72
+
+#W16($17AA3)
+いのしし[BR]
+
+//POINTER #6 @ $17AA5 - STRING #6 @ $17B77
+
+#W16($17AA5)
+どうくつ[BR]
+
+//POINTER #7 @ $17AA7 - STRING #7 @ $17B7C
+
+#W16($17AA7)
+おかあさん[BR]
+
+//POINTER #8 @ $17AA9 - STRING #8 @ $17B82
+
+#W16($17AA9)
+05ポイントの ダメージを[LN]
+うけた.[BR]
+
+//POINTER #9 @ $17AAB - STRING #9 @ $17B95
+
+#W16($17AAB)
+ふっかつしん[BR]
+
+//POINTER #10 @ $17AAD - STRING #10 @ $17B9C
+
+#W16($17AAD)
+とっしんした![BR]
+
+//POINTER #11 @ $17AAF - STRING #11 @ $17BA4
+
+#W16($17AAF)
+シロ「[BR]
+
+//POINTER #12 @ $17AB1 - STRING #12 @ $17BA8
+
+#W16($17AB1)
+シロは [BR]
+
+//POINTER #13 @ $17AB3 - STRING #13 @ $17BAD
+
+#W16($17AB3)
+シロたち[BR]
+
+//POINTER #14 @ $17AB5 - STRING #14 @ $17BB2
+
+#W16($17AB5)
+おこらなかった[BR]
+
+//POINTER #15 @ $17AB7 - STRING #15 @ $17BBA
+
+#W16($17AB7)
+しかし [BR]
+
+//POINTER #16 @ $17AB9 - STRING #16 @ $17BBF
+
+#W16($17AB9)
+ウリぼうは[BR]
+
+//POINTER #17 @ $17ABB - STRING #17 @ $17BC5
+
+#W16($17ABB)
+ウリぼう[BR]
+
+//POINTER #18 @ $17ABD - STRING #18 @ $17BCA
+
+#W16($17ABD)
+てしまった[BR]
+
+//POINTER #19 @ $17ABF - STRING #19 @ $17BD0
+
+#W16($17ABF)
+(53)といっている.[BR]
+
+//POINTER #20 @ $17AC1 - STRING #20 @ $17BD9
+
+#W16($17AC1)
+つかった[BR]
+
+//POINTER #21 @ $17AC3 - STRING #21 @ $17BDE
+
+#W16($17AC3)
+シロ[BR]
+
+//POINTER #22 @ $17AC5 - STRING #22 @ $17BE1
+
+#W16($17AC5)
+ふくろう[BR]
+
+//POINTER #23 @ $17AC7 - STRING #23 @ $17BE6
+
+#W16($17AC7)
+だいちゃん[BR]
+
+//POINTER #24 @ $17AC9 - STRING #24 @ $17BEC
+
+#W16($17AC9)
+ましんやま[BR]
+
+//POINTER #25 @ $17ACB - STRING #25 @ $17BF2
+
+#W16($17ACB)
+HPが[LN]
+(FACE02)かいふくした(62)[BR]
+
+//POINTER #26 @ $17ACD - STRING #26 @ $17BFF
+
+#W16($17ACD)
+しきのたま[BR]
+
+//POINTER #27 @ $17ACF - STRING #27 @ $17C05
+
+#W16($17ACF)
+ぴー ぴー[BR]
+
+//POINTER #28 @ $17AD1 - STRING #28 @ $17C0B
+
+#W16($17AD1)
+にげてしまった!(85)[BR]
+
+//POINTER #29 @ $17AD3 - STRING #29 @ $17C15
+
+#W16($17AD3)
+しかし なにも[BR]
+
+//POINTER #30 @ $17AD5 - STRING #30 @ $17C1D
+
+#W16($17AD5)
+のことを[BR]
+
+//POINTER #31 @ $17AD7 - STRING #31 @ $17C22
+
+#W16($17AD7)
+しらないか?[BR]
+
+//POINTER #32 @ $17AD9 - STRING #32 @ $17C29
+
+#W16($17AD9)
+ウリぼう「[BR]
+
+//POINTER #33 @ $17ADB - STRING #33 @ $17C2F
+
+#W16($17ADB)
+こんなもの[BR]
+
+//POINTER #34 @ $17ADD - STRING #34 @ $17C35
+
+#W16($17ADD)
+おちている.[BR]
+
+//POINTER #35 @ $17ADF - STRING #35 @ $17C3C
+
+#W16($17ADF)
+あしあと[BR]
+
+//POINTER #36 @ $17AE1 - STRING #36 @ $17C41
+
+#W16($17AE1)
+うんこ[BR]
+
+//POINTER #37 @ $17AE3 - STRING #37 @ $17C45
+
+#W16($17AE3)
+なんのことだか[BR]
+
+//POINTER #38 @ $17AE5 - STRING #38 @ $17C4D
+
+#W16($17AE5)
+ いる.[BR]
+
+//POINTER #39 @ $17AE7 - STRING #39 @ $17C52
+
+#W16($17AE7)
+あたし[BR]
+
+//POINTER #40 @ $17AE9 - STRING #40 @ $17C56
+
+#W16($17AE9)
+わからない[BR]
+
+//POINTER #41 @ $17AEB - STRING #41 @ $17C5C
+
+#W16($17AEB)
+あらいぐま[BR]
+
+//POINTER #42 @ $17AED - STRING #42 @ $17C62
+
+#W16($17AED)
+うさぎ[BR]
+
+//POINTER #43 @ $17AEF - STRING #43 @ $17C66
+
+#W16($17AEF)
+(7A)ぷりっ ぷりぷりっ![BR]
+
+//POINTER #44 @ $17AF1 - STRING #44 @ $17C72
+
+#W16($17AF1)
+みつけた[BR]
+
+//POINTER #45 @ $17AF3 - STRING #45 @ $17C77
+
+#W16($17AF3)
+ない.[BR]
+
+//POINTER #46 @ $17AF5 - STRING #46 @ $17C7B
+
+#W16($17AF5)
+なにも[BR]
+
+//POINTER #47 @ $17AF7 - STRING #47 @ $17C7F
+
+#W16($17AF7)
+こうもり[BR]
+
+//POINTER #48 @ $17AF9 - STRING #48 @ $17C84
+
+#W16($17AF9)
+たいぼく[BR]
+
+//POINTER #49 @ $17AFB - STRING #49 @ $17C89
+
+#W16($17AFB)
+やしのき[BR]
+
+//POINTER #50 @ $17AFD - STRING #50 @ $17C8E
+
+#W16($17AFD)
+ぺんぎん[BR]
+
+//POINTER #51 @ $17AFF - STRING #51 @ $17C93
+
+#W16($17AFF)
+なつのたま[BR]
+
+//POINTER #52 @ $17B01 - STRING #52 @ $17C99
+
+#W16($17B01)
+はるのたま[BR]
+
+//POINTER #53 @ $17B03 - STRING #53 @ $17C9F
+
+#W16($17B03)
+あきのたま[BR]
+
+//POINTER #54 @ $17B05 - STRING #54 @ $17CA5
+
+#W16($17B05)
+ふゆのたま[BR]
+
+//POINTER #55 @ $17B07 - STRING #55 @ $17CAB
+
+#W16($17B07)
+した.[BR]
+
+//POINTER #56 @ $17B09 - STRING #56 @ $17CAF
+
+#W16($17B09)
+いる.[BR]
+
+//POINTER #57 @ $17B0B - STRING #57 @ $17CB3
+
+#W16($17B0B)
+った.[BR]
+
+//POINTER #58 @ $17B0D - STRING #58 @ $17CB7
+
+#W16($17B0D)
+とっしん[BR]
+
+//POINTER #59 @ $17B0F - STRING #59 @ $17CBC
+
+#W16($17B0F)
+ないよ.[BR]
+
+//POINTER #60 @ $17B11 - STRING #60 @ $17CC1
+
+#W16($17B11)
+ びっくりして[BR]
+
+//POINTER #61 @ $17B13 - STRING #61 @ $17CC9
+
+#W16($17B13)
+ようだ.[BR]
+
+//POINTER #62 @ $17B15 - STRING #62 @ $17CCE
+
+#W16($17B15)
+おまえ[BR]
+
+//POINTER #63 @ $17B17 - STRING #63 @ $17CD2
+
+#W16($17B17)
+ しなっかた.[BR]
+
+//POINTER #64 @ $17B19 - STRING #64 @ $17CDA
+
+#W16($17B19)
+シロ「[BR]
+
+//POINTER #65 @ $17B1B - STRING #65 @ $17CDE
+
+#W16($17B1B)
+ほー ほー.[BR]
+
+//POINTER #66 @ $17B1D - STRING #66 @ $17CE5
+
+#W16($17B1D)
+IQが 25ポイント あがった!(FACE02)[BR]
+
+//POINTER #67 @ $17B1F - STRING #67 @ $17CF7
+
+#W16($17B1F)
+そんなこと [BR]
+
+//POINTER #68 @ $17B21 - STRING #68 @ $17CFE
+
+#W16($17B21)
+ある.[BR]
+
+//POINTER #69 @ $17B23 - STRING #69 @ $17D02
+
+#W16($17B23)
+じめんに [BR]
+
+//POINTER #70 @ $17B25 - STRING #70 @ $17D08
+
+#W16($17B25)
+ よぶことができる.[BR]
+
+//POINTER #71 @ $17B27 - STRING #71 @ $17D13
+
+#W16($17B27)
+かげのだいまおう[BR]
+
+//POINTER #72 @ $17B29 - STRING #72 @ $17D1C
+
+#W16($17B29)
+もにたー[BR]
+
+//POINTER #73 @ $17B2B - STRING #73 @ $17D21
+
+#W16($17B2B)
+こんぴゅーた[BR]
+
+//POINTER #74 @ $17B2D - STRING #74 @ $17D28
+
+#W16($17B2D)
+のじゃ[BR]
+
+//POINTER #75 @ $17B2F - STRING #75 @ $17D2C
+
+#W16($17B2F)
+しらない[BR]
+
+//POINTER #76 @ $17B31 - STRING #76 @ $17D31
+
+#W16($17B31)
+ひぐま[BR]
+
+//POINTER #77 @ $17B33 - STRING #77 @ $17D35
+
+#W16($17B33)
+しまった[BR]
+
+//POINTER #78 @ $17B35 - STRING #78 @ $17D3A
+
+#W16($17B35)
+[BR]
+
+//POINTER #79 @ $17B37 - STRING #79 @ $17D3B
+
+#W16($17B37)
+50ポイント[BR]
+
+//POINTER #80 @ $17B39 - STRING #80 @ $17D42
+
+#W16($17B39)
+[BR]
+
+//POINTER #81 @ $17B3B - STRING #81 @ $17D43
+
+#W16($17B3B)
+たべたのは[BR]
+
+//POINTER #82 @ $17B3D - STRING #82 @ $17D49
+
+#W16($17B3D)
+とらまーの こうげき![LN]
+ふっくだ ぼでーだ[LN]
+ぼでーだ ちんだ!(77)[BR]
+
+//POINTER #83 @ $17B3F - STRING #83 @ $17D6A
+
+#W16($17B3F)
+いた.[BR]
+
+//POINTER #84 @ $17B41 - STRING #84 @ $17D6E
+
+#W16($17B41)
+むかって[BR]
+
+//POINTER #85 @ $17B43 - STRING #85 @ $17D73
+
+#W16($17B43)
+(66)めしっ![BR]
+
+//POINTER #86 @ $17B45 - STRING #86 @ $17D79
+
+#W16($17B45)
+かんがるー[BR]
+
+//POINTER #87 @ $17B47 - STRING #87 @ $17D7F
+
+#W16($17B47)
+している[BR]
+
+//POINTER #88 @ $17B49 - STRING #88 @ $17D84
+
+#W16($17B49)
+ おとずれた.[BR]
+
+//POINTER #89 @ $17B4B - STRING #89 @ $17D8C
+
+#W16($17B4B)
+ふっかつしん「よろしい![LN]
+では はじめるぞ.(next)
+
+(FLASH)ふっくわーつっ![LN]
+へべれべぽよーん(FACE04)[BR]
+
+//POINTER #90 @ $17B4D - STRING #90 @ $17DB7
+
+#W16($17B4D)
+らしい.[BR]
