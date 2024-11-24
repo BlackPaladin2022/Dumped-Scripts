@@ -1,0 +1,327 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		Dialogue Block 02(POINTER_RELATIVE)
+
+//POINTER #0 @ $18B0 - STRING #0 @ $191C
+
+#W16($18B0)
+ながと[ED]
+
+
+//POINTER #1 @ $18B2 - STRING #1 @ $1921
+
+#W16($18B2)
+すおう[ED]
+
+
+//POINTER #2 @ $18B4 - STRING #2 @ $1925
+
+#W16($18B4)
+ぶぜん[ED]
+
+
+//POINTER #3 @ $18B6 - STRING #3 @ $192B
+
+#W16($18B6)
+ぶんご[ED]
+
+
+//POINTER #4 @ $18B8 - STRING #4 @ $1931
+
+#W16($18B8)
+いわみ[ED]
+
+
+//POINTER #5 @ $18BA - STRING #5 @ $1935
+
+#W16($18BA)
+あき[ED]
+
+
+//POINTER #6 @ $18BC - STRING #6 @ $1938
+
+#W16($18BC)
+いよ[ED]
+
+
+//POINTER #7 @ $18BE - STRING #7 @ $193B
+
+#W16($18BE)
+とさ[ED]
+
+
+//POINTER #8 @ $18C0 - STRING #8 @ $193E
+
+#W16($18C0)
+いずも[ED]
+
+
+//POINTER #9 @ $18C2 - STRING #9 @ $1943
+
+#W16($18C2)
+びんご[ED]
+
+
+//POINTER #10 @ $18C4 - STRING #10 @ $1949
+
+#W16($18C4)
+ほうき[ED]
+
+
+//POINTER #11 @ $18C6 - STRING #11 @ $194D
+
+#W16($18C6)
+びっちゅう[ED]
+
+
+//POINTER #12 @ $18C8 - STRING #12 @ $1954
+
+#W16($18C8)
+さぬき[ED]
+
+
+//POINTER #13 @ $18CA - STRING #13 @ $1958
+
+#W16($18CA)
+あわ[ED]
+
+
+//POINTER #14 @ $18CC - STRING #14 @ $195B
+
+#W16($18CC)
+いなば[ED]
+
+
+//POINTER #15 @ $18CE - STRING #15 @ $1960
+
+#W16($18CE)
+みまさか[ED]
+
+
+//POINTER #16 @ $18D0 - STRING #16 @ $1965
+
+#W16($18D0)
+びぜん[ED]
+
+
+//POINTER #17 @ $18D2 - STRING #17 @ $196B
+
+#W16($18D2)
+あわじ[ED]
+
+
+//POINTER #18 @ $18D4 - STRING #18 @ $1970
+
+#W16($18D4)
+たじま[ED]
+
+
+//POINTER #19 @ $18D6 - STRING #19 @ $1975
+
+#W16($18D6)
+はりま[ED]
+
+
+//POINTER #20 @ $18D8 - STRING #20 @ $1979
+
+#W16($18D8)
+せっつ[ED]
+
+
+//POINTER #21 @ $18DA - STRING #21 @ $197D
+
+#W16($18DA)
+いずみ[ED]
+
+
+//POINTER #22 @ $18DC - STRING #22 @ $1982
+
+#W16($18DC)
+きい[ED]
+
+
+//POINTER #23 @ $18DE - STRING #23 @ $1985
+
+#W16($18DE)
+おき[ED]
+
+
+//POINTER #24 @ $18E0 - STRING #24 @ $1988
+
+#W16($18E0)
+たんご[ED]
+
+
+//POINTER #25 @ $18E2 - STRING #25 @ $198D
+
+#W16($18E2)
+たんば[ED]
+
+
+//POINTER #26 @ $18E4 - STRING #26 @ $1992
+
+#W16($18E4)
+やましろ[ED]
+
+
+//POINTER #27 @ $18E6 - STRING #27 @ $1997
+
+#W16($18E6)
+かわち[ED]
+
+
+//POINTER #28 @ $18E8 - STRING #28 @ $199B
+
+#W16($18E8)
+やまと[ED]
+
+
+//POINTER #29 @ $18EA - STRING #29 @ $199F
+
+#W16($18EA)
+わかさ[ED]
+
+
+//POINTER #30 @ $18EC - STRING #30 @ $19A3
+
+#W16($18EC)
+おうみ[ED]
+
+
+//POINTER #31 @ $18EE - STRING #31 @ $19A7
+
+#W16($18EE)
+いが[ED]
+
+
+//POINTER #32 @ $18F0 - STRING #32 @ $19AB
+
+#W16($18F0)
+えちぜん[ED]
+
+
+//POINTER #33 @ $18F2 - STRING #33 @ $19B1
+
+#W16($18F2)
+みの[ED]
+
+
+//POINTER #34 @ $18F4 - STRING #34 @ $19B4
+
+#W16($18F4)
+いせ[ED]
+
+
+//POINTER #35 @ $18F6 - STRING #35 @ $19B7
+
+#W16($18F6)
+しま[ED]
+
+
+//POINTER #36 @ $18F8 - STRING #36 @ $19BA
+
+#W16($18F8)
+のと[ED]
+
+
+//POINTER #37 @ $18FA - STRING #37 @ $19BD
+
+#W16($18FA)
+かが[ED]
+
+
+//POINTER #38 @ $18FC - STRING #38 @ $19C1
+
+#W16($18FC)
+ひだ[ED]
+
+
+//POINTER #39 @ $18FE - STRING #39 @ $19C5
+
+#W16($18FE)
+おわり[ED]
+
+
+//POINTER #40 @ $1900 - STRING #40 @ $19C9
+
+#W16($1900)
+みかわ[ED]
+
+
+//POINTER #41 @ $1902 - STRING #41 @ $19CD
+
+#W16($1902)
+さ゛と[ED]
+
+
+//POINTER #42 @ $1904 - STRING #42 @ $19D1
+
+#W16($1904)
+えっちゅう[ED]
+
+
+//POINTER #43 @ $1906 - STRING #43 @ $19D7
+
+#W16($1906)
+えちご[ED]
+
+
+//POINTER #44 @ $1908 - STRING #44 @ $19DC
+
+#W16($1908)
+しなの[ED]
+
+
+//POINTER #45 @ $190A - STRING #45 @ $19E0
+
+#W16($190A)
+とおとうみ[ED]
+
+
+//POINTER #46 @ $190C - STRING #46 @ $19E6
+
+#W16($190C)
+こうづけ[ED]
+
+
+//POINTER #47 @ $190E - STRING #47 @ $19EC
+
+#W16($190E)
+むさし[ED]
+
+
+//POINTER #48 @ $1910 - STRING #48 @ $19F0
+
+#W16($1910)
+かい[ED]
+
+
+//POINTER #49 @ $1912 - STRING #49 @ $19F3
+
+#W16($1912)
+するが[ED]
+
+
+//POINTER #50 @ $1914 - STRING #50 @ $19F8
+
+#W16($1914)
+いず[ED]
+
+
+//POINTER #51 @ $1916 - STRING #51 @ $19FC
+
+#W16($1916)
+さがみ[ED]
+
+
+//POINTER #52 @ $1918 - STRING #52 @ $1A01
+
+#W16($1918)
+きょうと[ED]
+
+
+//POINTER #53 @ $191A - STRING #53 @ $1A06
+
+#W16($191A)
+かまくら[ED]
+

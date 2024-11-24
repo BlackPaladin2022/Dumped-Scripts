@@ -1,0 +1,453 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Dialogue Block 01(POINTER_RELATIVE)
+
+//POINTER #0 @ $84F - STRING #0 @ $8E7
+
+#W16($84F)
+よりとも[ED]
+
+
+//POINTER #1 @ $851 - STRING #1 @ $8E7
+
+#W16($851)
+よりとも[ED]
+
+
+//POINTER #2 @ $853 - STRING #2 @ $8E7
+
+#W16($853)
+よりとも[ED]
+
+
+//POINTER #3 @ $855 - STRING #3 @ $8EC
+
+#W16($855)
+べんけい[ED]
+
+
+//POINTER #4 @ $857 - STRING #4 @ $8F2
+
+#W16($857)
+よしつね[ED]
+
+
+//POINTER #5 @ $859 - STRING #5 @ $98B
+
+#W16($859)
+びわほうし[ED]
+
+
+//POINTER #6 @ $85B - STRING #6 @ $8F7
+
+#W16($85B)
+みつくびりゅう[ED]
+
+
+//POINTER #7 @ $85D - STRING #7 @ $900
+
+#W16($85D)
+ひりゅう[ED]
+
+
+//POINTER #8 @ $85F - STRING #8 @ $905
+
+#W16($85F)
+あんだばあ[ED]
+
+
+//POINTER #9 @ $861 - STRING #9 @ $90D
+
+#W16($861)
+ふるだぬき[ED]
+
+
+//POINTER #10 @ $863 - STRING #10 @ $914
+
+#W16($863)
+まじん[ED]
+
+
+//POINTER #11 @ $865 - STRING #11 @ $992
+
+#W16($865)
+ひゃくしゃく[ED]
+
+
+//POINTER #12 @ $867 - STRING #12 @ $919
+
+#W16($867)
+らいじん[ED]
+
+
+//POINTER #13 @ $869 - STRING #13 @ $999
+
+#W16($869)
+ふうじん[ED]
+
+
+//POINTER #14 @ $86B - STRING #14 @ $91F
+
+#W16($86B)
+おおむかで[ED]
+
+
+//POINTER #15 @ $86D - STRING #15 @ $926
+
+#W16($86D)
+おおとんび[ED]
+
+
+//POINTER #16 @ $86F - STRING #16 @ $92D
+
+#W16($86F)
+きゅうびのきつね[ED]
+
+
+//POINTER #17 @ $871 - STRING #17 @ $99F
+
+#W16($871)
+ひとくい゛とら[ED]
+
+
+//POINTER #18 @ $873 - STRING #18 @ $9A7
+
+#W16($873)
+おおかみ[ED]
+
+
+//POINTER #19 @ $875 - STRING #19 @ $97E
+
+#W16($875)
+おにひめ[ED]
+
+
+//POINTER #20 @ $877 - STRING #20 @ $937
+
+#W16($877)
+からすてんぐ[ED]
+
+
+//POINTER #21 @ $879 - STRING #21 @ $9AC
+
+#W16($879)
+がき[ED]
+
+
+//POINTER #22 @ $87B - STRING #22 @ $9B0
+
+#W16($87B)
+がいこつむしゃ[ED]
+
+
+//POINTER #23 @ $87D - STRING #23 @ $983
+
+#W16($87D)
+やりがいこつ[ED]
+
+
+//POINTER #24 @ $87F - STRING #24 @ $93F
+
+#W16($87F)
+ふながいこつ[ED]
+
+
+//POINTER #25 @ $881 - STRING #25 @ $947
+
+#W16($881)
+゛とろおとこ[ED]
+
+
+//POINTER #26 @ $883 - STRING #26 @ $9B9
+
+#W16($883)
+きょだいが[ED]
+
+
+//POINTER #27 @ $885 - STRING #27 @ $9C1
+
+#W16($885)
+おおざる[ED]
+
+
+//POINTER #28 @ $887 - STRING #28 @ $9C7
+
+#W16($887)
+ぬっぺらぼう[ED]
+
+
+//POINTER #29 @ $889 - STRING #29 @ $94E
+
+#W16($889)
+おおがえる[ED]
+
+
+//POINTER #30 @ $88B - STRING #30 @ $9D0
+
+#W16($88B)
+おろち[ED]
+
+
+//POINTER #31 @ $88D - STRING #31 @ $955
+
+#W16($88D)
+うしおに[ED]
+
+
+//POINTER #32 @ $88F - STRING #32 @ $95A
+
+#W16($88F)
+ばけねこ[ED]
+
+
+//POINTER #33 @ $891 - STRING #33 @ $9D4
+
+#W16($891)
+かっぱ[ED]
+
+
+//POINTER #34 @ $893 - STRING #34 @ $960
+
+#W16($893)
+かぎゅう[ED]
+
+
+//POINTER #35 @ $895 - STRING #35 @ $966
+
+#W16($895)
+へびおんな[ED]
+
+
+//POINTER #36 @ $897 - STRING #36 @ $96D
+
+#W16($897)
+こんじきがん[ED]
+
+
+//POINTER #37 @ $899 - STRING #37 @ $976
+
+#W16($899)
+じごくおに[ED]
+
+
+//POINTER #38 @ $89B - STRING #38 @ $9D9
+
+#W16($89B)
+しゃくねつりゅう[ED]
+
+
+//POINTER #39 @ $89D - STRING #39 @ $9E2
+
+#W16($89D)
+はくねつりゅう[ED]
+
+
+//POINTER #40 @ $89F - STRING #40 @ $9EA
+
+#W16($89F)
+ぎんのりゅう[ED]
+
+
+//POINTER #41 @ $8A1 - STRING #41 @ $9F2
+
+#W16($8A1)
+きんのりゅう[ED]
+
+
+//POINTER #42 @ $8A3 - STRING #42 @ $9F9
+
+#W16($8A3)
+つばさだぬき[ED]
+
+
+//POINTER #43 @ $8A5 - STRING #43 @ $A02
+
+#W16($8A5)
+てつのまじん[ED]
+
+
+//POINTER #44 @ $8A7 - STRING #44 @ $A0A
+
+#W16($8A7)
+゛とうのまじん[ED]
+
+
+//POINTER #45 @ $8A9 - STRING #45 @ $A13
+
+#W16($8A9)
+つちくいむし[ED]
+
+
+//POINTER #46 @ $8AB - STRING #46 @ $A1A
+
+#W16($8AB)
+゛とくむかで[ED]
+
+
+//POINTER #47 @ $8AD - STRING #47 @ $A22
+
+#W16($8AD)
+おにむかで[ED]
+
+
+//POINTER #48 @ $8AF - STRING #48 @ $A29
+
+#W16($8AF)
+おおわし[ED]
+
+
+//POINTER #49 @ $8B1 - STRING #49 @ $A2E
+
+#W16($8B1)
+ひとくい゛とり[ED]
+
+
+//POINTER #50 @ $8B3 - STRING #50 @ $A36
+
+#W16($8B3)
+あかとら[ED]
+
+
+//POINTER #51 @ $8B5 - STRING #51 @ $A3B
+
+#W16($8B5)
+こんとら[ED]
+
+
+//POINTER #52 @ $8B7 - STRING #52 @ $A40
+
+#W16($8B7)
+はいいろおおかみ[ED]
+
+
+//POINTER #53 @ $8B9 - STRING #53 @ $A49
+
+#W16($8B9)
+はっこつてんぐ[ED]
+
+
+//POINTER #54 @ $8BB - STRING #54 @ $A52
+
+#W16($8BB)
+のろいがいこつ[ED]
+
+
+//POINTER #55 @ $8BD - STRING #55 @ $A5B
+
+#W16($8BD)
+よろいがいこつ[ED]
+
+
+//POINTER #56 @ $8BF - STRING #56 @ $A64
+
+#W16($8BF)
+おのがいこつ[ED]
+
+
+//POINTER #57 @ $8C1 - STRING #57 @ $A6C
+
+#W16($8C1)
+かえんがいこつ[ED]
+
+
+//POINTER #58 @ $8C3 - STRING #58 @ $A75
+
+#W16($8C3)
+かべおとこ[ED]
+
+
+//POINTER #59 @ $8C5 - STRING #59 @ $A7C
+
+#W16($8C5)
+しびとが[ED]
+
+
+//POINTER #60 @ $8C7 - STRING #60 @ $A83
+
+#W16($8C7)
+こけざる[ED]
+
+
+//POINTER #61 @ $8C9 - STRING #61 @ $A89
+
+#W16($8C9)
+ひとつめおとこ[ED]
+
+
+//POINTER #62 @ $8CB - STRING #62 @ $A91
+
+#W16($8CB)
+いわざる[ED]
+
+
+//POINTER #63 @ $8CD - STRING #63 @ $A97
+
+#W16($8CD)
+゛とくがえる[ED]
+
+
+//POINTER #64 @ $8CF - STRING #64 @ $A9F
+
+#W16($8CF)
+つのへび[ED]
+
+
+//POINTER #65 @ $8D1 - STRING #65 @ $AA5
+
+#W16($8D1)
+へびへんげ[ED]
+
+
+//POINTER #66 @ $8D3 - STRING #66 @ $AAD
+
+#W16($8D3)
+ねこまた[ED]
+
+
+//POINTER #67 @ $8D5 - STRING #67 @ $AB2
+
+#W16($8D5)
+あおかっぱ[ED]
+
+
+//POINTER #68 @ $8D7 - STRING #68 @ $AB9
+
+#W16($8D7)
+あかかっぱ[ED]
+
+
+//POINTER #69 @ $8D9 - STRING #69 @ $AC0
+
+#W16($8D9)
+こおりうし[ED]
+
+
+//POINTER #70 @ $8DB - STRING #70 @ $AC6
+
+#W16($8DB)
+はねあくま[ED]
+
+
+//POINTER #71 @ $8DD - STRING #71 @ $ACC
+
+#W16($8DD)
+ゆきおおかみ[ED]
+
+
+//POINTER #72 @ $8DF - STRING #72 @ $AD3
+
+#W16($8DF)
+はくきんのへび[ED]
+
+
+//POINTER #73 @ $8E1 - STRING #73 @ $ADC
+
+#W16($8E1)
+み゛とりのたぬき[ED]
+
+
+//POINTER #74 @ $8E3 - STRING #74 @ $AE5
+
+#W16($8E3)
+あかいきつね[ED]
+

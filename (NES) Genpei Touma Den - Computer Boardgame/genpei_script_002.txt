@@ -1,0 +1,327 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Dialogue Block 03(POINTER_RELATIVE)
+
+//POINTER #0 @ $1A10 - STRING #0 @ $1A7C
+
+#W16($1A10)
+えすむう[ED]
+
+
+//POINTER #1 @ $1A12 - STRING #1 @ $1A89
+
+#W16($1A12)
+おえうあいてうおいふけかいふなき[ED]
+
+
+//POINTER #2 @ $1A14 - STRING #2 @ $1A9A
+
+#W16($1A14)
+えきうあいめむえ[ED]
+
+
+//POINTER #3 @ $1A16 - STRING #3 @ $1AA7
+
+#W16($1A16)
+うえかういふかくいかえしあいえひい[ED]
+
+
+//POINTER #4 @ $1A18 - STRING #4 @ $1AB0
+
+#W16($1A18)
+かえしあいえひい[ED]
+
+
+//POINTER #5 @ $1A1A - STRING #5 @ $1AC5
+
+#W16($1A1A)
+ええやい[ED]
+
+
+//POINTER #6 @ $1A1C - STRING #6 @ $1AD2
+
+#W16($1A1C)
+かにけいいえねういまをく[ED]
+
+
+//POINTER #7 @ $1A1E - STRING #7 @ $1AE7
+
+#W16($1A1E)
+ええむえ[ED]
+
+
+//POINTER #8 @ $1A20 - STRING #8 @ $1AF4
+
+#W16($1A20)
+おろけねいえなおいこをこ[ED]
+
+
+//POINTER #9 @ $1A22 - STRING #9 @ $1B05
+
+#W16($1A22)
+かえかおいす、か[ED]
+
+
+//POINTER #10 @ $1A24 - STRING #10 @ $1B1A
+
+#W16($1A24)
+かえねけ[ED]
+
+
+//POINTER #11 @ $1A26 - STRING #11 @ $1B2F
+
+#W16($1A26)
+おえらこいたかさいふしたいふ2ち[ED]
+
+
+//POINTER #12 @ $1A28 - STRING #12 @ $1B40
+
+#W16($1A28)
+うえほき[ED]
+
+
+//POINTER #13 @ $1A2A - STRING #13 @ $1B49
+
+#W16($1A2A)
+かめけすいえなき[ED]
+
+
+//POINTER #14 @ $1A2C - STRING #14 @ $1B5E
+
+#W16($1A2C)
+かえそさ[ED]
+
+
+//POINTER #15 @ $1A2E - STRING #15 @ $1B73
+
+#W16($1A2E)
+かこかさ[ED]
+
+
+//POINTER #16 @ $1A30 - STRING #16 @ $1B88
+
+#W16($1A30)
+ええなし[ED]
+
+
+//POINTER #17 @ $1A32 - STRING #17 @ $1B95
+
+#W16($1A32)
+えまかといえ、せ[ED]
+
+
+//POINTER #18 @ $1A34 - STRING #18 @ $1BA2
+
+#W16($1A34)
+おふなのいに、は[ED]
+
+
+//POINTER #19 @ $1A36 - STRING #19 @ $1BB3
+
+#W16($1A36)
+くこかそいえつたいえをち[ED]
+
+
+//POINTER #20 @ $1A38 - STRING #20 @ $1BD0
+
+#W16($1A38)
+きえひついき2にいこかといりけはいろほひいふ/ふ[ED]
+
+
+//POINTER #21 @ $1A3A - STRING #21 @ $1BE9
+
+#W16($1A3A)
+えふかないふなふいき8ぬ[ED]
+
+
+//POINTER #22 @ $1A3C - STRING #22 @ $1BF6
+
+#W16($1A3C)
+かえかにいえひせ[ED]
+
+
+//POINTER #23 @ $1A3E - STRING #23 @ $1C0B
+
+#W16($1A3E)
+うえほけ[ED]
+
+
+//POINTER #24 @ $1A40 - STRING #24 @ $1C14
+
+#W16($1A40)
+えにらほいき、は[ED]
+
+
+//POINTER #25 @ $1A42 - STRING #25 @ $1C21
+
+#W16($1A42)
+きのうのいろしほいろ、ひ[ED]
+
+
+//POINTER #26 @ $1A44 - STRING #26 @ $1C3A
+
+#W16($1A44)
+きろかまいろひみいろ、へ[ED]
+
+
+//POINTER #27 @ $1A46 - STRING #27 @ $1C53
+
+#W16($1A46)
+かふけひいふ5へ[ED]
+
+
+//POINTER #28 @ $1A48 - STRING #28 @ $1C68
+
+#W16($1A48)
+かりしみいりれも[ED]
+
+
+//POINTER #29 @ $1A4A - STRING #29 @ $1C7D
+
+#W16($1A4A)
+おろうむいまむま[ED]
+
+
+//POINTER #30 @ $1A4C - STRING #30 @ $1C8E
+
+#W16($1A4C)
+かりしめ[ED]
+
+
+//POINTER #31 @ $1A4E - STRING #31 @ $1CA3
+
+#W16($1A4E)
+おにうまいふほもいえむへ[ED]
+
+
+//POINTER #32 @ $1A50 - STRING #32 @ $1CB4
+
+#W16($1A50)
+おろかよいろれら[ED]
+
+
+//POINTER #33 @ $1A52 - STRING #33 @ $1CC5
+
+#W16($1A52)
+くこうむいゆからい6ほをい9/る[ED]
+
+
+//POINTER #34 @ $1A54 - STRING #34 @ $1CE2
+
+#W16($1A54)
+くめかめいりそりいりDやいき(59)ぬいえMへいのゅみいふなまいうふしるいこうもいえのうれいの、ろ[ED]
+
+
+//POINTER #35 @ $1A56 - STRING #35 @ $1CFF
+
+#W16($1A56)
+うふしるいこうもいえのうれいの、ろ[ED]
+
+
+//POINTER #36 @ $1A58 - STRING #36 @ $1D08
+
+#W16($1A58)
+えのうれいの、ろ[ED]
+
+
+//POINTER #37 @ $1A5A - STRING #37 @ $1D15
+
+#W16($1A5A)
+おふうゆいろそろいりをら[ED]
+
+
+//POINTER #38 @ $1A5C - STRING #38 @ $1D26
+
+#W16($1A5C)
+かゆうろいろほをいの、め[ED]
+
+
+//POINTER #39 @ $1A5E - STRING #39 @ $1D3B
+
+#W16($1A5E)
+えろやる[ED]
+
+
+//POINTER #40 @ $1A60 - STRING #40 @ $1D48
+
+#W16($1A60)
+かめかをいろひんいえMや[ED]
+
+
+//POINTER #41 @ $1A62 - STRING #41 @ $1D5D
+
+#W16($1A62)
+うろむわいすそゆ[ED]
+
+
+//POINTER #42 @ $1A64 - STRING #42 @ $1D66
+
+#W16($1A64)
+か9ねわい3をを[ED]
+
+
+//POINTER #43 @ $1A66 - STRING #43 @ $1D7B
+
+#W16($1A66)
+お6を。[ED]
+
+
+//POINTER #44 @ $1A68 - STRING #44 @ $1D8C
+
+#W16($1A68)
+さ6そ。い9ほ、い6を0い9D1[ED]
+
+
+//POINTER #45 @ $1A6A - STRING #45 @ $1DB5
+
+#W16($1A6A)
+えふひ1いえひる[ED]
+
+
+//POINTER #46 @ $1A6C - STRING #46 @ $1DC2
+
+#W16($1A6C)
+えり8、[ED]
+
+
+//POINTER #47 @ $1A6E - STRING #47 @ $1DCF
+
+#W16($1A6E)
+お983[ED]
+
+
+//POINTER #48 @ $1A70 - STRING #48 @ $1DE0
+
+#W16($1A70)
+お6を3[ED]
+
+
+//POINTER #49 @ $1A72 - STRING #49 @ $1DF1
+
+#W16($1A72)
+かろや3[ED]
+
+
+//POINTER #50 @ $1A74 - STRING #50 @ $1E06
+
+#W16($1A74)
+うめう3いこう1いおりう、いこけ0いえひ1いすら2いきりそまいゆらみいてれへ[ED]
+
+
+//POINTER #51 @ $1A76 - STRING #51 @ $1E0F
+
+#W16($1A76)
+おりう、いこけ0いえひ1いすら2いきりそまいゆらみいてれへ[ED]
+
+
+//POINTER #52 @ $1A78 - STRING #52 @ $1E20
+
+#W16($1A78)
+きりそまいゆらみいてれへ[ED]
+
+
+//POINTER #53 @ $1A7A - STRING #53 @ $1E39
+
+#W16($1A7A)
+おふか、いにつ0いこな1いえけ2い[ED]
+
