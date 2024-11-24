@@ -24,4 +24,4 @@ I can't stop you from doing that.  Someone else will have to work on that as the
 
 6.  What about dumping games from another system?  Maybe from a game for Game Boy, Super NES, etc.
 
-So far, I've learned how to dump scripts from NES and FDS games.  If I want to dump script from other consoles, I'd have to learn how it's possible.  More importantly, if it's a game that even interests me slightly.
+So far, I've learned how to dump scripts from NES and FDS games.  If I want to dump scripts of games from other consoles, I'd have to learn how it's possible.  More importantly, if it's a game that even interests me slightly.
