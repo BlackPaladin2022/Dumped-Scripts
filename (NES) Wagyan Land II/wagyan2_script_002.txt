@@ -1,0 +1,81 @@
+//GAME NAME:		Wagyan Land 2 (NES)
+
+//BLOCK #002 NAME:		Dialogue Block 02(POINTER_RELATIVE)
+
+//POINTER #0 @ $340A3 - STRING #0 @ $346E8
+
+#W16($340A3)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #1 @ $340A5 - STRING #1 @ $346E8
+
+#W16($340A5)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #2 @ $340A7 - STRING #2 @ $346E8
+
+#W16($340A7)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #3 @ $340A9 - STRING #3 @ $346E8
+
+#W16($340A9)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #4 @ $340AB - STRING #4 @ $346E8
+
+#W16($340AB)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #5 @ $340AD - STRING #5 @ $346E8
+
+#W16($340AD)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #6 @ $340AF - STRING #6 @ $346E8
+
+#W16($340AF)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #7 @ $340B1 - STRING #7 @ $346E8
+
+#W16($340B1)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #8 @ $340B3 - STRING #8 @ $346E8
+
+#W16($340B3)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #9 @ $340B5 - STRING #9 @ $346E8
+
+#W16($340B5)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #10 @ $340B7 - STRING #10 @ $346E8
+
+#W16($340B7)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #11 @ $340B9 - STRING #11 @ $346E8
+
+#W16($340B9)
+‚±‚Ì‚¨‚Æ[LN]
+
+
+//POINTER #12 @ $340BB - STRING #12 @ $342A3
+
+#W16($340BB)
+‚¢‚¼‚­‚Ì‚½‚©‚ç[LN]
+
