@@ -25,3 +25,11 @@ I can't stop you from doing that.  Someone else will have to work on that as the
 6.  What about dumping games from another system?  Maybe from a game for Game Boy, Super NES, etc.
 
 So far, I've learned how to dump scripts from NES and FDS games.  If I want to dump scripts of games from other consoles, I'd have to learn how it's possible.  More importantly, if it's a game that even interests me slightly.
+
+7.  I see there's, at least, one directory with RAW in its name.  Does this mean your other script dumps were cooked?
+
+LOL, not like that!  Any directories with "RAW" in its name had its script dumped as raw data.  If it didn't have "RAW" in the name, that means the scripts were dumped through the text pointer tables in the game.
+
+8.  So that means you haven't figured out the pointer system yet?
+
+It just means I cannot dump the game's text using Cartographer's "POINTER_RELATIVE" option.  Or it could be done and I couldn't figure it out yet.
