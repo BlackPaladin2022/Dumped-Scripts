@@ -1,0 +1,771 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #004 NAME:		Dialogue Block 1D4E4-1D5E3 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1D4E4 - STRING #0 @ $1D5E4
+
+#W16($1D4E4)
+[ED]
+
+
+//POINTER #1 @ $1D4E6 - STRING #1 @ $1D5E5
+
+#W16($1D4E6)
+し(び)れ[ED]
+
+
+//POINTER #2 @ $1D4E8 - STRING #2 @ $1D5E9
+
+#W16($1D4E8)
+ねむり[ED]
+
+
+//POINTER #3 @ $1D4EA - STRING #3 @ $1D5ED
+
+#W16($1D4EA)
+き(ぜ)つ[ED]
+
+
+//POINTER #4 @ $1D4EC - STRING #4 @ $1D5F1
+
+#W16($1D4EC)
+こんらん[ED]
+
+
+//POINTER #5 @ $1D4EE - STRING #5 @ $1D5F6
+
+#W16($1D4EE)
+めつ(ぶ)し[ED]
+
+
+//POINTER #6 @ $1D4F0 - STRING #6 @ $1D5FB
+
+#W16($1D4F0)
+ふういん[ED]
+
+
+//POINTER #7 @ $1D4F2 - STRING #7 @ $1D600
+
+#W16($1D4F2)
+ひょうい[ED]
+
+
+//POINTER #8 @ $1D4F4 - STRING #8 @ $1D605
+
+#W16($1D4F4)
+(び)ょうき[ED]
+
+
+//POINTER #9 @ $1D4F6 - STRING #9 @ $1D60A
+
+#W16($1D4F6)
+のろい[ED]
+
+
+//POINTER #10 @ $1D4F8 - STRING #10 @ $1D60E
+
+#W16($1D4F8)
+し(ば)り[ED]
+
+
+//POINTER #11 @ $1D4FA - STRING #11 @ $1D612
+
+#W16($1D4FA)
+こおり[ED]
+
+
+//POINTER #12 @ $1D4FC - STRING #12 @ $1D616
+
+#W16($1D4FC)
+ひ(だ)るま[ED]
+
+
+//POINTER #13 @ $1D4FE - STRING #13 @ $1D61B
+
+#W16($1D4FE)
+わすれ[ED]
+
+
+//POINTER #14 @ $1D500 - STRING #14 @ $1D61F
+
+#W16($1D500)
+し(ぼ)う[ED]
+
+
+//POINTER #15 @ $1D502 - STRING #15 @ $1D623
+
+#W16($1D502)
+(ど)く[ED]
+
+
+//POINTER #16 @ $1D504 - STRING #16 @ $1D626
+
+#W16($1D504)
+フェーンばくふうじん[ED]
+
+
+//POINTER #17 @ $1D506 - STRING #17 @ $1D631
+
+#W16($1D506)
+ゼータみだれすいせい[ED]
+
+
+//POINTER #18 @ $1D508 - STRING #18 @ $1D63C
+
+#W16($1D508)
+ダブルもうしゅうだん[ED]
+
+
+//POINTER #19 @ $1D50A - STRING #19 @ $1D647
+
+#W16($1D50A)
+ユニオンがしょうけん[ED]
+
+
+//POINTER #20 @ $1D50C - STRING #20 @ $1D652
+
+#W16($1D50C)
+アルガスいかりのけん[ED]
+
+
+//POINTER #21 @ $1D50E - STRING #21 @ $1D65D
+
+#W16($1D50E)
+トルネードスパーク[ED]
+
+
+//POINTER #22 @ $1D510 - STRING #22 @ $1D667
+
+#W16($1D510)
+せんこうざん[ED]
+
+
+//POINTER #23 @ $1D512 - STRING #23 @ $1D66E
+
+#W16($1D512)
+[ED]
+
+
+//POINTER #24 @ $1D514 - STRING #24 @ $1D66F
+
+#W16($1D514)
+(1C)[ED]
+
+
+//POINTER #25 @ $1D516 - STRING #25 @ $1D671
+
+#W16($1D516)
+(1D)[ED]
+
+
+//POINTER #26 @ $1D518 - STRING #26 @ $1D673
+
+#W16($1D518)
+(1E)[ED]
+
+
+//POINTER #27 @ $1D51A - STRING #27 @ $1D675
+
+#W16($1D51A)
+(1F)[ED]
+
+
+//POINTER #28 @ $1D51C - STRING #28 @ $1D677
+
+#W16($1D51C)
+(17)[ED]
+
+
+//POINTER #29 @ $1D51E - STRING #29 @ $1D679
+
+#W16($1D51E)
+(18)[ED]
+
+
+//POINTER #30 @ $1D520 - STRING #30 @ $1D67B
+
+#W16($1D520)
+(19)[ED]
+
+
+//POINTER #31 @ $1D522 - STRING #31 @ $1D67D
+
+#W16($1D522)
+(1A)[ED]
+
+
+//POINTER #32 @ $1D524 - STRING #32 @ $1D67F
+
+#W16($1D524)
+しょうひ(H)(P)..[ED]
+
+
+//POINTER #33 @ $1D526 - STRING #33 @ $1D687
+
+#W16($1D526)
+テキサスのまち[ED]
+
+
+//POINTER #34 @ $1D528 - STRING #34 @ $1D68F
+
+#W16($1D528)
+モウサのまち[ED]
+
+
+//POINTER #35 @ $1D52A - STRING #35 @ $1D696
+
+#W16($1D52A)
+ラサのまち[ED]
+
+
+//POINTER #36 @ $1D52C - STRING #36 @ $1D69C
+
+#W16($1D52C)
+アルガスじょう[ED]
+
+
+//POINTER #37 @ $1D52E - STRING #37 @ $1D6A4
+
+#W16($1D52E)
+コアスリーのまち[ED]
+
+
+//POINTER #38 @ $1D530 - STRING #38 @ $1D6AD
+
+#W16($1D530)
+フォンブラウンのまち[ED]
+
+
+//POINTER #39 @ $1D532 - STRING #39 @ $1D6B8
+
+#W16($1D532)
+ダブリンのまち[ED]
+
+
+//POINTER #40 @ $1D534 - STRING #40 @ $1D6C0
+
+#W16($1D534)
+ダカールのまち[ED]
+
+
+//POINTER #41 @ $1D536 - STRING #41 @ $1D6C8
+
+#W16($1D536)
+フィフスルナのまち[ED]
+
+
+//POINTER #42 @ $1D538 - STRING #42 @ $1D6D2
+
+#W16($1D538)
+シャングリラのまち[ED]
+
+
+//POINTER #43 @ $1D53A - STRING #43 @ $1D6DC
+
+#W16($1D53A)
+ラクロアじょう[ED]
+
+
+//POINTER #44 @ $1D53C - STRING #44 @ $1D6E4
+
+#W16($1D53C)
+オルジリナのまち[ED]
+
+
+//POINTER #45 @ $1D53E - STRING #45 @ $1D6ED
+
+#W16($1D53E)
+ぶきや[ED]
+
+
+//POINTER #46 @ $1D540 - STRING #46 @ $1D6F1
+
+#W16($1D540)
+ぼうぐや[ED]
+
+
+//POINTER #47 @ $1D542 - STRING #47 @ $1D6F6
+
+#W16($1D542)
+どうぐや[ED]
+
+
+//POINTER #48 @ $1D544 - STRING #48 @ $1D6FB
+
+#W16($1D544)
+くすりや[ED]
+
+
+//POINTER #49 @ $1D546 - STRING #49 @ $1D700
+
+#W16($1D546)
+きのこや[ED]
+
+
+//POINTER #50 @ $1D548 - STRING #50 @ $1D705
+
+#W16($1D548)
+ムーアかい[ED]
+
+
+//POINTER #51 @ $1D54A - STRING #51 @ $1D70B
+
+#W16($1D54A)
+[ED]
+
+
+//POINTER #52 @ $1D54C - STRING #52 @ $1D70C
+
+#W16($1D54C)
+[ED]
+
+
+//POINTER #53 @ $1D54E - STRING #53 @ $1D70D
+
+#W16($1D54E)
+[ED]
+
+
+//POINTER #54 @ $1D550 - STRING #54 @ $1D70E
+
+#W16($1D550)
+[ED]
+
+
+//POINTER #55 @ $1D552 - STRING #55 @ $1D70F
+
+#W16($1D552)
+[ED]
+
+
+//POINTER #56 @ $1D554 - STRING #56 @ $1D710
+
+#W16($1D554)
+[ED]
+
+
+//POINTER #57 @ $1D556 - STRING #57 @ $1D711
+
+#W16($1D556)
+あたらしくはじめる[ED]
+
+
+//POINTER #58 @ $1D558 - STRING #58 @ $1D71B
+
+#W16($1D558)
+つづきをする[ED]
+
+
+//POINTER #59 @ $1D55A - STRING #59 @ $1D722
+
+#W16($1D55A)
+ファイルをけす[ED]
+
+
+//POINTER #60 @ $1D55C - STRING #60 @ $1D72A
+
+#W16($1D55C)
+ファイルをコピーする[ED]
+
+
+//POINTER #61 @ $1D55E - STRING #61 @ $1D735
+
+#W16($1D55E)
+だい0しょう[ED]
+
+
+//POINTER #62 @ $1D560 - STRING #62 @ $1D73C
+
+#W16($1D560)
+ゲーム1[ED]
+
+
+//POINTER #63 @ $1D562 - STRING #63 @ $1D741
+
+#W16($1D562)
+ゲーム2[ED]
+
+
+//POINTER #64 @ $1D564 - STRING #64 @ $1D746
+
+#W16($1D564)
+(V)Sモード!![ED]
+
+
+//POINTER #65 @ $1D566 - STRING #65 @ $1D74E
+
+#W16($1D566)
+データが[ED]
+
+
+//POINTER #66 @ $1D568 - STRING #66 @ $1D753
+
+#W16($1D568)
+はいっていません..[ED]
+
+
+//POINTER #67 @ $1D56A - STRING #67 @ $1D75D
+
+#W16($1D56A)
+やめる     けす[ED]
+
+
+//POINTER #68 @ $1D56C - STRING #68 @ $1D768
+
+#W16($1D56C)
+はいりなおす[ED]
+
+
+//POINTER #69 @ $1D56E - STRING #69 @ $1D76F
+
+#W16($1D56E)
+このままでいい[ED]
+
+
+//POINTER #70 @ $1D570 - STRING #70 @ $1D777
+
+#W16($1D570)
+きやすめコース[ED]
+
+
+//POINTER #71 @ $1D572 - STRING #71 @ $1D77F
+
+#W16($1D572)
+やすらぎコース[ED]
+
+
+//POINTER #72 @ $1D574 - STRING #72 @ $1D787
+
+#W16($1D574)
+あんしんコース[ED]
+
+
+//POINTER #73 @ $1D576 - STRING #73 @ $1D78F
+
+#W16($1D576)
+やめる[ED]
+
+
+//POINTER #74 @ $1D578 - STRING #74 @ $1D793
+
+#W16($1D578)
+はい[ED]
+
+
+//POINTER #75 @ $1D57A - STRING #75 @ $1D796
+
+#W16($1D57A)
+いいえ[ED]
+
+
+//POINTER #76 @ $1D57C - STRING #76 @ $1D79A
+
+#W16($1D57C)
+きく[ED]
+
+
+//POINTER #77 @ $1D57E - STRING #77 @ $1D79D
+
+#W16($1D57E)
+きかない[ED]
+
+
+//POINTER #78 @ $1D580 - STRING #78 @ $1D7A2
+
+#W16($1D580)
+きろくする[ED]
+
+
+//POINTER #79 @ $1D582 - STRING #79 @ $1D7A8
+
+#W16($1D582)
+きろくしない[ED]
+
+
+//POINTER #80 @ $1D584 - STRING #80 @ $1D7AF
+
+#W16($1D584)
+いのる[ED]
+
+
+//POINTER #81 @ $1D586 - STRING #81 @ $1D7B3
+
+#W16($1D586)
+きふをする[ED]
+
+
+//POINTER #82 @ $1D588 - STRING #82 @ $1D7B9
+
+#W16($1D588)
+とまる[ED]
+
+
+//POINTER #83 @ $1D58A - STRING #83 @ $1D7BD
+
+#W16($1D58A)
+ねぎる[ED]
+
+
+//POINTER #84 @ $1D58C - STRING #84 @ $1D7C1
+
+#W16($1D58C)
+ふっかつ[ED]
+
+
+//POINTER #85 @ $1D58E - STRING #85 @ $1D7C6
+
+#W16($1D58E)
+かいふく[ED]
+
+
+//POINTER #86 @ $1D590 - STRING #86 @ $1D7CB
+
+#W16($1D590)
+ちりょう[ED]
+
+
+//POINTER #87 @ $1D592 - STRING #87 @ $1D7D0
+
+#W16($1D592)
+と る[ED]
+
+
+//POINTER #88 @ $1D594 - STRING #88 @ $1D7D4
+
+#W16($1D594)
+[ED]
+
+
+//POINTER #89 @ $1D596 - STRING #89 @ $1D7D5
+
+#W16($1D596)
+[ED]
+
+
+//POINTER #90 @ $1D598 - STRING #90 @ $1D7D6
+
+#W16($1D598)
+[ED]
+
+
+//POINTER #91 @ $1D59A - STRING #91 @ $1D7D7
+
+#W16($1D59A)
+[ED]
+
+
+//POINTER #92 @ $1D59C - STRING #92 @ $1D7D8
+
+#W16($1D59C)
+[ED]
+
+
+//POINTER #93 @ $1D59E - STRING #93 @ $1D7D9
+
+#W16($1D59E)
+[ED]
+
+
+//POINTER #94 @ $1D5A0 - STRING #94 @ $1D7DA
+
+#W16($1D5A0)
+[ED]
+
+
+//POINTER #95 @ $1D5A2 - STRING #95 @ $1D7DB
+
+#W16($1D5A2)
+[ED]
+
+
+//POINTER #96 @ $1D5A4 - STRING #96 @ $1D7DC
+
+#W16($1D5A4)
+[ED]
+
+
+//POINTER #97 @ $1D5A6 - STRING #97 @ $1D7DD
+
+#W16($1D5A6)
+[ED]
+
+
+//POINTER #98 @ $1D5A8 - STRING #98 @ $1D7DE
+
+#W16($1D5A8)
+[ED]
+
+
+//POINTER #99 @ $1D5AA - STRING #99 @ $1D7DF
+
+#W16($1D5AA)
+[ED]
+
+
+//POINTER #100 @ $1D5AC - STRING #100 @ $1D7E0
+
+#W16($1D5AC)
+[ED]
+
+
+//POINTER #101 @ $1D5AE - STRING #101 @ $1D7E1
+
+#W16($1D5AE)
+[ED]
+
+
+//POINTER #102 @ $1D5B0 - STRING #102 @ $1D7E2
+
+#W16($1D5B0)
+[ED]
+
+
+//POINTER #103 @ $1D5B2 - STRING #103 @ $1D7E3
+
+#W16($1D5B2)
+[ED]
+
+
+//POINTER #104 @ $1D5B4 - STRING #104 @ $1D7E4
+
+#W16($1D5B4)
+[ED]
+
+
+//POINTER #105 @ $1D5B6 - STRING #105 @ $1D7E5
+
+#W16($1D5B6)
+[ED]
+
+
+//POINTER #106 @ $1D5B8 - STRING #106 @ $1D7E6
+
+#W16($1D5B8)
+[ED]
+
+
+//POINTER #107 @ $1D5BA - STRING #107 @ $1D7E7
+
+#W16($1D5BA)
+[ED]
+
+
+//POINTER #108 @ $1D5BC - STRING #108 @ $1D7E8
+
+#W16($1D5BC)
+[ED]
+
+
+//POINTER #109 @ $1D5BE - STRING #109 @ $1D7E9
+
+#W16($1D5BE)
+[ED]
+
+
+//POINTER #110 @ $1D5C0 - STRING #110 @ $1D7EA
+
+#W16($1D5C0)
+[ED]
+
+
+//POINTER #111 @ $1D5C2 - STRING #111 @ $1D7EB
+
+#W16($1D5C2)
+[ED]
+
+
+//POINTER #112 @ $1D5C4 - STRING #112 @ $1D7EC
+
+#W16($1D5C4)
+[ED]
+
+
+//POINTER #113 @ $1D5C6 - STRING #113 @ $1D7ED
+
+#W16($1D5C6)
+[ED]
+
+
+//POINTER #114 @ $1D5C8 - STRING #114 @ $1D7EE
+
+#W16($1D5C8)
+[ED]
+
+
+//POINTER #115 @ $1D5CA - STRING #115 @ $1D7EF
+
+#W16($1D5CA)
+[ED]
+
+
+//POINTER #116 @ $1D5CC - STRING #116 @ $1D7F0
+
+#W16($1D5CC)
+??????????[ED]
+
+
+//POINTER #117 @ $1D5CE - STRING #117 @ $1D7FB
+
+#W16($1D5CE)
+カードバトル ルールの せつめい[ED]
+
+
+//POINTER #118 @ $1D5D0 - STRING #118 @ $1D80C
+
+#W16($1D5D0)
+まず それぞれの プレイヤーは バトルカードが[ED]
+
+
+//POINTER #119 @ $1D5D2 - STRING #119 @ $1D824
+
+#W16($1D5D2)
+5まい あつまるまで カードを ひきます[ED]
+
+
+//POINTER #120 @ $1D5D4 - STRING #120 @ $1D839
+
+#W16($1D5D4)
+そして そのカードの なかから すきなカードを[ED]
+
+
+//POINTER #121 @ $1D5D6 - STRING #121 @ $1D851
+
+#W16($1D5D6)
+3まい えらび つかう じゅんばんを きめます[ED]
+
+
+//POINTER #122 @ $1D5D8 - STRING #122 @ $1D869
+
+#W16($1D5D8)
+そのとき ヘルプカードが あれば[ED]
+
+
+//POINTER #123 @ $1D5DA - STRING #123 @ $1D87A
+
+#W16($1D5DA)
+いっしょに つかっても かまいません![ED]
+
+
+//POINTER #124 @ $1D5DC - STRING #124 @ $1D88E
+
+#W16($1D5DC)
+おたがいに カードをきめたら バトルかいしです![ED]
+
+
+//POINTER #125 @ $1D5DE - STRING #125 @ $1D8A7
+
+#W16($1D5DE)
+3かいせんで かちこせば きみの ゆうしょう![ED]
+
+
+//POINTER #126 @ $1D5E0 - STRING #126 @ $1D8BF
+
+#W16($1D5E0)
+さあ きみも カードバトラーの なかまいりだ!![ED]
+
+
+//POINTER #127 @ $1D5E2 - STRING #127 @ $1D8D8
+
+#W16($1D5E2)
+ ともだちとたたかう    ファミコンとたたかう[ED]
+

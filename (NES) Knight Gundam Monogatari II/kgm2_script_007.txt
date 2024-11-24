@@ -1,0 +1,387 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #007 NAME:		Dialogue Block 1DFB9-1E038 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1DFB9 - STRING #0 @ $1E039
+
+#W16($1DFB9)
+ノアちほう[ED]
+
+
+//POINTER #1 @ $1DFBB - STRING #1 @ $1E03F
+
+#W16($1DFBB)
+ラクロアちほう[ED]
+
+
+//POINTER #2 @ $1DFBD - STRING #2 @ $1E047
+
+#W16($1DFBD)
+オルジリナちほう[ED]
+
+
+//POINTER #3 @ $1DFBF - STRING #3 @ $1E050
+
+#W16($1DFBF)
+ムーアかい[ED]
+
+
+//POINTER #4 @ $1DFC1 - STRING #4 @ $1E056
+
+#W16($1DFC1)
+モウサのまち[ED]
+
+
+//POINTER #5 @ $1DFC3 - STRING #5 @ $1E05D
+
+#W16($1DFC3)
+ラサのまち[ED]
+
+
+//POINTER #6 @ $1DFC5 - STRING #6 @ $1E063
+
+#W16($1DFC5)
+コアスリーのまち[ED]
+
+
+//POINTER #7 @ $1DFC7 - STRING #7 @ $1E06C
+
+#W16($1DFC7)
+フォンブラウンのまち[ED]
+
+
+//POINTER #8 @ $1DFC9 - STRING #8 @ $1E077
+
+#W16($1DFC9)
+ダブリンのまち[ED]
+
+
+//POINTER #9 @ $1DFCB - STRING #9 @ $1E07F
+
+#W16($1DFCB)
+ダカールのまち[ED]
+
+
+//POINTER #10 @ $1DFCD - STRING #10 @ $1E087
+
+#W16($1DFCD)
+フィフスルナのまち[ED]
+
+
+//POINTER #11 @ $1DFCF - STRING #11 @ $1E091
+
+#W16($1DFCF)
+シャングリラのまち[ED]
+
+
+//POINTER #12 @ $1DFD1 - STRING #12 @ $1E09B
+
+#W16($1DFD1)
+セントーのまち[ED]
+
+
+//POINTER #13 @ $1DFD3 - STRING #13 @ $1E0A3
+
+#W16($1DFD3)
+オルジリナのまち[ED]
+
+
+//POINTER #14 @ $1DFD5 - STRING #14 @ $1E0AC
+
+#W16($1DFD5)
+ソロモンのこうざん[ED]
+
+
+//POINTER #15 @ $1DFD7 - STRING #15 @ $1E0B6
+
+#W16($1DFD7)
+テキサスのまち[ED]
+
+
+//POINTER #16 @ $1DFD9 - STRING #16 @ $1E0BE
+
+#W16($1DFD9)
+ティターンのまとう[ED]
+
+
+//POINTER #17 @ $1DFDB - STRING #17 @ $1E0C8
+
+#W16($1DFDB)
+ムンゾじょう[ED]
+
+
+//POINTER #18 @ $1DFDD - STRING #18 @ $1E0CF
+
+#W16($1DFDD)
+ベクレじょう[ED]
+
+
+//POINTER #19 @ $1DFDF - STRING #19 @ $1E0D6
+
+#W16($1DFDF)
+キュベレイのとう[ED]
+
+
+//POINTER #20 @ $1DFE1 - STRING #20 @ $1E0DF
+
+#W16($1DFE1)
+ドライセンのとりで[ED]
+
+
+//POINTER #21 @ $1DFE3 - STRING #21 @ $1E0E9
+
+#W16($1DFE3)
+バウのとりで[ED]
+
+
+//POINTER #22 @ $1DFE5 - STRING #22 @ $1E0F0
+
+#W16($1DFE5)
+ソロモンのどうくつ[ED]
+
+
+//POINTER #23 @ $1DFE7 - STRING #23 @ $1E0FA
+
+#W16($1DFE7)
+キリマンジャロのやま[ED]
+
+
+//POINTER #24 @ $1DFE9 - STRING #24 @ $1E105
+
+#W16($1DFE9)
+スライムのどうくつ[ED]
+
+
+//POINTER #25 @ $1DFEB - STRING #25 @ $1E10F
+
+#W16($1DFEB)
+こおりのどうくつ[ED]
+
+
+//POINTER #26 @ $1DFED - STRING #26 @ $1E118
+
+#W16($1DFED)
+おんりょうのやまみち[ED]
+
+
+//POINTER #27 @ $1DFEF - STRING #27 @ $1E123
+
+#W16($1DFEF)
+アーガマのどうくつ[ED]
+
+
+//POINTER #28 @ $1DFF1 - STRING #28 @ $1E12D
+
+#W16($1DFF1)
+せいぎのどうくつ[ED]
+
+
+//POINTER #29 @ $1DFF3 - STRING #29 @ $1E136
+
+#W16($1DFF3)
+まぼろしのどうくつ[ED]
+
+
+//POINTER #30 @ $1DFF5 - STRING #30 @ $1E140
+
+#W16($1DFF5)
+キャトルウッドのつうろ[ED]
+
+
+//POINTER #31 @ $1DFF7 - STRING #31 @ $1E14C
+
+#W16($1DFF7)
+なぞのいせき[ED]
+
+
+//POINTER #32 @ $1DFF9 - STRING #32 @ $1E153
+
+#W16($1DFF9)
+ふっかつのしんでん[ED]
+
+
+//POINTER #33 @ $1DFFB - STRING #33 @ $1E15D
+
+#W16($1DFFB)
+ひがしのとりで[ED]
+
+
+//POINTER #34 @ $1DFFD - STRING #34 @ $1E165
+
+#W16($1DFFD)
+しゅぎょうのほこら[ED]
+
+
+//POINTER #35 @ $1DFFF - STRING #35 @ $1E16F
+
+#W16($1DFFF)
+しゅぎょうのほこら[ED]
+
+
+//POINTER #36 @ $1E001 - STRING #36 @ $1E179
+
+#W16($1E001)
+はぐれガゥーダのこや[ED]
+
+
+//POINTER #37 @ $1E003 - STRING #37 @ $1E184
+
+#W16($1E003)
+みはりごや[ED]
+
+
+//POINTER #38 @ $1E005 - STRING #38 @ $1E18A
+
+#W16($1E005)
+みはりごや[ED]
+
+
+//POINTER #39 @ $1E007 - STRING #39 @ $1E190
+
+#W16($1E007)
+うまごや[ED]
+
+
+//POINTER #40 @ $1E009 - STRING #40 @ $1E195
+
+#W16($1E009)
+ものしりジィさんのこや[ED]
+
+
+//POINTER #41 @ $1E00B - STRING #41 @ $1E1A1
+
+#W16($1E00B)
+とうぞくのアジト[ED]
+
+
+//POINTER #42 @ $1E00D - STRING #42 @ $1E1AA
+
+#W16($1E00D)
+なぞなぞごや[ED]
+
+
+//POINTER #43 @ $1E00F - STRING #43 @ $1E1B1
+
+#W16($1E00F)
+しんでんもりのこや[ED]
+
+
+//POINTER #44 @ $1E011 - STRING #44 @ $1E1BB
+
+#W16($1E011)
+いっけんや1[ED]
+
+
+//POINTER #45 @ $1E013 - STRING #45 @ $1E1C2
+
+#W16($1E013)
+いっけんや2[ED]
+
+
+//POINTER #46 @ $1E015 - STRING #46 @ $1E1C9
+
+#W16($1E015)
+いっけんや3[ED]
+
+
+//POINTER #47 @ $1E017 - STRING #47 @ $1E1D0
+
+#W16($1E017)
+けっかい1[ED]
+
+
+//POINTER #48 @ $1E019 - STRING #48 @ $1E1D6
+
+#W16($1E019)
+けっかい2[ED]
+
+
+//POINTER #49 @ $1E01B - STRING #49 @ $1E1DC
+
+#W16($1E01B)
+けっかい3[ED]
+
+
+//POINTER #50 @ $1E01D - STRING #50 @ $1E1E2
+
+#W16($1E01D)
+あぜりのめいろ[ED]
+
+
+//POINTER #51 @ $1E01F - STRING #51 @ $1E1EA
+
+#W16($1E01F)
+こんきのおおべや[ED]
+
+
+//POINTER #52 @ $1E021 - STRING #52 @ $1E1F3
+
+#W16($1E021)
+たたかいのみち[ED]
+
+
+//POINTER #53 @ $1E023 - STRING #53 @ $1E1FB
+
+#W16($1E023)
+にしのとりで[ED]
+
+
+//POINTER #54 @ $1E025 - STRING #54 @ $1E202
+
+#W16($1E025)
+みなみのとりで[ED]
+
+
+//POINTER #55 @ $1E027 - STRING #55 @ $1E20A
+
+#W16($1E027)
+ひがしのとりで[ED]
+
+
+//POINTER #56 @ $1E029 - STRING #56 @ $1E212
+
+#W16($1E029)
+アルガスじょう[ED]
+
+
+//POINTER #57 @ $1E02B - STRING #57 @ $1E21A
+
+#W16($1E02B)
+ラクロアじょう[ED]
+
+
+//POINTER #58 @ $1E02D - STRING #58 @ $1E222
+
+#W16($1E02D)
+マーラじょう[ED]
+
+
+//POINTER #59 @ $1E02F - STRING #59 @ $1E229
+
+#W16($1E02F)
+[ED]
+
+
+//POINTER #60 @ $1E031 - STRING #60 @ $1E22A
+
+#W16($1E031)
+[ED]
+
+
+//POINTER #61 @ $1E033 - STRING #61 @ $1E22B
+
+#W16($1E033)
+[ED]
+
+
+//POINTER #62 @ $1E035 - STRING #62 @ $1E22C
+
+#W16($1E035)
+[ED]
+
+
+//POINTER #63 @ $1E037 - STRING #63 @ $1E22D
+
+#W16($1E037)
+[ED]
+

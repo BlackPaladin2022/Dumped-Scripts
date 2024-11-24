@@ -1,0 +1,255 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #010 NAME:		Dialogue Block 24947-2499A (POINTER_RELATIVE)
+
+//POINTER #0 @ $24947 - STRING #0 @ $2499B
+
+#W16($24947)
+アムロ[ED]
+
+
+//POINTER #1 @ $24949 - STRING #1 @ $2499F
+
+#W16($24949)
+アレックス[ED]
+
+
+//POINTER #2 @ $2494B - STRING #2 @ $249A5
+
+#W16($2494B)
+(ガ)ン(ダ)ム[ED]
+
+
+//POINTER #3 @ $2494D - STRING #3 @ $249AA
+
+#W16($2494D)
+(ガ)ンタンク[ED]
+
+
+//POINTER #4 @ $2494F - STRING #4 @ $249B0
+
+#W16($2494F)
+(ゼ)ータ[ED]
+
+
+//POINTER #5 @ $24951 - STRING #5 @ $249B4
+
+#W16($24951)
+リ・(ガ)(ズ)ィ[ED]
+
+
+//POINTER #6 @ $24953 - STRING #6 @ $249BA
+
+#W16($24953)
+スナイ(パ)ーII[ED]
+
+
+//POINTER #7 @ $24955 - STRING #7 @ $249C1
+
+#W16($24955)
+(ジ)ムコマン(ド)[ED]
+
+
+//POINTER #8 @ $24957 - STRING #8 @ $249C8
+
+#W16($24957)
+(ダ)(ブ)ル(ゼ)ータ[ED]
+
+
+//POINTER #9 @ $24959 - STRING #9 @ $249CF
+
+#W16($24959)
+(R)・(デ)ィアス[ED]
+
+
+//POINTER #10 @ $2495B - STRING #10 @ $249D6
+
+#W16($2495B)
+キャノンII[ED]
+
+
+//POINTER #11 @ $2495D - STRING #11 @ $249DC
+
+#W16($2495D)
+(ジ)ェ(ガ)ン[ED]
+
+
+//POINTER #12 @ $2495F - STRING #12 @ $249E1
+
+#W16($2495F)
+ニュー[ED]
+
+
+//POINTER #13 @ $24961 - STRING #13 @ $249E5
+
+#W16($24961)
+メタス[ED]
+
+
+//POINTER #14 @ $24963 - STRING #14 @ $249E9
+
+#W16($24963)
+タンクII[ED]
+
+
+//POINTER #15 @ $24965 - STRING #15 @ $249EE
+
+#W16($24965)
+(ジ)ムキャノン[ED]
+
+
+//POINTER #16 @ $24967 - STRING #16 @ $249A5
+
+#W16($24967)
+(ガ)ン(ダ)ム[ED]
+
+
+//POINTER #17 @ $24969 - STRING #17 @ $249F5
+
+#W16($24969)
+S・(ド)ラ(ゴ)ン[ED]
+
+
+//POINTER #18 @ $2496B - STRING #18 @ $249FC
+
+#W16($2496B)
+[ED]
+
+
+//POINTER #19 @ $2496D - STRING #19 @ $249FC
+
+#W16($2496D)
+[ED]
+
+
+//POINTER #20 @ $2496F - STRING #20 @ $249FC
+
+#W16($2496F)
+[ED]
+
+
+//POINTER #21 @ $24971 - STRING #21 @ $249FD
+
+#W16($24971)
+きばたい[ED]
+
+
+//POINTER #22 @ $24973 - STRING #22 @ $24A02
+
+#W16($24973)
+せんしたい[ED]
+
+
+//POINTER #23 @ $24975 - STRING #23 @ $24A08
+
+#W16($24975)
+ほうじゅつたい[ED]
+
+
+//POINTER #24 @ $24977 - STRING #24 @ $2499B
+
+#W16($24977)
+アムロ[ED]
+
+
+//POINTER #25 @ $24979 - STRING #25 @ $2499F
+
+#W16($24979)
+アレックス[ED]
+
+
+//POINTER #26 @ $2497B - STRING #26 @ $24A10
+
+#W16($2497B)
+ガンダム[ED]
+
+
+//POINTER #27 @ $2497D - STRING #27 @ $24A15
+
+#W16($2497D)
+ガンタンク[ED]
+
+
+//POINTER #28 @ $2497F - STRING #28 @ $24A1B
+
+#W16($2497F)
+ゼータ[ED]
+
+
+//POINTER #29 @ $24981 - STRING #29 @ $24A1F
+
+#W16($24981)
+リ・ガズィ[ED]
+
+
+//POINTER #30 @ $24983 - STRING #30 @ $24A25
+
+#W16($24983)
+スナイパーII[ED]
+
+
+//POINTER #31 @ $24985 - STRING #31 @ $24A2C
+
+#W16($24985)
+ジムコマンド[ED]
+
+
+//POINTER #32 @ $24987 - STRING #32 @ $24A33
+
+#W16($24987)
+ダブルゼータ[ED]
+
+
+//POINTER #33 @ $24989 - STRING #33 @ $24A3A
+
+#W16($24989)
+(R)・ディアス[ED]
+
+
+//POINTER #34 @ $2498B - STRING #34 @ $249D6
+
+#W16($2498B)
+キャノンII[ED]
+
+
+//POINTER #35 @ $2498D - STRING #35 @ $24A41
+
+#W16($2498D)
+ジェガン[ED]
+
+
+//POINTER #36 @ $2498F - STRING #36 @ $249E1
+
+#W16($2498F)
+ニュー[ED]
+
+
+//POINTER #37 @ $24991 - STRING #37 @ $249E5
+
+#W16($24991)
+メタス[ED]
+
+
+//POINTER #38 @ $24993 - STRING #38 @ $249E9
+
+#W16($24993)
+タンクII[ED]
+
+
+//POINTER #39 @ $24995 - STRING #39 @ $24A46
+
+#W16($24995)
+ジムキャノン[ED]
+
+
+//POINTER #40 @ $24997 - STRING #40 @ $24A10
+
+#W16($24997)
+ガンダム[ED]
+
+
+//POINTER #41 @ $24999 - STRING #41 @ $24A4D
+
+#W16($24999)
+S・ドラゴン[ED]
+

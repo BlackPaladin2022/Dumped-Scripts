@@ -1,0 +1,819 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #025 NAME:		Dialogue Block 7E000 (POINTER_RELATIVE)
+
+//POINTER #0 @ $7E010 - STRING #0 @ $7E110
+
+#W16($7E010)
+(77)(00)「ん?いま なにか きこえなかったか..(7C)[LN]
+..........(79)[LN]
+フラウのこえ「バーサル.. アムロ.. がんばって..(79)[LN]
+カミーユのこえ「アレックス.. かならず かって..(79)[LN]
+ユイリィのこえ「ゼータさん.. ダブルゼータさん..[LN]
+そして ニューさん.. スダドアカに へいわを..(79)[LN]
+(77)(00)「! フラウひめの.. カミーユおうじや[LN]
+ユイリィひめの こえも..!(7C)[LN]
+:スダドアカの へいわを ねがう[LN]
+ ひとびとの おもいが ガンダムたちの[LN]
+ こころに ひびきわたった..[LN]
+ ガンダムたちは かんぜんに かいふくした!(7C)[LN]
+ガンダム「よし! みんな![LN]
+これが さいごの たたかいだ!!(7A)[ED]
+
+
+//POINTER #1 @ $7E012 - STRING #1 @ $7E225
+
+#W16($7E012)
+ジオンしんえいたい「フフフ.. よくきたな![LN]
+わが しんえいたいが きさまらを かんげいしてやる(7C)[LN]
+アルガスきしだん「ガンダムどの! ここは われわれ[LN]
+きしだんに おまかせを![LN]
+ガンダム「なんだって!?(7C)[LN]
+アルガスきしだん「ザコは わたしたちで じゅうぶん[LN]
+はやく ジークジオンの ところへ!![LN]
+ガンダム「し しかし..(7C)[LN]
+アレックス「ガンダムどの! だいじょうぶです![LN]
+さあ いそぎましょう![LN]
+アムロ「あっ アルガスきしだんが..!(7A)[ED]
+
+
+//POINTER #2 @ $7E014 - STRING #2 @ $7E2FD
+
+#W16($7E014)
+ゼノンマンサ「よく ここまで これたものよ..[LN]
+アムロ「なにものだ![LN]
+ゼノンマンサ「しんでゆくものたちに おしえても[LN]
+しかたあるまい..(7C)[LN]
+ガンダム「なんだと![LN]
+アレックス「こんどは わたしの でばんのようですね[LN]
+ガンダム「アレックスどの..![LN]
+アレックス「しんぱい むよう! さあ!!(7A)[ED]
+
+
+//POINTER #3 @ $7E016 - STRING #3 @ $7E38B
+
+#W16($7E016)
+アムロ「なんだ.. ここが さいじょうかいか..?[LN]
+ガンダム「しっ! てきの けはいだ!(7C)[LN]
+「フフフ.. さすがだ ガンダムよ..[LN]
+ガンダム「そのこえは.. まさか!?[LN]
+アムロよ.. さがっていてくれ..[LN]
+こいつとは わたしが けっちゃくを つける!(7A)[ED]
+
+
+//POINTER #4 @ $7E018 - STRING #4 @ $7E403
+
+#W16($7E018)
+ゼータ「さあ ぼちぼち はじめるかい?[LN]
+ジオンしんえいたい「わたしたちが ザコかどうか[LN]
+おもいしるがいい![LN]
+ダブルゼータ「ほう.. そいつは おもしろい!(7C)[LN]
+ニュー「ごちゃごちゃ いってないで やるぞ!!!(7A)[ED]
+
+
+//POINTER #5 @ $7E01A - STRING #5 @ $7E46B
+
+#W16($7E01A)
+アレックス「ふたりきりに なったな..[LN]
+ゼノンマンサ「ふっ わたしに ひとりきりで[LN]
+たたかいを いどむとは.. ばかなやつだ..[LN]
+アレックス「どうかな!!(7A)[ED]
+
+
+//POINTER #6 @ $7E01C - STRING #6 @ $7E4B7
+
+#W16($7E01C)
+アムロ「いったい.. だれなんだ..?[LN]
+ガンダム「じきに わかるさ..(79)[LN]
+..........(79)[LN]
+..........(79)[LN]
+..........(79)[LN]
+..........(79)[LN]
+ガンダム「!! きたっ!!(7A)[ED]
+
+
+//POINTER #7 @ $7E01E - STRING #7 @ $7E504
+
+#W16($7E01E)
+[ED]
+
+
+//POINTER #8 @ $7E020 - STRING #8 @ $7E505
+
+#W16($7E020)
+[ED]
+
+
+//POINTER #9 @ $7E022 - STRING #9 @ $7E506
+
+#W16($7E022)
+[ED]
+
+
+//POINTER #10 @ $7E024 - STRING #10 @ $7E507
+
+#W16($7E024)
+[ED]
+
+
+//POINTER #11 @ $7E026 - STRING #11 @ $7E508
+
+#W16($7E026)
+[ED]
+
+
+//POINTER #12 @ $7E028 - STRING #12 @ $7E509
+
+#W16($7E028)
+[ED]
+
+
+//POINTER #13 @ $7E02A - STRING #13 @ $7E50A
+
+#W16($7E02A)
+[ED]
+
+
+//POINTER #14 @ $7E02C - STRING #14 @ $7E50B
+
+#W16($7E02C)
+[ED]
+
+
+//POINTER #15 @ $7E02E - STRING #15 @ $7E50C
+
+#W16($7E02E)
+[ED]
+
+
+//POINTER #16 @ $7E030 - STRING #16 @ $7E50D
+
+#W16($7E030)
+[ED]
+
+
+//POINTER #17 @ $7E032 - STRING #17 @ $7E50E
+
+#W16($7E032)
+[ED]
+
+
+//POINTER #18 @ $7E034 - STRING #18 @ $7E50F
+
+#W16($7E034)
+[ED]
+
+
+//POINTER #19 @ $7E036 - STRING #19 @ $7E510
+
+#W16($7E036)
+[ED]
+
+
+//POINTER #20 @ $7E038 - STRING #20 @ $7E511
+
+#W16($7E038)
+[ED]
+
+
+//POINTER #21 @ $7E03A - STRING #21 @ $7E512
+
+#W16($7E03A)
+[ED]
+
+
+//POINTER #22 @ $7E03C - STRING #22 @ $7E513
+
+#W16($7E03C)
+[ED]
+
+
+//POINTER #23 @ $7E03E - STRING #23 @ $7E514
+
+#W16($7E03E)
+[ED]
+
+
+//POINTER #24 @ $7E040 - STRING #24 @ $7E515
+
+#W16($7E040)
+[ED]
+
+
+//POINTER #25 @ $7E042 - STRING #25 @ $7E516
+
+#W16($7E042)
+[ED]
+
+
+//POINTER #26 @ $7E044 - STRING #26 @ $7E517
+
+#W16($7E044)
+[ED]
+
+
+//POINTER #27 @ $7E046 - STRING #27 @ $7E518
+
+#W16($7E046)
+[ED]
+
+
+//POINTER #28 @ $7E048 - STRING #28 @ $7E519
+
+#W16($7E048)
+[ED]
+
+
+//POINTER #29 @ $7E04A - STRING #29 @ $7E51A
+
+#W16($7E04A)
+[ED]
+
+
+//POINTER #30 @ $7E04C - STRING #30 @ $7E51B
+
+#W16($7E04C)
+[ED]
+
+
+//POINTER #31 @ $7E04E - STRING #31 @ $7E51C
+
+#W16($7E04E)
+[ED]
+
+
+//POINTER #32 @ $7E050 - STRING #32 @ $7E51D
+
+#W16($7E050)
+[ED]
+
+
+//POINTER #33 @ $7E052 - STRING #33 @ $7E51E
+
+#W16($7E052)
+[ED]
+
+
+//POINTER #34 @ $7E054 - STRING #34 @ $7E51F
+
+#W16($7E054)
+[ED]
+
+
+//POINTER #35 @ $7E056 - STRING #35 @ $7E520
+
+#W16($7E056)
+[ED]
+
+
+//POINTER #36 @ $7E058 - STRING #36 @ $7E521
+
+#W16($7E058)
+[ED]
+
+
+//POINTER #37 @ $7E05A - STRING #37 @ $7E522
+
+#W16($7E05A)
+[ED]
+
+
+//POINTER #38 @ $7E05C - STRING #38 @ $7E523
+
+#W16($7E05C)
+[ED]
+
+
+//POINTER #39 @ $7E05E - STRING #39 @ $7E524
+
+#W16($7E05E)
+[ED]
+
+
+//POINTER #40 @ $7E060 - STRING #40 @ $7E525
+
+#W16($7E060)
+[ED]
+
+
+//POINTER #41 @ $7E062 - STRING #41 @ $7E526
+
+#W16($7E062)
+[ED]
+
+
+//POINTER #42 @ $7E064 - STRING #42 @ $7E527
+
+#W16($7E064)
+[ED]
+
+
+//POINTER #43 @ $7E066 - STRING #43 @ $7E528
+
+#W16($7E066)
+[ED]
+
+
+//POINTER #44 @ $7E068 - STRING #44 @ $7E529
+
+#W16($7E068)
+[ED]
+
+
+//POINTER #45 @ $7E06A - STRING #45 @ $7E52A
+
+#W16($7E06A)
+[ED]
+
+
+//POINTER #46 @ $7E06C - STRING #46 @ $7E52B
+
+#W16($7E06C)
+[ED]
+
+
+//POINTER #47 @ $7E06E - STRING #47 @ $7E52C
+
+#W16($7E06E)
+[ED]
+
+
+//POINTER #48 @ $7E070 - STRING #48 @ $7E52D
+
+#W16($7E070)
+[ED]
+
+
+//POINTER #49 @ $7E072 - STRING #49 @ $7E52E
+
+#W16($7E072)
+[ED]
+
+
+//POINTER #50 @ $7E074 - STRING #50 @ $7E52F
+
+#W16($7E074)
+[ED]
+
+
+//POINTER #51 @ $7E076 - STRING #51 @ $7E530
+
+#W16($7E076)
+[ED]
+
+
+//POINTER #52 @ $7E078 - STRING #52 @ $7E531
+
+#W16($7E078)
+[ED]
+
+
+//POINTER #53 @ $7E07A - STRING #53 @ $7E532
+
+#W16($7E07A)
+[ED]
+
+
+//POINTER #54 @ $7E07C - STRING #54 @ $7E533
+
+#W16($7E07C)
+[ED]
+
+
+//POINTER #55 @ $7E07E - STRING #55 @ $7E534
+
+#W16($7E07E)
+[ED]
+
+
+//POINTER #56 @ $7E080 - STRING #56 @ $7E535
+
+#W16($7E080)
+[ED]
+
+
+//POINTER #57 @ $7E082 - STRING #57 @ $7E536
+
+#W16($7E082)
+[ED]
+
+
+//POINTER #58 @ $7E084 - STRING #58 @ $7E537
+
+#W16($7E084)
+[ED]
+
+
+//POINTER #59 @ $7E086 - STRING #59 @ $7E538
+
+#W16($7E086)
+[ED]
+
+
+//POINTER #60 @ $7E088 - STRING #60 @ $7E539
+
+#W16($7E088)
+[ED]
+
+
+//POINTER #61 @ $7E08A - STRING #61 @ $7E53A
+
+#W16($7E08A)
+[ED]
+
+
+//POINTER #62 @ $7E08C - STRING #62 @ $7E53B
+
+#W16($7E08C)
+[ED]
+
+
+//POINTER #63 @ $7E08E - STRING #63 @ $7E53C
+
+#W16($7E08E)
+[ED]
+
+
+//POINTER #64 @ $7E090 - STRING #64 @ $7E53D
+
+#W16($7E090)
+[ED]
+
+
+//POINTER #65 @ $7E092 - STRING #65 @ $7E53E
+
+#W16($7E092)
+[ED]
+
+
+//POINTER #66 @ $7E094 - STRING #66 @ $7E53F
+
+#W16($7E094)
+[ED]
+
+
+//POINTER #67 @ $7E096 - STRING #67 @ $7E540
+
+#W16($7E096)
+[ED]
+
+
+//POINTER #68 @ $7E098 - STRING #68 @ $7E541
+
+#W16($7E098)
+[ED]
+
+
+//POINTER #69 @ $7E09A - STRING #69 @ $7E542
+
+#W16($7E09A)
+[ED]
+
+
+//POINTER #70 @ $7E09C - STRING #70 @ $7E543
+
+#W16($7E09C)
+[ED]
+
+
+//POINTER #71 @ $7E09E - STRING #71 @ $7E544
+
+#W16($7E09E)
+[ED]
+
+
+//POINTER #72 @ $7E0A0 - STRING #72 @ $7E545
+
+#W16($7E0A0)
+[ED]
+
+
+//POINTER #73 @ $7E0A2 - STRING #73 @ $7E546
+
+#W16($7E0A2)
+[ED]
+
+
+//POINTER #74 @ $7E0A4 - STRING #74 @ $7E547
+
+#W16($7E0A4)
+[ED]
+
+
+//POINTER #75 @ $7E0A6 - STRING #75 @ $7E548
+
+#W16($7E0A6)
+[ED]
+
+
+//POINTER #76 @ $7E0A8 - STRING #76 @ $7E549
+
+#W16($7E0A8)
+[ED]
+
+
+//POINTER #77 @ $7E0AA - STRING #77 @ $7E54A
+
+#W16($7E0AA)
+[ED]
+
+
+//POINTER #78 @ $7E0AC - STRING #78 @ $7E54B
+
+#W16($7E0AC)
+[ED]
+
+
+//POINTER #79 @ $7E0AE - STRING #79 @ $7E54C
+
+#W16($7E0AE)
+[ED]
+
+
+//POINTER #80 @ $7E0B0 - STRING #80 @ $7E54D
+
+#W16($7E0B0)
+[ED]
+
+
+//POINTER #81 @ $7E0B2 - STRING #81 @ $7E54E
+
+#W16($7E0B2)
+[ED]
+
+
+//POINTER #82 @ $7E0B4 - STRING #82 @ $7E54F
+
+#W16($7E0B4)
+[ED]
+
+
+//POINTER #83 @ $7E0B6 - STRING #83 @ $7E550
+
+#W16($7E0B6)
+[ED]
+
+
+//POINTER #84 @ $7E0B8 - STRING #84 @ $7E551
+
+#W16($7E0B8)
+[ED]
+
+
+//POINTER #85 @ $7E0BA - STRING #85 @ $7E552
+
+#W16($7E0BA)
+[ED]
+
+
+//POINTER #86 @ $7E0BC - STRING #86 @ $7E553
+
+#W16($7E0BC)
+[ED]
+
+
+//POINTER #87 @ $7E0BE - STRING #87 @ $7E554
+
+#W16($7E0BE)
+[ED]
+
+
+//POINTER #88 @ $7E0C0 - STRING #88 @ $7E555
+
+#W16($7E0C0)
+[ED]
+
+
+//POINTER #89 @ $7E0C2 - STRING #89 @ $7E556
+
+#W16($7E0C2)
+[ED]
+
+
+//POINTER #90 @ $7E0C4 - STRING #90 @ $7E557
+
+#W16($7E0C4)
+[ED]
+
+
+//POINTER #91 @ $7E0C6 - STRING #91 @ $7E558
+
+#W16($7E0C6)
+[ED]
+
+
+//POINTER #92 @ $7E0C8 - STRING #92 @ $7E559
+
+#W16($7E0C8)
+[ED]
+
+
+//POINTER #93 @ $7E0CA - STRING #93 @ $7E55A
+
+#W16($7E0CA)
+[ED]
+
+
+//POINTER #94 @ $7E0CC - STRING #94 @ $7E55B
+
+#W16($7E0CC)
+[ED]
+
+
+//POINTER #95 @ $7E0CE - STRING #95 @ $7E55C
+
+#W16($7E0CE)
+[ED]
+
+
+//POINTER #96 @ $7E0D0 - STRING #96 @ $7E55D
+
+#W16($7E0D0)
+[ED]
+
+
+//POINTER #97 @ $7E0D2 - STRING #97 @ $7E55E
+
+#W16($7E0D2)
+[ED]
+
+
+//POINTER #98 @ $7E0D4 - STRING #98 @ $7E55F
+
+#W16($7E0D4)
+[ED]
+
+
+//POINTER #99 @ $7E0D6 - STRING #99 @ $7E560
+
+#W16($7E0D6)
+[ED]
+
+
+//POINTER #100 @ $7E0D8 - STRING #100 @ $7E561
+
+#W16($7E0D8)
+[ED]
+
+
+//POINTER #101 @ $7E0DA - STRING #101 @ $7E562
+
+#W16($7E0DA)
+[ED]
+
+
+//POINTER #102 @ $7E0DC - STRING #102 @ $7E563
+
+#W16($7E0DC)
+[ED]
+
+
+//POINTER #103 @ $7E0DE - STRING #103 @ $7E564
+
+#W16($7E0DE)
+[ED]
+
+
+//POINTER #104 @ $7E0E0 - STRING #104 @ $7E565
+
+#W16($7E0E0)
+[ED]
+
+
+//POINTER #105 @ $7E0E2 - STRING #105 @ $7E566
+
+#W16($7E0E2)
+[ED]
+
+
+//POINTER #106 @ $7E0E4 - STRING #106 @ $7E567
+
+#W16($7E0E4)
+[ED]
+
+
+//POINTER #107 @ $7E0E6 - STRING #107 @ $7E568
+
+#W16($7E0E6)
+[ED]
+
+
+//POINTER #108 @ $7E0E8 - STRING #108 @ $7E569
+
+#W16($7E0E8)
+[ED]
+
+
+//POINTER #109 @ $7E0EA - STRING #109 @ $7E56A
+
+#W16($7E0EA)
+[ED]
+
+
+//POINTER #110 @ $7E0EC - STRING #110 @ $7E56B
+
+#W16($7E0EC)
+[ED]
+
+
+//POINTER #111 @ $7E0EE - STRING #111 @ $7E56C
+
+#W16($7E0EE)
+[ED]
+
+
+//POINTER #112 @ $7E0F0 - STRING #112 @ $7E56D
+
+#W16($7E0F0)
+[ED]
+
+
+//POINTER #113 @ $7E0F2 - STRING #113 @ $7E56E
+
+#W16($7E0F2)
+[ED]
+
+
+//POINTER #114 @ $7E0F4 - STRING #114 @ $7E56F
+
+#W16($7E0F4)
+[ED]
+
+
+//POINTER #115 @ $7E0F6 - STRING #115 @ $7E570
+
+#W16($7E0F6)
+[ED]
+
+
+//POINTER #116 @ $7E0F8 - STRING #116 @ $7E571
+
+#W16($7E0F8)
+[ED]
+
+
+//POINTER #117 @ $7E0FA - STRING #117 @ $7E572
+
+#W16($7E0FA)
+[ED]
+
+
+//POINTER #118 @ $7E0FC - STRING #118 @ $7E573
+
+#W16($7E0FC)
+[ED]
+
+
+//POINTER #119 @ $7E0FE - STRING #119 @ $7E574
+
+#W16($7E0FE)
+[ED]
+
+
+//POINTER #120 @ $7E100 - STRING #120 @ $7E575
+
+#W16($7E100)
+[ED]
+
+
+//POINTER #121 @ $7E102 - STRING #121 @ $7E576
+
+#W16($7E102)
+[ED]
+
+
+//POINTER #122 @ $7E104 - STRING #122 @ $7E577
+
+#W16($7E104)
+[ED]
+
+
+//POINTER #123 @ $7E106 - STRING #123 @ $7E578
+
+#W16($7E106)
+[ED]
+
+
+//POINTER #124 @ $7E108 - STRING #124 @ $7E579
+
+#W16($7E108)
+[ED]
+
+
+//POINTER #125 @ $7E10A - STRING #125 @ $7E57A
+
+#W16($7E10A)
+[ED]
+
+
+//POINTER #126 @ $7E10C - STRING #126 @ $7E57B
+
+#W16($7E10C)
+[ED]
+
+
+//POINTER #127 @ $7E10E - STRING #127 @ $7E57C
+
+#W16($7E10E)
+[ED]
+

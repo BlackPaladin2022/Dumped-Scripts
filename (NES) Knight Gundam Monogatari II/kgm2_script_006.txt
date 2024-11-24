@@ -1,0 +1,531 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #006 NAME:		Dialogue Block 1DC49-1DCF8 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1DC49 - STRING #0 @ $1DCF9
+
+#W16($1DC49)
+В┴Вс  500[ED]
+
+
+//POINTER #1 @ $1DC4B - STRING #1 @ $1DD01
+
+#W16($1DC4B)
+В┴Вс  650[ED]
+
+
+//POINTER #2 @ $1DC4D - STRING #2 @ $1DD09
+
+#W16($1DC4D)
+В┴Вс  580[ED]
+
+
+//POINTER #3 @ $1DC4F - STRING #3 @ $1DD11
+
+#W16($1DC4F)
+В┴Вс  460[ED]
+
+
+//POINTER #4 @ $1DC51 - STRING #4 @ $1DD19
+
+#W16($1DC51)
+В┴Вс  390[ED]
+
+
+//POINTER #5 @ $1DC53 - STRING #5 @ $1DD21
+
+#W16($1DC53)
+В┴Вс  680[ED]
+
+
+//POINTER #6 @ $1DC55 - STRING #6 @ $1DD29
+
+#W16($1DC55)
+В┴Вс  630[ED]
+
+
+//POINTER #7 @ $1DC57 - STRING #7 @ $1DD31
+
+#W16($1DC57)
+В┴Вс  550[ED]
+
+
+//POINTER #8 @ $1DC59 - STRING #8 @ $1DD39
+
+#W16($1DC59)
+В┴Вс  470[ED]
+
+
+//POINTER #9 @ $1DC5B - STRING #9 @ $1DD41
+
+#W16($1DC5B)
+В┴Вс  700[ED]
+
+
+//POINTER #10 @ $1DC5D - STRING #10 @ $1DD49
+
+#W16($1DC5D)
+ВЁВс  450[ED]
+
+
+//POINTER #11 @ $1DC5F - STRING #11 @ $1DD51
+
+#W16($1DC5F)
+ВЁВс  370[ED]
+
+
+//POINTER #12 @ $1DC61 - STRING #12 @ $1DD59
+
+#W16($1DC61)
+ВЁВс  250[ED]
+
+
+//POINTER #13 @ $1DC63 - STRING #13 @ $1DD61
+
+#W16($1DC63)
+ВЁВс   30[ED]
+
+
+//POINTER #14 @ $1DC65 - STRING #14 @ $1DD69
+
+#W16($1DC65)
+В┴Вс  300[ED]
+
+
+//POINTER #15 @ $1DC67 - STRING #15 @ $1DD71
+
+#W16($1DC67)
+В┴Вс  100[ED]
+
+
+//POINTER #16 @ $1DC69 - STRING #16 @ $1DD79
+
+#W16($1DC69)
+В┴Вс  130[ED]
+
+
+//POINTER #17 @ $1DC6B - STRING #17 @ $1DD81
+
+#W16($1DC6B)
+В┴Вс  330[ED]
+
+
+//POINTER #18 @ $1DC6D - STRING #18 @ $1DD89
+
+#W16($1DC6D)
+В┴Вс   90[ED]
+
+
+//POINTER #19 @ $1DC6F - STRING #19 @ $1DD91
+
+#W16($1DC6F)
+В┴Вс  190[ED]
+
+
+//POINTER #20 @ $1DC71 - STRING #20 @ $1DD99
+
+#W16($1DC71)
+В┴Вс  290[ED]
+
+
+//POINTER #21 @ $1DC73 - STRING #21 @ $1DDA1
+
+#W16($1DC73)
+В┴Вс  390[ED]
+
+
+//POINTER #22 @ $1DC75 - STRING #22 @ $1DDA9
+
+#W16($1DC75)
+ ГfБ[Г^В╙В▀Вв[ED]
+
+
+//POINTER #23 @ $1DC77 - STRING #23 @ $1DDB1
+
+#W16($1DC77)
+В┴Вс  100[ED]
+
+
+//POINTER #24 @ $1DC79 - STRING #24 @ $1DDB9
+
+#W16($1DC79)
+В┴Вс  240[ED]
+
+
+//POINTER #25 @ $1DC7B - STRING #25 @ $1DDC1
+
+#W16($1DC7B)
+В┴Вс  590[ED]
+
+
+//POINTER #26 @ $1DC7D - STRING #26 @ $1DDC9
+
+#W16($1DC7D)
+800?400[ED]
+
+
+//POINTER #27 @ $1DC7F - STRING #27 @ $1DDD1
+
+#W16($1DC7F)
+В┴Вс  500[ED]
+
+
+//POINTER #28 @ $1DC81 - STRING #28 @ $1DDD9
+
+#W16($1DC81)
+750?350[ED]
+
+
+//POINTER #29 @ $1DC83 - STRING #29 @ $1DDE1
+
+#W16($1DC83)
+ВЁВс  420[ED]
+
+
+//POINTER #30 @ $1DC85 - STRING #30 @ $1DDE9
+
+#W16($1DC85)
+ВЁВс  990[ED]
+
+
+//POINTER #31 @ $1DC87 - STRING #31 @ $1DDF1
+
+#W16($1DC87)
+930?370[ED]
+
+
+//POINTER #32 @ $1DC89 - STRING #32 @ $1DDF9
+
+#W16($1DC89)
+В┴Вс   90[ED]
+
+
+//POINTER #33 @ $1DC8B - STRING #33 @ $1DE01
+
+#W16($1DC8B)
+В┴Вс   30[ED]
+
+
+//POINTER #34 @ $1DC8D - STRING #34 @ $1DE09
+
+#W16($1DC8D)
+В┴Вс 3000[ED]
+
+
+//POINTER #35 @ $1DC8F - STRING #35 @ $1DE11
+
+#W16($1DC8F)
+В┴Вс   40[ED]
+
+
+//POINTER #36 @ $1DC91 - STRING #36 @ $1DE19
+
+#W16($1DC91)
+В┴Вс  260[ED]
+
+
+//POINTER #37 @ $1DC93 - STRING #37 @ $1DE21
+
+#W16($1DC93)
+В┴Вс  ?30[ED]
+
+
+//POINTER #38 @ $1DC95 - STRING #38 @ $1DE29
+
+#W16($1DC95)
+В┴Вс  ?50[ED]
+
+
+//POINTER #39 @ $1DC97 - STRING #39 @ $1DE31
+
+#W16($1DC97)
+ВЁВс ?100[ED]
+
+
+//POINTER #40 @ $1DC99 - STRING #40 @ $1DE39
+
+#W16($1DC99)
+В┴Вс ?100[ED]
+
+
+//POINTER #41 @ $1DC9B - STRING #41 @ $1DE41
+
+#W16($1DC9B)
+В┴Вс ?150[ED]
+
+
+//POINTER #42 @ $1DC9D - STRING #42 @ $1DE49
+
+#W16($1DC9D)
+ВЁВс ?200[ED]
+
+
+//POINTER #43 @ $1DC9F - STRING #43 @ $1DE51
+
+#W16($1DC9F)
+В┴Вс  150[ED]
+
+
+//POINTER #44 @ $1DCA1 - STRING #44 @ $1DE59
+
+#W16($1DCA1)
+В┴Вс 2000[ED]
+
+
+//POINTER #45 @ $1DCA3 - STRING #45 @ $1DE61
+
+#W16($1DCA3)
+В┴Вс  200[ED]
+
+
+//POINTER #46 @ $1DCA5 - STRING #46 @ $1DE69
+
+#W16($1DCA5)
+ВЁВс  400[ED]
+
+
+//POINTER #47 @ $1DCA7 - STRING #47 @ $1DE71
+
+#W16($1DCA7)
+В┴Вс 1900[ED]
+
+
+//POINTER #48 @ $1DCA9 - STRING #48 @ $1DE79
+
+#W16($1DCA9)
+В┴Вс 3000[ED]
+
+
+//POINTER #49 @ $1DCAB - STRING #49 @ $1DE81
+
+#W16($1DCAB)
+В┴Вс   20[ED]
+
+
+//POINTER #50 @ $1DCAD - STRING #50 @ $1DE89
+
+#W16($1DCAD)
+В┴Вс  150[ED]
+
+
+//POINTER #51 @ $1DCAF - STRING #51 @ $1DE91
+
+#W16($1DCAF)
+В┴Вс   50[ED]
+
+
+//POINTER #52 @ $1DCB1 - STRING #52 @ $1DE99
+
+#W16($1DCB1)
+В┴Вс  700[ED]
+
+
+//POINTER #53 @ $1DCB3 - STRING #53 @ $1DEA1
+
+#W16($1DCB3)
+В┴Вс  100[ED]
+
+
+//POINTER #54 @ $1DCB5 - STRING #54 @ $1DEA9
+
+#W16($1DCB5)
+В┴Вс  130[ED]
+
+
+//POINTER #55 @ $1DCB7 - STRING #55 @ $1DEB1
+
+#W16($1DCB7)
+В┴Вс   60[ED]
+
+
+//POINTER #56 @ $1DCB9 - STRING #56 @ $1DEB9
+
+#W16($1DCB9)
+В┴Вс  120[ED]
+
+
+//POINTER #57 @ $1DCBB - STRING #57 @ $1DEC1
+
+#W16($1DCBB)
+В┴Вс  240[ED]
+
+
+//POINTER #58 @ $1DCBD - STRING #58 @ $1DEC9
+
+#W16($1DCBD)
+В┴Вс  480[ED]
+
+
+//POINTER #59 @ $1DCBF - STRING #59 @ $1DED1
+
+#W16($1DCBF)
+В┴Вс  490[ED]
+
+
+//POINTER #60 @ $1DCC1 - STRING #60 @ $1DED9
+
+#W16($1DCC1)
+В┴Вс  260[ED]
+
+
+//POINTER #61 @ $1DCC3 - STRING #61 @ $1DEE1
+
+#W16($1DCC3)
+В┴Вс  520[ED]
+
+
+//POINTER #62 @ $1DCC5 - STRING #62 @ $1DEE9
+
+#W16($1DCC5)
+В┴Вс  780[ED]
+
+
+//POINTER #63 @ $1DCC7 - STRING #63 @ $1DEF1
+
+#W16($1DCC7)
+В┴Вс  940[ED]
+
+
+//POINTER #64 @ $1DCC9 - STRING #64 @ $1DEF9
+
+#W16($1DCC9)
+В┴Вс 1200[ED]
+
+
+//POINTER #65 @ $1DCCB - STRING #65 @ $1DF01
+
+#W16($1DCCB)
+В┴Вс   90[ED]
+
+
+//POINTER #66 @ $1DCCD - STRING #66 @ $1DF09
+
+#W16($1DCCD)
+В┴Вс  180[ED]
+
+
+//POINTER #67 @ $1DCCF - STRING #67 @ $1DF11
+
+#W16($1DCCF)
+В┴Вс  270[ED]
+
+
+//POINTER #68 @ $1DCD1 - STRING #68 @ $1DF19
+
+#W16($1DCD1)
+В┴Вс  360[ED]
+
+
+//POINTER #69 @ $1DCD3 - STRING #69 @ $1DF21
+
+#W16($1DCD3)
+В┴Вс  490[ED]
+
+
+//POINTER #70 @ $1DCD5 - STRING #70 @ $1DF29
+
+#W16($1DCD5)
+В┴Вс  540[ED]
+
+
+//POINTER #71 @ $1DCD7 - STRING #71 @ $1DF31
+
+#W16($1DCD7)
+В┴Вс  630[ED]
+
+
+//POINTER #72 @ $1DCD9 - STRING #72 @ $1DF39
+
+#W16($1DCD9)
+В┴Вс  720[ED]
+
+
+//POINTER #73 @ $1DCDB - STRING #73 @ $1DF41
+
+#W16($1DCDB)
+В┴Вс  810[ED]
+
+
+//POINTER #74 @ $1DCDD - STRING #74 @ $1DF49
+
+#W16($1DCDD)
+ВЁВс  950[ED]
+
+
+//POINTER #75 @ $1DCDF - STRING #75 @ $1DF51
+
+#W16($1DCDF)
+ВЁВс  850[ED]
+
+
+//POINTER #76 @ $1DCE1 - STRING #76 @ $1DF59
+
+#W16($1DCE1)
+ВЁВс 1450[ED]
+
+
+//POINTER #77 @ $1DCE3 - STRING #77 @ $1DF61
+
+#W16($1DCE3)
+В┴Вс 1300[ED]
+
+
+//POINTER #78 @ $1DCE5 - STRING #78 @ $1DF69
+
+#W16($1DCE5)
+ВЁВс  900[ED]
+
+
+//POINTER #79 @ $1DCE7 - STRING #79 @ $1DF71
+
+#W16($1DCE7)
+ВЁВс 1400[ED]
+
+
+//POINTER #80 @ $1DCE9 - STRING #80 @ $1DF79
+
+#W16($1DCE9)
+ВЁВс 1700[ED]
+
+
+//POINTER #81 @ $1DCEB - STRING #81 @ $1DF81
+
+#W16($1DCEB)
+В┴Вс 2900[ED]
+
+
+//POINTER #82 @ $1DCED - STRING #82 @ $1DF89
+
+#W16($1DCED)
+В┴Вс 1800[ED]
+
+
+//POINTER #83 @ $1DCEF - STRING #83 @ $1DF91
+
+#W16($1DCEF)
+В┴Вс13000[ED]
+
+
+//POINTER #84 @ $1DCF1 - STRING #84 @ $1DF99
+
+#W16($1DCF1)
+В┴Вс15000[ED]
+
+
+//POINTER #85 @ $1DCF3 - STRING #85 @ $1DFA1
+
+#W16($1DCF3)
+ВЁВс26000[ED]
+
+
+//POINTER #86 @ $1DCF5 - STRING #86 @ $1DFA9
+
+#W16($1DCF5)
+В┴Вс 1000[ED]
+
+
+//POINTER #87 @ $1DCF7 - STRING #87 @ $1DFB1
+
+#W16($1DCF7)
+В┴Вс   10[ED]
+

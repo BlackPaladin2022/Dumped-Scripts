@@ -1,0 +1,345 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #001 NAME:		Dialogue Block 1CC94-1CD05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1CC94 - STRING #0 @ $1CD06
+
+#W16($1CC94)
+ガン[ED]
+
+
+//POINTER #1 @ $1CC96 - STRING #1 @ $1CD09
+
+#W16($1CC96)
+ムービガン[ED]
+
+
+//POINTER #2 @ $1CC98 - STRING #2 @ $1CD0F
+
+#W16($1CC98)
+ムビルフィラ[ED]
+
+
+//POINTER #3 @ $1CC9A - STRING #3 @ $1CD16
+
+#W16($1CC9A)
+ファン[ED]
+
+
+//POINTER #4 @ $1CC9C - STRING #4 @ $1CD1A
+
+#W16($1CC9C)
+ファンネル[ED]
+
+
+//POINTER #5 @ $1CC9E - STRING #5 @ $1CD20
+
+#W16($1CC9E)
+メガファン[ED]
+
+
+//POINTER #6 @ $1CCA0 - STRING #6 @ $1CD26
+
+#W16($1CCA0)
+バズ[ED]
+
+
+//POINTER #7 @ $1CCA2 - STRING #7 @ $1CD29
+
+#W16($1CCA2)
+バズレイ[ED]
+
+
+//POINTER #8 @ $1CCA4 - STRING #8 @ $1CD2E
+
+#W16($1CCA4)
+メガバズ[ED]
+
+
+//POINTER #9 @ $1CCA6 - STRING #9 @ $1CD33
+
+#W16($1CCA6)
+ソーラ[ED]
+
+
+//POINTER #10 @ $1CCA8 - STRING #10 @ $1CD37
+
+#W16($1CCA8)
+ソーラレイ[ED]
+
+
+//POINTER #11 @ $1CCAA - STRING #11 @ $1CD3D
+
+#W16($1CCAA)
+ギガソーラ[ED]
+
+
+//POINTER #12 @ $1CCAC - STRING #12 @ $1CD43
+
+#W16($1CCAC)
+サイコミュ[ED]
+
+
+//POINTER #13 @ $1CCAE - STRING #13 @ $1CD49
+
+#W16($1CCAE)
+ビット[ED]
+
+
+//POINTER #14 @ $1CCB0 - STRING #14 @ $1CD4D
+
+#W16($1CCB0)
+ミノフス[ED]
+
+
+//POINTER #15 @ $1CCB2 - STRING #15 @ $1CD52
+
+#W16($1CCB2)
+フラッシュ[ED]
+
+
+//POINTER #16 @ $1CCB4 - STRING #16 @ $1CD58
+
+#W16($1CCB4)
+ネット[ED]
+
+
+//POINTER #17 @ $1CCB6 - STRING #17 @ $1CD5C
+
+#W16($1CCB6)
+ホバー[ED]
+
+
+//POINTER #18 @ $1CCB8 - STRING #18 @ $1CD60
+
+#W16($1CCB8)
+ハニカム[ED]
+
+
+//POINTER #19 @ $1CCBA - STRING #19 @ $1CD65
+
+#W16($1CCBA)
+フィルム[ED]
+
+
+//POINTER #20 @ $1CCBC - STRING #20 @ $1CD6A
+
+#W16($1CCBC)
+ツイン[ED]
+
+
+//POINTER #21 @ $1CCBE - STRING #21 @ $1CD6E
+
+#W16($1CCBE)
+ウォーター[ED]
+
+
+//POINTER #22 @ $1CCC0 - STRING #22 @ $1CD74
+
+#W16($1CCC0)
+ヒーター[ED]
+
+
+//POINTER #23 @ $1CCC2 - STRING #23 @ $1CD79
+
+#W16($1CCC2)
+リカバー[ED]
+
+
+//POINTER #24 @ $1CCC4 - STRING #24 @ $1CD7E
+
+#W16($1CCC4)
+ピュア[ED]
+
+
+//POINTER #25 @ $1CCC6 - STRING #25 @ $1CD82
+
+#W16($1CCC6)
+ピュアラ[ED]
+
+
+//POINTER #26 @ $1CCC8 - STRING #26 @ $1CD87
+
+#W16($1CCC8)
+ホーリー[ED]
+
+
+//POINTER #27 @ $1CCCA - STRING #27 @ $1CD8C
+
+#W16($1CCCA)
+ミディ[ED]
+
+
+//POINTER #28 @ $1CCCC - STRING #28 @ $1CD90
+
+#W16($1CCCC)
+ミディア[ED]
+
+
+//POINTER #29 @ $1CCCE - STRING #29 @ $1CD95
+
+#W16($1CCCE)
+ミディアム[ED]
+
+
+//POINTER #30 @ $1CCD0 - STRING #30 @ $1CD9B
+
+#W16($1CCD0)
+マディア[ED]
+
+
+//POINTER #31 @ $1CCD2 - STRING #31 @ $1CDA0
+
+#W16($1CCD2)
+マディアム[ED]
+
+
+//POINTER #32 @ $1CCD4 - STRING #32 @ $1CDA6
+
+#W16($1CCD4)
+ライブ[ED]
+
+
+//POINTER #33 @ $1CCD6 - STRING #33 @ $1CDAA
+
+#W16($1CCD6)
+リライブ[ED]
+
+
+//POINTER #34 @ $1CCD8 - STRING #34 @ $1CDAF
+
+#W16($1CCD8)
+ターン[ED]
+
+
+//POINTER #35 @ $1CCDA - STRING #35 @ $1CDB3
+
+#W16($1CCDA)
+ケープ[ED]
+
+
+//POINTER #36 @ $1CCDC - STRING #36 @ $1CDB7
+
+#W16($1CCDC)
+[ED]
+
+
+//POINTER #37 @ $1CCDE - STRING #37 @ $1CDB8
+
+#W16($1CCDE)
+[ED]
+
+
+//POINTER #38 @ $1CCE0 - STRING #38 @ $1CDB9
+
+#W16($1CCE0)
+[ED]
+
+
+//POINTER #39 @ $1CCE2 - STRING #39 @ $1CDBA
+
+#W16($1CCE2)
+[ED]
+
+
+//POINTER #40 @ $1CCE4 - STRING #40 @ $1CDBB
+
+#W16($1CCE4)
+[ED]
+
+
+//POINTER #41 @ $1CCE6 - STRING #41 @ $1CDBC
+
+#W16($1CCE6)
+[ED]
+
+
+//POINTER #42 @ $1CCE8 - STRING #42 @ $1CDBD
+
+#W16($1CCE8)
+[ED]
+
+
+//POINTER #43 @ $1CCEA - STRING #43 @ $1CDBE
+
+#W16($1CCEA)
+[ED]
+
+
+//POINTER #44 @ $1CCEC - STRING #44 @ $1CDBF
+
+#W16($1CCEC)
+[ED]
+
+
+//POINTER #45 @ $1CCEE - STRING #45 @ $1CDC0
+
+#W16($1CCEE)
+[ED]
+
+
+//POINTER #46 @ $1CCF0 - STRING #46 @ $1CDC1
+
+#W16($1CCF0)
+[ED]
+
+
+//POINTER #47 @ $1CCF2 - STRING #47 @ $1CDC2
+
+#W16($1CCF2)
+[ED]
+
+
+//POINTER #48 @ $1CCF4 - STRING #48 @ $1CDC3
+
+#W16($1CCF4)
+[ED]
+
+
+//POINTER #49 @ $1CCF6 - STRING #49 @ $1CDC4
+
+#W16($1CCF6)
+・[ED]
+
+
+//POINTER #50 @ $1CCF8 - STRING #50 @ $1CDC6
+
+#W16($1CCF8)
+・・[ED]
+
+
+//POINTER #51 @ $1CCFA - STRING #51 @ $1CDC9
+
+#W16($1CCFA)
+・・・[ED]
+
+
+//POINTER #52 @ $1CCFC - STRING #52 @ $1CDCD
+
+#W16($1CCFC)
+・・・・[ED]
+
+
+//POINTER #53 @ $1CCFE - STRING #53 @ $1CDD2
+
+#W16($1CCFE)
+・・・・・[ED]
+
+
+//POINTER #54 @ $1CD00 - STRING #54 @ $1CDD8
+
+#W16($1CD00)
+・・・・・・[ED]
+
+
+//POINTER #55 @ $1CD02 - STRING #55 @ $1CDDF
+
+#W16($1CD02)
+・・・・・・・[ED]
+
+
+//POINTER #56 @ $1CD04 - STRING #56 @ $1CDE7
+
+#W16($1CD04)
+・・・・・・・・[ED]
+
