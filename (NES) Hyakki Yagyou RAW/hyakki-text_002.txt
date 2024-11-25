@@ -1,0 +1,12 @@
+//GAME NAME:		Hyakki Yagyou (NES)
+
+//BLOCK #002 NAME:		Dialogue Block (RAW)
+//Block Range: $8FD4 - $8FF0
+
+‚Í‚¶‚ß‚©‚ç(LINE)
+‚Â‚Ã‚«‚©‚ç(LINE)
+[ED]
+<$FF>1988(LINE)
+<$FF><$FF>USE<$FF>(LINE)
+CO,LTD(END)
+
