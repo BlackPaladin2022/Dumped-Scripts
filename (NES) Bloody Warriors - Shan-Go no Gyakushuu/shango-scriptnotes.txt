@@ -1,0 +1,6 @@
+Shango 000 = Prelude text
+Shango 001 = 007 = Story text
+Shango 008 = Dictionary Entries
+Shango 009 = List (presumably items)
+Shango 010 = Initial Menus text
+Shango 011 = Shango 001-007 in one text file (Some entries were removed as they were just garbage data)
