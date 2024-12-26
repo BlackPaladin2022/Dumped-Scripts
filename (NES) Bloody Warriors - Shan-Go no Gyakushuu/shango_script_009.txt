@@ -1,8 +1,32 @@
 //GAME NAME:		Bloody Warriors - Shan-Go no Gyakushuu (NES)
 
 //BLOCK #009 NAME:		Dialogue Block (RAW)
-//Block Range: $3C996 - $3C9AC
+//Block Range: $37C2E - $37CCF
 
-たたかいにでる[LN]
-きろくをけす[LN]
-きろくをうつす
+ブルーカー[ED]
+ウｨッグス[ED]
+シャーウッド[ED]
+デモンエッジ[ED]
+ベムブル[ED]
+ウｫルフエ[ED]
+ハウアー[ED]
+ジョニームー[ED]
+バンゲル[ED]
+ピューター[ED]
+フロッパー[ED]
+マーダビー[ED]
+キャブス[ED]
+シエンカー[ED]
+サンドキラー[ED]
+ダークボア[ED]
+カーマイン[ED]
+デルガド[ED]
+キラフｨー[ED]
+シュール[ED]
+イルル[LN]
+ ヤンカシュ[ED]
+カルワリオ [ED]
+せいじゅう[ED]
+ほのうのかみ[ED]
+みずのかみ[ED]
+つちのかみ[ED]
