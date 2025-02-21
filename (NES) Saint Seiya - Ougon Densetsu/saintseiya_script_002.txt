@@ -1,0 +1,214 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $1E5D0 - STRING #0 @ $37AD7
+
+#W16($1E5D0)
+セイヤちゃん(NPC-02) どう(NPC-01)したの？[LN]
+(F0)クロス  のうりょく  いどう  パスワード[ED]
+
+
+//POINTER #1 @ $1E5D2 - STRING #1 @ $37C09
+
+#W16($1E5D2)
+(F0)たたかう  にげる   はなす   なかま[ED]
+
+
+//POINTER #2 @ $1E5D4 - STRING #2 @ $37C20
+
+#W16($1E5D4)
+なかまは だれも いません[ED]
+
+
+//POINTER #3 @ $1E5D6 - STRING #3 @ $37C2E
+
+#W16($1E5D6)
+だれを よびますか？[LN]
+[ED]
+
+
+//POINTER #4 @ $1E5D8 - STRING #4 @ $37C3A
+
+#W16($1E5D8)
+にげると(NPC-02)は ひ(NPC-01)きょうだぞ！！[ED]
+
+
+//POINTER #5 @ $1E5DA - STRING #5 @ $37C4B
+
+#W16($1E5DA)
+(NPC-02)にがしは(NPC-01)しないよ！(NPC-02) (NPC-01)[ED]
+
+
+//POINTER #6 @ $1E5DC - STRING #6 @ $37C5A
+
+#W16($1E5DC)
+にが(NPC-02)しは(NPC-01)しないぞ！(NPC-02) (NPC-01)[ED]
+
+
+//POINTER #7 @ $1E5DE - STRING #7 @ $37C69
+
+#W16($1E5DE)
+(F1)コスモパワーをセットしてください[ED]
+
+
+//POINTER #8 @ $1E5E0 - STRING #8 @ $37C7B
+
+#W16($1E5E0)
+てきの せんせいこうげき！！[ED]
+
+
+//POINTER #9 @ $1E5E2 - STRING #9 @ $37C8A
+
+#W16($1E5E2)
+てきは なにも しゃべらなかった[ED]
+
+
+//POINTER #10 @ $1E5E4 - STRING #10 @ $37AFF
+
+#W16($1E5E4)
+どこへ(NPC-02) (NPC-01)いきますか(NPC-02) ？ (NPC-01)えらんでください[LN]
+(F6)キド テイ  コジイン  グラードコロッセオ[ED]
+
+
+//POINTER #11 @ $1E5E6 - STRING #11 @ $37B30
+
+#W16($1E5E6)
+ど(NPC-02)こへ いきま(NPC-01)すか ？ えらん(NPC-02)でくだ(NPC-01)さい[LN]
+(F7)フジのフウケツ  ゴロウホウ  ムーのヤカタ[ED]
+
+
+//POINTER #12 @ $1E5E8 - STRING #12 @ $37B61
+
+#W16($1E5E8)
+どこへ(NPC-02) い(NPC-01)きますか ？(NPC-02) えら(NPC-01)んでください[LN]
+<$F8>キド テイ   ゴロウホウ   ムーのヤカタ[ED]
+
+
+//POINTER #13 @ $1E5EA - STRING #13 @ $37B92
+
+#W16($1E5EA)
+ど(NPC-02)こへ(NPC-01) いきますか(NPC-02) ？(NPC-01) えらんで(NPC-02)くだ(NPC-01)さい[LN]
+<$F9>グラードコロッセオ ゴロウホウ ムーのヤカタ[ED]
+
+
+//POINTER #14 @ $1E5EC - STRING #14 @ $37BC5
+
+#W16($1E5EC)
+(NPC-02)どこへ(NPC-01) いきますか(NPC-02) ？(NPC-01) えらんでください[LN]
+(F7)サンクチュアリ  ゴロウホウ  ムーのヤカタ[ED]
+
+
+//POINTER #15 @ $1E5EE - STRING #15 @ $37BF6
+
+#W16($1E5EE)
+(F5)ここでは (NPC-02)いどう(NPC-01)できません(NPC-01)！[ED]
+
+
+//POINTER #16 @ $1E5F0 - STRING #16 @ $37C9B
+
+#W16($1E5F0)
+クロスは まだ さずけられてないのよ！[ED]
+
+
+//POINTER #17 @ $1E5F2 - STRING #17 @ $37CAF
+
+#W16($1E5F2)
+あとは コスモをねんしょうさせるのよ！[ED]
+
+
+//POINTER #18 @ $1E5F4 - STRING #18 @ $37CC3
+
+#W16($1E5F4)
+ソウルとパワーを いっちさせるのよ！[ED]
+
+
+//POINTER #19 @ $1E5F6 - STRING #19 @ $37CD6
+
+#W16($1E5F6)
+ぼうぎょりょくが よわまったから きをつけて！[ED]
+
+
+//POINTER #20 @ $1E5F8 - STRING #20 @ $37CEE
+
+#W16($1E5F8)
+ワザを えらんでください[LN]
+(F3)パンチ   キック[ED]
+
+
+//POINTER #21 @ $1E5FA - STRING #21 @ $37D06
+
+#W16($1E5FA)
+ぼうぎょを えらんでください[LN]
+(F3)ふせぐ   かわす[ED]
+
+
+//POINTER #22 @ $1E5FC - STRING #22 @ $37D20
+
+#W16($1E5FC)
+セイヤ(NPC-02) (NPC-01)したの(NPC-02)ことばを(NPC-01) おぼえておけば[LN]
+(NPC-02)たたかいを(NPC-01) つづけられます[LN]
+では (NPC-02)ゆっくり(NPC-01) おやすみなさい(NPC-02) (NPC-01)[ED]
+
+
+//POINTER #23 @ $1E5FE - STRING #23 @ $37D92
+
+#W16($1E5FE)
+セ(NPC-02)イヤ(NPC-01)よくかちぬいてくれ(NPC-02)ました(NPC-01)[LN]
+あなた(NPC-02)たちこそ(NPC-01) しんのセイント(NPC-02)で(NPC-01)す[LN]
+(NPC-02)でも アーレスの (NPC-01)やぼうは まだ(NPC-02)つづ(NPC-01)くでしょう[LN]
+これからも(NPC-02) せいぎ(NPC-01)の こころと(NPC-02) ゆうじょう(NPC-01)で[LN]
+いっしょに(NPC-02) たたかって(NPC-01) ください[ED]
+
+
+//POINTER #24 @ $1E600 - STRING #24 @ $37E06
+
+#W16($1E600)
+わかりま(Seiya02)した(Seiya01) おじょうさん(Seiya02) いや アテ(Seiya01)ナ[ED]
+
+
+//POINTER #25 @ $1E602 - STRING #25 @ $37E1F
+
+#W16($1E602)
+ボク(NPC-02)も(NPC-01) きょうりょくするよ(NPC-02) (NPC-01)[ED]
+
+
+//POINTER #26 @ $1E604 - STRING #26 @ $37E32
+
+#W16($1E604)
+セ(NPC-02)イヤだけに(NPC-01) まかせられない(NPC-02)からな(NPC-01)[ED]
+
+
+//POINTER #27 @ $1E606 - STRING #27 @ $37E48
+
+#W16($1E606)
+しか(NPC-02)し(NPC-01) アーレスは いったい(NPC-02) だれなん(NPC-01)だ？[ED]
+
+
+//POINTER #28 @ $1E608 - STRING #28 @ $37E62
+
+#W16($1E608)
+セイヤ(NPC-02) オレ(NPC-01)が ついてるぜ！[ED]
+
+
+//POINTER #29 @ $1E60A - STRING #29 @ $37D5D
+
+#W16($1E60A)
+セイヤ (NPC-02)これが(NPC-01) あなたの(NPC-02) ほんとうのちから(NPC-01)です[LN]
+これからは(NPC-02) この(NPC-01)ちからで(NPC-02) たたかいなさい(NPC-01)[ED]
+
+
+//POINTER #30 @ $1E60C - STRING #30 @ $37E73
+
+#W16($1E60C)
+セイヤ ほんとうの たたかいは これからよ[ED]
+
+
+//POINTER #31 @ $1E60E - STRING #31 @ $37E89
+
+#W16($1E60E)
+さぁ！(NPC-02) どちらの(NPC-01)セイントが[LN]
+ほんとうの(NPC-02) (NPC-01)ペガサスセイントか[LN]
+ぜんりょくで(NPC-02) たたかう(NPC-01)のだ[LN]
+にげ(NPC-02)ることは ゆるさ(NPC-01)んぞ！[ED]
+
