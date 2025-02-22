@@ -1,0 +1,857 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #026 NAME:		Dialogue Block 7F000 (POINTER_RELATIVE)
+
+//POINTER #0 @ $7F010 - STRING #0 @ $7F110
+
+#W16($7F010)
+「いらっしゃいませ けがわの コートは[LN]
+ 29800 ゴールド です[LN]
+おかいあげに なりますか?[ED]
+
+
+//POINTER #1 @ $7F012 - STRING #1 @ $7F141
+
+#W16($7F012)
+まいど ありがとう ございます(7A)[ED]
+
+
+//POINTER #2 @ $7F014 - STRING #2 @ $7F152
+
+#W16($7F014)
+また どーぞ(7A)[ED]
+
+
+//POINTER #3 @ $7F016 - STRING #3 @ $7F15A
+
+#W16($7F016)
+おきゃくさん こまりましたねー[LN]
+にもつが いっぱい ですよ[LN]
+にもつを へらしてから[LN]
+またきて きださい(7A)[ED]
+
+
+//POINTER #4 @ $7F018 - STRING #4 @ $7F18F
+
+#W16($7F018)
+おかねが たりませんよ おきゃくさん(7A)[ED]
+
+
+//POINTER #5 @ $7F01A - STRING #5 @ $7F1A3
+
+#W16($7F01A)
+「いらっしゃいませ[LN]
+コートを つくるのには[LN]
+けがわが 10まい ひつようです[LN]
+コートを つくりますか?[ED]
+
+
+//POINTER #6 @ $7F01C - STRING #6 @ $7F1D7
+
+#W16($7F01C)
+かしこまりました[LN]
+しょうしょう おまちください[LN]
+・・・ ジョキ ジョキ(79)[LN]
+・・・ チク チク(79)[LN]
+おまちどうさま どうぞ(7A)[ED]
+
+
+//POINTER #7 @ $7F01E - STRING #7 @ $7F214
+
+#W16($7F01E)
+おきゃくさま けがわが たりませんね(7A)[ED]
+
+
+//POINTER #8 @ $7F020 - STRING #8 @ $7F228
+
+#W16($7F020)
+そうですか....(7A)[ED]
+
+
+//POINTER #9 @ $7F022 - STRING #9 @ $7F231
+
+#W16($7F022)
+「かってに たからを とらないでね!(7A)[ED]
+
+
+//POINTER #10 @ $7F024 - STRING #10 @ $7F245
+
+#W16($7F024)
+「ねえ ひょっとして たから もってった?(7A)[ED]
+
+
+//POINTER #11 @ $7F026 - STRING #11 @ $7F25C
+
+#W16($7F026)
+「あー たまのこしに のりたあーい(7A)[ED]
+
+
+//POINTER #12 @ $7F028 - STRING #12 @ $7F26F
+
+#W16($7F028)
+「このまちにも まえまでは[LN]
+けんじゃが いたんだ けれど[LN]
+ベクレジイオンのしろへ つれていかれてしまい[LN]
+それっきりさ..(7C)[LN]
+いまでも いきていて くれれば よいが..[LN]
+あー かみさま! どうか かれを[LN]
+おすくい ください!(7A)[ED]
+
+
+//POINTER #13 @ $7F02A - STRING #13 @ $7F2DE
+
+#W16($7F02A)
+「なんじゃ? わしに ききたいことが あるのかい?[ED]
+
+
+//POINTER #14 @ $7F02C - STRING #14 @ $7F2F8
+
+#W16($7F02C)
+そうか.. えんりょは いらんのに..(7C)[ED]
+
+
+//POINTER #15 @ $7F02E - STRING #15 @ $7F30B
+
+#W16($7F02E)
+そうじゃろ? よし はなしてやろう..(7C)[LN]
+まぼろしのレンズという ふしぎな レンズがある..[LN]
+そのレンズは そのものの しんじつのすがたを[LN]
+ふうじこめ かわりに いつわりのすがたを[LN]
+うつしだすという ちからを もっておるんじゃ..(7C)[LN]
+そして その しんじつのすがたを とりもどすには[LN]
+ふたたび その レンズを つかわなくては[LN]
+ならんのじゃ..[LN]
+どうじゃ.. なかなか おもしろい はなしじゃろ!(7C)[LN]
+そういえば ちょっと まえにも このはなしを[LN]
+してやったんじゃよ..[LN]
+なんか ぶかっこうな とりのバケモンじゃったかの..[LN]
+たしか ガゥー.... わすれたわい..(7A)[ED]
+
+
+//POINTER #16 @ $7F030 - STRING #16 @ $7F41C
+
+#W16($7F030)
+「このまえは ごくろうじゃった![LN]
+おぬしらが はたけを いいぐあいに たがやして[LN]
+くれた おかげで みごとに めがでおったぞ![LN]
+ん? ざいさん? そんなこと いったかのお!!(7C)[LN]
+そんなことより ききたいことが あるんじゃろ?[ED]
+
+
+//POINTER #17 @ $7F032 - STRING #17 @ $7F48D
+
+#W16($7F032)
+おお そうじゃ おもての はたけを いじっては[LN]
+いかんぞ! なかに わしの ばくだいな ざいさんを[LN]
+かくして あるんじゃ![LN]
+はたけに かくすとは なかなか めいあんじゃろ!(7C)[LN]
+ぜったいに ほっちゃ いかんぞ!(7A)[ED]
+
+
+//POINTER #18 @ $7F034 - STRING #18 @ $7F4F7
+
+#W16($7F034)
+「あらっ! にもつが いっぱいで[LN]
+もてませんわね また かいにきてねっ!(7A)[ED]
+
+
+//POINTER #19 @ $7F036 - STRING #19 @ $7F51D
+
+#W16($7F036)
+[ED]
+
+
+//POINTER #20 @ $7F038 - STRING #20 @ $7F51E
+
+#W16($7F038)
+アレックス「たすかった.. みんな つよくなったな![LN]
+このいくさ わたしは なにも できなかった..[LN]
+(7700)「なにを いうんです..[LN]
+さあ アルガスへ かえりましょう!!(7A)[ED]
+
+
+//POINTER #21 @ $7F03A - STRING #21 @ $7F571
+
+#W16($7F03A)
+ブレックス「よくぞ ジオンを うちたおした![LN]
+アムロ ならびに アルガスきしだんよ![LN]
+アレックスも ぶじで なによりじゃ!(7C)[LN]
+アムロ「ブレックスおう.. わたしは ラクロアに[LN]
+かえろうと おもいます..[LN]
+ジークジオンについて わたしの なかまが[LN]
+なにか つかんでいるかも しれません..(7C)[LN]
+ブレックス「うむ わかった.. アレックスよ[LN]
+アムロどのに ついていきなさい[LN]
+アレックス「はい わたしも そのつもりです[LN]
+こんどは われわれが ちからを かす ばんです!(7C)[LN]
+ニュー「ラクロアかあ.. どんな ところかな..?[LN]
+ゼータ「そうときまれば さっそく しゅっぱつを..[LN]
+アレックス「おまえたちは ここに のこるのだ[LN]
+わたしの るすちゅうを たのんだぞ!(7C)[LN]
+ダブルゼータ「そ そんなー..[LN]
+アレックス「ふくれるなっ たすけが ほしいときは[LN]
+いつでも よびだすからな![LN]
+さあ アムロどの いきましょう!(7A)[ED]
+
+
+//POINTER #22 @ $7F03C - STRING #22 @ $7F6F9
+
+#W16($7F03C)
+「まってください!(7A)[ED]
+
+
+//POINTER #23 @ $7F03E - STRING #23 @ $7F704
+
+#W16($7F03E)
+アムロ「カミーユおうじ? ユイリィひめも..[LN]
+カミーユ「このたびは ほんとうに ありがとう[LN]
+こうして ユイリィと.. いえ この ノアちほうが[LN]
+へいわになったのも みんな アムロの おかげです!(7C)[LN]
+それと.. ごめんなさい アレックス..[LN]
+ぼくのせいで つらいおもいを させてしまって..[LN]
+アレックス「いいんですよ! カミーユおうじ![LN]
+わたしは きしだんのみんなを しんじてましたから!(7C)[LN]
+アムロ「そうだ! ユイリィひめ..[LN]
+この ペガサスのはねを さしあげましょう..[LN]
+これを つかえば いつでも[LN]
+カミーユおうじに あいにこれますよ!(7C)[LN]
+そうだ.. ついでに この アーガマのたづなを[LN]
+うまごやの しょうねんに かえしてあげて ください[LN]
+とても やくに たったよと..[LN]
+(7C)ユイリィ「ありがとうございます アムロさま..[LN]
+わたしからは この おまもりを さしあげますわ![LN]
+スダドアカぜんたいの へいわのために[LN]
+がんばってくださいね..(7C)[LN]
+アムロ「ええ かならず![LN]
+それでは カミーユおうじ ユイリィひめ[LN]
+おげんきで!!(7A)[ED]
+
+
+//POINTER #24 @ $7F040 - STRING #24 @ $7F8C6
+
+#W16($7F040)
+アレックス「ザコなど かまっている ひまは[LN]
+ない! てえええい!!(79)[ED]
+
+
+//POINTER #25 @ $7F042 - STRING #25 @ $7F8E9
+
+#W16($7F042)
+アレックス「そんな かまえでは この[LN]
+ナイト アレックスは たおせんぞ!!(79)[ED]
+
+
+//POINTER #26 @ $7F044 - STRING #26 @ $7F910
+
+#W16($7F044)
+アレックス「くっ! しつこい ヤツらめ![LN]
+わたしのけんを うけてみよ!!(79)[ED]
+
+
+//POINTER #27 @ $7F046 - STRING #27 @ $7F936
+
+#W16($7F046)
+「ほけんに はいっているからって むりしちゃダメ![LN]
+あせらずに しんちょうに.. ねっ!![ED]
+
+
+//POINTER #28 @ $7F048 - STRING #28 @ $7F963
+
+#W16($7F048)
+[ED]
+
+
+//POINTER #29 @ $7F04A - STRING #29 @ $7F964
+
+#W16($7F04A)
+[ED]
+
+
+//POINTER #30 @ $7F04C - STRING #30 @ $7F965
+
+#W16($7F04C)
+[ED]
+
+
+//POINTER #31 @ $7F04E - STRING #31 @ $7F966
+
+#W16($7F04E)
+[ED]
+
+
+//POINTER #32 @ $7F050 - STRING #32 @ $7F967
+
+#W16($7F050)
+「ようこそ! カードダス バトルどうじょうへ![LN]
+たのしんでいって くださいね(7A)[ED]
+
+
+//POINTER #33 @ $7F052 - STRING #33 @ $7F98F
+
+#W16($7F052)
+[ED]
+
+
+//POINTER #34 @ $7F054 - STRING #34 @ $7F990
+
+#W16($7F054)
+[ED]
+
+
+//POINTER #35 @ $7F056 - STRING #35 @ $7F991
+
+#W16($7F056)
+[ED]
+
+
+//POINTER #36 @ $7F058 - STRING #36 @ $7F992
+
+#W16($7F058)
+[ED]
+
+
+//POINTER #37 @ $7F05A - STRING #37 @ $7F993
+
+#W16($7F05A)
+[ED]
+
+
+//POINTER #38 @ $7F05C - STRING #38 @ $7F994
+
+#W16($7F05C)
+[ED]
+
+
+//POINTER #39 @ $7F05E - STRING #39 @ $7F995
+
+#W16($7F05E)
+[ED]
+
+
+//POINTER #40 @ $7F060 - STRING #40 @ $7F996
+
+#W16($7F060)
+[ED]
+
+
+//POINTER #41 @ $7F062 - STRING #41 @ $7F997
+
+#W16($7F062)
+[ED]
+
+
+//POINTER #42 @ $7F064 - STRING #42 @ $7F998
+
+#W16($7F064)
+[ED]
+
+
+//POINTER #43 @ $7F066 - STRING #43 @ $7F999
+
+#W16($7F066)
+[ED]
+
+
+//POINTER #44 @ $7F068 - STRING #44 @ $7F99A
+
+#W16($7F068)
+[ED]
+
+
+//POINTER #45 @ $7F06A - STRING #45 @ $7F99B
+
+#W16($7F06A)
+[ED]
+
+
+//POINTER #46 @ $7F06C - STRING #46 @ $7F99C
+
+#W16($7F06C)
+[ED]
+
+
+//POINTER #47 @ $7F06E - STRING #47 @ $7F99D
+
+#W16($7F06E)
+[ED]
+
+
+//POINTER #48 @ $7F070 - STRING #48 @ $7F99E
+
+#W16($7F070)
+[ED]
+
+
+//POINTER #49 @ $7F072 - STRING #49 @ $7F99F
+
+#W16($7F072)
+[ED]
+
+
+//POINTER #50 @ $7F074 - STRING #50 @ $7F9A0
+
+#W16($7F074)
+[ED]
+
+
+//POINTER #51 @ $7F076 - STRING #51 @ $7F9A1
+
+#W16($7F076)
+[ED]
+
+
+//POINTER #52 @ $7F078 - STRING #52 @ $7F9A2
+
+#W16($7F078)
+[ED]
+
+
+//POINTER #53 @ $7F07A - STRING #53 @ $7F9A3
+
+#W16($7F07A)
+[ED]
+
+
+//POINTER #54 @ $7F07C - STRING #54 @ $7F9A4
+
+#W16($7F07C)
+[ED]
+
+
+//POINTER #55 @ $7F07E - STRING #55 @ $7F9A5
+
+#W16($7F07E)
+[ED]
+
+
+//POINTER #56 @ $7F080 - STRING #56 @ $7F9A6
+
+#W16($7F080)
+[ED]
+
+
+//POINTER #57 @ $7F082 - STRING #57 @ $7F9A7
+
+#W16($7F082)
+[ED]
+
+
+//POINTER #58 @ $7F084 - STRING #58 @ $7F9A8
+
+#W16($7F084)
+[ED]
+
+
+//POINTER #59 @ $7F086 - STRING #59 @ $7F9A9
+
+#W16($7F086)
+[ED]
+
+
+//POINTER #60 @ $7F088 - STRING #60 @ $7F9AA
+
+#W16($7F088)
+[ED]
+
+
+//POINTER #61 @ $7F08A - STRING #61 @ $7F9AB
+
+#W16($7F08A)
+[ED]
+
+
+//POINTER #62 @ $7F08C - STRING #62 @ $7F9AC
+
+#W16($7F08C)
+[ED]
+
+
+//POINTER #63 @ $7F08E - STRING #63 @ $7F9AD
+
+#W16($7F08E)
+[ED]
+
+
+//POINTER #64 @ $7F090 - STRING #64 @ $7F9AE
+
+#W16($7F090)
+[ED]
+
+
+//POINTER #65 @ $7F092 - STRING #65 @ $7F9AF
+
+#W16($7F092)
+[ED]
+
+
+//POINTER #66 @ $7F094 - STRING #66 @ $7F9B0
+
+#W16($7F094)
+[ED]
+
+
+//POINTER #67 @ $7F096 - STRING #67 @ $7F9B1
+
+#W16($7F096)
+[ED]
+
+
+//POINTER #68 @ $7F098 - STRING #68 @ $7F9B2
+
+#W16($7F098)
+[ED]
+
+
+//POINTER #69 @ $7F09A - STRING #69 @ $7F9B3
+
+#W16($7F09A)
+[ED]
+
+
+//POINTER #70 @ $7F09C - STRING #70 @ $7F9B4
+
+#W16($7F09C)
+[ED]
+
+
+//POINTER #71 @ $7F09E - STRING #71 @ $7F9B5
+
+#W16($7F09E)
+[ED]
+
+
+//POINTER #72 @ $7F0A0 - STRING #72 @ $7F9B6
+
+#W16($7F0A0)
+[ED]
+
+
+//POINTER #73 @ $7F0A2 - STRING #73 @ $7F9B7
+
+#W16($7F0A2)
+[ED]
+
+
+//POINTER #74 @ $7F0A4 - STRING #74 @ $7F9B8
+
+#W16($7F0A4)
+[ED]
+
+
+//POINTER #75 @ $7F0A6 - STRING #75 @ $7F9B9
+
+#W16($7F0A6)
+[ED]
+
+
+//POINTER #76 @ $7F0A8 - STRING #76 @ $7F9BA
+
+#W16($7F0A8)
+[ED]
+
+
+//POINTER #77 @ $7F0AA - STRING #77 @ $7F9BB
+
+#W16($7F0AA)
+[ED]
+
+
+//POINTER #78 @ $7F0AC - STRING #78 @ $7F9BC
+
+#W16($7F0AC)
+[ED]
+
+
+//POINTER #79 @ $7F0AE - STRING #79 @ $7F9BD
+
+#W16($7F0AE)
+[ED]
+
+
+//POINTER #80 @ $7F0B0 - STRING #80 @ $7F9BE
+
+#W16($7F0B0)
+[ED]
+
+
+//POINTER #81 @ $7F0B2 - STRING #81 @ $7F9BF
+
+#W16($7F0B2)
+[ED]
+
+
+//POINTER #82 @ $7F0B4 - STRING #82 @ $7F9C0
+
+#W16($7F0B4)
+[ED]
+
+
+//POINTER #83 @ $7F0B6 - STRING #83 @ $7F9C1
+
+#W16($7F0B6)
+[ED]
+
+
+//POINTER #84 @ $7F0B8 - STRING #84 @ $7F9C2
+
+#W16($7F0B8)
+[ED]
+
+
+//POINTER #85 @ $7F0BA - STRING #85 @ $7F9C3
+
+#W16($7F0BA)
+[ED]
+
+
+//POINTER #86 @ $7F0BC - STRING #86 @ $7F9C4
+
+#W16($7F0BC)
+[ED]
+
+
+//POINTER #87 @ $7F0BE - STRING #87 @ $7F9C5
+
+#W16($7F0BE)
+[ED]
+
+
+//POINTER #88 @ $7F0C0 - STRING #88 @ $7F9C6
+
+#W16($7F0C0)
+[ED]
+
+
+//POINTER #89 @ $7F0C2 - STRING #89 @ $7F9C7
+
+#W16($7F0C2)
+[ED]
+
+
+//POINTER #90 @ $7F0C4 - STRING #90 @ $7F9C8
+
+#W16($7F0C4)
+[ED]
+
+
+//POINTER #91 @ $7F0C6 - STRING #91 @ $7F9C9
+
+#W16($7F0C6)
+[ED]
+
+
+//POINTER #92 @ $7F0C8 - STRING #92 @ $7F9CA
+
+#W16($7F0C8)
+[ED]
+
+
+//POINTER #93 @ $7F0CA - STRING #93 @ $7F9CB
+
+#W16($7F0CA)
+[ED]
+
+
+//POINTER #94 @ $7F0CC - STRING #94 @ $7F9CC
+
+#W16($7F0CC)
+[ED]
+
+
+//POINTER #95 @ $7F0CE - STRING #95 @ $7F9CD
+
+#W16($7F0CE)
+[ED]
+
+
+//POINTER #96 @ $7F0D0 - STRING #96 @ $7F9CE
+
+#W16($7F0D0)
+[ED]
+
+
+//POINTER #97 @ $7F0D2 - STRING #97 @ $7F9CF
+
+#W16($7F0D2)
+[ED]
+
+
+//POINTER #98 @ $7F0D4 - STRING #98 @ $7F9D0
+
+#W16($7F0D4)
+[ED]
+
+
+//POINTER #99 @ $7F0D6 - STRING #99 @ $7F9D1
+
+#W16($7F0D6)
+[ED]
+
+
+//POINTER #100 @ $7F0D8 - STRING #100 @ $7F9D2
+
+#W16($7F0D8)
+[ED]
+
+
+//POINTER #101 @ $7F0DA - STRING #101 @ $7F9D3
+
+#W16($7F0DA)
+[ED]
+
+
+//POINTER #102 @ $7F0DC - STRING #102 @ $7F9D4
+
+#W16($7F0DC)
+[ED]
+
+
+//POINTER #103 @ $7F0DE - STRING #103 @ $7F9D5
+
+#W16($7F0DE)
+[ED]
+
+
+//POINTER #104 @ $7F0E0 - STRING #104 @ $7F9D6
+
+#W16($7F0E0)
+[ED]
+
+
+//POINTER #105 @ $7F0E2 - STRING #105 @ $7F9D7
+
+#W16($7F0E2)
+[ED]
+
+
+//POINTER #106 @ $7F0E4 - STRING #106 @ $7F9D8
+
+#W16($7F0E4)
+[ED]
+
+
+//POINTER #107 @ $7F0E6 - STRING #107 @ $7F9D9
+
+#W16($7F0E6)
+[ED]
+
+
+//POINTER #108 @ $7F0E8 - STRING #108 @ $7F9DA
+
+#W16($7F0E8)
+[ED]
+
+
+//POINTER #109 @ $7F0EA - STRING #109 @ $7F9DB
+
+#W16($7F0EA)
+[ED]
+
+
+//POINTER #110 @ $7F0EC - STRING #110 @ $7F9DC
+
+#W16($7F0EC)
+[ED]
+
+
+//POINTER #111 @ $7F0EE - STRING #111 @ $7F9DD
+
+#W16($7F0EE)
+[ED]
+
+
+//POINTER #112 @ $7F0F0 - STRING #112 @ $7F9DE
+
+#W16($7F0F0)
+[ED]
+
+
+//POINTER #113 @ $7F0F2 - STRING #113 @ $7F9DF
+
+#W16($7F0F2)
+[ED]
+
+
+//POINTER #114 @ $7F0F4 - STRING #114 @ $7F9E0
+
+#W16($7F0F4)
+[ED]
+
+
+//POINTER #115 @ $7F0F6 - STRING #115 @ $7F9E1
+
+#W16($7F0F6)
+[ED]
+
+
+//POINTER #116 @ $7F0F8 - STRING #116 @ $7F9E2
+
+#W16($7F0F8)
+[ED]
+
+
+//POINTER #117 @ $7F0FA - STRING #117 @ $7F9E3
+
+#W16($7F0FA)
+[ED]
+
+
+//POINTER #118 @ $7F0FC - STRING #118 @ $7F9E4
+
+#W16($7F0FC)
+[ED]
+
+
+//POINTER #119 @ $7F0FE - STRING #119 @ $7F9E5
+
+#W16($7F0FE)
+[ED]
+
+
+//POINTER #120 @ $7F100 - STRING #120 @ $7F9E6
+
+#W16($7F100)
+[ED]
+
+
+//POINTER #121 @ $7F102 - STRING #121 @ $7F9E7
+
+#W16($7F102)
+[ED]
+
+
+//POINTER #122 @ $7F104 - STRING #122 @ $7F9E8
+
+#W16($7F104)
+[ED]
+
+
+//POINTER #123 @ $7F106 - STRING #123 @ $7F9E9
+
+#W16($7F106)
+[ED]
+
+
+//POINTER #124 @ $7F108 - STRING #124 @ $7F9EA
+
+#W16($7F108)
+[ED]
+
+
+//POINTER #125 @ $7F10A - STRING #125 @ $7F9EB
+
+#W16($7F10A)
+[ED]
+
+
+//POINTER #126 @ $7F10C - STRING #126 @ $7F9EC
+
+#W16($7F10C)
+[ED]
+
+
+//POINTER #127 @ $7F10E - STRING #127 @ $7F9ED
+
+#W16($7F10E)
+[ED]
+

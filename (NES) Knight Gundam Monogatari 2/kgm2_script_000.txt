@@ -1,0 +1,255 @@
+//GAME NAME:		Knight Gundam Monogatari 2 (NES)
+
+//BLOCK #000 NAME:		Dialogue Block 1ADCC-1AE1F (POINTER_RELATIVE)
+
+//POINTER #0 @ $1ADCC - STRING #0 @ $1AE20
+
+#W16($1ADCC)
+スタッフ[ED]
+
+
+//POINTER #1 @ $1ADCE - STRING #1 @ $1AE25
+
+#W16($1ADCE)
+きかく りつあん[ED]
+
+
+//POINTER #2 @ $1ADD0 - STRING #2 @ $1AE2E
+
+#W16($1ADD0)
+ベンタ バンナイ[ED]
+
+
+//POINTER #3 @ $1ADD2 - STRING #3 @ $1AE37
+
+#W16($1ADD2)
+プロデューサー[ED]
+
+
+//POINTER #4 @ $1ADD4 - STRING #4 @ $1AE3F
+
+#W16($1ADD4)
+すずき としひろ[ED]
+
+
+//POINTER #5 @ $1ADD6 - STRING #5 @ $1AE48
+
+#W16($1ADD6)
+ディレクター[ED]
+
+
+//POINTER #6 @ $1ADD8 - STRING #6 @ $1AE4F
+
+#W16($1ADD8)
+おぎのめ ひろし[ED]
+
+
+//POINTER #7 @ $1ADDA - STRING #7 @ $1AE58
+
+#W16($1ADDA)
+コーディネーター[ED]
+
+
+//POINTER #8 @ $1ADDC - STRING #8 @ $1AE61
+
+#W16($1ADDC)
+ミスター はや[ED]
+
+
+//POINTER #9 @ $1ADDE - STRING #9 @ $1AE69
+
+#W16($1ADDE)
+デザイナー[ED]
+
+
+//POINTER #10 @ $1ADE0 - STRING #10 @ $1AE6F
+
+#W16($1ADE0)
+しまだ しんさく[ED]
+
+
+//POINTER #11 @ $1ADE2 - STRING #11 @ $1AE78
+
+#W16($1ADE2)
+たかはし まさゆき[ED]
+
+
+//POINTER #12 @ $1ADE4 - STRING #12 @ $1AE82
+
+#W16($1ADE4)
+じうょし まじた[ED]
+
+
+//POINTER #13 @ $1ADE6 - STRING #13 @ $1AE8B
+
+#W16($1ADE6)
+かいけつ くろんだー[ED]
+
+
+//POINTER #14 @ $1ADE8 - STRING #14 @ $1AE96
+
+#W16($1ADE8)
+プログラマー[ED]
+
+
+//POINTER #15 @ $1ADEA - STRING #15 @ $1AE9D
+
+#W16($1ADEA)
+ひびき 1ごう[ED]
+
+
+//POINTER #16 @ $1ADEC - STRING #16 @ $1AEA5
+
+#W16($1ADEC)
+うつのみや まさと[ED]
+
+
+//POINTER #17 @ $1ADEE - STRING #17 @ $1AEAF
+
+#W16($1ADEE)
+ストーク まつした[ED]
+
+
+//POINTER #18 @ $1ADF0 - STRING #18 @ $1AEB9
+
+#W16($1ADF0)
+ミュージック[ED]
+
+
+//POINTER #19 @ $1ADF2 - STRING #19 @ $1AEC0
+
+#W16($1ADF2)
+サル・はやし[ED]
+
+
+//POINTER #20 @ $1ADF4 - STRING #20 @ $1AEC7
+
+#W16($1ADF4)
+さかきばら[ED]
+
+
+//POINTER #21 @ $1ADF6 - STRING #21 @ $1AECD
+
+#W16($1ADF6)
+おてつだい[ED]
+
+
+//POINTER #22 @ $1ADF8 - STRING #22 @ $1AED3
+
+#W16($1ADF8)
+かすや さゆり[ED]
+
+
+//POINTER #23 @ $1ADFA - STRING #23 @ $1AEDB
+
+#W16($1ADFA)
+まかべ  ごう[ED]
+
+
+//POINTER #24 @ $1ADFC - STRING #24 @ $1AEE3
+
+#W16($1ADFC)
+あらい みゆき[ED]
+
+
+//POINTER #25 @ $1ADFE - STRING #25 @ $1AEEB
+
+#W16($1ADFE)
+ほしな ゆういち[ED]
+
+
+//POINTER #26 @ $1AE00 - STRING #26 @ $1AEF4
+
+#W16($1AE00)
+きょうりょく[ED]
+
+
+//POINTER #27 @ $1AE02 - STRING #27 @ $1AEFB
+
+#W16($1AE02)
+ベンダーか[ED]
+
+
+//POINTER #28 @ $1AE04 - STRING #28 @ $1AF01
+
+#W16($1AE04)
+あおやま たかし[ED]
+
+
+//POINTER #29 @ $1AE06 - STRING #29 @ $1AF0A
+
+#W16($1AE06)
+かない としひろ[ED]
+
+
+//POINTER #30 @ $1AE08 - STRING #30 @ $1AF13
+
+#W16($1AE08)
+しゅっぱんか[ED]
+
+
+//POINTER #31 @ $1AE0A - STRING #31 @ $1AF1A
+
+#W16($1AE0A)
+あんびる としあき[ED]
+
+
+//POINTER #32 @ $1AE0C - STRING #32 @ $1AF24
+
+#W16($1AE0C)
+オリジナルモンスター デザイン[ED]
+
+
+//POINTER #33 @ $1AE0E - STRING #33 @ $1AF34
+
+#W16($1AE0E)
+いまい ゆうへい くん[ED]
+
+
+//POINTER #34 @ $1AE10 - STRING #34 @ $1AF40
+
+#W16($1AE10)
+かわしま まさゆき くん[ED]
+
+
+//POINTER #35 @ $1AE12 - STRING #35 @ $1AF4D
+
+#W16($1AE12)
+きむら かずゆき くん[ED]
+
+
+//POINTER #36 @ $1AE14 - STRING #36 @ $1AF59
+
+#W16($1AE14)
+さとう しげき  くん[ED]
+
+
+//POINTER #37 @ $1AE16 - STRING #37 @ $1AF65
+
+#W16($1AE16)
+たかはし ふとし  くん[ED]
+
+
+//POINTER #38 @ $1AE18 - STRING #38 @ $1AF72
+
+#W16($1AE18)
+なかやま つよし  くん[ED]
+
+
+//POINTER #39 @ $1AE1A - STRING #39 @ $1AF7F
+
+#W16($1AE1A)
+はそめ たかとも くん[ED]
+
+
+//POINTER #40 @ $1AE1C - STRING #40 @ $1AF8B
+
+#W16($1AE1C)
+ふかや ひろあき くん[ED]
+
+
+//POINTER #41 @ $1AE1E - STRING #41 @ $1AF97
+
+#W16($1AE1E)
+たのうえ さとる[ED]
+
