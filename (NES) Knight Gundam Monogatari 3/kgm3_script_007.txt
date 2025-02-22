@@ -1,0 +1,255 @@
+//GAME NAME:		Knight Gundam Monogatari 3 (NES)
+
+//BLOCK #007 NAME:		Dialogue Block 08 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1D1E8 - STRING #0 @ $1D23C
+
+#W16($1D1E8)
+[ED]
+
+
+//POINTER #1 @ $1D1EA - STRING #1 @ $1D23D
+
+#W16($1D1EA)
+ゥェムヨヨ[ED]
+
+
+//POINTER #2 @ $1D1EC - STRING #2 @ $1D243
+
+#W16($1D1EC)
+ャワムンンルンラ[ED]
+
+
+//POINTER #3 @ $1D1EE - STRING #3 @ $1D24C
+
+#W16($1D1EE)
+メムンンムル(00)メユンェム[ED]
+
+
+//POINTER #4 @ $1D1F0 - STRING #4 @ $1D259
+
+#W16($1D1F0)
+ャィッヤォモユィ[ED]
+
+
+//POINTER #5 @ $1D1F2 - STRING #5 @ $1D262
+
+#W16($1D1F2)
+ンッィルッ(00)ェムロムリムゥリル[ED]
+
+
+//POINTER #6 @ $1D1F4 - STRING #6 @ $1D272
+
+#W16($1D1F4)
+ェッゥリルリルィッ(00)ゥォ(F9)ォロル[ED]
+
+
+//POINTER #7 @ $1D1F6 - STRING #7 @ $1D283
+
+#W16($1D1F6)
+ヤルィユモェッィ[ED]
+
+
+//POINTER #8 @ $1D1F8 - STRING #8 @ $1D28C
+
+#W16($1D1F8)
+ゥリルンゥムロォ(00)ゥリル+ムヤム[ED]
+
+
+//POINTER #9 @ $1D1FA - STRING #9 @ $1D29D
+
+#W16($1D1FA)
+モッッィヤルンムェッィ[ED]
+
+
+//POINTER #10 @ $1D1FC - STRING #10 @ $1D2A9
+
+#W16($1D1FC)
+ッリ+ル(00)Jr.ムィル(00)Jr.ムィル[ED]
+
+
+//POINTER #11 @ $1D1FE - STRING #11 @ $1D2B8
+
+#W16($1D1FE)
+ンムロムャユユ[ED]
+
+
+//POINTER #12 @ $1D200 - STRING #12 @ $1D2C0
+
+#W16($1D200)
+ヤユゥルランユィ[ED]
+
+
+//POINTER #13 @ $1D202 - STRING #13 @ $1D2C9
+
+#W16($1D202)
+ェムロユロルン(00)モリムンラ[ED]
+
+
+//POINTER #14 @ $1D204 - STRING #14 @ $1D2D7
+
+#W16($1D204)
++ムゥム(00)ェムロムリムゥリル[ED]
+
+
+//POINTER #15 @ $1D206 - STRING #15 @ $1D2E6
+
+#W16($1D206)
+ャィッラィム++ユィ[ED]
+
+
+//POINTER #16 @ $1D208 - STRING #16 @ $1D2F1
+
+#W16($1D208)
+リルメルロル(00)..ラッ[ED]
+
+
+//POINTER #17 @ $1D20A - STRING #17 @ $1D2FC
+
+#W16($1D20A)
+ゥッォンヤ[ED]
+
+
+//POINTER #18 @ $1D20C - STRING #18 @ $1D302
+
+#W16($1D20C)
+ロルヤッリルン[ED]
+
+
+//POINTER #19 @ $1D20E - STRING #19 @ $1D30A
+
+#W16($1D20E)
+ェムロムンッ[ED]
+
+
+//POINTER #20 @ $1D210 - STRING #20 @ $1D311
+
+#W16($1D210)
+/ムロロム(00)ヤムロユ[ED]
+
+
+//POINTER #21 @ $1D212 - STRING #21 @ $1D31C
+
+#W16($1D212)
+ムゥゥルゥェムンェ[ED]
+
+
+//POINTER #22 @ $1D214 - STRING #22 @ $1D326
+
+#W16($1D214)
+ゥリッロッ(00)ムィムル[ED]
+
+
+//POINTER #23 @ $1D216 - STRING #23 @ $1D331
+
+#W16($1D216)
+ャルンメムモロ[ED]
+
+
+//POINTER #24 @ $1D218 - STRING #24 @ $1D339
+
+#W16($1D218)
+ロルン(00)モリムンラ[ED]
+
+
+//POINTER #25 @ $1D21A - STRING #25 @ $1D343
+
+#W16($1D21A)
+レJr.ォンムンムゥムル[ED]
+
+
+//POINTER #26 @ $1D21C - STRING #26 @ $1D34E
+
+#W16($1D21C)
+ゥャユモルムワ(00)ェリムンロゥ[ED]
+
+
+//POINTER #27 @ $1D21E - STRING #27 @ $1D35D
+
+#W16($1D21E)
+ェムロムゥリル(00)ゥリッレル[ED]
+
+
+//POINTER #28 @ $1D220 - STRING #28 @ $1D36B
+
+#W16($1D220)
+ェッゥリルンッメォ(00)ッリロォメッ[ED]
+
+
+//POINTER #29 @ $1D222 - STRING #29 @ $1D37C
+
+#W16($1D222)
+ンムィォッ(00)ォモリルヤム[ED]
+
+
+//POINTER #30 @ $1D224 - STRING #30 @ $1D389
+
+#W16($1D224)
+ェムロユッ(00)ルゥッラムル[ED]
+
+
+//POINTER #31 @ $1D226 - STRING #31 @ $1D396
+
+#W16($1D226)
++ム+ル(00)ヨォィォェム[ED]
+
+
+//POINTER #32 @ $1D228 - STRING #32 @ $1D3A2
+
+#W16($1D228)
+リルィッェムロム(00)/ムェムンムメユ[ED]
+
+
+//POINTER #33 @ $1D22A - STRING #33 @ $1D3B4
+
+#W16($1D22A)
+ェムロムゥリル(00)ムッJr.ム+ム[ED]
+
+
+//POINTER #34 @ $1D22C - STRING #34 @ $1D3C3
+
+#W16($1D22C)
+ロム/ムラォモリル・+ユルレルン[ED]
+
+
+//POINTER #35 @ $1D22E - STRING #35 @ $1D3D4
+
+#W16($1D22E)
+ロンルラリェ(00)ゥォ(F9)ォロル[ED]
+
+
+//POINTER #36 @ $1D230 - STRING #36 @ $1D3E2
+
+#W16($1D230)
+ェム(F9)(F9)Jr.[ED]
+
+
+//POINTER #37 @ $1D232 - STRING #37 @ $1D3E8
+
+#W16($1D232)
+[ED]
+
+
+//POINTER #38 @ $1D234 - STRING #38 @ $1D3E9
+
+#W16($1D234)
+[ED]
+
+
+//POINTER #39 @ $1D236 - STRING #39 @ $1D3EA
+
+#W16($1D236)
+[ED]
+
+
+//POINTER #40 @ $1D238 - STRING #40 @ $1D3EB
+
+#W16($1D238)
+[ED]
+
+
+//POINTER #41 @ $1D23A - STRING #41 @ $1D3EC
+
+#W16($1D23A)
+[ED]
+

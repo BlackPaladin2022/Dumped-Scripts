@@ -1,0 +1,387 @@
+//GAME NAME:		Knight Gundam Monogatari 3 (NES)
+
+//BLOCK #002 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1C76B - STRING #0 @ $1C7EB
+
+#W16($1C76B)
+[ED]
+
+
+//POINTER #1 @ $1C76D - STRING #1 @ $1C7EC
+
+#W16($1C76D)
+クラウンナイト[ED]
+
+
+//POINTER #2 @ $1C76F - STRING #2 @ $1C7F4
+
+#W16($1C76F)
+フォーミュラ[ED]
+
+
+//POINTER #3 @ $1C771 - STRING #3 @ $1C7FB
+
+#W16($1C771)
+ブラス[ED]
+
+
+//POINTER #4 @ $1C773 - STRING #4 @ $1C7FF
+
+#W16($1C773)
+ブラチナロード[ED]
+
+
+//POINTER #5 @ $1C775 - STRING #5 @ $1C807
+
+#W16($1C775)
+ガンダムマークII[ED]
+
+
+//POINTER #6 @ $1C777 - STRING #6 @ $1C810
+
+#W16($1C777)
+ヘビィガンダム[ED]
+
+
+//POINTER #7 @ $1C779 - STRING #7 @ $1C818
+
+#W16($1C779)
+レッドウォーリア[ED]
+
+
+//POINTER #8 @ $1C77B - STRING #8 @ $1C821
+
+#W16($1C77B)
+ガンタンクR[ED]
+
+
+//POINTER #9 @ $1C77D - STRING #9 @ $1C828
+
+#W16($1C77D)
+ガンダムF91[ED]
+
+
+//POINTER #10 @ $1C77F - STRING #10 @ $1C830
+
+#W16($1C77F)
+けんしF90Jr.[ED]
+
+
+//POINTER #11 @ $1C781 - STRING #11 @ $1C838
+
+#W16($1C781)
+とうしF90Jr.[ED]
+
+
+//POINTER #12 @ $1C783 - STRING #12 @ $1C840
+
+#W16($1C783)
+そうりょF90Jr.[ED]
+
+
+//POINTER #13 @ $1C785 - STRING #13 @ $1C849
+
+#W16($1C785)
+キングガンダムII[ED]
+
+
+//POINTER #14 @ $1C787 - STRING #14 @ $1C849
+
+#W16($1C787)
+キングガンダムII[ED]
+
+
+//POINTER #15 @ $1C789 - STRING #15 @ $1C849
+
+#W16($1C789)
+キングガンダムII[ED]
+
+
+//POINTER #16 @ $1C78B - STRING #16 @ $1C852
+
+#W16($1C78B)
+[ED]
+
+
+//POINTER #17 @ $1C78D - STRING #17 @ $1C7EC
+
+#W16($1C78D)
+クラウンナイト[ED]
+
+
+//POINTER #18 @ $1C78F - STRING #18 @ $1C7F4
+
+#W16($1C78F)
+フォーミュラ[ED]
+
+
+//POINTER #19 @ $1C791 - STRING #19 @ $1C853
+
+#W16($1C791)
+プラス[ED]
+
+
+//POINTER #20 @ $1C793 - STRING #20 @ $1C857
+
+#W16($1C793)
+プラチナロード[ED]
+
+
+//POINTER #21 @ $1C795 - STRING #21 @ $1C85F
+
+#W16($1C795)
+ガンダムマークII[ED]
+
+
+//POINTER #22 @ $1C797 - STRING #22 @ $1C868
+
+#W16($1C797)
+ヘビィガンダム[ED]
+
+
+//POINTER #23 @ $1C799 - STRING #23 @ $1C870
+
+#W16($1C799)
+レッドウォーリア[ED]
+
+
+//POINTER #24 @ $1C79B - STRING #24 @ $1C879
+
+#W16($1C79B)
+ガンタンクR[ED]
+
+
+//POINTER #25 @ $1C79D - STRING #25 @ $1C880
+
+#W16($1C79D)
+ガンダムF91[ED]
+
+
+//POINTER #26 @ $1C79F - STRING #26 @ $1C830
+
+#W16($1C79F)
+けんしF90Jr.[ED]
+
+
+//POINTER #27 @ $1C7A1 - STRING #27 @ $1C838
+
+#W16($1C7A1)
+とうしF90Jr.[ED]
+
+
+//POINTER #28 @ $1C7A3 - STRING #28 @ $1C840
+
+#W16($1C7A3)
+そうりょF90Jr.[ED]
+
+
+//POINTER #29 @ $1C7A5 - STRING #29 @ $1C888
+
+#W16($1C7A5)
+キングガンダムII[ED]
+
+
+//POINTER #30 @ $1C7A7 - STRING #30 @ $1C888
+
+#W16($1C7A7)
+キングガンダムII[ED]
+
+
+//POINTER #31 @ $1C7A9 - STRING #31 @ $1C888
+
+#W16($1C7A9)
+キングガンダムII[ED]
+
+
+//POINTER #32 @ $1C7AB - STRING #32 @ $1C891
+
+#W16($1C7AB)
+[ED]
+
+
+//POINTER #33 @ $1C7AD - STRING #33 @ $1C892
+
+#W16($1C7AD)
+[ED]
+
+
+//POINTER #34 @ $1C7AF - STRING #34 @ $1C893
+
+#W16($1C7AF)
+アーマーナイト[ED]
+
+
+//POINTER #35 @ $1C7B1 - STRING #35 @ $1C89B
+
+#W16($1C7B1)
+ゆうけんし[ED]
+
+
+//POINTER #36 @ $1C7B3 - STRING #36 @ $1C8A1
+
+#W16($1C7B3)
+[ED]
+
+
+//POINTER #37 @ $1C7B5 - STRING #37 @ $1C8A2
+
+#W16($1C7B5)
+かぜきし[ED]
+
+
+//POINTER #38 @ $1C7B7 - STRING #38 @ $1C8A7
+
+#W16($1C7B7)
+じゅうせんし[ED]
+
+
+//POINTER #39 @ $1C7B9 - STRING #39 @ $1C8AE
+
+#W16($1C7B9)
+れいきし[ED]
+
+
+//POINTER #40 @ $1C7BB - STRING #40 @ $1C8B3
+
+#W16($1C7BB)
+ビショップ[ED]
+
+
+//POINTER #41 @ $1C7BD - STRING #41 @ $1C8B9
+
+#W16($1C7BD)
+バーンナイト[ED]
+
+
+//POINTER #42 @ $1C7BF - STRING #42 @ $1C8C0
+
+#W16($1C7BF)
+[ED]
+
+
+//POINTER #43 @ $1C7C1 - STRING #43 @ $1C8C1
+
+#W16($1C7C1)
+[ED]
+
+
+//POINTER #44 @ $1C7C3 - STRING #44 @ $1C8C2
+
+#W16($1C7C3)
+[ED]
+
+
+//POINTER #45 @ $1C7C5 - STRING #45 @ $1C8C3
+
+#W16($1C7C5)
+[ED]
+
+
+//POINTER #46 @ $1C7C7 - STRING #46 @ $1C8C4
+
+#W16($1C7C7)
+[ED]
+
+
+//POINTER #47 @ $1C7C9 - STRING #47 @ $1C8C5
+
+#W16($1C7C9)
+[ED]
+
+
+//POINTER #48 @ $1C7CB - STRING #48 @ $1C8C6
+
+#W16($1C7CB)
+[ED]
+
+
+//POINTER #49 @ $1C7CD - STRING #49 @ $1C8C7
+
+#W16($1C7CD)
+[ED]
+
+
+//POINTER #50 @ $1C7CF - STRING #50 @ $1C8C8
+
+#W16($1C7CF)
+ヘビーアーマーナイト[ED]
+
+
+//POINTER #51 @ $1C7D1 - STRING #51 @ $1C8D3
+
+#W16($1C7D1)
+ゆうきし[ED]
+
+
+//POINTER #52 @ $1C7D3 - STRING #52 @ $1C8D8
+
+#W16($1C7D3)
+[ED]
+
+
+//POINTER #53 @ $1C7D5 - STRING #53 @ $1C8D9
+
+#W16($1C7D5)
+ストームナイト[ED]
+
+
+//POINTER #54 @ $1C7D7 - STRING #54 @ $1C8E1
+
+#W16($1C7D7)
+ごうきし[ED]
+
+
+//POINTER #55 @ $1C7D9 - STRING #55 @ $1C8E6
+
+#W16($1C7D9)
+スカーレットナイト[ED]
+
+
+//POINTER #56 @ $1C7DB - STRING #56 @ $1C8F0
+
+#W16($1C7DB)
+ビショップ[ED]
+
+
+//POINTER #57 @ $1C7DD - STRING #57 @ $1C8F6
+
+#W16($1C7DD)
+バーニングナイト[ED]
+
+
+//POINTER #58 @ $1C7DF - STRING #58 @ $1C8FF
+
+#W16($1C7DF)
+[ED]
+
+
+//POINTER #59 @ $1C7E1 - STRING #59 @ $1C900
+
+#W16($1C7E1)
+[ED]
+
+
+//POINTER #60 @ $1C7E3 - STRING #60 @ $1C901
+
+#W16($1C7E3)
+[ED]
+
+
+//POINTER #61 @ $1C7E5 - STRING #61 @ $1C902
+
+#W16($1C7E5)
+[ED]
+
+
+//POINTER #62 @ $1C7E7 - STRING #62 @ $1C903
+
+#W16($1C7E7)
+[ED]
+
+
+//POINTER #63 @ $1C7E9 - STRING #63 @ $1C904
+
+#W16($1C7E9)
+[ED]
+

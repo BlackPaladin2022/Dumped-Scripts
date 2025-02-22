@@ -1,0 +1,195 @@
+//GAME NAME:		Knight Gundam Monogatari 3 (NES)
+
+//BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1CE01 - STRING #0 @ $1CE41
+
+#W16($1CE01)
+[ED]
+
+
+//POINTER #1 @ $1CE03 - STRING #1 @ $1CE42
+
+#W16($1CE03)
+フレア[ED]
+
+
+//POINTER #2 @ $1CE05 - STRING #2 @ $1CE46
+
+#W16($1CE05)
+メガフレア[ED]
+
+
+//POINTER #3 @ $1CE07 - STRING #3 @ $1CE4C
+
+#W16($1CE07)
+アイス[ED]
+
+
+//POINTER #4 @ $1CE09 - STRING #4 @ $1CE50
+
+#W16($1CE09)
+メガアイス[ED]
+
+
+//POINTER #5 @ $1CE0B - STRING #5 @ $1CE56
+
+#W16($1CE0B)
+マインド[ED]
+
+
+//POINTER #6 @ $1CE0D - STRING #6 @ $1CE5B
+
+#W16($1CE0D)
+メガマインド[ED]
+
+
+//POINTER #7 @ $1CE0F - STRING #7 @ $1CE62
+
+#W16($1CE0F)
+ショック[ED]
+
+
+//POINTER #8 @ $1CE11 - STRING #8 @ $1CE67
+
+#W16($1CE11)
+メガショック[ED]
+
+
+//POINTER #9 @ $1CE13 - STRING #9 @ $1CE6E
+
+#W16($1CE13)
+デス[ED]
+
+
+//POINTER #10 @ $1CE15 - STRING #10 @ $1CE71
+
+#W16($1CE15)
+フレアウォール[ED]
+
+
+//POINTER #11 @ $1CE17 - STRING #11 @ $1CE79
+
+#W16($1CE17)
+アイスウォール[ED]
+
+
+//POINTER #12 @ $1CE19 - STRING #12 @ $1CE81
+
+#W16($1CE19)
+マインドウォール[ED]
+
+
+//POINTER #13 @ $1CE1B - STRING #13 @ $1CE8A
+
+#W16($1CE1B)
+プロテクト[ED]
+
+
+//POINTER #14 @ $1CE1D - STRING #14 @ $1CE90
+
+#W16($1CE1D)
+ストレングス[ED]
+
+
+//POINTER #15 @ $1CE1F - STRING #15 @ $1CE97
+
+#W16($1CE1F)
+スロウ[ED]
+
+
+//POINTER #16 @ $1CE21 - STRING #16 @ $1CE9B
+
+#W16($1CE21)
+クリア[ED]
+
+
+//POINTER #17 @ $1CE23 - STRING #17 @ $1CE9F
+
+#W16($1CE23)
+ヒール[ED]
+
+
+//POINTER #18 @ $1CE25 - STRING #18 @ $1CEA3
+
+#W16($1CE25)
+ヒールオール[ED]
+
+
+//POINTER #19 @ $1CE27 - STRING #19 @ $1CEAA
+
+#W16($1CE27)
+マインドヒール[ED]
+
+
+//POINTER #20 @ $1CE29 - STRING #20 @ $1CEB2
+
+#W16($1CE29)
+レイズ[ED]
+
+
+//POINTER #21 @ $1CE2B - STRING #21 @ $1CEB6
+
+#W16($1CE2B)
+アンチポイズン[ED]
+
+
+//POINTER #22 @ $1CE2D - STRING #22 @ $1CEBE
+
+#W16($1CE2D)
+テレポート[ED]
+
+
+//POINTER #23 @ $1CE2F - STRING #23 @ $1CEC4
+
+#W16($1CE2F)
+[ED]
+
+
+//POINTER #24 @ $1CE31 - STRING #24 @ $1CEC5
+
+#W16($1CE31)
+[ED]
+
+
+//POINTER #25 @ $1CE33 - STRING #25 @ $1CEC6
+
+#W16($1CE33)
+[ED]
+
+
+//POINTER #26 @ $1CE35 - STRING #26 @ $1CEC7
+
+#W16($1CE35)
+[ED]
+
+
+//POINTER #27 @ $1CE37 - STRING #27 @ $1CEC8
+
+#W16($1CE37)
+[ED]
+
+
+//POINTER #28 @ $1CE39 - STRING #28 @ $1CEC9
+
+#W16($1CE39)
+[ED]
+
+
+//POINTER #29 @ $1CE3B - STRING #29 @ $1CECA
+
+#W16($1CE3B)
+[ED]
+
+
+//POINTER #30 @ $1CE3D - STRING #30 @ $1CECB
+
+#W16($1CE3D)
+[ED]
+
+
+//POINTER #31 @ $1CE3F - STRING #31 @ $1CECC
+
+#W16($1CE3F)
+[ED]
+

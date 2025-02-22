@@ -1,0 +1,1251 @@
+//GAME NAME:		Knight Gundam Monogatari 3 (NES)
+
+//BLOCK #001 NAME:		Dialogue Block 02 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1C074 - STRING #0 @ $1C214
+
+#W16($1C074)
+[ED]
+
+
+//POINTER #1 @ $1C076 - STRING #1 @ $1C215
+
+#W16($1C076)
+こうげき[ED]
+
+
+//POINTER #2 @ $1C078 - STRING #2 @ $1C21A
+
+#W16($1C078)
+どうぐ[ED]
+
+
+//POINTER #3 @ $1C07A - STRING #3 @ $1C21E
+
+#W16($1C07A)
+きあい[ED]
+
+
+//POINTER #4 @ $1C07C - STRING #4 @ $1C222
+
+#W16($1C07C)
+めいれい[ED]
+
+
+//POINTER #5 @ $1C07E - STRING #5 @ $1C227
+
+#W16($1C07E)
+かまえる[ED]
+
+
+//POINTER #6 @ $1C080 - STRING #6 @ $1C22C
+
+#W16($1C080)
+たいれつ[ED]
+
+
+//POINTER #7 @ $1C082 - STRING #7 @ $1C231
+
+#W16($1C082)
+いっせい[ED]
+
+
+//POINTER #8 @ $1C084 - STRING #8 @ $1C236
+
+#W16($1C084)
+にげだす[ED]
+
+
+//POINTER #9 @ $1C086 - STRING #9 @ $1C23B
+
+#W16($1C086)
+まほう[ED]
+
+
+//POINTER #10 @ $1C088 - STRING #10 @ $1C23F
+
+#W16($1C088)
+なのる[ED]
+
+
+//POINTER #11 @ $1C08A - STRING #11 @ $1C243
+
+#W16($1C08A)
+まもる[ED]
+
+
+//POINTER #12 @ $1C08C - STRING #12 @ $1C247
+
+#W16($1C08C)
+LV[ED]
+
+
+//POINTER #13 @ $1C08E - STRING #13 @ $1C24A
+
+#W16($1C08E)
+HP[ED]
+
+
+//POINTER #14 @ $1C090 - STRING #14 @ $1C24D
+
+#W16($1C090)
+MP[ED]
+
+
+//POINTER #15 @ $1C092 - STRING #15 @ $1C250
+
+#W16($1C092)
+(star)[ED]
+
+
+//POINTER #16 @ $1C094 - STRING #16 @ $1C252
+
+#W16($1C094)
+(sword)[ED]
+
+
+//POINTER #17 @ $1C096 - STRING #17 @ $1C254
+
+#W16($1C096)
+もちもの[ED]
+
+
+//POINTER #18 @ $1C098 - STRING #18 @ $1C259
+
+#W16($1C098)
+/[ED]
+
+
+//POINTER #19 @ $1C09A - STRING #19 @ $1C25B
+
+#W16($1C09A)
+つぎ[ED]
+
+
+//POINTER #20 @ $1C09C - STRING #20 @ $1C25E
+
+#W16($1C09C)
+そうび[ED]
+
+
+//POINTER #21 @ $1C09E - STRING #21 @ $1C262
+
+#W16($1C09E)
+EXP[ED]
+
+
+//POINTER #22 @ $1C0A0 - STRING #22 @ $1C266
+
+#W16($1C0A0)
+グEX(28)[ED]
+
+
+//POINTER #23 @ $1C0A2 - STRING #23 @ $1C26B
+
+#W16($1C0A2)
+めいせい[ED]
+
+
+//POINTER #24 @ $1C0A4 - STRING #24 @ $1C270
+
+#W16($1C0A4)
+きんか[ED]
+
+
+//POINTER #25 @ $1C0A6 - STRING #25 @ $1C274
+
+#W16($1C0A6)
+とうぜん たすける！[ED]
+
+
+//POINTER #26 @ $1C0A8 - STRING #26 @ $1C27F
+
+#W16($1C0A8)
+なみだをのんで みすてる..[ED]
+
+
+//POINTER #27 @ $1C0AA - STRING #27 @ $1C28D
+
+#W16($1C0AA)
+..[ED]
+
+
+//POINTER #28 @ $1C0AC - STRING #28 @ $1C28F
+
+#W16($1C0AC)
+・・・・・[ED]
+
+
+//POINTER #29 @ $1C0AE - STRING #29 @ $1C295
+
+#W16($1C0AE)
+どく[ED]
+
+
+//POINTER #30 @ $1C0B0 - STRING #30 @ $1C298
+
+#W16($1C0B0)
+しびれ[ED]
+
+
+//POINTER #31 @ $1C0B2 - STRING #31 @ $1C29C
+
+#W16($1C0B2)
+こんらん[ED]
+
+
+//POINTER #32 @ $1C0B4 - STRING #32 @ $1C2A1
+
+#W16($1C0B4)
+ねむり[ED]
+
+
+//POINTER #33 @ $1C0B6 - STRING #33 @ $1C2A5
+
+#W16($1C0B6)
+きぜつ[ED]
+
+
+//POINTER #34 @ $1C0B8 - STRING #34 @ $1C2A9
+
+#W16($1C0B8)
+じゅうたい[ED]
+
+
+//POINTER #35 @ $1C0BA - STRING #35 @ $1C2AF
+
+#W16($1C0BA)
+ごめいれいを！[ED]
+
+
+//POINTER #36 @ $1C0BC - STRING #36 @ $1C2B7
+
+#W16($1C0BC)
+おまかせを！[ED]
+
+
+//POINTER #37 @ $1C0BE - STRING #37 @ $1C2BE
+
+#W16($1C0BE)
+(x)[ED]
+
+
+//POINTER #38 @ $1C0C0 - STRING #38 @ $1C2C0
+
+#W16($1C0C0)
+・・・・・・[ED]
+
+
+//POINTER #39 @ $1C0C2 - STRING #39 @ $1C2C7
+
+#W16($1C0C2)
+のうりょく[ED]
+
+
+//POINTER #40 @ $1C0C4 - STRING #40 @ $1C2CD
+
+#W16($1C0C4)
+ちず[ED]
+
+
+//POINTER #41 @ $1C0C6 - STRING #41 @ $1C2D0
+
+#W16($1C0C6)
+キャンプ[ED]
+
+
+//POINTER #42 @ $1C0C8 - STRING #42 @ $1C2D5
+
+#W16($1C0C8)
+ほけん あと   にち[ED]
+
+
+//POINTER #43 @ $1C0CA - STRING #43 @ $1C2E1
+
+#W16($1C0CA)
+じゅう[ED]
+
+
+//POINTER #44 @ $1C0CC - STRING #44 @ $1C2E5
+
+#W16($1C0CC)
+ どく[ED]
+
+
+//POINTER #45 @ $1C0CE - STRING #45 @ $1C2E9
+
+#W16($1C0CE)
+きぜつ[ED]
+
+
+//POINTER #46 @ $1C0D0 - STRING #46 @ $1C2ED
+
+#W16($1C0D0)
+ど・き[ED]
+
+
+//POINTER #47 @ $1C0D2 - STRING #47 @ $1C2F1
+
+#W16($1C0D2)
+VSモード2[ED]
+
+
+//POINTER #48 @ $1C0D4 - STRING #48 @ $1C2F8
+
+#W16($1C0D4)
+つづきをする[ED]
+
+
+//POINTER #49 @ $1C0D6 - STRING #49 @ $1C2FF
+
+#W16($1C0D6)
+あたらしくはじめる[ED]
+
+
+//POINTER #50 @ $1C0D8 - STRING #50 @ $1C309
+
+#W16($1C0D8)
+VSモード1[ED]
+
+
+//POINTER #51 @ $1C0DA - STRING #51 @ $1C310
+
+#W16($1C0DA)
+ふやす[ED]
+
+
+//POINTER #52 @ $1C0DC - STRING #52 @ $1C314
+
+#W16($1C0DC)
+すてる[ED]
+
+
+//POINTER #53 @ $1C0DE - STRING #53 @ $1C318
+
+#W16($1C0DE)
+ビット[ED]
+
+
+//POINTER #54 @ $1C0E0 - STRING #54 @ $1C31C
+
+#W16($1C0E0)
+ザビロニアれき[ED]
+
+
+//POINTER #55 @ $1C0E2 - STRING #55 @ $1C324
+
+#W16($1C0E2)
+ねん   がつ   にち[ED]
+
+
+//POINTER #56 @ $1C0E4 - STRING #56 @ $1C331
+
+#W16($1C0E4)
+つかう  わたす  すてる[ED]
+
+
+//POINTER #57 @ $1C0E6 - STRING #57 @ $1C33F
+
+#W16($1C0E6)
+ぼうぎょ[ED]
+
+
+//POINTER #58 @ $1C0E8 - STRING #58 @ $1C344
+
+#W16($1C0E8)
+スピード[ED]
+
+
+//POINTER #59 @ $1C0EA - STRING #59 @ $1C349
+
+#W16($1C0EA)
+・みぎて[ED]
+
+
+//POINTER #60 @ $1C0EC - STRING #60 @ $1C34E
+
+#W16($1C0EC)
+・ひだりて[ED]
+
+
+//POINTER #61 @ $1C0EE - STRING #61 @ $1C354
+
+#W16($1C0EE)
+・たて[ED]
+
+
+//POINTER #62 @ $1C0F0 - STRING #62 @ $1C358
+
+#W16($1C0F0)
+・よろい[ED]
+
+
+//POINTER #63 @ $1C0F2 - STRING #63 @ $1C35D
+
+#W16($1C0F2)
+・りょうて[ED]
+
+
+//POINTER #64 @ $1C0F4 - STRING #64 @ $1C363
+
+#W16($1C0F4)
+ヴァトラスソード[ED]
+
+
+//POINTER #65 @ $1C0F6 - STRING #65 @ $1C36C
+
+#W16($1C0F6)
+キングシールド[ED]
+
+
+//POINTER #66 @ $1C0F8 - STRING #66 @ $1C374
+
+#W16($1C0F8)
+ノーマルスーツ[ED]
+
+
+//POINTER #67 @ $1C0FA - STRING #67 @ $1C37C
+
+#W16($1C0FA)
+ブリティスソード[ED]
+
+
+//POINTER #68 @ $1C0FC - STRING #68 @ $1C385
+
+#W16($1C0FC)
+ブリティスメイル[ED]
+
+
+//POINTER #69 @ $1C0FE - STRING #69 @ $1C38E
+
+#W16($1C0FE)
+サイドワインダー[ED]
+
+
+//POINTER #70 @ $1C100 - STRING #70 @ $1C397
+
+#W16($1C100)
+ハイブリッドメイル[ED]
+
+
+//POINTER #71 @ $1C102 - STRING #71 @ $1C3A1
+
+#W16($1C102)
+プラチナソード[ED]
+
+
+//POINTER #72 @ $1C104 - STRING #72 @ $1C3A9
+
+#W16($1C104)
+プラチナクロス[ED]
+
+
+//POINTER #73 @ $1C106 - STRING #73 @ $1C3B1
+
+#W16($1C106)
+ウインドスラッシャー[ED]
+
+
+//POINTER #74 @ $1C108 - STRING #74 @ $1C3BC
+
+#W16($1C108)
+ディフェンサー[ED]
+
+
+//POINTER #75 @ $1C10A - STRING #75 @ $1C3C4
+
+#W16($1C10A)
+ハリケーンメイル[ED]
+
+
+//POINTER #76 @ $1C10C - STRING #76 @ $1C3CD
+
+#W16($1C10C)
+アックスブレード[ED]
+
+
+//POINTER #77 @ $1C10E - STRING #77 @ $1C3D6
+
+#W16($1C10E)
+ヘビィメイル[ED]
+
+
+//POINTER #78 @ $1C110 - STRING #78 @ $1C3DD
+
+#W16($1C110)
+スカーレットスワロー[ED]
+
+
+//POINTER #79 @ $1C112 - STRING #79 @ $1C3E8
+
+#W16($1C112)
+ローズソーン[ED]
+
+
+//POINTER #80 @ $1C114 - STRING #80 @ $1C3EF
+
+#W16($1C114)
+スカーレットメイル[ED]
+
+
+//POINTER #81 @ $1C116 - STRING #81 @ $1C3F9
+
+#W16($1C116)
+プラスロッド[ED]
+
+
+//POINTER #82 @ $1C118 - STRING #82 @ $1C400
+
+#W16($1C118)
+マイナスロッド[ED]
+
+
+//POINTER #83 @ $1C11A - STRING #83 @ $1C408
+
+#W16($1C11A)
+スピリットガード[ED]
+
+
+//POINTER #84 @ $1C11C - STRING #84 @ $1C411
+
+#W16($1C11C)
+クロスファイアー[ED]
+
+
+//POINTER #85 @ $1C11E - STRING #85 @ $1C41A
+
+#W16($1C11E)
+ブリンクシールド[ED]
+
+
+//POINTER #86 @ $1C120 - STRING #86 @ $1C423
+
+#W16($1C120)
+バーニングメイル[ED]
+
+
+//POINTER #87 @ $1C122 - STRING #87 @ $1C42C
+
+#W16($1C122)
+サポートソード[ED]
+
+
+//POINTER #88 @ $1C124 - STRING #88 @ $1C434
+
+#W16($1C124)
+フォーミュラアーマー[ED]
+
+
+//POINTER #89 @ $1C126 - STRING #89 @ $1C43F
+
+#W16($1C126)
+デストロイドアックス[ED]
+
+
+//POINTER #90 @ $1C128 - STRING #90 @ $1C44A
+
+#W16($1C128)
+アサルトロッド[ED]
+
+
+//POINTER #91 @ $1C12A - STRING #91 @ $1C452
+
+#W16($1C12A)
++[ED]
+
+
+//POINTER #92 @ $1C12C - STRING #92 @ $1C454
+
+#W16($1C12C)
+キングキャリバー[ED]
+
+
+//POINTER #93 @ $1C12E - STRING #93 @ $1C45D
+
+#W16($1C12E)
+ジーアーマー[ED]
+
+
+//POINTER #94 @ $1C130 - STRING #94 @ $1C464
+
+#W16($1C130)
+フルアーマー[ED]
+
+
+//POINTER #95 @ $1C132 - STRING #95 @ $1C46B
+
+#W16($1C132)
+[ED]
+
+
+//POINTER #96 @ $1C134 - STRING #96 @ $1C46C
+
+#W16($1C134)
+かう うる やめる[ED]
+
+
+//POINTER #97 @ $1C136 - STRING #97 @ $1C476
+
+#W16($1C136)
+きんか..[ED]
+
+
+//POINTER #98 @ $1C138 - STRING #98 @ $1C47B
+
+#W16($1C138)
+しょうひん[ED]
+
+
+//POINTER #99 @ $1C13A - STRING #99 @ $1C481
+
+#W16($1C13A)
+だれを だい 1 ぶたいに しますか？[ED]
+
+
+//POINTER #100 @ $1C13C - STRING #100 @ $1C495
+
+#W16($1C13C)
+だい 1 ぶたい[ED]
+
+
+//POINTER #101 @ $1C13E - STRING #101 @ $1C49E
+
+#W16($1C13E)
+だい 2 ぶたい[ED]
+
+
+//POINTER #102 @ $1C140 - STRING #102 @ $1C4A7
+
+#W16($1C140)
+はい[ED]
+
+
+//POINTER #103 @ $1C142 - STRING #103 @ $1C4AA
+
+#W16($1C142)
+いいえ[ED]
+
+
+//POINTER #104 @ $1C144 - STRING #104 @ $1C4AE
+
+#W16($1C144)
+はい  いいえ[ED]
+
+
+//POINTER #105 @ $1C146 - STRING #105 @ $1C4B6
+
+#W16($1C146)
+パーティー ぶんかつ これで いいですか？[ED]
+
+
+//POINTER #106 @ $1C148 - STRING #106 @ $1C4CC
+
+#W16($1C148)
+MH ML VH VL PL RM[ED]
+
+
+//POINTER #107 @ $1C14A - STRING #107 @ $1C4DE
+
+#W16($1C14A)
+ただいま セーブちゅう です[ED]
+
+
+//POINTER #108 @ $1C14C - STRING #108 @ $1C4ED
+
+#W16($1C14C)
+モッンェルンォユ[ED]
+
+
+//POINTER #109 @ $1C14E - STRING #109 @ $1C4F6
+
+#W16($1C14E)
+ンユ/ ラム+ユ[ED]
+
+
+//POINTER #110 @ $1C150 - STRING #110 @ $1C4FF
+
+#W16($1C150)
+..ャ ーゥ モッ+[ED]
+
+
+//POINTER #111 @ $1C152 - STRING #111 @ $1C509
+
+#W16($1C152)
+..ャ ーゥ ュャ[ED]
+
+
+//POINTER #112 @ $1C154 - STRING #112 @ $1C512
+
+#W16($1C154)
+ノーマル[ED]
+
+
+//POINTER #113 @ $1C156 - STRING #113 @ $1C517
+
+#W16($1C156)
+バトルなし..トグル[ED]
+
+
+//POINTER #114 @ $1C158 - STRING #114 @ $1C521
+
+#W16($1C158)
+バトルキャラ[ED]
+
+
+//POINTER #115 @ $1C15A - STRING #115 @ $1C528
+
+#W16($1C15A)
+マップキャラ[ED]
+
+
+//POINTER #116 @ $1C15C - STRING #116 @ $1C52F
+
+#W16($1C15C)
+マップをみる[ED]
+
+
+//POINTER #117 @ $1C15E - STRING #117 @ $1C536
+
+#W16($1C15E)
+レベルアップ[ED]
+
+
+//POINTER #118 @ $1C160 - STRING #118 @ $1C53D
+
+#W16($1C160)
+アイテム[ED]
+
+
+//POINTER #119 @ $1C162 - STRING #119 @ $1C542
+
+#W16($1C162)
+まほう[ED]
+
+
+//POINTER #120 @ $1C164 - STRING #120 @ $1C546
+
+#W16($1C164)
+ワープ[ED]
+
+
+//POINTER #121 @ $1C166 - STRING #121 @ $1C54A
+
+#W16($1C166)
+ストーリービット[ED]
+
+
+//POINTER #122 @ $1C168 - STRING #122 @ $1C553
+
+#W16($1C168)
+ひとのうごき[ED]
+
+
+//POINTER #123 @ $1C16A - STRING #123 @ $1C55A
+
+#W16($1C16A)
+セーブ[ED]
+
+
+//POINTER #124 @ $1C16C - STRING #124 @ $1C55E
+
+#W16($1C16C)
+たからビット[ED]
+
+
+//POINTER #125 @ $1C16E - STRING #125 @ $1C565
+
+#W16($1C16E)
+ぶたいチェンジ[ED]
+
+
+//POINTER #126 @ $1C170 - STRING #126 @ $1C56D
+
+#W16($1C170)
+[ED]
+
+
+//POINTER #127 @ $1C172 - STRING #127 @ $1C56E
+
+#W16($1C172)
+[ED]
+
+
+//POINTER #128 @ $1C174 - STRING #128 @ $1C56F
+
+#W16($1C174)
+きろくする[ED]
+
+
+//POINTER #129 @ $1C176 - STRING #129 @ $1C575
+
+#W16($1C176)
+きろくしない[ED]
+
+
+//POINTER #130 @ $1C178 - STRING #130 @ $1C57C
+
+#W16($1C178)
+ノース[ED]
+
+
+//POINTER #131 @ $1C17A - STRING #131 @ $1C580
+
+#W16($1C17A)
+ソドン[ED]
+
+
+//POINTER #132 @ $1C17C - STRING #132 @ $1C584
+
+#W16($1C17C)
+やめる[ED]
+
+
+//POINTER #133 @ $1C17E - STRING #133 @ $1C588
+
+#W16($1C17E)
+アイル[ED]
+
+
+//POINTER #134 @ $1C180 - STRING #134 @ $1C58C
+
+#W16($1C180)
+チェスター[ED]
+
+
+//POINTER #135 @ $1C182 - STRING #135 @ $1C592
+
+#W16($1C182)
+とまる[ED]
+
+
+//POINTER #136 @ $1C184 - STRING #136 @ $1C596
+
+#W16($1C184)
+  おためし[ED]
+
+
+//POINTER #137 @ $1C186 - STRING #137 @ $1C59D
+
+#W16($1C186)
+  7 にち[ED]
+
+
+//POINTER #138 @ $1C188 - STRING #138 @ $1C5A4
+
+#W16($1C188)
+ 31 にち[ED]
+
+
+//POINTER #139 @ $1C18A - STRING #139 @ $1C5AB
+
+#W16($1C18A)
+365 にち[ED]
+
+
+//POINTER #140 @ $1C18C - STRING #140 @ $1C5B2
+
+#W16($1C18C)
+ちりょうする[ED]
+
+
+//POINTER #141 @ $1C18E - STRING #141 @ $1C5B9
+
+#W16($1C18E)
+かえる[ED]
+
+
+//POINTER #142 @ $1C190 - STRING #142 @ $1C5BD
+
+#W16($1C190)
+かえらない[ED]
+
+
+//POINTER #143 @ $1C192 - STRING #143 @ $1C5C3
+
+#W16($1C192)
+きたえる[ED]
+
+
+//POINTER #144 @ $1C194 - STRING #144 @ $1C5C8
+
+#W16($1C194)
+スタミナ300[ED]
+
+
+//POINTER #145 @ $1C196 - STRING #145 @ $1C5D0
+
+#W16($1C196)
+スタミナ500[ED]
+
+
+//POINTER #146 @ $1C198 - STRING #146 @ $1C5D8
+
+#W16($1C198)
+どくのキリ[ED]
+
+
+//POINTER #147 @ $1C19A - STRING #147 @ $1C5DE
+
+#W16($1C19A)
+ねむりぐすり[ED]
+
+
+//POINTER #148 @ $1C19C - STRING #148 @ $1C5E5
+
+#W16($1C19C)
+くるいキノコ[ED]
+
+
+//POINTER #149 @ $1C19E - STRING #149 @ $1C5EC
+
+#W16($1C19E)
+ちからのもと[ED]
+
+
+//POINTER #150 @ $1C1A0 - STRING #150 @ $1C5F3
+
+#W16($1C1A0)
+おまもり[ED]
+
+
+//POINTER #151 @ $1C1A2 - STRING #151 @ $1C5F8
+
+#W16($1C1A2)
+アイテムふうじ[ED]
+
+
+//POINTER #152 @ $1C1A4 - STRING #152 @ $1C600
+
+#W16($1C1A4)
+タイムストップ[ED]
+
+
+//POINTER #153 @ $1C1A6 - STRING #153 @ $1C608
+
+#W16($1C1A6)
+きあいのもと[ED]
+
+
+//POINTER #154 @ $1C1A8 - STRING #154 @ $1C60F
+
+#W16($1C1A8)
+あくまのつるぎ[ED]
+
+
+//POINTER #155 @ $1C1AA - STRING #155 @ $1C617
+
+#W16($1C1AA)
+すいとりがみ[ED]
+
+
+//POINTER #156 @ $1C1AC - STRING #156 @ $1C61E
+
+#W16($1C1AC)
+さいしゅうへいき[ED]
+
+
+//POINTER #157 @ $1C1AE - STRING #157 @ $1C627
+
+#W16($1C1AE)
+こうかん おわり[ED]
+
+
+//POINTER #158 @ $1C1B0 - STRING #158 @ $1C630
+
+#W16($1C1B0)
+だい[ED]
+
+
+//POINTER #159 @ $1C1B2 - STRING #159 @ $1C633
+
+#W16($1C1B2)
+かいせん[ED]
+
+
+//POINTER #160 @ $1C1B4 - STRING #160 @ $1C638
+
+#W16($1C1B4)
+[ED]
+
+
+//POINTER #161 @ $1C1B6 - STRING #161 @ $1C639
+
+#W16($1C1B6)
+キャラクター[ED]
+
+
+//POINTER #162 @ $1C1B8 - STRING #162 @ $1C640
+
+#W16($1C1B8)
+キャラ[ED]
+
+
+//POINTER #163 @ $1C1BA - STRING #163 @ $1C644
+
+#W16($1C1BA)
+アイテム[ED]
+
+
+//POINTER #164 @ $1C1BC - STRING #164 @ $1C649
+
+#W16($1C1BC)
+これで いい ですか？[ED]
+
+
+//POINTER #165 @ $1C1BE - STRING #165 @ $1C655
+
+#W16($1C1BE)
+バッチリ！  やりなおす[ED]
+
+
+//POINTER #166 @ $1C1C0 - STRING #166 @ $1C662
+
+#W16($1C1C0)
+たいせん けっか はっぴょう！！[ED]
+
+
+//POINTER #167 @ $1C1C2 - STRING #167 @ $1C673
+
+#W16($1C1C2)
+プレーヤー・1[ED]
+
+
+//POINTER #168 @ $1C1C4 - STRING #168 @ $1C67B
+
+#W16($1C1C4)
+プレーヤー・2[ED]
+
+
+//POINTER #169 @ $1C1C6 - STRING #169 @ $1C683
+
+#W16($1C1C6)
+コンピューター[ED]
+
+
+//POINTER #170 @ $1C1C8 - STRING #170 @ $1C68B
+
+#W16($1C1C8)
+1かいせん[ED]
+
+
+//POINTER #171 @ $1C1CA - STRING #171 @ $1C691
+
+#W16($1C1CA)
+2かいせん[ED]
+
+
+//POINTER #172 @ $1C1CC - STRING #172 @ $1C697
+
+#W16($1C1CC)
+3かいせん[ED]
+
+
+//POINTER #173 @ $1C1CE - STRING #173 @ $1C69D
+
+#W16($1C1CE)
+カードを ひいて ください[ED]
+
+
+//POINTER #174 @ $1C1D0 - STRING #174 @ $1C6AB
+
+#W16($1C1D0)
+あと 4 まい[ED]
+
+
+//POINTER #175 @ $1C1D2 - STRING #175 @ $1C6B3
+
+#W16($1C1D2)
+ボーナス   0 ポイント[ED]
+
+
+//POINTER #176 @ $1C1D4 - STRING #176 @ $1C6C1
+
+#W16($1C1D4)
+ぶ き[ED]
+
+
+//POINTER #177 @ $1C1D6 - STRING #177 @ $1C6C5
+
+#W16($1C1D6)
+よろい[ED]
+
+
+//POINTER #178 @ $1C1D8 - STRING #178 @ $1C6C9
+
+#W16($1C1D8)
+マロンのほん[ED]
+
+
+//POINTER #179 @ $1C1DA - STRING #179 @ $1C6D0
+
+#W16($1C1DA)
+ミスのほん[ED]
+
+
+//POINTER #180 @ $1C1DC - STRING #180 @ $1C6D6
+
+#W16($1C1DC)
+チョコのほん[ED]
+
+
+//POINTER #181 @ $1C1DE - STRING #181 @ $1C6DD
+
+#W16($1C1DE)
+ボーナスポイントと アイテムを[ED]
+
+
+//POINTER #182 @ $1C1E0 - STRING #182 @ $1C6ED
+
+#W16($1C1E0)
+3つまで こうかん できます[ED]
+
+
+//POINTER #183 @ $1C1E2 - STRING #183 @ $1C6FC
+
+#W16($1C1E2)
+ボーナスのこり....   0 ポイント[ED]
+
+
+//POINTER #184 @ $1C1E4 - STRING #184 @ $1C70F
+
+#W16($1C1E4)
+だい 1 かいせん！[ED]
+
+
+//POINTER #185 @ $1C1E6 - STRING #185 @ $1C71A
+
+#W16($1C1E6)
+だい 2 かいせん！[ED]
+
+
+//POINTER #186 @ $1C1E8 - STRING #186 @ $1C725
+
+#W16($1C1E8)
+だい 3 かいせん！[ED]
+
+
+//POINTER #187 @ $1C1EA - STRING #187 @ $1C730
+
+#W16($1C1EA)
+ベルファスト[ED]
+
+
+//POINTER #188 @ $1C1EC - STRING #188 @ $1C737
+
+#W16($1C1EC)
+ウソヨネー[ED]
+
+
+//POINTER #189 @ $1C1EE - STRING #189 @ $1C73D
+
+#W16($1C1EE)
+アイリッシュ[ED]
+
+
+//POINTER #190 @ $1C1F0 - STRING #190 @ $1C744
+
+#W16($1C1F0)
+[ED]
+
+
+//POINTER #191 @ $1C1F2 - STRING #191 @ $1C745
+
+#W16($1C1F2)
+[ED]
+
+
+//POINTER #192 @ $1C1F4 - STRING #192 @ $1C746
+
+#W16($1C1F4)
+ゴッド・クラス[ED]
+
+
+//POINTER #193 @ $1C1F6 - STRING #193 @ $1C74E
+
+#W16($1C1F6)
+キング・クラス[ED]
+
+
+//POINTER #194 @ $1C1F8 - STRING #194 @ $1C756
+
+#W16($1C1F8)
+ナイト・クラス[ED]
+
+
+//POINTER #195 @ $1C1FA - STRING #195 @ $1C75E
+
+#W16($1C1FA)
+[ED]
+
+
+//POINTER #196 @ $1C1FC - STRING #196 @ $1C75F
+
+#W16($1C1FC)
+[ED]
+
+
+//POINTER #197 @ $1C1FE - STRING #197 @ $1C760
+
+#W16($1C1FE)
+[ED]
+
+
+//POINTER #198 @ $1C200 - STRING #198 @ $1C761
+
+#W16($1C200)
+[ED]
+
+
+//POINTER #199 @ $1C202 - STRING #199 @ $1C762
+
+#W16($1C202)
+[ED]
+
+
+//POINTER #200 @ $1C204 - STRING #200 @ $1C763
+
+#W16($1C204)
+[ED]
+
+
+//POINTER #201 @ $1C206 - STRING #201 @ $1C764
+
+#W16($1C206)
+[ED]
+
+
+//POINTER #202 @ $1C208 - STRING #202 @ $1C765
+
+#W16($1C208)
+[ED]
+
+
+//POINTER #203 @ $1C20A - STRING #203 @ $1C766
+
+#W16($1C20A)
+[ED]
+
+
+//POINTER #204 @ $1C20C - STRING #204 @ $1C767
+
+#W16($1C20C)
+[ED]
+
+
+//POINTER #205 @ $1C20E - STRING #205 @ $1C768
+
+#W16($1C20E)
+[ED]
+
+
+//POINTER #206 @ $1C210 - STRING #206 @ $1C769
+
+#W16($1C210)
+[ED]
+
+
+//POINTER #207 @ $1C212 - STRING #207 @ $1C76A
+
+#W16($1C212)
+[ED]
+
