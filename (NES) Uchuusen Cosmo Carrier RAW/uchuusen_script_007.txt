@@ -1,0 +1,26 @@
+//GAME NAME:		Uchuusen Cosmo Carrier (NES)
+
+//BLOCK #007 NAME:		Dialogue Block (RAW 02)
+//Block Range: $18D07 - $18D8A
+
+ エイセイ[LN]
+ シュウリ[ED]
+ ワクセイ[LN]
+ シュウリ[ED]
+ ウチュウセン[LN]
+ シュウリ[ED]
+ メカ[LN]
+ シュウリ[ED]
+ エイセイ[LN]
+ シュウリ[LN]
+ リヘ゜アー[ED]
+ ワクセイ[LN]
+ シュウリ[LN]
+ リヘ゜アー[ED]
+ ウチュウセン[LN]
+ シュウリ[LN]
+ リヘ゜アー[ED]
+ メカ[LN]
+ シュウリ[LN]
+ リヘ゜アー[ED]
+ リヘ゜アー[ED]

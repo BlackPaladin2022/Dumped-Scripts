@@ -1,0 +1,57 @@
+//GAME NAME:		Uchuusen Cosmo Carrier (NES)
+
+//BLOCK #000 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $774 - STRING #0 @ $798
+
+#W16($774)
+ 1999ネン 6ガツ ツキガ チキュウニ セッキン[ED]
+
+
+//POINTER #1 @ $776 - STRING #1 @ $7B5
+
+#W16($776)
+シテイルコトガ ワカッタ[ED]
+
+
+//POINTER #2 @ $778 - STRING #2 @ $7C3
+
+#W16($778)
+ ソレハ ジュウリョクノ イジョウデ ナク ナゾノ[ED]
+
+
+//POINTER #3 @ $77A - STRING #3 @ $7E1
+
+#W16($77A)
+ホシ バトルスター ガ アヤツッテ イタノダッタ[ED]
+
+
+//POINTER #4 @ $77C - STRING #4 @ $7FD
+
+#W16($77C)
+ チキュウホ゛ウエイグン ノ ジョウホウニ ヨルト[ED]
+
+
+//POINTER #5 @ $77E - STRING #5 @ $819
+
+#W16($77E)
+タイヨウケイノ ワクセイニ ワクセイハカイ ミサイル ノ[ED]
+
+
+//POINTER #6 @ $780 - STRING #6 @ $836
+
+#W16($780)
+6ツ ノ パーツ ガ アルコトガ ワカッタ[ED]
+
+
+//POINTER #7 @ $782 - STRING #7 @ $84F
+
+#W16($782)
+6ツ ノ パーツヲ アツメ ワクセイ バトルスター[ED]
+
+
+//POINTER #8 @ $784 - STRING #8 @ $86B
+
+#W16($784)
+ヲ ハカイスルコトガ キミノ ニンムダ[ED]
+

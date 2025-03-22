@@ -1,0 +1,7 @@
+//GAME NAME:		Uchuusen Cosmo Carrier (NES)
+
+//BLOCK #006 NAME:		Dialogue Block (RAW 01)
+//Block Range: $1871A - $1872B
+
+コウゲキブツ ハ[LN]
+アリマセン[ED]
