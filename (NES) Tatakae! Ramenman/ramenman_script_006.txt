@@ -1,0 +1,171 @@
+//GAME NAME:		Tatakae!! Ramenman (NES)
+
+//BLOCK #006 NAME:		Dialogue Block 07 FIXED (POINTER_RELATIVE)
+
+//POINTER #0 @ $1EF2A - STRING #0 @ $1EF62
+
+#W16($1EF2A)
+ちきんもんの 3あくにん[ED]
+
+
+//POINTER #1 @ $1EF2C - STRING #1 @ $1EF6F
+
+#W16($1EF2C)
+にんげんが いしにかわる びょうき[ED]
+
+
+//POINTER #2 @ $1EF2E - STRING #2 @ $1EF81
+
+#W16($1EF2E)
+ぎょくおうの てした ふき[ED]
+
+
+//POINTER #3 @ $1EF30 - STRING #3 @ $1EF8F
+
+#W16($1EF30)
+ちょうじょうけんの しゅうとく[ED]
+
+
+//POINTER #4 @ $1EF32 - STRING #4 @ $1EF9F
+
+#W16($1EF32)
+そなえものをした はか[ED]
+
+
+//POINTER #5 @ $1EF34 - STRING #5 @ $1EFAB
+
+#W16($1EF34)
+せきへいはちじんの はし[ED]
+
+
+//POINTER #6 @ $1EF36 - STRING #6 @ $1EFB8
+
+#W16($1EF36)
+どくじゃのもりの はか[ED]
+
+
+//POINTER #7 @ $1EF38 - STRING #7 @ $1EFC4
+
+#W16($1EF38)
+かわに なげこまれた にもつ[ED]
+
+
+//POINTER #8 @ $1EF3A - STRING #8 @ $1EFD3
+
+#W16($1EF3A)
+すず つくりの めいじん[ED]
+
+
+//POINTER #9 @ $1EF3C - STRING #9 @ $1EFE0
+
+#W16($1EF3C)
+さいきょうの ちょうじょうけん[ED]
+
+
+//POINTER #10 @ $1EF3E - STRING #10 @ $1EFF0
+
+#W16($1EF3E)
+ちきんもんの いどの かぎ[ED]
+
+
+//POINTER #11 @ $1EF40 - STRING #11 @ $1EFFE
+
+#W16($1EF40)
+6にんの おうぎでんしょうしゃ[ED]
+
+
+//POINTER #12 @ $1EF42 - STRING #12 @ $1EF62
+
+#W16($1EF42)
+ちきんもんの 3あくにん[ED]
+
+
+//POINTER #13 @ $1EF44 - STRING #13 @ $1EF62
+
+#W16($1EF44)
+ちきんもんの 3あくにん[ED]
+
+
+//POINTER #14 @ $1EF46 - STRING #14 @ $1EF62
+
+#W16($1EF46)
+ちきんもんの 3あくにん[ED]
+
+
+//POINTER #15 @ $1EF48 - STRING #15 @ $1EF62
+
+#W16($1EF48)
+ちきんもんの 3あくにん[ED]
+
+
+//POINTER #16 @ $1EF4A - STRING #16 @ $1F10D
+
+#W16($1EF4A)
+[05]ぽしんけん[ED]
+
+
+//POINTER #17 @ $1EF4C - STRING #17 @ $1F114
+
+#W16($1EF4C)
+だけつ三てんくずし[ED]
+
+
+//POINTER #18 @ $1EF4E - STRING #18 @ $1F11E
+
+#W16($1EF4E)
+れっかたいようきゃく[ED]
+
+
+//POINTER #19 @ $1EF50 - STRING #19 @ $1F129
+
+#W16($1EF50)
+[05]せん[05]しょうきゃく[ED]
+
+
+//POINTER #20 @ $1EF52 - STRING #20 @ $1F134
+
+#W16($1EF52)
+めいだつほうかいけん[ED]
+
+
+//POINTER #21 @ $1EF54 - STRING #21 @ $1F13F
+
+#W16($1EF54)
+ひえんせんぷうきゃく[ED]
+
+
+//POINTER #22 @ $1EF56 - STRING #22 @ $1F14A
+
+#W16($1EF56)
+かいてんりゅうびきゃく[ED]
+
+
+//POINTER #23 @ $1EF58 - STRING #23 @ $1F156
+
+#W16($1EF58)
+もうこ[05]ぽけん[ED]
+
+
+//POINTER #24 @ $1EF5A - STRING #24 @ $1F15E
+
+#W16($1EF5A)
+そうせい もうこけん[ED]
+
+
+//POINTER #25 @ $1EF5C - STRING #25 @ $1F00E
+
+#W16($1EF5C)
+-きおく がめん-[ED]
+
+
+//POINTER #26 @ $1EF5E - STRING #26 @ $1F018
+
+#W16($1EF5E)
+-もちもの がめん-[ED]
+
+
+//POINTER #27 @ $1EF60 - STRING #27 @ $1F023
+
+#W16($1EF60)
+  ありません[ED]
+

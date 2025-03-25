@@ -1,0 +1,147 @@
+//GAME NAME:		Tatakae!! Ramenman (NES)
+
+//BLOCK #007 NAME:		Dialogue Block 08 FIXED (POINTER_RELATIVE)
+
+//POINTER #0 @ $1F02B - STRING #0 @ $1F05B
+
+#W16($1F02B)
+とうりゅう[ED]
+
+
+//POINTER #1 @ $1F02D - STRING #1 @ $1F068
+
+#W16($1F02D)
+ おまもり[ED]
+
+
+//POINTER #2 @ $1F02F - STRING #2 @ $1F06F
+
+#W16($1F02F)
+ さけ[ED]
+
+
+//POINTER #3 @ $1F031 - STRING #3 @ $1F074
+
+#W16($1F031)
+どうのかぎ[ED]
+
+
+//POINTER #4 @ $1F033 - STRING #4 @ $1F07B
+
+#W16($1F033)
+いしの[ED]
+
+
+//POINTER #5 @ $1F035 - STRING #5 @ $1F084
+
+#W16($1F035)
+てがみ[ED]
+
+
+//POINTER #6 @ $1F037 - STRING #6 @ $1F089
+
+#W16($1F037)
+かんのん[ED]
+
+
+//POINTER #7 @ $1F039 - STRING #7 @ $1F092
+
+#W16($1F039)
+つうこう[ED]
+
+
+//POINTER #8 @ $1F03B - STRING #8 @ $1F09B
+
+#W16($1F03B)
+らーにゃの[ED]
+
+
+//POINTER #9 @ $1F03D - STRING #9 @ $1F0A5
+
+#W16($1F03D)
+あかごだけ[ED]
+
+
+//POINTER #10 @ $1F03F - STRING #10 @ $1F0AC
+
+#W16($1F03F)
+ひすいの[ED]
+
+
+//POINTER #11 @ $1F041 - STRING #11 @ $1F0B6
+
+#W16($1F041)
+しお[ED]
+
+
+//POINTER #12 @ $1F043 - STRING #12 @ $1F0BA
+
+#W16($1F043)
+こはくの[ED]
+
+
+//POINTER #13 @ $1F045 - STRING #13 @ $1F0C4
+
+#W16($1F045)
+ふるい[ED]
+
+
+//POINTER #14 @ $1F047 - STRING #14 @ $1F0CE
+
+#W16($1F047)
+さびたかぎ[ED]
+
+
+//POINTER #15 @ $1F049 - STRING #15 @ $1F0D5
+
+#W16($1F049)
+かんしゃの[ED]
+
+
+//POINTER #16 @ $1F04B - STRING #16 @ $1F0E0
+
+#W16($1F04B)
+かんのんの[ED]
+
+
+//POINTER #17 @ $1F04D - STRING #17 @ $1F0EC
+
+#W16($1F04D)
+てんの[ED]
+
+
+//POINTER #18 @ $1F04F - STRING #18 @ $1F0F6
+
+#W16($1F04F)
+ち の[ED]
+
+
+//POINTER #19 @ $1F051 - STRING #19 @ $1F100
+
+#W16($1F051)
+ぬんちゃく[ED]
+
+
+//POINTER #20 @ $1F053 - STRING #20 @ $1F107
+
+#W16($1F053)
+うであて[ED]
+
+
+//POINTER #21 @ $1F055 - STRING #21 @ $1F107
+
+#W16($1F055)
+うであて[ED]
+
+
+//POINTER #22 @ $1F057 - STRING #22 @ $1F107
+
+#W16($1F057)
+うであて[ED]
+
+
+//POINTER #23 @ $1F059 - STRING #23 @ $1F107
+
+#W16($1F059)
+うであて[ED]
+

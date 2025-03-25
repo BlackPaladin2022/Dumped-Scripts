@@ -1,0 +1,938 @@
+//GAME NAME:		Tatakae!! Ramenman (NES)
+
+//BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1AB33 - STRING #0 @ $1AC49
+
+#W16($1AB33)
+[FB08]せんせい こんにちは[ED]
+
+
+//POINTER #1 @ $1AB35 - STRING #1 @ $1AC56
+
+#W16($1AB35)
+せんせい こんどまた けいこを おねがいします[ED]
+
+
+//POINTER #2 @ $1AB37 - STRING #2 @ $1AC6E
+
+#W16($1AB37)
+しはん こんど、おてあわせねがいます[ED]
+
+
+//POINTER #3 @ $1AB39 - STRING #3 @ $1AC81
+
+#W16($1AB39)
+おひさしぶりです [FB08]しはん[ED]
+
+
+//POINTER #4 @ $1AB3B - STRING #4 @ $1AC90
+
+#W16($1AB3B)
+[FB18]は 1にきほん、2にきほん[LN]
+3、4もきほん、5もきほん[LN]
+きほん、きほんですね せんせい！[ED]
+
+
+//POINTER #5 @ $1AB3D - STRING #5 @ $1ACBF
+
+#W16($1AB3D)
+せんせい すきあり！[FB14]まいりました！[ED]
+
+
+//POINTER #6 @ $1AB3F - STRING #6 @ $1ACD3
+
+#W16($1AB3F)
+[FB18]して きっと[LN]
+かがやく [FB19]の ほしになります！[ED]
+
+
+//POINTER #7 @ $1AB41 - STRING #7 @ $1ACEE
+
+#W16($1AB41)
+せんせいのような りっぱな[LN]
+けんぽうかを めざします[ED]
+
+
+//POINTER #8 @ $1AB43 - STRING #8 @ $1AD09
+
+#W16($1AB43)
+よそのむらでは あくとうがのさばって[LN]
+たいへんだそうですね[ED]
+
+
+//POINTER #9 @ $1AB45 - STRING #9 @ $1AD27
+
+#W16($1AB45)
+おれは もりのなかで まよったときにきく[LN]
+いいまじないを しってるぜ[LN]
+とう、ざい、なん、ぼくって さけぶんだ[ED]
+
+
+//POINTER #10 @ $1AB47 - STRING #10 @ $1AD5E
+
+#W16($1AB47)
+この しゅうとくそんは [FB19]にちかいから[LN]
+まだ へいわですわ[ED]
+
+
+//POINTER #11 @ $1AB49 - STRING #11 @ $1AD7D
+
+#W16($1AB49)
+ひがしの かわむこうのもりは[LN]
+どくじゃのもりって いって[LN]
+だれも ちかづかないのよ[ED]
+
+
+//POINTER #12 @ $1AB4B - STRING #12 @ $1ADA7
+
+#W16($1AB4B)
+[FB3D]さまは おげんきか？[ED]
+
+
+//POINTER #13 @ $1AB4D - STRING #13 @ $1ADB4
+
+#W16($1AB4D)
+みなみに ふしぎな れいすいのわく[LN]
+どうくつが あるそうじゃ[ED]
+
+
+//POINTER #14 @ $1AB4F - STRING #14 @ $1ADD3
+
+#W16($1AB4F)
+にしの らくようそんの ともだちが[LN]
+あそびにこなくて つまんない[ED]
+
+
+//POINTER #15 @ $1AB51 - STRING #15 @ $1ADF4
+
+#W16($1AB51)
+おれはにしの おにこべむらから うつってきたが[LN]
+あそこもかわったろうな[FA14]この らくようそんにも やっと はるがきたわ！[LN]
+かんしゃします[ED]
+
+
+//POINTER #16 @ $1AB53 - STRING #16 @ $1AE19
+
+#W16($1AB53)
+この らくようそんにも やっと はるがきたわ！[LN]
+かんしゃします[ED]
+
+
+//POINTER #17 @ $1AB55 - STRING #17 @ $1AE39
+
+#W16($1AB55)
+にしのもりは、まの もり[LN]
+たびの なんしょですじゃ[ED]
+
+
+//POINTER #18 @ $1AB57 - STRING #18 @ $1AE53
+
+#W16($1AB57)
+[FB0B] ひげのおじちゃん[LN]
+はやく あそびにいきたいな[ED]
+
+
+//POINTER #19 @ $1AB59 - STRING #19 @ $1AE6D
+
+#W16($1AB59)
+[FB09]め [FA3A]さかばは ながれものの、たまりばさ[LN]
+いろんな はなしがきけて おもしろいよ[ED]
+
+
+//POINTER #20 @ $1AB5B - STRING #20 @ $1AE73
+
+#W16($1AB5B)
+さかばは ながれものの、たまりばさ[LN]
+いろんな はなしがきけて おもしろいよ[ED]
+
+
+//POINTER #21 @ $1AB5D - STRING #21 @ $1AE99
+
+#W16($1AB5D)
+もうこれいじょう [FB09]に[LN]
+あたまをさげるのは ごめんだわ[ED]
+
+
+//POINTER #22 @ $1AB5F - STRING #22 @ $1AEB6
+
+#W16($1AB5F)
+この おにこべむらは みためはにぎやかじゃが[LN]
+ほんとうは じごくじゃ[ED]
+
+
+//POINTER #23 @ $1AB61 - STRING #23 @ $1AED9
+
+#W16($1AB61)
+あーん のどがかわいたよー[ED]
+
+
+//POINTER #24 @ $1AB63 - STRING #24 @ $1AEE7
+
+#W16($1AB63)
+だいりんじに やがて[LN]
+かみのいかりが おちるであろう[ED]
+
+
+//POINTER #25 @ $1AB65 - STRING #25 @ $1AF02
+
+#W16($1AB65)
+ひん ひん ひひーん ひん[LN]
+(けいきってやろうが だいりんじに いるらしいが[LN]
+おなじ うまのかおをしたものとして はずかしいぜ)[ED]
+
+
+//POINTER #26 @ $1AB67 - STRING #26 @ $1AF43
+
+#W16($1AB67)
+ひひひひーん ぶるる[LN]
+(あんた いのちのおんじんだ[LN]
+かいぬしにかわって れいをいうよ)[ED]
+
+
+//POINTER #27 @ $1AB69 - STRING #27 @ $1AF6F
+
+#W16($1AB69)
+[FB1E]め [FA3A]この はんかそんに [FB1E]がきてから[LN]
+いったい なんにんのむらびとが[LN]
+ころされたことか[FA14]いつまた [FB1E]がやってくるか わからない[LN]
+どうすればいいのやら[FA14]こどもだけが なぐさめね[LN]
+わたしの しってるこも しんだちちおやの はかに[LN]
+よくおまいりして、かんしんよね[ED]
+
+
+//POINTER #28 @ $1AB6B - STRING #28 @ $1AF75
+
+#W16($1AB6B)
+この はんかそんに [FB1E]がきてから[LN]
+いったい なんにんのむらびとが[LN]
+ころされたことか[FA14]いつまた [FB1E]がやってくるか わからない[LN]
+どうすればいいのやら[FA14]こどもだけが なぐさめね[LN]
+わたしの しってるこも しんだちちおやの はかに[LN]
+よくおまいりして、かんしんよね[ED]
+
+
+//POINTER #29 @ $1AB6D - STRING #29 @ $1AFA1
+
+#W16($1AB6D)
+いつまた [FB1E]がやってくるか わからない[LN]
+どうすればいいのやら[FA14]こどもだけが なぐさめね[LN]
+わたしの しってるこも しんだちちおやの はかに[LN]
+よくおまいりして、かんしんよね[ED]
+
+
+//POINTER #30 @ $1AB6F - STRING #30 @ $1AFC2
+
+#W16($1AB6F)
+こどもだけが なぐさめね[LN]
+わたしの しってるこも しんだちちおやの はかに[LN]
+よくおまいりして、かんしんよね[ED]
+
+
+//POINTER #31 @ $1AB71 - STRING #31 @ $1AFF8
+
+#W16($1AB71)
+[FB10]の てしたが つかまったって[LN]
+みにいこっと[ED]
+
+
+//POINTER #32 @ $1AB73 - STRING #32 @ $1B010
+
+#W16($1AB73)
+ここはもう にしのはて[LN]
+おもえば とおくへ きたものだ[ED]
+
+
+//POINTER #33 @ $1AB75 - STRING #33 @ $1B02C
+
+#W16($1AB75)
+このむらは ちいさいけど、うたが さかえるむら[LN]
+かえいそんっていう うつくしいなまえなんだ[ED]
+
+
+//POINTER #34 @ $1AB77 - STRING #34 @ $1B05A
+
+#W16($1AB77)
+もりのなかで むんたっておとこが[LN]
+ころされたひとの はかを つくってるのをみたわ[LN]
+かわいそうに[FA14]なにもかも ふたごかんのんさまの[LN]
+おぼしめしじゃ[ED]
+
+
+//POINTER #35 @ $1AB79 - STRING #35 @ $1B08B
+
+#W16($1AB79)
+なにもかも ふたごかんのんさまの[LN]
+おぼしめしじゃ[ED]
+
+
+//POINTER #36 @ $1AB7B - STRING #36 @ $1B0A4
+
+#W16($1AB7B)
+あっ [FB0F]！[LN]
+こんなとこまで きてくれたの！[ED]
+
+
+//POINTER #37 @ $1AB7D - STRING #37 @ $1B0BB
+
+#W16($1AB7D)
+いくら はたらいても[LN]
+てもとに なにも、のこらない[FA14]いつもなくのは おれらみたいな[LN]
+よわい にんげんばかりだ[ED]
+
+
+//POINTER #38 @ $1AB7F - STRING #38 @ $1B0D6
+
+#W16($1AB7F)
+いつもなくのは おれらみたいな[LN]
+よわい にんげんばかりだ[ED]
+
+
+//POINTER #39 @ $1AB81 - STRING #39 @ $1B0F3
+
+#W16($1AB81)
+ちきしょー！[LN]
+だれか やつらをたおせるものは いないのか！[ED]
+
+
+//POINTER #40 @ $1AB83 - STRING #40 @ $1B111
+
+#W16($1AB83)
+こんなよのなかに だれがしたの！[ED]
+
+
+//POINTER #41 @ $1AB85 - STRING #41 @ $1B122
+
+#W16($1AB85)
+このよには もう せいぎはないのよ[ED]
+
+
+//POINTER #42 @ $1AB87 - STRING #42 @ $1B134
+
+#W16($1AB87)
+こんな としよりをいじめて なにが たのしいんじゃ[ED]
+
+
+//POINTER #43 @ $1AB89 - STRING #43 @ $1B14E
+
+#W16($1AB89)
+くだらん まったくくだらん[ED]
+
+
+//POINTER #44 @ $1AB8B - STRING #44 @ $1B15C
+
+#W16($1AB8B)
+ここもむかしは[LN]
+いいとこだったんじゃが[FA14]おとななんか きらいだ！[ED]
+
+
+//POINTER #45 @ $1AB8D - STRING #45 @ $1B171
+
+#W16($1AB8D)
+おとななんか きらいだ！[ED]
+
+
+//POINTER #46 @ $1AB8F - STRING #46 @ $1B17E
+
+#W16($1AB8F)
+おいら しんじてんだ。[LN]
+いつかきっと せいぎのみかたがたすけてくれるって[ED]
+
+
+//POINTER #47 @ $1AB91 - STRING #47 @ $1B1A3
+
+#W16($1AB91)
+このよの おわりはちかい[LN]
+つどえ わがもとへ！[ED]
+
+
+//POINTER #48 @ $1AB93 - STRING #48 @ $1B1BB
+
+#W16($1AB93)
+[FB0C] これで[LN]
+このむらも いきかえるでしょう[ED]
+
+
+//POINTER #49 @ $1AB95 - STRING #49 @ $1B1D2
+
+#W16($1AB95)
+あなたこそ まさに[LN]
+きゅうせいしゅです！[ED]
+
+
+//POINTER #50 @ $1AB97 - STRING #50 @ $1B1E7
+
+#W16($1AB97)
+なくひとあれば かならず あらわれるという[FB14][LN]
+あなたが うわさの [FB08]！[ED]
+
+
+//POINTER #51 @ $1AB99 - STRING #51 @ $1B20D
+
+#W16($1AB99)
+[FB0C] [FB08]さま[ED]
+
+
+//POINTER #52 @ $1AB9B - STRING #52 @ $1B215
+
+#W16($1AB9B)
+かんしゃします [FB08]さま[ED]
+
+
+//POINTER #53 @ $1AB9D - STRING #53 @ $1B222
+
+#W16($1AB9D)
+あなたは わたしたちの きぼうのひかりです[ED]
+
+
+//POINTER #54 @ $1AB9F - STRING #54 @ $1B238
+
+#W16($1AB9F)
+[FB0F]さま[LN]
+だーいすき[ED]
+
+
+//POINTER #55 @ $1ABA1 - STRING #55 @ $1B243
+
+#W16($1ABA1)
+おお [FB08]どの[LN]
+きはやさしくて ちからもち[LN]
+うーむ わしのわかいころに そっくりじゃ！[ED]
+
+
+//POINTER #56 @ $1ABA3 - STRING #56 @ $1B26F
+
+#W16($1ABA3)
+あんたみたいなひとが まだおるなんて[LN]
+よのなか まだ すてたもんじゃないのう[ED]
+
+
+//POINTER #57 @ $1ABA5 - STRING #57 @ $1B296
+
+#W16($1ABA5)
+[FB0B] [FB08][LN]
+やっぱり [FB1D]は せかいいちだね！[ED]
+
+
+//POINTER #58 @ $1ABA7 - STRING #58 @ $1B2AE
+
+#W16($1ABA7)
+あっ！ おじさん、[FB0F]でしょ[LN]
+ずっと あこがれてたんです[ED]
+
+
+//POINTER #59 @ $1ABA9 - STRING #59 @ $1B2CB
+
+#W16($1ABA9)
+[FB08] [FB0B]！[ED]
+
+
+//POINTER #60 @ $1ABAB - STRING #60 @ $1B2D2
+
+#W16($1ABAB)
+あなたのめは しょうりに かがやいておりまする[LN]
+けっこう いやまことに、けっこうですな[ED]
+
+
+//POINTER #61 @ $1ABAD - STRING #61 @ $1B2FE
+
+#W16($1ABAD)
+よう！ あんた うわさどうりの[LN]
+たいしたやつだぜ！[ED]
+
+
+//POINTER #62 @ $1ABAF - STRING #62 @ $1B318
+
+#W16($1ABAF)
+あんたこそ ほんものの[LN]
+おとこだぜ！[ED]
+
+
+//POINTER #63 @ $1ABB1 - STRING #63 @ $1B32B
+
+#W16($1ABB1)
+あんたにゃ おれも だつぼうだぜ[LN]
+まいった！[ED]
+
+
+//POINTER #64 @ $1ABB3 - STRING #64 @ $1B55A
+
+#W16($1ABB3)
+あんた たれあるか？[ED]
+
+
+//POINTER #65 @ $1ABB5 - STRING #65 @ $1B565
+
+#W16($1ABB5)
+よいてんきあるね[ED]
+
+
+//POINTER #66 @ $1ABB7 - STRING #66 @ $1B56E
+
+#W16($1ABB7)
+[FD02]？[LN]
+しらんある[ED]
+
+
+//POINTER #67 @ $1ABB9 - STRING #67 @ $1B578
+
+#W16($1ABB9)
+わたし いそぐある[ED]
+
+
+//POINTER #68 @ $1ABBB - STRING #68 @ $1B342
+
+#W16($1ABBB)
+こんにちは たびのひと[ED]
+
+
+//POINTER #69 @ $1ABBD - STRING #69 @ $1B5AF
+
+#W16($1ABBD)
+ほかを あたってください[ED]
+
+
+//POINTER #70 @ $1ABBF - STRING #70 @ $1B5BC
+
+#W16($1ABBF)
+じゃましないでください[ED]
+
+
+//POINTER #71 @ $1ABC1 - STRING #71 @ $1B34E
+
+#W16($1ABC1)
+いそいでるの ごめんなさい[ED]
+
+
+//POINTER #72 @ $1ABC3 - STRING #72 @ $1B5C8
+
+#W16($1ABC3)
+[FD02]？[LN]
+[FB25] しらないです[ED]
+
+
+//POINTER #73 @ $1ABC5 - STRING #73 @ $1B5D6
+
+#W16($1ABC5)
+あとにしてくれない[ED]
+
+
+//POINTER #74 @ $1ABC7 - STRING #74 @ $1B35C
+
+#W16($1ABC7)
+[FB50]うんにゃ！あたしゃ らーめんは みそより しおがええ[ED]
+
+
+//POINTER #75 @ $1ABC9 - STRING #75 @ $1B379
+
+#W16($1ABC9)
+[FB50]わしゃ、みみは ええんじゃ[LN]
+そう どならんでもええ！[ED]
+
+
+//POINTER #76 @ $1ABCB - STRING #76 @ $1B396
+
+#W16($1ABCB)
+あれ？[LN]
+あんた、むかし にほんで[LN]
+ぷろれすを やっとらんかったかえ？[ED]
+
+
+//POINTER #77 @ $1ABCD - STRING #77 @ $1B3B9
+
+#W16($1ABCD)
+くもいきが あやしいのう[LN]
+なんかの まえぶれじゃろか[FA14]このとしに なったら[LN]
+もうなにも こわいものは ねえだ[LN]
+どんと こいじゃ！ げほっげほっ[ED]
+
+
+//POINTER #78 @ $1ABCF - STRING #78 @ $1B3D5
+
+#W16($1ABCF)
+このとしに なったら[LN]
+もうなにも こわいものは ねえだ[LN]
+どんと こいじゃ！ げほっげほっ[ED]
+
+
+//POINTER #79 @ $1ABD1 - STRING #79 @ $1B610
+
+#W16($1ABD1)
+ごほっごほっ[ED]
+
+
+//POINTER #80 @ $1ABD3 - STRING #80 @ $1B617
+
+#W16($1ABD3)
+すまんのう みみがとおいんじゃ[FB14][LN]
+あんた！いま わしのわるくちを いったじゃろう！[ED]
+
+
+//POINTER #81 @ $1ABD5 - STRING #81 @ $1B642
+
+#W16($1ABD5)
+わしは まだわかい[ED]
+
+
+//POINTER #82 @ $1ABD7 - STRING #82 @ $1B402
+
+#W16($1ABD7)
+え？[FD02]？[LN]
+それ おいしい？[ED]
+
+
+//POINTER #83 @ $1ABD9 - STRING #83 @ $1B411
+
+#W16($1ABD9)
+おじさん[FB14][BR]
+めが ほそいね[ED]
+
+
+//POINTER #84 @ $1ABDB - STRING #84 @ $1B5E0
+
+#W16($1ABDB)
+[FB08] あえてうれしいよ[ED]
+
+
+//POINTER #85 @ $1ABDD - STRING #85 @ $1B5EC
+
+#W16($1ABDD)
+でしに してください[ED]
+
+
+//POINTER #86 @ $1ABDF - STRING #86 @ $1B5F7
+
+#W16($1ABDF)
+[FD02]？[LN]
+きいたことないよ[ED]
+
+
+//POINTER #87 @ $1ABE1 - STRING #87 @ $1B604
+
+#W16($1ABE1)
+いそいで かえらなきゃ[ED]
+
+
+//POINTER #88 @ $1ABE3 - STRING #88 @ $1B420
+
+#W16($1ABE3)
+このくびかざりをかえば、すべてのさいなんから[LN]
+のがれられるぞ。あんたも どうじゃ？[ED]
+
+
+//POINTER #89 @ $1ABE5 - STRING #89 @ $1B44A
+
+#W16($1ABE5)
+しゅうきょうは ばくはつだー！[ED]
+
+
+//POINTER #90 @ $1ABE7 - STRING #90 @ $1B45A
+
+#W16($1ABE7)
+[FB52]たまごを おとせば すぐわれる[ED]
+
+
+//POINTER #91 @ $1ABE9 - STRING #91 @ $1B46C
+
+#W16($1ABE9)
+[FB52]やたいの きんぎょも すくわれる[ED]
+
+
+//POINTER #92 @ $1ABEB - STRING #92 @ $1B47F
+
+#W16($1ABEB)
+わん わん わん[ED]
+
+
+//POINTER #93 @ $1ABED - STRING #93 @ $1B488
+
+#W16($1ABED)
+わん つー すりー[ED]
+
+
+//POINTER #94 @ $1ABEF - STRING #94 @ $1B492
+
+#W16($1ABEF)
+うー[FB51][FB51][FB51]わおーん おん[ED]
+
+
+//POINTER #95 @ $1ABF1 - STRING #95 @ $1B4A2
+
+#W16($1ABF1)
+きゃいんきゃいんきゃいん[ED]
+
+
+//POINTER #96 @ $1ABF3 - STRING #96 @ $1B4AF
+
+#W16($1ABF3)
+にゃおーん[ED]
+
+
+//POINTER #97 @ $1ABF5 - STRING #97 @ $1B4B5
+
+#W16($1ABF5)
+こけこっ[FB14]ちがうって！[ED]
+
+
+//POINTER #98 @ $1ABF7 - STRING #98 @ $1B4C2
+
+#W16($1ABF7)
+ほわっつ？[ED]
+
+
+//POINTER #99 @ $1ABF9 - STRING #99 @ $1B4C8
+
+#W16($1ABF9)
+ふんぎゃー！[ED]
+
+
+//POINTER #100 @ $1ABFB - STRING #100 @ $1B4CF
+
+#W16($1ABFB)
+そとで あそびたいよ[FA14]みんな！せいしゅんしてる？！[ED]
+
+
+//POINTER #101 @ $1ABFD - STRING #101 @ $1B4DB
+
+#W16($1ABFD)
+みんな！せいしゅんしてる？！[ED]
+
+
+//POINTER #102 @ $1ABFF - STRING #102 @ $1B4EA
+
+#W16($1ABFF)
+ぱーっといこ ぱーっと！[ED]
+
+
+//POINTER #103 @ $1AC01 - STRING #103 @ $1B4F7
+
+#W16($1AC01)
+みかけねーかおだな どっから きた？[ED]
+
+
+//POINTER #104 @ $1AC03 - STRING #104 @ $1B50A
+
+#W16($1AC03)
+ぼくって ほんとは きがちいさいの[FA14]うまれるー！[ED]
+
+
+//POINTER #105 @ $1AC05 - STRING #105 @ $1B582
+
+#W16($1AC05)
+おれは はなしがへただ[ED]
+
+
+//POINTER #106 @ $1AC07 - STRING #106 @ $1B58E
+
+#W16($1AC07)
+なにかようか？[ED]
+
+
+//POINTER #107 @ $1AC09 - STRING #107 @ $1B596
+
+#W16($1AC09)
+[FD02]？[LN]
+しらないね[ED]
+
+
+//POINTER #108 @ $1AC0B - STRING #108 @ $1B5A0
+
+#W16($1AC0B)
+いそがしいんでね どいてくれ[ED]
+
+
+//POINTER #109 @ $1AC0D - STRING #109 @ $1B51D
+
+#W16($1AC0D)
+うまれるー！[ED]
+
+
+//POINTER #110 @ $1AC0F - STRING #110 @ $1B524
+
+#W16($1AC0F)
+くるしい たべすぎたかしら[ED]
+
+
+//POINTER #111 @ $1AC11 - STRING #111 @ $1B532
+
+#W16($1AC11)
+あなたはいま しあわせですか？[ED]
+
+
+//POINTER #112 @ $1AC13 - STRING #112 @ $1B542
+
+#W16($1AC13)
+[FD02]？[LN]
+わすれなさい そのような まよいごとは[ED]
+
+
+//POINTER #113 @ $1AC15 - STRING #113 @ $1B64C
+
+#W16($1AC15)
+あなたも しんじゃに、なりませんか？[ED]
+
+
+//POINTER #114 @ $1AC17 - STRING #114 @ $1B65F
+
+#W16($1AC17)
+[FD02]？[LN]
+きょうそさまに きいてみてください[ED]
+
+
+//POINTER #115 @ $1AC19 - STRING #115 @ $1B675
+
+#W16($1AC19)
+あなたの なやみを ききましょう[LN]
+なに [FD02]？[BR]
+あっ じかんがない！[ED]
+
+
+//POINTER #116 @ $1AC1B - STRING #116 @ $1B698
+
+#W16($1AC1B)
+いらっしゃいませ[ED]
+
+
+//POINTER #117 @ $1AC1D - STRING #117 @ $1B6A1
+
+#W16($1AC1D)
+とうてんは しんようだいいち！[ED]
+
+
+//POINTER #118 @ $1AC1F - STRING #118 @ $1B6B1
+
+#W16($1AC1F)
+へい らっしゃい！[ED]
+
+
+//POINTER #119 @ $1AC21 - STRING #119 @ $1B6BB
+
+#W16($1AC21)
+おきゃくさん[FB14][BR]
+おかね あるの？[ED]
+
+
+//POINTER #120 @ $1AC23 - STRING #120 @ $1B6CD
+
+#W16($1AC23)
+おもちかえりですか？[ED]
+
+
+//POINTER #121 @ $1AC25 - STRING #121 @ $1B6D8
+
+#W16($1AC25)
+やすさ さくれつ！[ED]
+
+
+//POINTER #122 @ $1AC27 - STRING #122 @ $1B6E2
+
+#W16($1AC27)
+げんきんですか それとも かーど？[ED]
+
+
+//POINTER #123 @ $1AC29 - STRING #123 @ $1B6F4
+
+#W16($1AC29)
+なに さしあげましょ[ED]
+
+
+//POINTER #124 @ $1AC2B - STRING #124 @ $1B6FF
+
+#W16($1AC2B)
+きゅうに はなしかけないで！[LN]
+のどに つ・つまったよ[ED]
+
+
+//POINTER #125 @ $1AC2D - STRING #125 @ $1B71A
+
+#W16($1AC2D)
+あんたも いっしょに どうです[ED]
+
+
+//POINTER #126 @ $1AC2F - STRING #126 @ $1B72A
+
+#W16($1AC2F)
+はらへったよー[ED]
+
+
+//POINTER #127 @ $1AC31 - STRING #127 @ $1B732
+
+#W16($1AC31)
+ぷはー このいっぱいが たまりません[ED]
+
+
+//POINTER #128 @ $1AC33 - STRING #128 @ $1B745
+
+#W16($1AC33)
+わかった！[LN]
+[FD02]のことだろ？[LN]
+そーくるとおもったぜ！[BR]
+でも しらない。[ED]
+
+
+//POINTER #129 @ $1AC35 - STRING #129 @ $1B769
+
+#W16($1AC35)
+まーすわりなさい[LN]
+はなしは それからだ[ED]
+
+
+//POINTER #130 @ $1AC37 - STRING #130 @ $1B77D
+
+#W16($1AC37)
+こんやの おかず なんにしようかしら[ED]
+
+
+//POINTER #131 @ $1AC39 - STRING #131 @ $1B790
+
+#W16($1AC39)
+どんな ごようけんですか[ED]
+
+
+//POINTER #132 @ $1AC3B - STRING #132 @ $1B79D
+
+#W16($1AC3B)
+まあ ゆっくりしてってください[ED]
+
+
+//POINTER #133 @ $1AC3D - STRING #133 @ $1B7AD
+
+#W16($1AC3D)
+いそがし いそがし あーもう やんなっちゃう！[ED]
+
+
+//POINTER #134 @ $1AC3F - STRING #134 @ $1B7C5
+
+#W16($1AC3F)
+[FD02]ですって？[LN]
+さあ どんなたべものかしら[ED]
+
+
+//POINTER #135 @ $1AC41 - STRING #135 @ $1B7DB
+
+#W16($1AC41)
+あたしって きれい？ いえすなら びーぼたん[LN]
+のーなら えーぼたんを おしてね。しょうじきに[LN]
+こたえたら らいふを かいふくしてあげる[BR]
+なんですって！[LN]
+うそつきは きらい！[ED]
+
+
+//POINTER #136 @ $1AC43 - STRING #136 @ $1B832
+
+#W16($1AC43)
+といれ といれ！[ED]
+
+
+//POINTER #137 @ $1AC45 - STRING #137 @ $1B83B
+
+#W16($1AC45)
+てれび みよっと[LN]
+あっ まだ はつめいされてないんだ[ED]
+
+
+//POINTER #138 @ $1AC47 - STRING #138 @ $1B856
+
+#W16($1AC47)
+しゅくだい おしえてよ[ED]
+
