@@ -5,143 +5,143 @@
 //POINTER #0 @ $1F169 - STRING #0 @ $1F199
 
 #W16($1F169)
-ã¨ã†ã‚Šã‚…ã† ã”ãã„ã—ã‚‡[ED]
+‚Æ‚¤‚è‚ã‚¤ ‚²‚­‚¢‚µ‚å[ED]
 
 
 //POINTER #1 @ $1F16B - STRING #1 @ $1F068
 
 #W16($1F16B)
- ãŠã¾ã‚‚ã‚Š[ED]
+ ‚¨‚Ü‚à‚è[ED]
 
 
 //POINTER #2 @ $1F16D - STRING #2 @ $1F06F
 
 #W16($1F16D)
- ã•ã‘[ED]
+ ‚³‚¯[ED]
 
 
 //POINTER #3 @ $1F16F - STRING #3 @ $1F074
 
 #W16($1F16F)
-ã©ã†ã®ã‹ãŽ[ED]
+‚Ç‚¤‚Ì‚©‚¬[ED]
 
 
 //POINTER #4 @ $1F171 - STRING #4 @ $1F1A5
 
 #W16($1F171)
-ã„ã—ã®ã‹ãŒã¿[ED]
+‚¢‚µ‚Ì‚©‚ª‚Ý[ED]
 
 
 //POINTER #5 @ $1F173 - STRING #5 @ $1F084
 
 #W16($1F173)
-ã¦ãŒã¿[ED]
+‚Ä‚ª‚Ý[ED]
 
 
 //POINTER #6 @ $1F175 - STRING #6 @ $1F1AC
 
 #W16($1F175)
-ã‹ã‚“ã®ã‚“ãžã†[ED]
+‚©‚ñ‚Ì‚ñ‚¼‚¤[ED]
 
 
 //POINTER #7 @ $1F177 - STRING #7 @ $1F1B3
 
 #W16($1F177)
-ã¤ã†ã“ã†ãµã [ED]
+‚Â‚¤‚±‚¤‚Ó‚¾[ED]
 
 
 //POINTER #8 @ $1F179 - STRING #8 @ $1F1BA
 
 #W16($1F179)
-ã‚‰ãƒ¼ã«ã‚ƒã®ã™ãš[ED]
+‚ç[‚É‚á‚Ì‚·‚¸[ED]
 
 
 //POINTER #9 @ $1F17B - STRING #9 @ $1F0A5
 
 #W16($1F17B)
-ã‚ã‹ã”ã ã‘[ED]
+‚ ‚©‚²‚¾‚¯[ED]
 
 
 //POINTER #10 @ $1F17D - STRING #10 @ $1F1C2
 
 #W16($1F17D)
-ã²ã™ã„ã®ã˜ã‚…ãš[ED]
+‚Ð‚·‚¢‚Ì‚¶‚ã‚¸[ED]
 
 
 //POINTER #11 @ $1F17F - STRING #11 @ $1F0B6
 
 #W16($1F17F)
-ã—ãŠ[ED]
+‚µ‚¨[ED]
 
 
 //POINTER #12 @ $1F181 - STRING #12 @ $1F1CA
 
 #W16($1F181)
-ã“ã¯ãã®ã˜ã‚…ãš[ED]
+‚±‚Í‚­‚Ì‚¶‚ã‚¸[ED]
 
 
 //POINTER #13 @ $1F183 - STRING #13 @ $1F1D2
 
 #W16($1F183)
-ãµã‚‹ã„ã—ã‚‡ã‚‚ã¤[ED]
+‚Ó‚é‚¢‚µ‚å‚à‚Â[ED]
 
 
 //POINTER #14 @ $1F185 - STRING #14 @ $1F0CE
 
 #W16($1F185)
-ã•ã³ãŸã‹ãŽ[ED]
+‚³‚Ñ‚½‚©‚¬[ED]
 
 
 //POINTER #15 @ $1F187 - STRING #15 @ $1F1DA
 
 #W16($1F187)
-ã‹ã‚“ã—ã‚ƒã® ã“ã“ã‚[ED]
+‚©‚ñ‚µ‚á‚Ì ‚±‚±‚ë[ED]
 
 
 //POINTER #16 @ $1F189 - STRING #16 @ $1F1E4
 
 #W16($1F189)
-ã‹ã‚“ã®ã‚“ã® ã¿ãŽã†ã§[ED]
+‚©‚ñ‚Ì‚ñ‚Ì ‚Ý‚¬‚¤‚Å[ED]
 
 
 //POINTER #17 @ $1F18B - STRING #17 @ $1F1EF
 
 #W16($1F18B)
-ã¦ã‚“ã® ã˜ã‚…ã‚‚ã‚“[ED]
+‚Ä‚ñ‚Ì ‚¶‚ã‚à‚ñ[ED]
 
 
 //POINTER #18 @ $1F18D - STRING #18 @ $1F1F8
 
 #W16($1F18D)
-ã¡ ã® ã˜ã‚…ã‚‚ã‚“[ED]
+‚¿ ‚Ì ‚¶‚ã‚à‚ñ[ED]
 
 
 //POINTER #19 @ $1F18F - STRING #19 @ $1F100
 
 #W16($1F18F)
-ã¬ã‚“ã¡ã‚ƒã[ED]
+‚Ê‚ñ‚¿‚á‚­[ED]
 
 
 //POINTER #20 @ $1F191 - STRING #20 @ $1F107
 
 #W16($1F191)
-ã†ã§ã‚ã¦[ED]
+‚¤‚Å‚ ‚Ä[ED]
 
 
 //POINTER #21 @ $1F193 - STRING #21 @ $1F107
 
 #W16($1F193)
-ã†ã§ã‚ã¦[ED]
+‚¤‚Å‚ ‚Ä[ED]
 
 
 //POINTER #22 @ $1F195 - STRING #22 @ $1F107
 
 #W16($1F195)
-ã†ã§ã‚ã¦[ED]
+‚¤‚Å‚ ‚Ä[ED]
 
 
 //POINTER #23 @ $1F197 - STRING #23 @ $1F107
 
 #W16($1F197)
-ã†ã§ã‚ã¦[ED]
+‚¤‚Å‚ ‚Ä[ED]
 
