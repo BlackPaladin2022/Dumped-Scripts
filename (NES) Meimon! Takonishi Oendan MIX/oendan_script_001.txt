@@ -1,0 +1,39 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #001 NAME:		Dialogue Block 01 (POINTER_RELATIVE)
+
+//POINTER #0 @ $109B - STRING #0 @ $10D9
+
+#W16($109B)
+さあ みなさん つぎも がんばりましょう[ED]
+
+
+//POINTER #1 @ $109D - STRING #1 @ $10F1
+
+#W16($109D)
+みんな つぎも しっかり たのむぜ[ED]
+
+
+//POINTER #2 @ $109F - STRING #2 @ $1105
+
+#W16($109F)
+ふう つかれた つかれた まだ あるのか[ED]
+
+
+//POINTER #3 @ $10A1 - STRING #3 @ $111B
+
+#W16($10A1)
+さあ おつぎは どんな あいてかな？[ED]
+
+
+//POINTER #4 @ $10A3 - STRING #4 @ $1130
+
+#W16($10A3)
+このまま いっきに いこうぜ みんな！[ED]
+
+
+//POINTER #5 @ $10A5 - STRING #5 @ $1145
+
+#W16($10A5)
+つぎも やるぞ [KATA]れっつ ごー[KATA]！！[ED]
+

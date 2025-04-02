@@ -1,0 +1,19 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #008 NAME:		Dialogue Block 08 (POINTER_RELATIVE)
+
+//POINTER #0 @ $19BFD - STRING #0 @ $19C23
+
+#W16($19BFD)
+やったぜ！ [09]が きまった。[LN]
+[07]に [03]の [KATA]だめーじ[KATA]を[LN]
+あたえたぞ。[ED]
+
+
+//POINTER #1 @ $19BFF - STRING #1 @ $19C4C
+
+#W16($19BFF)
+よしいいぞ！ がんめんへの [09]！！[LN]
+[07]に [03]の [KATA]だめーじ[KATA]を[LN]
+あたえた。[ED]
+

@@ -1,0 +1,376 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #013 NAME:		Dialogue Block 13 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1A51D - STRING #0 @ $1A58D
+
+#W16($1A51D)
+‚¹‚ñ‚Ï‚¢ ‚¨‚Ð‚³‚µ‚Ô‚è‚Å‚·[LN]
+‚Ç‚¤‚¼ ‚ ‚ª‚Á‚Ä ‚â‚·‚ñ‚Å‚¢‚Á‚Ä‚­‚¾‚³‚¢[ED]
+
+
+//POINTER #1 @ $1A51F - STRING #1 @ $1A5B8
+
+#W16($1A51F)
+‚¹‚ñ‚Æ‚¤ ‚©‚¢‚µ[ED]
+
+
+//POINTER #2 @ $1A521 - STRING #2 @ $1A5C1
+
+#W16($1A521)
+‚½‚±‚É‚µ‚Ì ‚±‚¤‚°‚«‚µ‚ã‚¤‚è‚å‚¤[LN]
+‚Ä‚«‚Ì ‚±‚¤‚°‚«‚©‚¢‚µ[ED]
+
+
+//POINTER #3 @ $1A523 - STRING #3 @ $1A5E0
+
+#W16($1A523)
+‚Ä‚«‚Ì ‚±‚¤‚°‚«‚µ‚ã‚¤‚è‚å‚¤[LN]
+‚½‚±‚É‚µ‚Ì ‚±‚¤‚°‚«‚©‚¢‚µ[ED]
+
+
+//POINTER #4 @ $1A525 - STRING #4 @ $1A5FF
+
+#W16($1A525)
+‚¿‚Á [KATA]‚Ï‚Æ‚©[[KATA]‚ª‚«‚½ ‚Â‚©‚Ü‚é‚Æ[LN]
+‚â‚Î‚¢ ‚µ‚Î‚ç‚­ ‚æ‚¤‚·‚ð‚Ý‚æ‚¤[ED]
+
+
+//POINTER #5 @ $1A527 - STRING #5 @ $1A627
+
+#W16($1A527)
+‚¤‚í‚Á [KATA]‚Ï‚Æ‚©[[KATA]‚¾ ‚¯‚ñ‚©‚µ‚Ä‚¢‚é‚Æ[LN]
+‚Ü‚¸‚¢‚¼ ‚Ý‚ñ‚È ‚»‚Ì‚Ü‚Ü‚¤‚²‚­‚È[ED]
+
+
+//POINTER #6 @ $1A529 - STRING #6 @ $1A653
+
+#W16($1A529)
+[04]‚Í ‚¿‚©‚ç‚Â‚«‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½[LN]
+‚É‚ã‚¤‚¢‚ñ ‚¿‚è‚å‚¤‚ª ‚Ð‚Â‚æ‚¤‚¾[ED]
+
+
+//POINTER #7 @ $1A52B - STRING #7 @ $1A677
+
+#W16($1A52B)
+‚±‚¤‚Í‚¢‚Ì‚¢‚¦‚É ‚Í‚¢‚Á‚Ä[LN]
+1‚©‚¢‚â‚·‚Ý[ED]
+
+
+//POINTER #8 @ $1A52D - STRING #8 @ $1A68C
+
+#W16($1A52D)
+‚±‚¤‚¶ ‚±‚ñ‚È‚Æ‚±‚ë‚Å ‚È‚É‚µ‚Ä‚¢‚é‚Ì[LN]
+‚¿‚å‚¤‚Ç‚¢‚¢‚í ‚¨‚¿‚á‚Å‚à‚Ì‚Ü‚È‚¢[ED]
+
+
+//POINTER #9 @ $1A52F - STRING #9 @ $1A6B6
+
+#W16($1A52F)
+‚«‚Á‚³‚Ä‚ñ‚Å ‚Ë‚¦‚³‚ñ‚Æ ‚¨‚¿‚á‚µ‚Ä‚¢‚Ü‚·[LN]
+1‚©‚¢‚â‚·‚Ý[ED]
+
+
+//POINTER #10 @ $1A531 - STRING #10 @ $1A6D4
+
+#W16($1A531)
+‚Þ‚ç‚½‚³‚ñ ‚±‚Ì‚ ‚¢‚¾‚Í‚Ç‚¤‚à[LN]
+‚¨‚©‚°‚Å ‚±‚ñ‚È‚É ‚°‚ñ‚«‚É‚È‚è‚Ü‚µ‚½‚æ[ED]
+
+
+//POINTER #11 @ $1A533 - STRING #11 @ $1A6FE
+
+#W16($1A533)
+‚¨‚¶‚³‚ñ‚Æ ‚¨‚Í‚È‚µ‚¿‚ã‚¤[LN]
+1‚©‚¢‚â‚·‚Ý[ED]
+
+
+//POINTER #12 @ $1A535 - STRING #12 @ $1A714
+
+#W16($1A535)
+‚¨‚¤ ‚³‚«‚å‚¤‚­‚ñ ‚â‚Á‚½‚æ ‚¨‚¨‚ ‚È‚¾[LN]
+‚«‚Ý‚Ì ‚¨‚©‚°‚¾ 1‚Ï‚¢‚â‚ë‚¤ ‚¨‚²‚é‚æ[ED]
+
+
+//POINTER #13 @ $1A537 - STRING #13 @ $1A743
+
+#W16($1A537)
+1‚Á‚Ï‚¢ ‚Ì‚ñ‚Å‚¢‚é ‚Ü‚Á‚³‚¢‚¿‚ã‚¤[LN]
+1‚©‚¢‚â‚·‚Ý[ED]
+
+
+//POINTER #14 @ $1A539 - STRING #14 @ $1A75F
+
+#W16($1A539)
+‚Ö‚¢ ‚¢‚ç‚Á‚µ‚á‚¢ ‚È‚É‚É ‚µ‚Ü‚µ‚å‚¤‚©[ED]
+
+
+//POINTER #15 @ $1A53B - STRING #15 @ $1A774
+
+#W16($1A53B)
+‚¨‚µ‚å‚­‚¶‚¿‚ã‚¤ ‚Å‚·[LN]
+‚¢‚Á‚©‚¢‚â‚·‚Ý PW‚©‚¢‚Ó‚­[ED]
+
+
+//POINTER #16 @ $1A53D - STRING #16 @ $1A791
+
+#W16($1A53D)
+‚·‚Ý‚Ü‚¹‚ñ‚Ë‚¦ ‚à‚¤ ‚Ö‚¢‚Ä‚ñ‚È‚ñ‚Å‚·‚æ[LN]
+‚Ü‚½ ‚Ç‚¤‚¼[ED]
+
+
+//POINTER #17 @ $1A53F - STRING #17 @ $1A7B0
+
+#W16($1A53F)
+‚ ‚ñ‚½ ‚±‚¤‚±‚¤‚¹‚¢‚¾‚ë[LN]
+‚¾‚ß‚¶‚á‚È‚¢‚Ì ‚½‚Î‚±‚È‚ñ‚© ‚©‚Á‚¿‚á[ED]
+
+
+//POINTER #18 @ $1A541 - STRING #18 @ $1A7D5
+
+#W16($1A541)
+‚¨‚Î‚ ‚¿‚á‚ñ‚Ì ‚¨‚¹‚Á‚«‚å‚¤‚¿‚ã‚¤[LN]
+1‚©‚¢‚â‚·‚Ý[ED]
+
+
+//POINTER #19 @ $1A543 - STRING #19 @ $1A7EF
+
+#W16($1A543)
+‚ ‚ñ‚½ ‚Ç‚¤‚µ‚½‚ñ‚¾‚¢ ‚í‚©‚¢‚Ì‚É[LN]
+‚Ó‚ç‚Ó‚ç‚µ‚¿‚á‚Á‚Ä ‚Ü‚  ‚È‚©‚É‚¨‚Í‚¢‚è[ED]
+
+
+//POINTER #20 @ $1A545 - STRING #20 @ $1A818
+
+#W16($1A545)
+‚½‚Î‚±‚â‚³‚ñ‚Å ‚«‚ã‚¤‚¯‚¢‚¿‚ã‚¤[LN]
+1‚©‚¢‚â‚·‚Ý PW‚©‚¢‚Ó‚­[ED]
+
+
+//POINTER #21 @ $1A547 - STRING #21 @ $1A839
+
+#W16($1A547)
+‚¨ [04]‚¶‚á‚È‚¢‚© ‚È‚ñ‚Ì‚æ‚¤‚¾[LN]
+‚»‚¤‚© ‚×‚ñ‚«‚å‚¤‚µ‚É ‚«‚½‚ñ‚¾‚È ‚æ‚µ[ED]
+
+
+//POINTER #22 @ $1A549 - STRING #22 @ $1A862
+
+#W16($1A549)
+‚­‚ë‚¾‚¹‚ñ‚¹‚¢‚Æ ‚¨‚×‚ñ‚«‚å‚¤‚¿‚ã‚¤[LN]
+1‚©‚¢‚â‚·‚Ý[ED]
+
+
+//POINTER #23 @ $1A54B - STRING #23 @ $1A87E
+
+#W16($1A54B)
+[02]‚ð ‚Ý‚Â‚¯‚½[ED]
+
+
+//POINTER #24 @ $1A54D - STRING #24 @ $1A886
+
+#W16($1A54D)
+‚Æ‚é ‚Æ‚ç‚È‚¢[ED]
+
+
+//POINTER #25 @ $1A54F - STRING #25 @ $1A88E
+
+#W16($1A54F)
+[04]‚Í ‚ ‚Ý‚ð ‚µ‚©‚¯‚½[ED]
+
+
+//POINTER #26 @ $1A551 - STRING #26 @ $1A89A
+
+#W16($1A551)
+[04]‚Í ‚ ‚È‚ð ‚Ù‚Á‚½[ED]
+
+
+//POINTER #27 @ $1A553 - STRING #27 @ $1A8A5
+
+#W16($1A553)
+‚ ‚µ‚ð ‚Ë‚ñ‚´‚µ‚½ ‚¢‚Ä ‚Ä ‚Ä ‚Ä[ED]
+
+
+//POINTER #28 @ $1A555 - STRING #28 @ $1A8C0
+
+#W16($1A555)
+‚ ‚µ‚ª ‚·‚×‚Á‚½ ‚¤‚Ý‚É ‚¨‚¿‚½[LN]
+‚ä‚­‚¦‚Ó‚ß‚¢‚É ‚È‚Á‚Ä‚µ‚Ü‚Á‚½[ED]
+
+
+//POINTER #29 @ $1A557 - STRING #29 @ $1A8E3
+
+#W16($1A557)
+‚¨‚Æ‚µ‚ ‚È‚É ‚¨‚¿‚½[LN]
+‚Ý‚¤‚²‚«‚ª ‚Æ‚ê‚È‚¢ 1‚©‚¢‚â‚·‚Ý‚¾[ED]
+
+
+//POINTER #30 @ $1A559 - STRING #30 @ $1A904
+
+#W16($1A559)
+‚â‚Á‚«‚å‚­‚Å ‚­‚·‚è‚ð ‚Ì‚ñ‚¾[LN]
+PW‚©‚¢‚Ó‚­[ED]
+
+
+//POINTER #31 @ $1A55B - STRING #31 @ $1A91D
+
+#W16($1A55B)
+‚Ä‚«‚ª ‚ ‚Ý‚É‚©‚©‚Á‚½[LN]
+‚â‚Â‚Í 1‚©‚¢‚â‚·‚Ý‚¾[ED]
+
+
+//POINTER #32 @ $1A55D - STRING #32 @ $1A937
+
+#W16($1A55D)
+‚Ä‚«‚ª ‚¨‚Æ‚µ‚ ‚È‚É ‚¨‚¿‚½[LN]
+‚â‚Â‚Í 1‚©‚¢‚â‚·‚Ý‚¾[ED]
+
+
+//POINTER #33 @ $1A55F - STRING #33 @ $1A954
+
+#W16($1A55F)
+‚Ó‚Ý‚«‚è‚ª ‚¨‚è‚Ä‚¢‚Ä ‚Æ‚¨‚ê‚È‚¢[LN]
+‚ ‚­‚Ü‚Å ‚Ü‚Â‚¢‚ª‚¢‚É ‚È‚¢‚æ‚¤‚¾[ED]
+
+
+//POINTER #34 @ $1A561 - STRING #34 @ $1A97C
+
+#W16($1A561)
+‚½‚·‚©‚Á‚½[LN]
+[04]‚Ó‚Á‚©‚Â ‚±‚¤‚°‚«‚³‚¢‚©‚¢[ED]
+
+
+//POINTER #35 @ $1A563 - STRING #35 @ $1A992
+
+#W16($1A563)
+‚Ý‚©‚½‚Ì ‚Â‚­‚Á‚½ ‚¨‚Æ‚µ‚ ‚È‚É[LN]
+‚¨‚¿‚Ä‚µ‚Ü‚Á‚½[ED]
+
+
+//POINTER #36 @ $1A565 - STRING #36 @ $1A9AB
+
+#W16($1A565)
+‚¦‚«‚È‚ç ‚«‚½‚É ‚ ‚é‚æ[ED]
+
+
+//POINTER #37 @ $1A567 - STRING #37 @ $1A9B8
+
+#W16($1A567)
+‚³‚ñ‚±‚¤‚ª‚Á‚©‚ñ‚Ì ‚È‚©‚É‚Í 3‚É‚ñ[LN]
+‚¢‚é‚æ[ED]
+
+
+//POINTER #38 @ $1A569 - STRING #38 @ $1A9D0
+
+#W16($1A569)
+‚â‚Â‚ç‚Í ‚«‚Þ‚ç‚â‚Ñ‚é‚É‚¢‚é[LN]
+‚«‚½‚Ö ‚¢‚«‚È‚³‚¢[ED]
+
+
+//POINTER #39 @ $1A56B - STRING #39 @ $1A9EA
+
+#W16($1A56B)
+‚Ñ‚é‚Ì‚È‚©‚É ‚Ä‚«‚ª‚¢‚é‚¼[ED]
+
+
+//POINTER #40 @ $1A56D - STRING #40 @ $1A9FB
+
+#W16($1A56D)
+‚¶‚ñ‚¶‚á‚Í ‚È‚ñ‚¹‚¢‚É‚ ‚è‚Ü‚·‚æ[ED]
+
+
+//POINTER #41 @ $1A56F - STRING #41 @ $1AA0E
+
+#W16($1A56F)
+‚Ý‚È‚Ý‚É‚¢‚¯‚Î ‚«‚å‚¤‚©‚¢‚ª‚ ‚é‚æ[ED]
+
+
+//POINTER #42 @ $1A571 - STRING #42 @ $1AA22
+
+#W16($1A571)
+‚Í‚Ü‚¾‚Ç‚Ú‚­‚Í ‚Ñ‚é‚Ì‚È‚©‚¾[ED]
+
+
+//POINTER #43 @ $1A573 - STRING #43 @ $1AA36
+
+#W16($1A573)
+‚Æ‚¤‚¾‚¢‚É‚Í ‚«‚½‚©‚ç ‚Ü‚í‚Á‚Ä[LN]
+‚¢‚©‚È‚¯‚ê‚Î ‚È‚è‚Ü‚¹‚ñ‚æ[ED]
+
+
+//POINTER #44 @ $1A575 - STRING #44 @ $1AA57
+
+#W16($1A575)
+‚±‚±‚Í ‚©‚à‚Â‚¹‚ñ‚æ‚¤‚¾‚©‚ç[LN]
+‚Å‚ñ‚µ‚á‚É‚Í ‚Ì‚ê‚È‚¢‚æ[ED]
+
+
+//POINTER #45 @ $1A577 - STRING #45 @ $1AA75
+
+#W16($1A577)
+‚Å‚ñ‚µ‚á‚Í ‚½‚Á‚½‚¢‚Ü ‚¢‚Á‚½‚Î‚©‚è‚¾[LN]
+‚ ‚é‚¢‚Ä‚¢‚Á‚½‚Ù‚¤‚ª ‚¢‚¢‚æ[ED]
+
+
+//POINTER #46 @ $1A579 - STRING #46 @ $1AA9C
+
+#W16($1A579)
+‚Ï‚¢‚»‚ñ‚Í ‚Ð‚ª‚µ‚Ì‚Í‚¸‚ê‚É ‚ ‚é‚æ[ED]
+
+
+//POINTER #47 @ $1A57B - STRING #47 @ $1AAB2
+
+#W16($1A57B)
+‚ª‚à‚¤‚Í ‚Ù‚­‚Æ‚¤‚É‚¶‚ñ‚ð[LN]
+‚Í‚Á‚Ä‚¢‚é‚¼[ED]
+
+
+//POINTER #48 @ $1A57D - STRING #48 @ $1AACA
+
+#W16($1A57D)
+‚¨‚ê‚Í ‚½‚±‚É‚µ‚¨‚¤‚¦‚ñ‚¾‚ñ ‚±‚ß‚±‚¤‚¶[LN]
+‚¢‚¿‚Ì‚±‚Ô‚ñ ‚¢‚Ê‚¢‚µ‚å‚¤‚Ö‚¢‚¾[[ED]
+
+
+//POINTER #49 @ $1A57F - STRING #49 @ $1AAF5
+
+#W16($1A57F)
+‚½‚¿‚Î‚È ‚µ‚Á‚»‚¤[ED]
+
+
+//POINTER #50 @ $1A581 - STRING #50 @ $1AB00
+
+#W16($1A581)
+[04]‚Í ‚Ù‚µ‚ð ‚Æ‚Á‚½[ED]
+
+
+//POINTER #51 @ $1A583 - STRING #51 @ $1AB0B
+
+#W16($1A583)
+‚ ‚Ý‚É ‚Ð‚Á‚©‚©‚Á‚Ä‚µ‚Ü‚Á‚½[LN]
+‚Ý‚¤‚²‚«‚ª‚Æ‚ê‚È‚¢ 1‚©‚¢‚â‚·‚Ý‚¾[ED]
+
+
+//POINTER #52 @ $1A585 - STRING #52 @ $1AB2F
+
+#W16($1A585)
+‚Ì‚é ‚Ì‚ç‚È‚¢[ED]
+
+
+//POINTER #53 @ $1A587 - STRING #53 @ $1AB37
+
+#W16($1A587)
+[04]‚Í ‚ê‚×‚é‚ª ‚ ‚ª‚Á‚½[ED]
+
+
+//POINTER #54 @ $1A589 - STRING #54 @ $1AB47
+
+#W16($1A589)
+‚º‚ñ‚¢‚ñ ‚ê‚×‚é‚ª ‚ ‚ª‚Á‚½[ED]
+
+
+//POINTER #55 @ $1A58B - STRING #55 @ $1AB5A
+
+#W16($1A58B)
+[04]‚Í ‚Å‚ñ‚µ‚á‚ð ‚¨‚è‚½[ED]
+

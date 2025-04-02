@@ -1,0 +1,21 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #012 NAME:		Dialogue Block 12 (POINTER_RELATIVE)
+
+//POINTER #0 @ $19F5E - STRING #0 @ $1A058
+
+#W16($19F5E)
+[7070][15A4][25A4][31A4][ED]
+
+
+//POINTER #1 @ $19F60 - STRING #1 @ $1A061
+
+#W16($19F60)
+[07][74][91A4][A1A4][ADA4]     だんちょう！！[ED]
+
+
+//POINTER #2 @ $19F62 - STRING #2 @ $1A061
+
+#W16($19F62)
+[07][74][91A4][A1A4][ADA4]     だんちょう！！[ED]
+

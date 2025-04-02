@@ -1,0 +1,36 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #009 NAME:		Dialogue Block 09 (POINTER_RELATIVE)
+
+//POINTER #0 @ $19C03 - STRING #0 @ $19C76
+
+#W16($19C03)
+[KATA]ないす[KATA] [09]だ！！ きいているぞ。[LN]
+[07]に [03]の [KATA]だめーじ[KATA]を[LN]
+あたえたぜ。[ED]
+
+
+//POINTER #1 @ $19C05 - STRING #1 @ $19CA3
+
+#W16($19C05)
+[KATA]ぼで-[KATA]への [09]が みごとに [KATA]ひっと[KATA]した！[LN]
+[07]に [03]の [KATA]だめーじ[KATA]を[LN]
+あたえた。[ED]
+
+
+//POINTER #2 @ $19C07 - STRING #2 @ $19CD6
+
+#W16($19C07)
+でたーっ！！！[LN]
+[04]の とくいわざ [09]。[LN]
+[07]に [03]の [KATA]だめーじ[KATA]を あたえたぜ！[LN]
+やった！[ED]
+
+
+//POINTER #3 @ $19C09 - STRING #3 @ $19D09
+
+#W16($19C09)
+うまい！ [07]の [09]を かわした。[LN]
+[07]に [03]の [KATA]だめーじ[KATA]を[LN]
+あたえたぞ。[ED]
+

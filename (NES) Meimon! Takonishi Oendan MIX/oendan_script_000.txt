@@ -1,0 +1,14 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #000 NAME:		Dialogue Block 01 RAW (RAW)
+//Block Range: $10A7 - $115A
+
+たこにしおうえんだんいん [03]めい[LN]
+ [02] [KATA]えりあ[KATA] つうか！[LN]
+にゅういん ちりょうちゅう [06]めい[ED]
+さあ みなさん つぎも がんばりましょう[ED]
+みんな つぎも しっかり たのむぜ[ED]
+ふう つかれた つかれた まだ あるのか[ED]
+さあ おつぎは どんな あいてかな？[ED]
+このまま いっきに いこうぜ みんな！[ED]
+つぎも やるぞ [KATA]れっつ ごー[KATA]！！

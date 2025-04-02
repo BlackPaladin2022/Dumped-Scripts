@@ -1,0 +1,27 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #002 NAME:		Dialogue Block 02 RAW (RAW)
+//Block Range: $DBE2 - $DCF0
+
+[KATA]ぱんち[KATA]     [01][ED]
+しない     [01][ED]
+ぼくとう    [01][ED]
+[KATA]ないふ[KATA]     [01][ED]
+[KATA]ち゛ーん[KATA]    [01][ED]
+[KATA]きっく[KATA]     [01][ED]
+[KATA]あいてむ[KATA][4446]  [01][ED]
+[KATA]ぱんち[KATA][4446]   [01][ED]
+[KATA]きっく[KATA][4446]   [01][ED]
+とくいわざ[4446] [01][ED]
+にげる    -[01][ED]
+[KATA]らりあっと[KATA]   [01][ED]
+[KATA]ばっくどろっぷ[KATA] [01][ED]
+[KATA]すとれーと[KATA]   [01][ED]
+[KATA]かーど[KATA]なげ   [01][ED]
+[KATA]みどるきっく[KATA]  [01][ED]
+せおい[KATA]ぱんち[KATA]  [01][ED]
+つっぱり    [01][ED]
+だいだんきなげ [01][ED]
+ひじうち    [01][ED]
+ひざげり    [01][ED]
+[KATA]ぼで-ぶろー  [KATA][01][ED]

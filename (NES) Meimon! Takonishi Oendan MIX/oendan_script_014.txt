@@ -1,0 +1,123 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #014 NAME:		Dialogue Block 14 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1AB68 - STRING #0 @ $1AB90
+
+#W16($1AB68)
+Ç®Ç§ Ç∑Ç‹ÇÒÇ»  Ç∂Ç·Ç‹Ç∑ÇÈÇº[ED]
+
+
+//POINTER #1 @ $1AB6A - STRING #1 @ $1ABA2
+
+#W16($1AB6A)
+ÇÀÇ¶Ç≥ÇÒ[ED]
+
+
+//POINTER #2 @ $1AB6C - STRING #2 @ $1ABA7
+
+#W16($1AB6C)
+ÇªÇ§Ç≈Ç∑Ç© ÇªÇÍÇÕ ÇÊÇ©Ç¡ÇΩ[ED]
+
+
+//POINTER #3 @ $1AB6E - STRING #3 @ $1ABB7
+
+#W16($1AB6E)
+ÇªÇ§Ç≈Ç∑Ç© ÇªÇÍÇ∂Ç· Ç¶ÇÒÇËÇÂÇ»Ç≠[ED]
+
+
+//POINTER #4 @ $1AB70 - STRING #4 @ $1ABCB
+
+#W16($1AB70)
+ÇÍÇŒÇ…ÇÁÇ¢ÇΩÇﬂ[ED]
+
+
+//POINTER #5 @ $1AB72 - STRING #5 @ $1ABD4
+
+#W16($1AB72)
+Ç‚Ç´Ç…Ç≠ÇƒÇ¢ÇµÇÂÇ≠[ED]
+
+
+//POINTER #6 @ $1AB74 - STRING #6 @ $1ABDE
+
+#W16($1AB74)
+Ç©Ç¬Ç«ÇÒ[ED]
+
+
+//POINTER #7 @ $1AB76 - STRING #7 @ $1ABE4
+
+#W16($1AB76)
+Ç¢Ç‚ ÇªÇÒÇ» Ç¬Ç‡ÇËÇ∂Ç· Ç∑Ç¢Ç‹ÇπÇÒ[ED]
+
+
+//POINTER #8 @ $1AB78 - STRING #8 @ $1ABF8
+
+#W16($1AB78)
+Ç¶Ç¡ Ç¢Ç¢ÇÒÇ≈Ç∑Ç© Ç∑Ç¢Ç‹ÇπÇÒ[ED]
+
+
+//POINTER #9 @ $1AB7A - STRING #9 @ $1AC09
+
+#W16($1AB7A)
+Ç™Å[ÇÒ Ç±Ç±ÇÕ Ç≠ÇÎÇæÇπÇÒÇπÇ¢ ÇÃ Ç§ÇøÇæ[ED]
+
+
+//POINTER #10 @ $1AB7C - STRING #10 @ $1AC22
+
+#W16($1AB7C)
+[02]Ç Ç∆Ç¡ÇΩ[ED]
+
+
+//POINTER #11 @ $1AB7E - STRING #11 @ $1AC29
+
+#W16($1AB7E)
+Ç®Ç¢ Ç‹Çƒ Ç†Å[Ç† Ç¢Ç¡ÇøÇ·ÇΩ[ED]
+
+
+//POINTER #12 @ $1AB80 - STRING #12 @ $1AC39
+
+#W16($1AB80)
+ÇæÇÒÇøÇÂÇ§Ç™ Ç«Ç±Ç©Ç… Ç¢Ç¡ÇøÇ·Ç¡ÇΩ[ED]
+
+
+//POINTER #13 @ $1AB82 - STRING #13 @ $1AC4F
+
+#W16($1AB82)
+Ç«Ç§Ç‚ÇÁ Ç†ÇªÇ±ÇæÇ»[ED]
+
+
+//POINTER #14 @ $1AB84 - STRING #14 @ $1AC5C
+
+#W16($1AB84)
+Ç®Ç∂ÇÂÇ§Ç≥Å[ÇÒ Ç®ÇøÇ· ÇµÇ‹Çπ-ÇÒ[ED]
+
+
+//POINTER #15 @ $1AB86 - STRING #15 @ $1AC6F
+
+#W16($1AB86)
+[02]Ç… ÇÃÇ¡ÇΩ[ED]
+
+
+//POINTER #16 @ $1AB88 - STRING #16 @ $1AC76
+
+#W16($1AB88)
+Ç≈ÇÒÇµÇ·Ç™ Ç´ÇΩ[ED]
+
+
+//POINTER #17 @ $1AB8A - STRING #17 @ $1AC81
+
+#W16($1AB8A)
+Ç∞Ç¡ Ç»ÇÒÇæ Ç†ÇÍÇÕ[ED]
+
+
+//POINTER #18 @ $1AB8C - STRING #18 @ $1AC8E
+
+#W16($1AB8C)
+ÇÃÇÈ[ED]
+
+
+//POINTER #19 @ $1AB8E - STRING #19 @ $1AC91
+
+#W16($1AB8E)
+ÇÃÇÁÇ»Ç¢[ED]
+

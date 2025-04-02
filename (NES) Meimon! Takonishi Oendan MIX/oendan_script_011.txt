@@ -1,0 +1,47 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #011 NAME:		Dialogue Block 11 (POINTER_RELATIVE)
+
+//POINTER #0 @ $19F50 - STRING #0 @ $19F64
+
+#W16($19F50)
+[7373][6FA0][77A0][83A0] はたしじょう[LN]
+じんじゃけいだいにて けっちゃくを[LN]
+つけたし。[LN]
+      たこにしおうえんだん どの[LN]
+            いまがわ やすひろ [ED]
+
+
+//POINTER #1 @ $19F52 - STRING #1 @ $19FBE
+
+#W16($19F52)
+[6E][6E][E3A0][F3A0][FFA0]   あっ！ きょうかいが！[ED]
+
+
+//POINTER #2 @ $19F54 - STRING #2 @ $19FD6
+
+#W16($19F54)
+[7373][6FA0][77A0][83A0]  たこにしおうえんだん へ[LN]
+   きょうらんの しまざきは[LN]
+   あずかった。[LN]
+   みょうじんやま さいせきじょうで[LN]
+   まつ。[ED]
+
+
+//POINTER #3 @ $19F56 - STRING #3 @ $1A028
+
+#W16($19F56)
+[7171][5FA1][6FA1][7BA1]   そこまでだ がもう たかあき！[ED]
+
+
+//POINTER #4 @ $19F58 - STRING #4 @ $1A046
+
+#W16($19F58)
+[7272][1DA3][2DA3][39A3][ED]
+
+
+//POINTER #5 @ $19F5A - STRING #5 @ $1A04F
+
+#W16($19F5A)
+[034F][99A3][A9A3][B5A3][ED]
+

@@ -1,0 +1,15 @@
+//GAME NAME:		Meimon! Takonishi Oendan (NES)
+
+//BLOCK #004 NAME:		Dialogue Block 04 RAW (RAW)
+//Block Range: $F4EB - $F581
+
+がんばった あなたへ[ED]
+[ED]
+[ED]
+[KATA]さうんども[KATA]ー[KATA]ど[KATA][ED]
+  [KATA]たいとる[KATA]で -はじめ- を せんたくごに[ED]
+  でてくる こめの[KATA]せりふ[KATA]の あとで[ED]
+    [KATA]すた[KATA]ー[KATA]と[KATA]と[ED]
+    [KATA]せれくと[KATA]と[ED]
+    [KATA]び[KATA]ー[KATA]ぼたん[KATA]を おしながら[ED]
+    [KATA]え[KATA]ー[KATA]ぼたん[KATA]を おす。[ED]
