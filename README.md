@@ -33,3 +33,7 @@ LOL, not like that!  Any directories with "RAW" in its name had its script dumpe
 8.  So that means you haven't figured out the pointer system yet?
 
 It just means I cannot dump the game's text using Cartographer's "POINTER_RELATIVE" option.  Or it could be done and I couldn't figure it out yet.
+
+9.  What about the scripts marked with "MIX"?
+
+Some text areas in the came could be dumped through the game's text pointer tables and some were dumped RAW.  That's why it's marked as "MIX".
