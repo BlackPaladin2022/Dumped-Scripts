@@ -1,0 +1,154 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #003 NAME:		Dialogue Block 04 (POINTER_RELATIVE)
+
+//POINTER #0 @ $27A2 - STRING #0 @ $257D
+
+#W16($27A2)
+「ひょうそうかい」[ED]
+
+
+//POINTER #1 @ $27A4 - STRING #1 @ $2587
+
+#W16($27A4)
+「ひかりのゼウス」[ED]
+
+
+//POINTER #2 @ $27A6 - STRING #2 @ $2591
+
+#W16($27A6)
+「かげのゼウス」[ED]
+
+
+//POINTER #3 @ $27A8 - STRING #3 @ $259A
+
+#W16($27A8)
+「スーパーゼウス」[ED]
+
+
+//POINTER #4 @ $27AA - STRING #4 @ $25A4
+
+#W16($27AA)
+せいしんナディア」[ED]
+
+
+//POINTER #5 @ $27AC - STRING #5 @ $25AE
+
+#W16($27AC)
+しどうしゃ[ED]
+
+
+//POINTER #6 @ $27AE - STRING #6 @ $25B4
+
+#W16($27AE)
+たたかい[ED]
+
+
+//POINTER #7 @ $27B0 - STRING #7 @ $25B9
+
+#W16($27B0)
+ジュラ」[ED]
+
+
+//POINTER #8 @ $27B2 - STRING #8 @ $25BE
+
+#W16($27B2)
+「てんせいかい」[ED]
+
+
+//POINTER #9 @ $27B4 - STRING #9 @ $25C7
+
+#W16($27B4)
+へいわなせかい[ED]
+
+
+//POINTER #10 @ $27B6 - STRING #10 @ $25CF
+
+#W16($27B6)
+カーン」[ED]
+
+
+//POINTER #11 @ $27B8 - STRING #11 @ $25D4
+
+#W16($27B8)
+てんし[ED]
+
+
+//POINTER #12 @ $27BA - STRING #12 @ $25D8
+
+#W16($27BA)
+(EB)たち[ED]
+
+
+//POINTER #13 @ $27BC - STRING #13 @ $25DC
+
+#W16($27BC)
+「しそ(E7)[ED]
+
+
+//POINTER #14 @ $27BE - STRING #14 @ $25E1
+
+#W16($27BE)
+はるかな むかし‥[LN]
+「ビックリマンワールド」の(E0)は[LN]
+「(EB)」と「あくま」 そして「おまもり」が[LN]
+きょうぞんする (E9)であった.[ED]
+
+
+//POINTER #15 @ $27C0 - STRING #15 @ $261F
+
+#W16($27C0)
+あるとき 「そうせいしゅ (E4)は[LN]
+(E0)の ふたりの(E5)[LN]
+「シャーマン(EA)に(E1)を[LN]
+(ED)に(E2)を あずけ[LN]
+りっぱな (E5)に そだてるよう めいじた.[ED]
+
+
+//POINTER #16 @ $27C2 - STRING #16 @ $2661
+
+#W16($27C2)
+しかし (E0)せいふくを くわだてた[LN]
+(ED)は(E2)を たいないに[LN]
+きゅうしゅうし 「(EA)に (E6)をいどんだ[LN]
+こうして (E0)は ふたつの[LN]
+せいりょくに しはいされることになった.[ED]
+
+
+//POINTER #17 @ $27C4 - STRING #17 @ $26B2
+
+#W16($27C4)
+いっぽう[LN]
+(E1)は「(EA)によって[LN]
+(EC)の あたらしい(E5)になるべく[LN]
+たいせつに そだてられた.[ED]
+
+
+//POINTER #18 @ $27C6 - STRING #18 @ $26DD
+
+#W16($27C6)
+ときはながれ‥[LN]
+(E1)は(E3)へ[LN]
+せいちょうし (EC)のよき (E5)として[LN]
+かつやくした.[ED]
+
+
+//POINTER #19 @ $27C8 - STRING #19 @ $2703
+
+#W16($27C8)
+そして わかき(E3)と[LN]
+「(E7)のいっきうち! (E3)は[LN]
+「(E7)を やみに ほうむりさったが[LN]
+たびかさなる(E6)が 「(E4)の[LN]
+いかりにふれ (E0)は[ED]
+
+
+//POINTER #20 @ $27CA - STRING #20 @ $2742
+
+#W16($27CA)
+(E8)と「てんまかい」に ぶんれつした[LN]
+なおもつづく あくまのこうげきで(E8)[LN]
+は かいめつすんぜん. そして いま‥[LN]
+「あらそいのない (E9)を!」の ねがいを[LN]
+うけて わかき(EC)が たびだっていく‥‥[ED]
+

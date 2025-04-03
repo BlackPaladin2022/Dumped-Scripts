@@ -1,0 +1,212 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $28C2 - STRING #0 @ $27CC
+
+#W16($28C2)
+マヒじょうたい」[ED]
+
+
+//POINTER #1 @ $28C4 - STRING #1 @ $27D5
+
+#W16($28C4)
+「あかんぼう[ED]
+
+
+//POINTER #2 @ $28C6 - STRING #2 @ $27DC
+
+#W16($28C6)
+「あくま[ED]
+
+
+//POINTER #3 @ $28C8 - STRING #3 @ $27E1
+
+#W16($28C8)
+ です.」[ED]
+
+
+//POINTER #4 @ $28CA - STRING #4 @ $27E7
+
+#W16($28CA)
+しにそう(E3)[ED]
+
+
+//POINTER #5 @ $28CC - STRING #5 @ $27ED
+
+#W16($28CC)
+に されて(E6)[ED]
+
+
+//POINTER #6 @ $28CE - STRING #6 @ $27F4
+
+#W16($28CE)
+います.」[ED]
+
+
+//POINTER #7 @ $28D0 - STRING #7 @ $27FA
+
+#W16($28D0)
+「げんき(E3)[ED]
+
+
+//POINTER #8 @ $28D2 - STRING #8 @ $2800
+
+#W16($28D2)
+「(E4)[ED]
+
+
+//POINTER #9 @ $28D4 - STRING #9 @ $2803
+
+#W16($28D4)
+(E1)(E5)[ED]
+
+
+//POINTER #10 @ $28D6 - STRING #10 @ $2806
+
+#W16($28D6)
+(E2)(E5)[ED]
+
+
+//POINTER #11 @ $28D8 - STRING #11 @ $2809
+
+#W16($28D8)
+「(E0)[ED]
+
+
+//POINTER #12 @ $28DA - STRING #12 @ $280C
+
+#W16($28DA)
+(E1)‥(E4)[ED]
+
+
+//POINTER #13 @ $28DC - STRING #13 @ $2810
+
+#W16($28DC)
+(E2)‥(E4)[ED]
+
+
+//POINTER #14 @ $28DE - STRING #14 @ $2814
+
+#W16($28DE)
+「マヒ‥(E4)[ED]
+
+
+//POINTER #15 @ $28E0 - STRING #15 @ $281A
+
+#W16($28E0)
+(E1)‥(E0)[ED]
+
+
+//POINTER #16 @ $28E2 - STRING #16 @ $281E
+
+#W16($28E2)
+(E2)‥(E0)[ED]
+
+
+//POINTER #17 @ $28E4 - STRING #17 @ $2822
+
+#W16($28E4)
+「しんで(E6)[ED]
+
+
+//POINTER #18 @ $28E6 - STRING #18 @ $2828
+
+#W16($28E6)
+「ぜっこうちょう!」[ED]
+
+
+//POINTER #19 @ $28E8 - STRING #19 @ $2833
+
+#W16($28E8)
+「つかれて (E6)[ED]
+
+
+//POINTER #20 @ $28EA - STRING #20 @ $283B
+
+#W16($28EA)
+レベル[LN]
+[LN]
+こうげき[LN]
+ぼうぎょ[ED]
+
+
+//POINTER #21 @ $28EC - STRING #21 @ $284A
+
+#W16($28EC)
+つぎのレベルまで[ED]
+
+
+//POINTER #22 @ $28EE - STRING #22 @ $2853
+
+#W16($28EE)
+けいけんち[ED]
+
+
+//POINTER #23 @ $28F0 - STRING #23 @ $2859
+
+#W16($28F0)
+ぶき[ED]
+
+
+//POINTER #24 @ $28F2 - STRING #24 @ $285C
+
+#W16($28F2)
+りりょく[ED]
+
+
+//POINTER #25 @ $28F4 - STRING #25 @ $2861
+
+#W16($28F4)
+FP[ED]
+
+
+//POINTER #26 @ $28F6 - STRING #26 @ $2864
+
+#W16($28F6)
+HP[ED]
+
+
+//POINTER #27 @ $28F8 - STRING #27 @ $2867
+
+#W16($28F8)
+セント パーティー[ED]
+
+
+//POINTER #28 @ $28FA - STRING #28 @ $2871
+
+#W16($28FA)
+がっせい[LN]
+おかね[ED]
+
+
+//POINTER #29 @ $28FC - STRING #29 @ $287A
+
+#W16($28FC)
+だれの ステータスを みますか[ED]
+
+
+//POINTER #30 @ $28FE - STRING #30 @ $288A
+
+#W16($28FE)
+まだ 「おたすけめいぼ」を[LN]
+もっていません.[ED]
+
+
+//POINTER #31 @ $2900 - STRING #31 @ $28A1
+
+#W16($2900)
+おたすけ めいぼ[ED]
+
+
+//POINTER #32 @ $2902 - STRING #32 @ $28AA
+
+#W16($2902)
+じゅんび ちゅう[ED]
+
+
+//POINTER #33 @ $2904 - STRING #33 @ $28B3
+
+#W16($2904)
+だれを リーダーに しますか[ED]
+

@@ -1,0 +1,72 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #002 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2569 - STRING #0 @ $24EC
+
+#W16($2569)
+たびを [ED]
+
+
+//POINTER #1 @ $256B - STRING #1 @ $24F1
+
+#W16($256B)
+じてんを [ED]
+
+
+//POINTER #2 @ $256D - STRING #2 @ $24F7
+
+#W16($256D)
+ビックリマンじてん[ED]
+
+
+//POINTER #3 @ $256F - STRING #3 @ $2501
+
+#W16($256F)
+(E8)「シナリオ[ED]
+
+
+//POINTER #4 @ $2571 - STRING #4 @ $2508
+
+#W16($2571)
+‥‥しようきんし‥‥[LN]
+(E8)(E9)[ED]
+
+
+//POINTER #5 @ $2573 - STRING #5 @ $2516
+
+#W16($2573)
+‥‥‥(E9)[LN]
+(E8)(E9)[ED]
+
+
+//POINTER #6 @ $2575 - STRING #6 @ $251E
+
+#W16($2575)
+[たびを ]はじめる[LN]
+[たびを ]つづける[LN]
+[じてんを ]けす[LN]
+[じてんを ]コピーする[LN]
+もじスピードを かえる[LN]
+ストーリーを みる[ED]
+
+
+//POINTER #7 @ $2577 - STRING #7 @ $254B
+
+#W16($2577)
+リーダー[LN]
+レベル[LN]
+メンバー  にん[ED]
+
+
+//POINTER #8 @ $2579 - STRING #8 @ $255D
+
+#W16($2579)
+   [ED]
+
+
+//POINTER #9 @ $257B - STRING #9 @ $2561
+
+#W16($257B)
+‥‥‥‥‥‥‥[ED]
+

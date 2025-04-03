@@ -1,0 +1,1492 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #010 NAME:		Dialogue Block 11 ["82" DICTIONARY ENTRIES] (POINTER_RELATIVE)
+
+//POINTER #0 @ $2E9B5 - STRING #0 @ $2E024
+
+#W16($2E9B5)
+てんせいかい[ED]
+
+
+//POINTER #1 @ $2E9B7 - STRING #1 @ $2E02B
+
+#W16($2E9B7)
+ようこそ ここは [ED]
+
+
+//POINTER #2 @ $2E9B9 - STRING #2 @ $2E035
+
+#W16($2E9B9)
+の ほうこうに[ED]
+
+
+//POINTER #3 @ $2E9BB - STRING #3 @ $2E03D
+
+#W16($2E9BB)
+すけっとてんし[ED]
+
+
+//POINTER #4 @ $2E9BD - STRING #4 @ $2E045
+
+#W16($2E9BD)
+すけっとおまもり[ED]
+
+
+//POINTER #5 @ $2E9BF - STRING #5 @ $2E04E
+
+#W16($2E9BF)
+てんせいもん[ED]
+
+
+//POINTER #6 @ $2E9C1 - STRING #6 @ $2E055
+
+#W16($2E9C1)
+6にんの ろうてんし[ED]
+
+
+//POINTER #7 @ $2E9C3 - STRING #7 @ $2E060
+
+#W16($2E9C3)
+がっせいパワー[ED]
+
+
+//POINTER #8 @ $2E9C5 - STRING #8 @ $2E06A
+
+#W16($2E9C5)
+いまから おたすけめいぼの なかに[ED]
+
+
+//POINTER #9 @ $2E9C7 - STRING #9 @ $2E07D
+
+#W16($2E9C7)
+てえへんだーっ![ED]
+
+
+//POINTER #10 @ $2E9C9 - STRING #10 @ $2E087
+
+#W16($2E9C9)
+ひつようです[ED]
+
+
+//POINTER #11 @ $2E9CB - STRING #11 @ $2E08F
+
+#W16($2E9CB)
+「ジカイ」を めざ[ED]
+
+
+//POINTER #12 @ $2E9CD - STRING #12 @ $2E09B
+
+#W16($2E9CD)
+てんまかい[ED]
+
+
+//POINTER #13 @ $2E9CF - STRING #13 @ $2E0A1
+
+#W16($2E9CF)
+「ジカイ」にいく しめいを おびている[ED]
+
+
+//POINTER #14 @ $2E9D1 - STRING #14 @ $2E0B7
+
+#W16($2E9D1)
+ありがとう[ED]
+
+
+//POINTER #15 @ $2E9D3 - STRING #15 @ $2E0BE
+
+#W16($2E9D3)
+おれいに 「セイラン」を[LN]
+さしあげましょう[ED]
+
+
+//POINTER #16 @ $2E9D5 - STRING #16 @ $2E0D5
+
+#W16($2E9D5)
+が あります[ED]
+
+
+//POINTER #17 @ $2E9D7 - STRING #17 @ $2E0DD
+
+#W16($2E9D7)
+スーパーデビル[ED]
+
+
+//POINTER #18 @ $2E9D9 - STRING #18 @ $2E0E8
+
+#W16($2E9D9)
+ごくろう みなのもの.[ED]
+
+
+//POINTER #19 @ $2E9DB - STRING #19 @ $2E0F5
+
+#W16($2E9DB)
+パーティに くわわった[ED]
+
+
+//POINTER #20 @ $2E9DD - STRING #20 @ $2E102
+
+#W16($2E9DD)
+パーティに くわえてく[ED]
+
+
+//POINTER #21 @ $2E9DF - STRING #21 @ $2E10F
+
+#W16($2E9DF)
+かめじょ」[ED]
+
+
+//POINTER #22 @ $2E9E1 - STRING #22 @ $2E116
+
+#W16($2E9E1)
+さしあげましょう[ED]
+
+
+//POINTER #23 @ $2E9E3 - STRING #23 @ $2E120
+
+#W16($2E9E3)
+セイランてんし[ED]
+
+
+//POINTER #24 @ $2E9E5 - STRING #24 @ $2E128
+
+#W16($2E9E5)
+インプット12てんし[ED]
+
+
+//POINTER #25 @ $2E9E7 - STRING #25 @ $2E134
+
+#W16($2E9E7)
+インプットてんし[ED]
+
+
+//POINTER #26 @ $2E9E9 - STRING #26 @ $2E13E
+
+#W16($2E9E9)
+アルバム[ED]
+
+
+//POINTER #27 @ $2E9EB - STRING #27 @ $2E144
+
+#W16($2E9EB)
+ゼウスタウン[ED]
+
+
+//POINTER #28 @ $2E9ED - STRING #28 @ $2E14C
+
+#W16($2E9ED)
+あくまへッド[ED]
+
+
+//POINTER #29 @ $2E9EF - STRING #29 @ $2E154
+
+#W16($2E9EF)
+てんしへッド[ED]
+
+
+//POINTER #30 @ $2E9F1 - STRING #30 @ $2E15C
+
+#W16($2E9F1)
+ハドラスのまち[ED]
+
+
+//POINTER #31 @ $2E9F3 - STRING #31 @ $2E165
+
+#W16($2E9F3)
+こうりゃくほう[ED]
+
+
+//POINTER #32 @ $2E9F5 - STRING #32 @ $2E16D
+
+#W16($2E9F5)
+ハートディスク[ED]
+
+
+//POINTER #33 @ $2E9F7 - STRING #33 @ $2E176
+
+#W16($2E9F7)
+ジカイへのたび[ED]
+
+
+//POINTER #34 @ $2E9F9 - STRING #34 @ $2E180
+
+#W16($2E9F9)
+くじけずに がんばっ[ED]
+
+
+//POINTER #35 @ $2E9FB - STRING #35 @ $2E18F
+
+#W16($2E9FB)
+りりょくカード[ED]
+
+
+//POINTER #36 @ $2E9FD - STRING #36 @ $2E198
+
+#W16($2E9FD)
+ゲート12てんし[ED]
+
+
+//POINTER #37 @ $2E9FF - STRING #37 @ $2E1A2
+
+#W16($2E9FF)
+おしえて しんぜよう[ED]
+
+
+//POINTER #38 @ $2EA01 - STRING #38 @ $2E1AE
+
+#W16($2EA01)
+ひつようなのですか.[ED]
+
+
+//POINTER #39 @ $2EA03 - STRING #39 @ $2E1BA
+
+#W16($2EA03)
+ひつようなようですね.[ED]
+
+
+//POINTER #40 @ $2EA05 - STRING #40 @ $2E1C7
+
+#W16($2EA05)
+がんばってください[ED]
+
+
+//POINTER #41 @ $2EA07 - STRING #41 @ $2E1D4
+
+#W16($2EA07)
+ムゲンゾーン[ED]
+
+
+//POINTER #42 @ $2EA09 - STRING #42 @ $2E1DD
+
+#W16($2EA09)
+ウォーターローのまち[ED]
+
+
+//POINTER #43 @ $2EA0B - STRING #43 @ $2E1E8
+
+#W16($2EA0B)
+ブラックゼウスじょう[ED]
+
+
+//POINTER #44 @ $2EA0D - STRING #44 @ $2E1F6
+
+#W16($2EA0D)
+げんそうかい[ED]
+
+
+//POINTER #45 @ $2EA0F - STRING #45 @ $2E1FE
+
+#W16($2EA0F)
+ジョウゴ」[ED]
+
+
+//POINTER #46 @ $2EA11 - STRING #46 @ $2E206
+
+#W16($2EA11)
+たすけてくれて[ED]
+
+
+//POINTER #47 @ $2EA13 - STRING #47 @ $2E20E
+
+#W16($2EA13)
+てんあんきょう[ED]
+
+
+//POINTER #48 @ $2EA15 - STRING #48 @ $2E216
+
+#W16($2EA15)
+せいしんナディア[ED]
+
+
+//POINTER #49 @ $2EA17 - STRING #49 @ $2E220
+
+#W16($2EA17)
+「せいなるもんしょう」[ED]
+
+
+//POINTER #50 @ $2EA19 - STRING #50 @ $2E22C
+
+#W16($2EA19)
+よくきた みなのもの.[ED]
+
+
+//POINTER #51 @ $2EA1B - STRING #51 @ $2E238
+
+#W16($2EA1B)
+ひつようとしている[ED]
+
+
+//POINTER #52 @ $2EA1D - STRING #52 @ $2E242
+
+#W16($2EA1D)
+そなたたち[ED]
+
+
+//POINTER #53 @ $2EA1F - STRING #53 @ $2E248
+
+#W16($2EA1F)
+ゲートアルバム[ED]
+
+
+//POINTER #54 @ $2EA21 - STRING #54 @ $2E252
+
+#W16($2EA21)
+ゲートてんし[ED]
+
+
+//POINTER #55 @ $2EA23 - STRING #55 @ $2E25A
+
+#W16($2EA23)
+ちかどうの いりぐち[ED]
+
+
+//POINTER #56 @ $2EA25 - STRING #56 @ $2E267
+
+#W16($2EA25)
+リリョクのみ[ED]
+
+
+//POINTER #57 @ $2EA27 - STRING #57 @ $2E26E
+
+#W16($2EA27)
+オアシスてんにょ[ED]
+
+
+//POINTER #58 @ $2EA29 - STRING #58 @ $2E277
+
+#W16($2EA29)
+オーロラおうじん[ED]
+
+
+//POINTER #59 @ $2EA2B - STRING #59 @ $2E281
+
+#W16($2EA2B)
+にょめんぼさつ[ED]
+
+
+//POINTER #60 @ $2EA2D - STRING #60 @ $2E28A
+
+#W16($2EA2D)
+みょうじょうクイーン[ED]
+
+
+//POINTER #61 @ $2EA2F - STRING #61 @ $2E296
+
+#W16($2EA2F)
+ダムじん[ED]
+
+
+//POINTER #62 @ $2EA31 - STRING #62 @ $2E29D
+
+#W16($2EA31)
+レスキューてんにょ[ED]
+
+
+//POINTER #63 @ $2EA33 - STRING #63 @ $2E2A7
+
+#W16($2EA33)
+ポンプたいてい[ED]
+
+
+//POINTER #64 @ $2EA35 - STRING #64 @ $2E2B1
+
+#W16($2EA35)
+クリスタルてんし[ED]
+
+
+//POINTER #65 @ $2EA37 - STRING #65 @ $2E2BA
+
+#W16($2EA37)
+せいぼマンマ[ED]
+
+
+//POINTER #66 @ $2EA39 - STRING #66 @ $2E2C2
+
+#W16($2EA39)
+いっけんしょうじん[ED]
+
+
+//POINTER #67 @ $2EA3B - STRING #67 @ $2E2CD
+
+#W16($2EA3B)
+しょうこうおう[ED]
+
+
+//POINTER #68 @ $2EA3D - STRING #68 @ $2E2D5
+
+#W16($2EA3D)
+すいぼくほうし[ED]
+
+
+//POINTER #69 @ $2EA3F - STRING #69 @ $2E2DE
+
+#W16($2EA3F)
+まうんを とりのぞいていただき[ED]
+
+
+//POINTER #70 @ $2EA41 - STRING #70 @ $2E2F0
+
+#W16($2EA41)
+どうも ありがとう[ED]
+
+
+//POINTER #71 @ $2EA43 - STRING #71 @ $2E2FC
+
+#W16($2EA43)
+こんにちは みなさん.[ED]
+
+
+//POINTER #72 @ $2EA45 - STRING #72 @ $2E308
+
+#W16($2EA45)
+リリョク[ED]
+
+
+//POINTER #73 @ $2EA47 - STRING #73 @ $2E30D
+
+#W16($2EA47)
+アイテム[ED]
+
+
+//POINTER #74 @ $2EA49 - STRING #74 @ $2E312
+
+#W16($2EA49)
+むえんゾーン[ED]
+
+
+//POINTER #75 @ $2EA4B - STRING #75 @ $2E31A
+
+#W16($2EA4B)
+せいくうキング[ED]
+
+
+//POINTER #76 @ $2EA4D - STRING #76 @ $2E323
+
+#W16($2EA4D)
+ 「おまもり [ED]
+
+
+//POINTER #77 @ $2EA4F - STRING #77 @ $2E32B
+
+#W16($2EA4F)
+こう7フェザー[ED]
+
+
+//POINTER #78 @ $2EA51 - STRING #78 @ $2E334
+
+#W16($2EA51)
+ふっかつボール[ED]
+
+
+//POINTER #79 @ $2EA53 - STRING #79 @ $2E33D
+
+#W16($2EA53)
+ななじょアルバム[ED]
+
+
+//POINTER #80 @ $2EA55 - STRING #80 @ $2E348
+
+#W16($2EA55)
+たすけていただき[ED]
+
+
+//POINTER #81 @ $2EA57 - STRING #81 @ $2E352
+
+#W16($2EA57)
+ごじゃります[ED]
+
+
+//POINTER #82 @ $2EA59 - STRING #82 @ $2E35B
+
+#W16($2EA59)
+きぶんが よくなったで[ED]
+
+
+//POINTER #83 @ $2EA5B - STRING #83 @ $2E36A
+
+#W16($2EA5B)
+おまもり アルミのすけ[ED]
+
+
+//POINTER #84 @ $2EA5D - STRING #84 @ $2E376
+
+#W16($2EA5D)
+セントビックバード[ED]
+
+
+//POINTER #85 @ $2EA5F - STRING #85 @ $2E383
+
+#W16($2EA5F)
+てんちきゅう[ED]
+
+
+//POINTER #86 @ $2EA61 - STRING #86 @ $2E38A
+
+#W16($2EA61)
+ワープホール[ED]
+
+
+//POINTER #87 @ $2EA63 - STRING #87 @ $2E392
+
+#W16($2EA63)
+おまもり ななじょ[ED]
+
+
+//POINTER #88 @ $2EA65 - STRING #88 @ $2E39D
+
+#W16($2EA65)
+みんなの はなしを きこうね[ED]
+
+
+//POINTER #89 @ $2EA67 - STRING #89 @ $2E3AC
+
+#W16($2EA67)
+おれいに こう7フェザーを[LN]
+さしあげ[ED]
+
+
+//POINTER #90 @ $2EA69 - STRING #90 @ $2E3C1
+
+#W16($2EA69)
+あいぜんかぐや[ED]
+
+
+//POINTER #91 @ $2EA6B - STRING #91 @ $2E3CB
+
+#W16($2EA6B)
+じょしすいさい[ED]
+
+
+//POINTER #92 @ $2EA6D - STRING #92 @ $2E3D4
+
+#W16($2EA6D)
+きょうりょくな[ED]
+
+
+//POINTER #93 @ $2EA6F - STRING #93 @ $2E3DC
+
+#W16($2EA6F)
+ 「セイランてんし [ED]
+
+
+//POINTER #94 @ $2EA71 - STRING #94 @ $2E3E7
+
+#W16($2EA71)
+たいようのとう[ED]
+
+
+//POINTER #95 @ $2EA73 - STRING #95 @ $2E3EF
+
+#W16($2EA73)
+せいでんち[ED]
+
+
+//POINTER #96 @ $2EA75 - STRING #96 @ $2E3F6
+
+#W16($2EA75)
+セントパーティ[ED]
+
+
+//POINTER #97 @ $2EA77 - STRING #97 @ $2E3FF
+
+#W16($2EA77)
+させるチカラを もっています[ED]
+
+
+//POINTER #98 @ $2EA79 - STRING #98 @ $2E40E
+
+#W16($2EA79)
+    はい    いいえ[ED]
+
+
+//POINTER #99 @ $2EA7B - STRING #99 @ $2E41C
+
+#W16($2EA7B)
+「ジカイ」[ED]
+
+
+//POINTER #100 @ $2EA7D - STRING #100 @ $2E423
+
+#W16($2EA7D)
+ホノウのカべ[ED]
+
+
+//POINTER #101 @ $2EA7F - STRING #101 @ $2E42B
+
+#W16($2EA7F)
+あくま「かえんまどう」[ED]
+
+
+//POINTER #102 @ $2EA81 - STRING #102 @ $2E438
+
+#W16($2EA81)
+ほうびとして みんなを[LN]
+ふっかつさせて あげよう[ED]
+
+
+//POINTER #103 @ $2EA83 - STRING #103 @ $2E453
+
+#W16($2EA83)
+サタンマリア[ED]
+
+
+//POINTER #104 @ $2EA85 - STRING #104 @ $2E45A
+
+#W16($2EA85)
+しそジュラ[ED]
+
+
+//POINTER #105 @ $2EA87 - STRING #105 @ $2E461
+
+#W16($2EA87)
+「セイラン」[ED]
+
+
+//POINTER #106 @ $2EA89 - STRING #106 @ $2E468
+
+#W16($2EA89)
+ジュラじょう[ED]
+
+
+//POINTER #107 @ $2EA8B - STRING #107 @ $2E471
+
+#W16($2EA8B)
+おすくいクィーン[ED]
+
+
+//POINTER #108 @ $2EA8D - STRING #108 @ $2E47A
+
+#W16($2EA8D)
+ブッタさんぞう[ED]
+
+
+//POINTER #109 @ $2EA8F - STRING #109 @ $2E484
+
+#W16($2EA8F)
+たいていホエール[ED]
+
+
+//POINTER #110 @ $2EA91 - STRING #110 @ $2E48D
+
+#W16($2EA91)
+ゴットはなさき[ED]
+
+
+//POINTER #111 @ $2EA93 - STRING #111 @ $2E496
+
+#W16($2EA93)
+きんたじん[ED]
+
+
+//POINTER #112 @ $2EA95 - STRING #112 @ $2E49D
+
+#W16($2EA95)
+あくまの えに とじこめられた[ED]
+
+
+//POINTER #113 @ $2EA97 - STRING #113 @ $2E4AE
+
+#W16($2EA97)
+おれいに [ED]
+
+
+//POINTER #114 @ $2EA99 - STRING #114 @ $2E4B4
+
+#W16($2EA99)
+「せいきゅうこう」[ED]
+
+
+//POINTER #115 @ $2EA9B - STRING #115 @ $2E4BE
+
+#W16($2EA9B)
+「セイランホウ」[ED]
+
+
+//POINTER #116 @ $2EA9D - STRING #116 @ $2E4C7
+
+#W16($2EA9D)
+「セイシンコウセン」[ED]
+
+
+//POINTER #117 @ $2EA9F - STRING #117 @ $2E4D2
+
+#W16($2EA9F)
+「ゲンソウビーム」[ED]
+
+
+//POINTER #118 @ $2EAA1 - STRING #118 @ $2E4DE
+
+#W16($2EAA1)
+へラクライスト[ED]
+
+
+//POINTER #119 @ $2EAA3 - STRING #119 @ $2E4E6
+
+#W16($2EAA3)
+ございます.[ED]
+
+
+//POINTER #120 @ $2EAA5 - STRING #120 @ $2E4EF
+
+#W16($2EAA5)
+「セイビックパワー」[ED]
+
+
+//POINTER #121 @ $2EAA7 - STRING #121 @ $2E4FC
+
+#W16($2EAA7)
+スーパーゼウス[ED]
+
+
+//POINTER #122 @ $2EAA9 - STRING #122 @ $2E506
+
+#W16($2EAA9)
+シャーマンカーン[ED]
+
+
+//POINTER #123 @ $2EAAB - STRING #123 @ $2E50F
+
+#W16($2EAAB)
+やまとおうじ[ED]
+
+
+//POINTER #124 @ $2EAAD - STRING #124 @ $2E517
+
+#W16($2EAAD)
+セントフェニックス[ED]
+
+
+//POINTER #125 @ $2EAAF - STRING #125 @ $2E521
+
+#W16($2EAAF)
+じゅうじかてんし[ED]
+
+
+//POINTER #126 @ $2EAB1 - STRING #126 @ $2E52C
+
+#W16($2EAB1)
+てんしダンジャック[ED]
+
+
+//POINTER #127 @ $2EAB3 - STRING #127 @ $2E538
+
+#W16($2EAB3)
+きじんアリババ[ED]
+
+
+//POINTER #128 @ $2EAB5 - STRING #128 @ $2E543
+
+#W16($2EAB5)
+うしわかてんし[ED]
+
+
+//POINTER #129 @ $2EAB7 - STRING #129 @ $2E54B
+
+#W16($2EAB7)
+いっぽんつり帝[ED]
+
+
+//POINTER #130 @ $2EAB9 - STRING #130 @ $2E554
+
+#W16($2EAB9)
+ろじんフッド[ED]
+
+
+//POINTER #131 @ $2EABB - STRING #131 @ $2E55D
+
+#W16($2EABB)
+ピーターじんし[ED]
+
+
+//POINTER #132 @ $2EABD - STRING #132 @ $2E567
+
+#W16($2EABD)
+パワーアップ[ED]
+
+
+//POINTER #133 @ $2EABF - STRING #133 @ $2E570
+
+#W16($2EABF)
+クロスエンジェル[ED]
+
+
+//POINTER #134 @ $2EAC1 - STRING #134 @ $2E57A
+
+#W16($2EAC1)
+しょうこうし[ED]
+
+
+//POINTER #135 @ $2EAC3 - STRING #135 @ $2E581
+
+#W16($2EAC3)
+ブラックゼウス[ED]
+
+
+//POINTER #136 @ $2EAC5 - STRING #136 @ $2E58B
+
+#W16($2EAC5)
+せいボット[ED]
+
+
+//POINTER #137 @ $2EAC7 - STRING #137 @ $2E592
+
+#W16($2EAC7)
+アルミのすけ[ED]
+
+
+//POINTER #138 @ $2EAC9 - STRING #138 @ $2E599
+
+#W16($2EAC9)
+レーザーおう[ED]
+
+
+//POINTER #139 @ $2EACB - STRING #139 @ $2E5A1
+
+#W16($2EACB)
+みょうすいこう[ED]
+
+
+//POINTER #140 @ $2EACD - STRING #140 @ $2E5A9
+
+#W16($2EACD)
+セントソプラノ[ED]
+
+
+//POINTER #141 @ $2EACF - STRING #141 @ $2E5B2
+
+#W16($2EACF)
+カタメじん[ED]
+
+
+//POINTER #142 @ $2EAD1 - STRING #142 @ $2E5B9
+
+#W16($2EAD1)
+にんけんしょうじん[ED]
+
+
+//POINTER #143 @ $2EAD3 - STRING #143 @ $2E5C4
+
+#W16($2EAD3)
+ピーコックていし[ED]
+
+
+//POINTER #144 @ $2EAD5 - STRING #144 @ $2E5CE
+
+#W16($2EAD5)
+しずかにょてん[ED]
+
+
+//POINTER #145 @ $2EAD7 - STRING #145 @ $2E5D7
+
+#W16($2EAD7)
+バリアーてんてい[ED]
+
+
+//POINTER #146 @ $2EAD9 - STRING #146 @ $2E5E1
+
+#W16($2EAD9)
+げんりゅうしん[ED]
+
+
+//POINTER #147 @ $2EADB - STRING #147 @ $2E5EA
+
+#W16($2EADB)
+おてらのドン[ED]
+
+
+//POINTER #148 @ $2EADD - STRING #148 @ $2E5F2
+
+#W16($2EADD)
+あがりごぜん[ED]
+
+
+//POINTER #149 @ $2EADF - STRING #149 @ $2E5FC
+
+#W16($2EADF)
+きびだんごさんすけ[ED]
+
+
+//POINTER #150 @ $2EAE1 - STRING #150 @ $2E609
+
+#W16($2EAE1)
+おりひめコウゴウ[ED]
+
+
+//POINTER #151 @ $2EAE3 - STRING #151 @ $2E613
+
+#W16($2EAE3)
+でんきゅうすけ[ED]
+
+
+//POINTER #152 @ $2EAE5 - STRING #152 @ $2E61C
+
+#W16($2EAE5)
+たすけぶね[ED]
+
+
+//POINTER #153 @ $2EAE7 - STRING #153 @ $2E623
+
+#W16($2EAE7)
+するのじゃ.[ED]
+
+
+//POINTER #154 @ $2EAE9 - STRING #154 @ $2E62B
+
+#W16($2EAE9)
+6セイキュウを [ED]
+
+
+//POINTER #155 @ $2EAEB - STRING #155 @ $2E634
+
+#W16($2EAEB)
+オアシスタウン[ED]
+
+
+//POINTER #156 @ $2EAED - STRING #156 @ $2E63C
+
+#W16($2EAED)
+アッパレー![ED]
+
+
+//POINTER #157 @ $2EAEF - STRING #157 @ $2E644
+
+#W16($2EAEF)
+チへットのまち[ED]
+
+
+//POINTER #158 @ $2EAF1 - STRING #158 @ $2E64C
+
+#W16($2EAF1)
+さまからの[LN]
+しれいを うけ[ED]
+
+
+//POINTER #159 @ $2EAF3 - STRING #159 @ $2E65A
+
+#W16($2EAF3)
+しゅぎょう[ED]
+
+
+//POINTER #160 @ $2EAF5 - STRING #160 @ $2E661
+
+#W16($2EAF5)
+もっていくがよい[ED]
+
+
+//POINTER #161 @ $2EAF7 - STRING #161 @ $2E66B
+
+#W16($2EAF7)
+テンアンのとう[ED]
+
+
+//POINTER #162 @ $2EAF9 - STRING #162 @ $2E673
+
+#W16($2EAF9)
+あくま「くもふどうま」[ED]
+
+
+//POINTER #163 @ $2EAFB - STRING #163 @ $2E680
+
+#W16($2EAFB)
+ひよけにょらい[ED]
+
+
+//POINTER #164 @ $2EAFD - STRING #164 @ $2E688
+
+#W16($2EAFD)
+まりょくに おかされてい[ED]
+
+
+//POINTER #165 @ $2EAFF - STRING #165 @ $2E695
+
+#W16($2EAFF)
+メッセージ[ED]
+
+
+//POINTER #166 @ $2EB01 - STRING #166 @ $2E69C
+
+#W16($2EB01)
+じょしさいさい[ED]
+
+
+//POINTER #167 @ $2EB03 - STRING #167 @ $2E6A5
+
+#W16($2EB03)
+の パワーかいふく[ED]
+
+
+//POINTER #168 @ $2EB05 - STRING #168 @ $2E6B0
+
+#W16($2EB05)
+はいりまーす![ED]
+
+
+//POINTER #169 @ $2EB07 - STRING #169 @ $2E6B8
+
+#W16($2EB07)
+タカハマラタウン[ED]
+
+
+//POINTER #170 @ $2EB09 - STRING #170 @ $2E6C1
+
+#W16($2EB09)
+あっぱれてんし[ED]
+
+
+//POINTER #171 @ $2EB0B - STRING #171 @ $2E6CA
+
+#W16($2EB0B)
+ふうしゃのとう[ED]
+
+
+//POINTER #172 @ $2EB0D - STRING #172 @ $2E6D2
+
+#W16($2EB0D)
+さまの[LN]
+しれいを うけ やってきた [ED]
+
+
+//POINTER #173 @ $2EB0F - STRING #173 @ $2E6E5
+
+#W16($2EB0F)
+きをつけてね[ED]
+
+
+//POINTER #174 @ $2EB11 - STRING #174 @ $2E6EC
+
+#W16($2EB11)
+これで このエリアも[LN]
+へいわに なるだろう.[ED]
+
+
+//POINTER #175 @ $2EB13 - STRING #175 @ $2E705
+
+#W16($2EB13)
+おひさしぶりです[ED]
+
+
+//POINTER #176 @ $2EB15 - STRING #176 @ $2E710
+
+#W16($2EB15)
+ましょうネロ[ED]
+
+
+//POINTER #177 @ $2EB17 - STRING #177 @ $2E717
+
+#W16($2EB17)
+がいしもり[ED]
+
+
+//POINTER #178 @ $2EB19 - STRING #178 @ $2E71E
+
+#W16($2EB19)
+おたすけめいぼ[ED]
+
+
+//POINTER #179 @ $2EB1B - STRING #179 @ $2E727
+
+#W16($2EB1B)
+ ささげます.[ED]
+
+
+//POINTER #180 @ $2EB1D - STRING #180 @ $2E730
+
+#W16($2EB1D)
+もっている[ED]
+
+
+//POINTER #181 @ $2EB1F - STRING #181 @ $2E736
+
+#W16($2EB1F)
+「おふだ」[ED]
+
+
+//POINTER #182 @ $2EB21 - STRING #182 @ $2E73D
+
+#W16($2EB21)
+アルミカンすけ[ED]
+
+
+//POINTER #183 @ $2EB23 - STRING #183 @ $2E745
+
+#W16($2EB23)
+アリババじん帝[ED]
+
+
+//POINTER #184 @ $2EB25 - STRING #184 @ $2E750
+
+#W16($2EB25)
+わたしは[ED]
+
+
+//POINTER #185 @ $2EB27 - STRING #185 @ $2E755
+
+#W16($2EB27)
+ 「てんし アローエンジェル」[ED]
+
+
+//POINTER #186 @ $2EB29 - STRING #186 @ $2E766
+
+#W16($2EB29)
+キャッピー[ED]
+
+
+//POINTER #187 @ $2EB2B - STRING #187 @ $2E76D
+
+#W16($2EB2B)
+セイセンシ[ED]
+
+
+//POINTER #188 @ $2EB2D - STRING #188 @ $2E773
+
+#W16($2EB2D)
+を みつけた.[ED]
+
+
+//POINTER #189 @ $2EB2F - STRING #189 @ $2E77B
+
+#W16($2EB2F)
+あっぱれセンス[ED]
+
+
+//POINTER #190 @ $2EB31 - STRING #190 @ $2E784
+
+#W16($2EB31)
+じかいもん[ED]
+
+
+//POINTER #191 @ $2EB33 - STRING #191 @ $2E78B
+
+#W16($2EB33)
+かえんゾーン[ED]
+
+
+//POINTER #192 @ $2EB35 - STRING #192 @ $2E793
+
+#W16($2EB35)
+ビックリマン[ED]
+
+
+//POINTER #193 @ $2EB37 - STRING #193 @ $2E79B
+
+#W16($2EB37)
+ピッカリライト[ED]
+
+
+//POINTER #194 @ $2EB39 - STRING #194 @ $2E7A4
+
+#W16($2EB39)
+せいてんしょ[ED]
+
+
+//POINTER #195 @ $2EB3B - STRING #195 @ $2E7AB
+
+#W16($2EB3B)
+へッドロココ[ED]
+
+
+//POINTER #196 @ $2EB3D - STRING #196 @ $2E7B3
+
+#W16($2EB3D)
+ひょうそうかい[ED]
+
+
+//POINTER #197 @ $2EB3F - STRING #197 @ $2E7BB
+
+#W16($2EB3F)
+[LN]
+セントウォーマン[ED]
+
+
+//POINTER #198 @ $2EB41 - STRING #198 @ $2E7C5
+
+#W16($2EB41)
+またいでんノア[ED]
+
+
+//POINTER #199 @ $2EB43 - STRING #199 @ $2E7CE
+
+#W16($2EB43)
+あっきゅうエリア[ED]
+
+
+//POINTER #200 @ $2EB45 - STRING #200 @ $2E7D7
+
+#W16($2EB45)
+くらいところ[ED]
+
+
+//POINTER #201 @ $2EB47 - STRING #201 @ $2E7DE
+
+#W16($2EB47)
+ 「へブンシ [ED]
+
+
+//POINTER #202 @ $2EB49 - STRING #202 @ $2E7E7
+
+#W16($2EB49)
+ハァハハハーァ[ED]
+
+
+//POINTER #203 @ $2EB4B - STRING #203 @ $2E7EF
+
+#W16($2EB4B)
+へルプさん[ED]
+
+
+//POINTER #204 @ $2EB4D - STRING #204 @ $2E7F6
+
+#W16($2EB4D)
+「せいしんパシー」[ED]
+
+
+//POINTER #205 @ $2EB4F - STRING #205 @ $2E801
+
+#W16($2EB4F)
+エピプトのまち[ED]
+
+
+//POINTER #206 @ $2EB51 - STRING #206 @ $2E80B
+
+#W16($2EB51)
+を とっぱする[ED]
+
+
+//POINTER #207 @ $2EB53 - STRING #207 @ $2E814
+
+#W16($2EB53)
+セントシップ[ED]
+
+
+//POINTER #208 @ $2EB55 - STRING #208 @ $2E81C
+
+#W16($2EB55)
+あくま ものまね[ED]
+
+
+//POINTER #209 @ $2EB57 - STRING #209 @ $2E825
+
+#W16($2EB57)
+てきじょ」[ED]
+
+
+//POINTER #210 @ $2EB59 - STRING #210 @ $2E82C
+
+#W16($2EB59)
+はかいスティック[ED]
+
+
+//POINTER #211 @ $2EB5B - STRING #211 @ $2E835
+
+#W16($2EB5B)
+とつじょ」[ED]
+
+
+//POINTER #212 @ $2EB5D - STRING #212 @ $2E83C
+
+#W16($2EB5D)
+しょうじょ」[ED]
+
+
+//POINTER #213 @ $2EB5F - STRING #213 @ $2E844
+
+#W16($2EB5F)
+よくやった みなのもの.[ED]
+
+
+//POINTER #214 @ $2EB61 - STRING #214 @ $2E851
+
+#W16($2EB61)
+つかえません[ED]
+
+
+//POINTER #215 @ $2EB63 - STRING #215 @ $2E858
+
+#W16($2EB63)
+げいじょ」[ED]
+
+
+//POINTER #216 @ $2EB65 - STRING #216 @ $2E860
+
+#W16($2EB65)
+かいふくした[ED]
+
+
+//POINTER #217 @ $2EB67 - STRING #217 @ $2E867
+
+#W16($2EB67)
+はたおりボックス[ED]
+
+
+//POINTER #218 @ $2EB69 - STRING #218 @ $2E871
+
+#W16($2EB69)
+つかいますか[ED]
+
+
+//POINTER #219 @ $2EB6B - STRING #219 @ $2E878
+
+#W16($2EB6B)
+ズバーリ[ED]
+
+
+//POINTER #220 @ $2EB6D - STRING #220 @ $2E87F
+
+#W16($2EB6D)
+エリア[ED]
+
+
+//POINTER #221 @ $2EB6F - STRING #221 @ $2E883
+
+#W16($2EB6F)
+とうろく[ED]
+
+
+//POINTER #222 @ $2EB71 - STRING #222 @ $2E888
+
+#W16($2EB71)
+すいじょ」[LN]
+イー‥[ED]
+
+
+//POINTER #223 @ $2EB73 - STRING #223 @ $2E893
+
+#W16($2EB73)
+ たましい を ふっかつさせる[LN]
+ ちりょう する[ED]
+
+
+//POINTER #224 @ $2EB75 - STRING #224 @ $2E8AC
+
+#W16($2EB75)
+またの おこしを[ED]
+
+
+//POINTER #225 @ $2EB77 - STRING #225 @ $2E8B5
+
+#W16($2EB77)
+の かいふく[LN]
+ [ED]
+
+
+//POINTER #226 @ $2EB79 - STRING #226 @ $2E8BE
+
+#W16($2EB79)
+ほかの だれを[ED]
+
+
+//POINTER #227 @ $2EB7B - STRING #227 @ $2E8C7
+
+#W16($2EB7B)
+おかねが たりません[ED]
+
+
+//POINTER #228 @ $2EB7D - STRING #228 @ $2E8D3
+
+#W16($2EB7D)
+ざんねんですけど[ED]
+
+
+//POINTER #229 @ $2EB7F - STRING #229 @ $2E8DF
+
+#W16($2EB7F)
+ほかに なにか[ED]
+
+
+//POINTER #230 @ $2EB81 - STRING #230 @ $2E8E7
+
+#W16($2EB81)
+ふっかつ させますか[ED]
+
+
+//POINTER #231 @ $2EB83 - STRING #231 @ $2E8F2
+
+#W16($2EB83)
+ちりょう しますか[ED]
+
+
+//POINTER #232 @ $2EB85 - STRING #232 @ $2E8FC
+
+#W16($2EB85)
+ おかいになりますか.[ED]
+
+
+//POINTER #233 @ $2EB87 - STRING #233 @ $2E908
+
+#W16($2EB87)
+ありがとうございました.[ED]
+
+
+//POINTER #234 @ $2EB89 - STRING #234 @ $2E918
+
+#W16($2EB89)
+はい それでは[ED]
+
+
+//POINTER #235 @ $2EB8B - STRING #235 @ $2E921
+
+#W16($2EB8B)
+がっせいポイント[ED]
+
+
+//POINTER #236 @ $2EB8D - STRING #236 @ $2E92C
+
+#W16($2EB8D)
+もじスピード[ED]
+
+
+//POINTER #237 @ $2EB8F - STRING #237 @ $2E936
+
+#W16($2EB8F)
+「せいしょくこう」[ED]
+
+
+//POINTER #238 @ $2EB91 - STRING #238 @ $2E940
+
+#W16($2EB91)
+がったいは せいこうし[ED]
+
+
+//POINTER #239 @ $2EB93 - STRING #239 @ $2E94D
+
+#W16($2EB93)
+を てにいれた[ED]
+
+
+//POINTER #240 @ $2EB95 - STRING #240 @ $2E955
+
+#W16($2EB95)
+がったいは しっぱいした![ED]
+
+
+//POINTER #241 @ $2EB97 - STRING #241 @ $2E965
+
+#W16($2EB97)
+に[LN]
+クラスチェンジした![ED]
+
+
+//POINTER #242 @ $2EB99 - STRING #242 @ $2E973
+
+#W16($2EB99)
+の けいけんぶそくが[LN]
+げんいんだった‥[ED]
+
+
+//POINTER #243 @ $2EB9B - STRING #243 @ $2E98B
+
+#W16($2EB9B)
+わたしのちからを[ED]
+
+
+//POINTER #244 @ $2EB9D - STRING #244 @ $2E994
+
+#W16($2EB9D)
+の[LN]
+パワーが がったいします[ED]
+
+
+//POINTER #245 @ $2EB9F - STRING #245 @ $2E9A6
+
+#W16($2EB9F)
+を とりのぞいていただき[ED]
+

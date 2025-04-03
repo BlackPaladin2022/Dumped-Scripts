@@ -1,0 +1,681 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #018 NAME:		Dialogue Block 19 (POINTER_RELATIVE)
+
+//POINTER #0 @ $30F5E - STRING #0 @ $31040
+
+#W16($30F5E)
+まはりょく[ED]
+
+
+//POINTER #1 @ $30F60 - STRING #1 @ $31046
+
+#W16($30F60)
+サタンダスト[ED]
+
+
+//POINTER #2 @ $30F62 - STRING #2 @ $3104E
+
+#W16($30F62)
+スパウト[ED]
+
+
+//POINTER #3 @ $30F64 - STRING #3 @ $31054
+
+#W16($30F64)
+デビルストーム[ED]
+
+
+//POINTER #4 @ $30F66 - STRING #4 @ $3105E
+
+#W16($30F66)
+ファイアーボム[ED]
+
+
+//POINTER #5 @ $30F68 - STRING #5 @ $31067
+
+#W16($30F68)
+ちょうねんま[ED]
+
+
+//POINTER #6 @ $30F6A - STRING #6 @ $3106E
+
+#W16($30F6A)
+ましんどう[ED]
+
+
+//POINTER #7 @ $30F6C - STRING #7 @ $31075
+
+#W16($30F6C)
+デビルウェーブ[ED]
+
+
+//POINTER #8 @ $30F6E - STRING #8 @ $31080
+
+#W16($30F6E)
+サタンフォールト[ED]
+
+
+//POINTER #9 @ $30F70 - STRING #9 @ $31089
+
+#W16($30F70)
+れっぷうまどうは[ED]
+
+
+//POINTER #10 @ $30F72 - STRING #10 @ $31094
+
+#W16($30F72)
+デビルパワー[ED]
+
+
+//POINTER #11 @ $30F74 - STRING #11 @ $3109E
+
+#W16($30F74)
+しんくうは[ED]
+
+
+//POINTER #12 @ $30F76 - STRING #12 @ $310A4
+
+#W16($30F76)
+まあらし[ED]
+
+
+//POINTER #13 @ $30F78 - STRING #13 @ $310A9
+
+#W16($30F78)
+エレキショック[ED]
+
+
+//POINTER #14 @ $30F7A - STRING #14 @ $310B1
+
+#W16($30F7A)
+リバースシールド[ED]
+
+
+//POINTER #15 @ $30F7C - STRING #15 @ $310BC
+
+#W16($30F7C)
+やりがいましょう[ED]
+
+
+//POINTER #16 @ $30F7E - STRING #16 @ $310C6
+
+#W16($30F7E)
+りりょくふうじ[ED]
+
+
+//POINTER #17 @ $30F80 - STRING #17 @ $310CF
+
+#W16($30F80)
+りんじゅうおん[ED]
+
+
+//POINTER #18 @ $30F82 - STRING #18 @ $310D8
+
+#W16($30F82)
+あくまのかおり[ED]
+
+
+//POINTER #19 @ $30F84 - STRING #19 @ $310E0
+
+#W16($30F84)
+フォースシール[ED]
+
+
+//POINTER #20 @ $30F86 - STRING #20 @ $310E8
+
+#W16($30F86)
+あくまのけむり[ED]
+
+
+//POINTER #21 @ $30F88 - STRING #21 @ $310F0
+
+#W16($30F88)
+スパイダーネット[ED]
+
+
+//POINTER #22 @ $30F8A - STRING #22 @ $310FB
+
+#W16($30F8A)
+デビルネット[ED]
+
+
+//POINTER #23 @ $30F8C - STRING #23 @ $31104
+
+#W16($30F8C)
+ひゃくまかい[ED]
+
+
+//POINTER #24 @ $30F8E - STRING #24 @ $3110B
+
+#W16($30F8E)
+イルフォガー[ED]
+
+
+//POINTER #25 @ $30F90 - STRING #25 @ $31113
+
+#W16($30F90)
+デスバリアー[ED]
+
+
+//POINTER #26 @ $30F92 - STRING #26 @ $3111C
+
+#W16($30F92)
+へルカラー[ED]
+
+
+//POINTER #27 @ $30F94 - STRING #27 @ $31122
+
+#W16($30F94)
+まかごこうせん[ED]
+
+
+//POINTER #28 @ $30F96 - STRING #28 @ $3112B
+
+#W16($30F96)
+せいいんしコピー[ED]
+
+
+//POINTER #29 @ $30F98 - STRING #29 @ $31135
+
+#W16($30F98)
+マッドブランチ[ED]
+
+
+//POINTER #30 @ $30F9A - STRING #30 @ $3113F
+
+#W16($30F9A)
+しゅくしょうジェル[ED]
+
+
+//POINTER #31 @ $30F9C - STRING #31 @ $3114A
+
+#W16($30F9C)
+デビルスイッチ[ED]
+
+
+//POINTER #32 @ $30F9E - STRING #32 @ $31154
+
+#W16($30F9E)
+へんちょうオカリナ[ED]
+
+
+//POINTER #33 @ $30FA0 - STRING #33 @ $3115E
+
+#W16($30FA0)
+デスアイパー[ED]
+
+
+//POINTER #34 @ $30FA2 - STRING #34 @ $31167
+
+#W16($30FA2)
+キラーネット[ED]
+
+
+//POINTER #35 @ $30FA4 - STRING #35 @ $3116E
+
+#W16($30FA4)
+ダークホール[ED]
+
+
+//POINTER #36 @ $30FA6 - STRING #36 @ $31176
+
+#W16($30FA6)
+ゴーストリング[ED]
+
+
+//POINTER #37 @ $30FA8 - STRING #37 @ $31180
+
+#W16($30FA8)
+マッドチェンジ[ED]
+
+
+//POINTER #38 @ $30FAA - STRING #38 @ $3118A
+
+#W16($30FAA)
+シュリンパーム[ED]
+
+
+//POINTER #39 @ $30FAC - STRING #39 @ $31193
+
+#W16($30FAC)
+まどうは[ED]
+
+
+//POINTER #40 @ $30FAE - STRING #40 @ $31199
+
+#W16($30FAE)
+ちょうねんま[ED]
+
+
+//POINTER #41 @ $30FB0 - STRING #41 @ $311A0
+
+#W16($30FB0)
+まえんへアー[ED]
+
+
+//POINTER #42 @ $30FB2 - STRING #42 @ $311A7
+
+#W16($30FB2)
+セントデビルパワー[ED]
+
+
+//POINTER #43 @ $30FB4 - STRING #43 @ $311B4
+
+#W16($30FB4)
+レインボービーム[ED]
+
+
+//POINTER #44 @ $30FB6 - STRING #44 @ $311BF
+
+#W16($30FB6)
+はんにゃパワー[ED]
+
+
+//POINTER #45 @ $30FB8 - STRING #45 @ $311C8
+
+#W16($30FB8)
+イルファイアー[ED]
+
+
+//POINTER #46 @ $30FBA - STRING #46 @ $311D0
+
+#W16($30FBA)
+あんこくビーム[ED]
+
+
+//POINTER #47 @ $30FBC - STRING #47 @ $311D9
+
+#W16($30FBC)
+エンジェルキラー[ED]
+
+
+//POINTER #48 @ $30FBE - STRING #48 @ $311E3
+
+#W16($30FBE)
+デビルファング[ED]
+
+
+//POINTER #49 @ $30FC0 - STRING #49 @ $311EE
+
+#W16($30FC0)
+ましょうじりん[ED]
+
+
+//POINTER #50 @ $30FC2 - STRING #50 @ $311F7
+
+#W16($30FC2)
+スリーパーブレス[ED]
+
+
+//POINTER #51 @ $30FC4 - STRING #51 @ $31202
+
+#W16($30FC4)
+フォースクローズ[ED]
+
+
+//POINTER #52 @ $30FC6 - STRING #52 @ $3120C
+
+#W16($30FC6)
+マメレオンブスター[ED]
+
+
+//POINTER #53 @ $30FC8 - STRING #53 @ $31217
+
+#W16($30FC8)
+かげのちから[ED]
+
+
+//POINTER #54 @ $30FCA - STRING #54 @ $3121F
+
+#W16($30FCA)
+6まきょくエナジー[ED]
+
+
+//POINTER #55 @ $30FCC - STRING #55 @ $3122A
+
+#W16($30FCC)
+マリアへクサゴン[ED]
+
+
+//POINTER #56 @ $30FCE - STRING #56 @ $3123C
+
+#W16($30FCE)
+デビルへクサゴン[ED]
+
+
+//POINTER #57 @ $30FD0 - STRING #57 @ $31248
+
+#W16($30FD0)
+デビルライト[ED]
+
+
+//POINTER #58 @ $30FD2 - STRING #58 @ $31234
+
+#W16($30FD2)
+かしんテクター[ED]
+
+
+//POINTER #59 @ $30FD4 - STRING #59 @ $31376
+
+#W16($30FD4)
+ボディアタック[ED]
+
+
+//POINTER #60 @ $30FD6 - STRING #60 @ $31380
+
+#W16($30FD6)
+きびだんごパワー[ED]
+
+
+//POINTER #61 @ $30FD8 - STRING #61 @ $3138D
+
+#W16($30FD8)
+スパークウィンク[ED]
+
+
+//POINTER #62 @ $30FDA - STRING #62 @ $31397
+
+#W16($30FDA)
+チョッキンナー[ED]
+
+
+//POINTER #63 @ $30FDC - STRING #63 @ $3139F
+
+#W16($30FDC)
+アイスパーシャル[ED]
+
+
+//POINTER #64 @ $30FDE - STRING #64 @ $313A9
+
+#W16($30FDE)
+バンブーライト[ED]
+
+
+//POINTER #65 @ $30FE0 - STRING #65 @ $313B3
+
+#W16($30FE0)
+マグマフォース[ED]
+
+
+//POINTER #66 @ $30FE2 - STRING #66 @ $313BC
+
+#W16($30FE2)
+マジックストッパー[ED]
+
+
+//POINTER #67 @ $30FE4 - STRING #67 @ $313C8
+
+#W16($30FE4)
+かげふますキック[ED]
+
+
+//POINTER #68 @ $30FE6 - STRING #68 @ $313D2
+
+#W16($30FE6)
+ピンクショッげきは[ED]
+
+
+//POINTER #69 @ $30FE8 - STRING #69 @ $313DE
+
+#W16($30FE8)
+セントすいすい[ED]
+
+
+//POINTER #70 @ $30FEA - STRING #70 @ $313E6
+
+#W16($30FEA)
+セントポーリン[ED]
+
+
+//POINTER #71 @ $30FEC - STRING #71 @ $313EF
+
+#W16($30FEC)
+スーパーアタック[ED]
+
+
+//POINTER #72 @ $30FEE - STRING #72 @ $31376
+
+#W16($30FEE)
+ボディアタック[ED]
+
+
+//POINTER #73 @ $30FF0 - STRING #73 @ $31251
+
+#W16($30FF0)
+たっきゅうどう[ED]
+
+
+//POINTER #74 @ $30FF2 - STRING #74 @ $3125A
+
+#W16($30FF2)
+HPかいふく[ED]
+
+
+//POINTER #75 @ $30FF4 - STRING #75 @ $31261
+
+#W16($30FF4)
+せいどうは[ED]
+
+
+//POINTER #76 @ $30FF6 - STRING #76 @ $31268
+
+#W16($30FF6)
+セントピンスピット[ED]
+
+
+//POINTER #77 @ $30FF8 - STRING #77 @ $31274
+
+#W16($30FF8)
+ピッカピカパワー[ED]
+
+
+//POINTER #78 @ $30FFA - STRING #78 @ $31280
+
+#W16($30FFA)
+HPかいふく[ED]
+
+
+//POINTER #79 @ $30FFC - STRING #79 @ $31287
+
+#W16($30FFC)
+[ED]
+
+
+//POINTER #80 @ $30FFE - STRING #80 @ $31288
+
+#W16($30FFE)
+[ED]
+
+
+//POINTER #81 @ $31000 - STRING #81 @ $31289
+
+#W16($31000)
+ゆうげんパワー[ED]
+
+
+//POINTER #82 @ $31002 - STRING #82 @ $31293
+
+#W16($31002)
+HPかいふく[ED]
+
+
+//POINTER #83 @ $31004 - STRING #83 @ $3129A
+
+#W16($31004)
+せいゆうは[ED]
+
+
+//POINTER #84 @ $31006 - STRING #84 @ $312A0
+
+#W16($31006)
+せいしんどう[ED]
+
+
+//POINTER #85 @ $31008 - STRING #85 @ $312A8
+
+#W16($31008)
+マジックキー[ED]
+
+
+//POINTER #86 @ $3100A - STRING #86 @ $312B0
+
+#W16($3100A)
+FPかいふく[ED]
+
+
+//POINTER #87 @ $3100C - STRING #87 @ $312B7
+
+#W16($3100C)
+せいむは[ED]
+
+
+//POINTER #88 @ $3100E - STRING #88 @ $312BC
+
+#W16($3100E)
+はんしゃせいきょう[ED]
+
+
+//POINTER #89 @ $31010 - STRING #89 @ $312C6
+
+#W16($31010)
+せいてき[ED]
+
+
+//POINTER #90 @ $31012 - STRING #90 @ $312CB
+
+#W16($31012)
+HPかいふく[ED]
+
+
+//POINTER #91 @ $31014 - STRING #91 @ $312D2
+
+#W16($31014)
+せいれいは[ED]
+
+
+//POINTER #92 @ $31016 - STRING #92 @ $312D8
+
+#W16($31016)
+あっくうせいりゅう[ED]
+
+
+//POINTER #93 @ $31018 - STRING #93 @ $312E2
+
+#W16($31018)
+リンリンごうたく[ED]
+
+
+//POINTER #94 @ $3101A - STRING #94 @ $312EC
+
+#W16($3101A)
+FPかいふく[ED]
+
+
+//POINTER #95 @ $3101C - STRING #95 @ $312F3
+
+#W16($3101C)
+せいほうは[ED]
+
+
+//POINTER #96 @ $3101E - STRING #96 @ $312F9
+
+#W16($3101E)
+パールこうせん[ED]
+
+
+//POINTER #97 @ $31020 - STRING #97 @ $31302
+
+#W16($31020)
+レインボーアーチ[ED]
+
+
+//POINTER #98 @ $31022 - STRING #98 @ $3130C
+
+#W16($31022)
+HPかいふく[ED]
+
+
+//POINTER #99 @ $31024 - STRING #99 @ $31313
+
+#W16($31024)
+せいげんは[ED]
+
+
+//POINTER #100 @ $31026 - STRING #100 @ $3131A
+
+#W16($31026)
+ひょうがふう[ED]
+
+
+//POINTER #101 @ $31028 - STRING #101 @ $31322
+
+#W16($31028)
+セントワープ[ED]
+
+
+//POINTER #102 @ $3102A - STRING #102 @ $3132A
+
+#W16($3102A)
+FPかいふく[ED]
+
+
+//POINTER #103 @ $3102C - STRING #103 @ $31331
+
+#W16($3102C)
+せいかいは[ED]
+
+
+//POINTER #104 @ $3102E - STRING #104 @ $31337
+
+#W16($3102E)
+せいすいせんみん[ED]
+
+
+//POINTER #105 @ $31030 - STRING #105 @ $31340
+
+#W16($31030)
+パワーライト[ED]
+
+
+//POINTER #106 @ $31032 - STRING #106 @ $31348
+
+#W16($31032)
+HPかいふく[ED]
+
+
+//POINTER #107 @ $31034 - STRING #107 @ $3134F
+
+#W16($31034)
+ウイズダムフォース[ED]
+
+
+//POINTER #108 @ $31036 - STRING #108 @ $3135B
+
+#W16($31036)
+パイルスタービーム[ED]
+
+
+//POINTER #109 @ $31038 - STRING #109 @ $31367
+
+#W16($31038)
+せいしょくこう[ED]
+
+
+//POINTER #110 @ $3103A - STRING #110 @ $3136F
+
+#W16($3103A)
+FPかいふく[ED]
+
+
+//POINTER #111 @ $3103C - STRING #111 @ $31367
+
+#W16($3103C)
+せいしょくこう[ED]
+
+
+//POINTER #112 @ $3103E - STRING #112 @ $3136F
+
+#W16($3103E)
+FPかいふく[ED]
+

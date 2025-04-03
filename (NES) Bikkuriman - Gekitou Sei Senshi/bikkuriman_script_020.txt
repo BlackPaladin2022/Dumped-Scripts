@@ -1,0 +1,63 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #020 NAME:		Dialogue Block 21 (POINTER_RELATIVE)
+
+//POINTER #0 @ $314D9 - STRING #0 @ $314ED
+
+#W16($314D9)
+せいどうハンマー[ED]
+
+
+//POINTER #1 @ $314DB - STRING #1 @ $3150E
+
+#W16($314DB)
+クロスアロー[ED]
+
+
+//POINTER #2 @ $314DD - STRING #2 @ $31533
+
+#W16($314DD)
+せいゆうナイフ[ED]
+
+
+//POINTER #3 @ $314DF - STRING #3 @ $31553
+
+#W16($314DF)
+せいむアックス[ED]
+
+
+//POINTER #4 @ $314E1 - STRING #4 @ $31570
+
+#W16($314E1)
+せいれいチェーン[ED]
+
+
+//POINTER #5 @ $314E3 - STRING #5 @ $31590
+
+#W16($314E3)
+せいほうアロー[ED]
+
+
+//POINTER #6 @ $314E5 - STRING #6 @ $315B0
+
+#W16($314E5)
+せいげんランサー[ED]
+
+
+//POINTER #7 @ $314E7 - STRING #7 @ $315D5
+
+#W16($314E7)
+せいかいロッド[ED]
+
+
+//POINTER #8 @ $314E9 - STRING #8 @ $315F5
+
+#W16($314E9)
+クロスソード[ED]
+
+
+//POINTER #9 @ $314EB - STRING #9 @ $3161C
+
+#W16($314EB)
+せいしょくバトン[ED]
+

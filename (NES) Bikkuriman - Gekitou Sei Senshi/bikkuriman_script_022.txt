@@ -1,0 +1,111 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #022 NAME:		Dialogue Block 23 (POINTER_RELATIVE)
+
+//POINTER #0 @ $31757 - STRING #0 @ $3177B
+
+#W16($31757)
+ゼウスタウン[ED]
+
+
+//POINTER #1 @ $31759 - STRING #1 @ $31783
+
+#W16($31759)
+ハドラス[ED]
+
+
+//POINTER #2 @ $3175B - STRING #2 @ $31789
+
+#W16($3175B)
+ウォーターロー[ED]
+
+
+//POINTER #3 @ $3175D - STRING #3 @ $31791
+
+#W16($3175D)
+[ED]
+
+
+//POINTER #4 @ $3175F - STRING #4 @ $31792
+
+#W16($3175F)
+ジャポン[ED]
+
+
+//POINTER #5 @ $31761 - STRING #5 @ $31799
+
+#W16($31761)
+ひがし[ED]
+
+
+//POINTER #6 @ $31763 - STRING #6 @ $3179E
+
+#W16($31763)
+にし[ED]
+
+
+//POINTER #7 @ $31765 - STRING #7 @ $317A1
+
+#W16($31765)
+みなみ[ED]
+
+
+//POINTER #8 @ $31767 - STRING #8 @ $317A5
+
+#W16($31767)
+きた[ED]
+
+
+//POINTER #9 @ $31769 - STRING #9 @ $317A8
+
+#W16($31769)
+ちゅうおう[ED]
+
+
+//POINTER #10 @ $3176B - STRING #10 @ $317AE
+
+#W16($3176B)
+ネオゼウスタウン[ED]
+
+
+//POINTER #11 @ $3176D - STRING #11 @ $317B8
+
+#W16($3176D)
+オアシスタウン[ED]
+
+
+//POINTER #12 @ $3176F - STRING #12 @ $317C0
+
+#W16($3176F)
+タカマハラタウン[ED]
+
+
+//POINTER #13 @ $31771 - STRING #13 @ $317C9
+
+#W16($31771)
+ダムダム[ED]
+
+
+//POINTER #14 @ $31773 - STRING #14 @ $317D0
+
+#W16($31773)
+チへット[ED]
+
+
+//POINTER #15 @ $31775 - STRING #15 @ $317D5
+
+#W16($31775)
+クリスタルタウン[ED]
+
+
+//POINTER #16 @ $31777 - STRING #16 @ $317DE
+
+#W16($31777)
+ポンコン[ED]
+
+
+//POINTER #17 @ $31779 - STRING #17 @ $317E4
+
+#W16($31779)
+てんちきゅう[ED]
+

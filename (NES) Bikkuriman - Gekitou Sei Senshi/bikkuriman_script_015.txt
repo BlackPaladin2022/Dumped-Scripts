@@ -1,0 +1,126 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #015 NAME:		Dialogue Block 16 (POINTER_RELATIVE)
+
+//POINTER #0 @ $30810 - STRING #0 @ $30832
+
+#W16($30810)
+(E8)[LN]
+は ねむっている[ED]
+
+
+//POINTER #1 @ $30812 - STRING #1 @ $3083D
+
+#W16($30812)
+(E8)[LN]
+は めをさました![ED]
+
+
+//POINTER #2 @ $30814 - STRING #2 @ $30849
+
+#W16($30814)
+(E8)[LN]
+は まひした![ED]
+
+
+//POINTER #3 @ $30816 - STRING #3 @ $30853
+
+#W16($30816)
+(E8)[LN]
+は まひしている[ED]
+
+
+//POINTER #4 @ $30818 - STRING #4 @ $3085E
+
+#W16($30818)
+(E8)[LN]
+は かいふくした![ED]
+
+
+//POINTER #5 @ $3081A - STRING #5 @ $3086A
+
+#W16($3081A)
+(E8)[LN]
+は ふぬけになった[ED]
+
+
+//POINTER #6 @ $3081C - STRING #6 @ $30876
+
+#W16($3081C)
+(E8)[LN]
+は ぼーっとしてる[ED]
+
+
+//POINTER #7 @ $3081E - STRING #7 @ $30883
+
+#W16($3081E)
+(E8)[LN]
+は こんらんした![ED]
+
+
+//POINTER #8 @ $30820 - STRING #8 @ $3088F
+
+#W16($30820)
+(E8)[LN]
+は こんらんしいる[ED]
+
+
+//POINTER #9 @ $30822 - STRING #9 @ $3089B
+
+#W16($30822)
+(E8)[LN]
+は こうげきを[LN]
+はねかえした![ED]
+
+
+//POINTER #10 @ $30824 - STRING #10 @ $308AE
+
+#W16($30824)
+(E8)[LN]
+の アタック!![ED]
+
+
+//POINTER #11 @ $30826 - STRING #11 @ $308B9
+
+#W16($30826)
+(E8)[LN]
+は ダメージを[LN]
+うけなかった[ED]
+
+
+//POINTER #12 @ $30828 - STRING #12 @ $308CC
+
+#W16($30828)
+(E8)[LN]
+は ぼうぎょ![ED]
+
+
+//POINTER #13 @ $3082A - STRING #13 @ $308D8
+
+#W16($3082A)
+(E8)[LN]
+は にげだした![ED]
+
+
+//POINTER #14 @ $3082C - STRING #14 @ $308E5
+
+#W16($3082C)
+(E8)[LN]
+は HPが[LN]
+かいふくした![ED]
+
+
+//POINTER #15 @ $3082E - STRING #15 @ $308F6
+
+#W16($3082E)
+(E8)[LN]
+は FPが[LN]
+かいふくした![ED]
+
+
+//POINTER #16 @ $30830 - STRING #16 @ $30907
+
+#W16($30830)
+(E8)[LN]
+には こうかがない[ED]
+

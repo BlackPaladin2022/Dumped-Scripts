@@ -1,0 +1,94 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #019 NAME:		Dialogue Block 20 (POINTER_RELATIVE)
+
+//POINTER #0 @ $313F9 - STRING #0 @ $31415
+
+#W16($313F9)
+せいきゅうこう[ED]
+
+
+//POINTER #1 @ $313FB - STRING #1 @ $3141D
+
+#W16($313FB)
+せいらんほう[ED]
+
+
+//POINTER #2 @ $313FD - STRING #2 @ $31424
+
+#W16($313FD)
+せいしんこうせん[ED]
+
+
+//POINTER #3 @ $313FF - STRING #3 @ $3142D
+
+#W16($313FF)
+へラクライスト[ED]
+
+
+//POINTER #4 @ $31401 - STRING #4 @ $31435
+
+#W16($31401)
+セイビッグパワー[ED]
+
+
+//POINTER #5 @ $31403 - STRING #5 @ $31441
+
+#W16($31403)
+せいだんりゅう[ED]
+
+
+//POINTER #6 @ $31405 - STRING #6 @ $3144A
+
+#W16($31405)
+げんそうビーム[ED]
+
+
+//POINTER #7 @ $31407 - STRING #7 @ $31454
+
+#W16($31407)
+せいきゅうこう[LN]
+     400P[ED]
+
+
+//POINTER #8 @ $31409 - STRING #8 @ $31466
+
+#W16($31409)
+せいらんほう[LN]
+     600P[ED]
+
+
+//POINTER #9 @ $3140B - STRING #9 @ $31477
+
+#W16($3140B)
+せいしんこうせん[LN]
+     500P[ED]
+
+
+//POINTER #10 @ $3140D - STRING #10 @ $3148A
+
+#W16($3140D)
+へラクライスト[LN]
+     800P[ED]
+
+
+//POINTER #11 @ $3140F - STRING #11 @ $3149C
+
+#W16($3140F)
+セイビッグパワー[LN]
+    1200P[ED]
+
+
+//POINTER #12 @ $31411 - STRING #12 @ $314B2
+
+#W16($31411)
+せいだんりゅう[LN]
+    1800P[ED]
+
+
+//POINTER #13 @ $31413 - STRING #13 @ $314C5
+
+#W16($31413)
+げんそうビーム[LN]
+    4000P[ED]
+

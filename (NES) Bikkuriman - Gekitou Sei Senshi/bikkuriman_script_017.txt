@@ -1,0 +1,165 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #017 NAME:		Dialogue Block 18 (POINTER_RELATIVE)
+
+//POINTER #0 @ $30AE0 - STRING #0 @ $30B16
+
+#W16($30AE0)
+まウス[ED]
+
+
+//POINTER #1 @ $30AE2 - STRING #1 @ $30DF5
+
+#W16($30AE2)
+ゾンビダンジャック[ED]
+
+
+//POINTER #2 @ $30AE4 - STRING #2 @ $30E03
+
+#W16($30AE4)
+じゃしんアリババ[ED]
+
+
+//POINTER #3 @ $30AE6 - STRING #3 @ $30E0F
+
+#W16($30AE6)
+ゴーストうしわか[ED]
+
+
+//POINTER #4 @ $30AE8 - STRING #4 @ $30E19
+
+#W16($30AE8)
+サタンフッド[ED]
+
+
+//POINTER #5 @ $30AEA - STRING #5 @ $30E21
+
+#W16($30AEA)
+ピーターゾンビ[ED]
+
+
+//POINTER #6 @ $30AEC - STRING #6 @ $30E2C
+
+#W16($30AEC)
+サタンいっぽん[ED]
+
+
+//POINTER #7 @ $30AEE - STRING #7 @ $30E35
+
+#W16($30AEE)
+サタンフェニックス[ED]
+
+
+//POINTER #8 @ $30AF0 - STRING #8 @ $30E3F
+
+#W16($30AF0)
+しょうこうしのかげ[ED]
+
+
+//POINTER #9 @ $30AF2 - STRING #9 @ $30E4A
+
+#W16($30AF2)
+デビルやまと[ED]
+
+
+//POINTER #10 @ $30AF4 - STRING #10 @ $30E53
+
+#W16($30AF4)
+デビルエンジェル[ED]
+
+
+//POINTER #11 @ $30AF6 - STRING #11 @ $30E5F
+
+#W16($30AF6)
+まていダンジャック[ED]
+
+
+//POINTER #12 @ $30AF8 - STRING #12 @ $30E6B
+
+#W16($30AF8)
+サタンアリババ[ED]
+
+
+//POINTER #13 @ $30AFA - STRING #13 @ $30E75
+
+#W16($30AFA)
+うしわかゾンビ[ED]
+
+
+//POINTER #14 @ $30AFC - STRING #14 @ $30E7F
+
+#W16($30AFC)
+デビルフッド[ED]
+
+
+//POINTER #15 @ $30AFE - STRING #15 @ $30E89
+
+#W16($30AFE)
+サタンピーター[ED]
+
+
+//POINTER #16 @ $30B00 - STRING #16 @ $30E92
+
+#W16($30B00)
+ゾンビいっぽん[ED]
+
+
+//POINTER #17 @ $30B02 - STRING #17 @ $30E9D
+
+#W16($30B02)
+サタンフェニックス[ED]
+
+
+//POINTER #18 @ $30B04 - STRING #18 @ $30EA7
+
+#W16($30B04)
+バッドロココ[ED]
+
+
+//POINTER #19 @ $30B06 - STRING #19 @ $30EB0
+
+#W16($30B06)
+しそジュラ[ED]
+
+
+//POINTER #20 @ $30B08 - STRING #20 @ $30EB7
+
+#W16($30B08)
+サタンマリア[ED]
+
+
+//POINTER #21 @ $30B0A - STRING #21 @ $30EBE
+
+#W16($30B0A)
+ブラックゼウス[ED]
+
+
+//POINTER #22 @ $30B0C - STRING #22 @ $30EC8
+
+#W16($30B0C)
+またいでんノア[ED]
+
+
+//POINTER #23 @ $30B0E - STRING #23 @ $30ED1
+
+#W16($30B0E)
+ワンダーマリア[ED]
+
+
+//POINTER #24 @ $30B10 - STRING #24 @ $30EDA
+
+#W16($30B10)
+スーパーデビル[ED]
+
+
+//POINTER #25 @ $30B12 - STRING #25 @ $30EE5
+
+#W16($30B12)
+ましょうネロ[ED]
+
+
+//POINTER #26 @ $30B14 - STRING #26 @ $30EEC
+
+#W16($30B14)
+だいもんま[ED]
+

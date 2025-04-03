@@ -1,0 +1,53 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #014 NAME:		Dialogue Block 15 (POINTER_RELATIVE)
+
+//POINTER #0 @ $30790 - STRING #0 @ $3079C
+
+#W16($30790)
+(E8)[LN]
+に ダメージ(EF)[ED]
+
+
+//POINTER #1 @ $30792 - STRING #1 @ $307A8
+
+#W16($30792)
+(E0)[LN]
+は りりょく[LN]
+(E7)[LN]
+を つかった![ED]
+
+
+//POINTER #2 @ $30794 - STRING #2 @ $307BB
+
+#W16($30794)
+(E1)[LN]
+は まりょく[LN]
+(E7)[LN]
+を つかった![ED]
+
+
+//POINTER #3 @ $30796 - STRING #3 @ $307CE
+
+#W16($30796)
+セントパーティは[LN]
+がっせいパワー[LN]
+(E6)[LN]
+を つかった!![ED]
+
+
+//POINTER #4 @ $30798 - STRING #4 @ $3079C
+
+#W16($30798)
+(E8)[LN]
+に ダメージ(EF)[ED]
+
+
+//POINTER #5 @ $3079A - STRING #5 @ $307ED
+
+#W16($3079A)
+セントパーティは[LN]
+けいけんち(EE)[LN]
+おかね(E9)ビック[LN]
+を てにいれた![ED]
+

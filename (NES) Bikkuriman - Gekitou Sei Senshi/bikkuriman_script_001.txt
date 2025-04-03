@@ -1,0 +1,25 @@
+//GAME NAME:		Bikkuriman World - Gekitou Sei Senshi (NES)
+
+//BLOCK #001 NAME:		Dialogue Block 02 (POINTER_RELATIVE)
+
+//POINTER #0 @ $24E6 - STRING #0 @ $24C7
+
+#W16($24E6)
+パーティ にん[ED]
+
+
+//POINTER #1 @ $24E8 - STRING #1 @ $24CF
+
+#W16($24E8)
+おかね[LN]
+[LN]
+がっせいP[LN]
+[LN]
+おたすけめいぼ[ED]
+
+
+//POINTER #2 @ $24EA - STRING #2 @ $24E3
+
+#W16($24EA)
+にん[ED]
+
