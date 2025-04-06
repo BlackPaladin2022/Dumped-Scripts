@@ -1,0 +1,249 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		"03" DICTIONARY ENTRIES (POINTER_RELATIVE)
+
+//POINTER #0 @ $12F53 - STRING #0 @ $12FA5
+
+#W16($12F53)
+カプセル[BR]
+
+
+//POINTER #1 @ $12F55 - STRING #1 @ $12FAA
+
+#W16($12F55)
+エネルギー[BR]
+
+
+//POINTER #2 @ $12F57 - STRING #2 @ $12FB0
+
+#W16($12F57)
+スモッグクリア[BR]
+
+
+//POINTER #3 @ $12F59 - STRING #3 @ $12FB8
+
+#W16($12F59)
+Hミサイル[BR]
+
+
+//POINTER #4 @ $12F5B - STRING #4 @ $12FBE
+
+#W16($12F5B)
+きかい[BR]
+
+
+//POINTER #5 @ $12F5D - STRING #5 @ $12FC2
+
+#W16($12F5D)
+Sシールド[BR]
+
+
+//POINTER #6 @ $12F5F - STRING #6 @ $12FC8
+
+#W16($12F5F)
+Eミサイル[BR]
+
+
+//POINTER #7 @ $12F61 - STRING #7 @ $12FCE
+
+#W16($12F61)
+Sミサイル[BR]
+
+
+//POINTER #8 @ $12F63 - STRING #8 @ $12FD4
+
+#W16($12F63)
+ビーム[BR]
+
+
+//POINTER #9 @ $12F65 - STRING #9 @ $12FD8
+
+#W16($12F65)
+ブースター[BR]
+
+
+//POINTER #10 @ $12F67 - STRING #10 @ $12FDE
+
+#W16($12F67)
+ミサイルポット[BR]
+
+
+//POINTER #11 @ $12F69 - STRING #11 @ $12FE6
+
+#W16($12F69)
+ESP[BR]
+
+
+//POINTER #12 @ $12F6B - STRING #12 @ $12FEA
+
+#W16($12F6B)
+シールド[BR]
+
+
+//POINTER #13 @ $12F6D - STRING #13 @ $12FF5
+
+#W16($12F6D)
+ミサイル[BR]
+
+
+//POINTER #14 @ $12F6F - STRING #14 @ $12FFA
+
+#W16($12F6F)
+2Mバルカン[BR]
+
+
+//POINTER #15 @ $12F71 - STRING #15 @ $13001
+
+#W16($12F71)
+4Mバルカン[BR]
+
+
+//POINTER #16 @ $12F73 - STRING #16 @ $13008
+
+#W16($12F73)
+イオンビーム[BR]
+
+
+//POINTER #17 @ $12F75 - STRING #17 @ $1300F
+
+#W16($12F75)
+メガイオン[BR]
+
+
+//POINTER #18 @ $12F77 - STRING #18 @ $13015
+
+#W16($12F77)
+サイコビーム[BR]
+
+
+//POINTER #19 @ $12F79 - STRING #19 @ $1301C
+
+#W16($12F79)
+ハイパービーム[BR]
+
+
+//POINTER #20 @ $12F7B - STRING #20 @ $13024
+
+#W16($12F7B)
+レーダー[BR]
+
+
+//POINTER #21 @ $12F7D - STRING #21 @ $13029
+
+#W16($12F7D)
+ディスク[BR]
+
+
+//POINTER #22 @ $12F7F - STRING #22 @ $12FC2
+
+#W16($12F7F)
+Sシールド[BR]
+
+
+//POINTER #23 @ $12F81 - STRING #23 @ $1302E
+
+#W16($12F81)
+イカロス[BR]
+
+
+//POINTER #24 @ $12F83 - STRING #24 @ $13033
+
+#W16($12F83)
+プリズム[BR]
+
+
+//POINTER #25 @ $12F85 - STRING #25 @ $13038
+
+#W16($12F85)
+ペンダント[BR]
+
+
+//POINTER #26 @ $12F87 - STRING #26 @ $1303E
+
+#W16($12F87)
+Pミサイル[BR]
+
+
+//POINTER #27 @ $12F89 - STRING #27 @ $13044
+
+#W16($12F89)
+ガルムのたまご[BR]
+
+
+//POINTER #28 @ $12F8B - STRING #28 @ $1304C
+
+#W16($12F8B)
+カップラーメン[BR]
+
+
+//POINTER #29 @ $12F8D - STRING #29 @ $13054
+
+#W16($12F8D)
+ブルーのわらにんぎょう[BR]
+
+
+//POINTER #30 @ $12F8F - STRING #30 @ $13060
+
+#W16($12F8F)
+ヒメマドンナのブラ[BR]
+
+
+//POINTER #31 @ $12F91 - STRING #31 @ $1306A
+
+#W16($12F91)
+ガルムのぬけがら[BR]
+
+
+//POINTER #32 @ $12F93 - STRING #32 @ $13073
+
+#W16($12F93)
+せきがいせんスコープ[BR]
+
+
+//POINTER #33 @ $12F95 - STRING #33 @ $1307E
+
+#W16($12F95)
+1ウェイ[BR]
+
+
+//POINTER #34 @ $12F97 - STRING #34 @ $13083
+
+#W16($12F97)
+3ウェイ[BR]
+
+
+//POINTER #35 @ $12F99 - STRING #35 @ $13088
+
+#W16($12F99)
+ウラン[BR]
+
+
+//POINTER #36 @ $12F9B - STRING #36 @ $1308C
+
+#W16($12F9B)
+アイテム[BR]
+
+
+//POINTER #37 @ $12F9D - STRING #37 @ $13091
+
+#W16($12F9D)
+あいのハート[BR]
+
+
+//POINTER #38 @ $12F9F - STRING #38 @ $13098
+
+#W16($12F9F)
+ゆうじょうのハート[BR]
+
+
+//POINTER #39 @ $12FA1 - STRING #39 @ $130A2
+
+#W16($12FA1)
+ゆうきのハート[BR]
+
+
+//POINTER #40 @ $12FA3 - STRING #40 @ $130AA
+
+#W16($12FA3)
+ちからのハート[BR]
+

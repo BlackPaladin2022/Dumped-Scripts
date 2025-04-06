@@ -1,0 +1,195 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		"??" DICTIONARY ENTRIES (POINTER_RELATIVE)
+
+//POINTER #0 @ $1068E - STRING #0 @ $106CE
+
+#W16($1068E)
+ビット[BR]
+
+
+//POINTER #1 @ $10690 - STRING #1 @ $106CE
+
+#W16($10690)
+ビット[BR]
+
+
+//POINTER #2 @ $10692 - STRING #2 @ $106D2
+
+#W16($10692)
+なぐさめ[BR]
+
+
+//POINTER #3 @ $10694 - STRING #3 @ $106D7
+
+#W16($10694)
+コール[BR]
+
+
+//POINTER #4 @ $10696 - STRING #4 @ $106DB
+
+#W16($10696)
+パワー[BR]
+
+
+//POINTER #5 @ $10698 - STRING #5 @ $106DF
+
+#W16($10698)
+バリアー[BR]
+
+
+//POINTER #6 @ $1069A - STRING #6 @ $106E4
+
+#W16($1069A)
+ニードル[BR]
+
+
+//POINTER #7 @ $1069C - STRING #7 @ $106E9
+
+#W16($1069C)
+ワープ[BR]
+
+
+//POINTER #8 @ $1069E - STRING #8 @ $106ED
+
+#W16($1069E)
+クリア[BR]
+
+
+//POINTER #9 @ $106A0 - STRING #9 @ $106F1
+
+#W16($106A0)
+ゆうじょう[BR]
+
+
+//POINTER #10 @ $106A2 - STRING #10 @ $106F7
+
+#W16($106A2)
+パック[BR]
+
+
+//POINTER #11 @ $106A4 - STRING #11 @ $106FB
+
+#W16($106A4)
+カット[BR]
+
+
+//POINTER #12 @ $106A6 - STRING #12 @ $106FF
+
+#W16($106A6)
+かいじょ[BR]
+
+
+//POINTER #13 @ $106A8 - STRING #13 @ $10704
+
+#W16($106A8)
+スパーク[BR]
+
+
+//POINTER #14 @ $106AA - STRING #14 @ $10709
+
+#W16($106AA)
+ストップ[BR]
+
+
+//POINTER #15 @ $106AC - STRING #15 @ $1070E
+
+#W16($106AC)
+かなしみ[BR]
+
+
+//POINTER #16 @ $106AE - STRING #16 @ $10713
+
+#W16($106AE)
+いかり[BR]
+
+
+//POINTER #17 @ $106B0 - STRING #17 @ $10717
+
+#W16($106B0)
+スリープ[BR]
+
+
+//POINTER #18 @ $106B2 - STRING #18 @ $1071C
+
+#W16($106B2)
+パラライ[BR]
+
+
+//POINTER #19 @ $106B4 - STRING #19 @ $10721
+
+#W16($106B4)
+ストーン[BR]
+
+
+//POINTER #20 @ $106B6 - STRING #20 @ $10726
+
+#W16($106B6)
+エネルギー[BR]
+
+
+//POINTER #21 @ $106B8 - STRING #21 @ $1072C
+
+#W16($106B8)
+クライ[BR]
+
+
+//POINTER #22 @ $106BA - STRING #22 @ $10730
+
+#W16($106BA)
+スモッグ[BR]
+
+
+//POINTER #23 @ $106BC - STRING #23 @ $10735
+
+#W16($106BC)
+フオギー[BR]
+
+
+//POINTER #24 @ $106BE - STRING #24 @ $1073A
+
+#W16($106BE)
+ネット[BR]
+
+
+//POINTER #25 @ $106C0 - STRING #25 @ $1073E
+
+#W16($106C0)
+ワイヤー[BR]
+
+
+//POINTER #26 @ $106C2 - STRING #26 @ $10743
+
+#W16($106C2)
+リバース[BR]
+
+
+//POINTER #27 @ $106C4 - STRING #27 @ $10748
+
+#W16($106C4)
+ドレイン[BR]
+
+
+//POINTER #28 @ $106C6 - STRING #28 @ $1074D
+
+#W16($106C6)
+ブランチ[BR]
+
+
+//POINTER #29 @ $106C8 - STRING #29 @ $10752
+
+#W16($106C8)
+ブレイク[BR]
+
+
+//POINTER #30 @ $106CA - STRING #30 @ $10757
+
+#W16($106CA)
+あい[BR]
+
+
+//POINTER #31 @ $106CC - STRING #31 @ $1075A
+
+#W16($106CC)
+バキューム[BR]
+

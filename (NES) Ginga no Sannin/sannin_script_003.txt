@@ -1,0 +1,621 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		"04" DICTIONARY ENTRIES (POINTER_RELATIVE)
+
+//POINTER #0 @ $12CF9 - STRING #0 @ $12DC7
+
+#W16($12CF9)
+たいよう[BR]
+
+
+//POINTER #1 @ $12CFB - STRING #1 @ $12DCC
+
+#W16($12CFB)
+ホ゜ー[BR]
+
+
+//POINTER #2 @ $12CFD - STRING #2 @ $12DD3
+
+#W16($12CFD)
+ユニック[BR]
+
+
+//POINTER #3 @ $12CFF - STRING #3 @ $12DD8
+
+#W16($12CFF)
+きんせい[BR]
+
+
+//POINTER #4 @ $12D01 - STRING #4 @ $12DDD
+
+#W16($12D01)
+シンフ゜ソン[BR]
+
+
+//POINTER #5 @ $12D03 - STRING #5 @ $12DEA
+
+#W16($12D03)
+ちきゅう[BR]
+
+
+//POINTER #6 @ $12D05 - STRING #6 @ $12DEF
+
+#W16($12D05)
+つき[BR]
+
+
+//POINTER #7 @ $12D07 - STRING #7 @ $12DF2
+
+#W16($12D07)
+テ゛ィック[BR]
+
+
+//POINTER #8 @ $12D09 - STRING #8 @ $12DFD
+
+#W16($12D09)
+かせい[BR]
+
+
+//POINTER #9 @ $12D0B - STRING #9 @ $12E01
+
+#W16($12D0B)
+ヒ゜クセル[BR]
+
+
+//POINTER #10 @ $12D0D - STRING #10 @ $12E0C
+
+#W16($12D0D)
+イフ゛ル[BR]
+
+
+//POINTER #11 @ $12D0F - STRING #11 @ $12E15
+
+#W16($12D0F)
+カ゛ルムくうほ゛[BR]
+
+
+//POINTER #12 @ $12D11 - STRING #12 @ $12E2A
+
+#W16($12D11)
+サ゛ンク゛[BR]
+
+
+//POINTER #13 @ $12D13 - STRING #13 @ $12E34
+
+#W16($12D13)
+てんおうせい[BR]
+
+
+//POINTER #14 @ $12D15 - STRING #14 @ $12E3B
+
+#W16($12D15)
+カ゛ルムようさい[BR]
+
+
+//POINTER #15 @ $12D17 - STRING #15 @ $12E51
+
+#W16($12D17)
+オメカ゛[BR]
+
+
+//POINTER #16 @ $12D19 - STRING #16 @ $12E5A
+
+#W16($12D19)
+アルコ゛ス[BR]
+
+
+//POINTER #17 @ $12D1B - STRING #17 @ $12E65
+
+#W16($12D1B)
+めいおうせい[BR]
+
+
+//POINTER #18 @ $12D1D - STRING #18 @ $12E6C
+
+#W16($12D1D)
+Xホ゜イント[BR]
+
+
+//POINTER #19 @ $12D1F - STRING #19 @ $12E79
+
+#W16($12D1F)
+カ゛ルムヘ゛ース3[BR]
+
+
+//POINTER #20 @ $12D21 - STRING #20 @ $12E8E
+
+#W16($12D21)
+カ゛ルムヘ゛ース1[BR]
+
+
+//POINTER #21 @ $12D23 - STRING #21 @ $12EA3
+
+#W16($12D23)
+カ゛ルムヘ゛ース2[BR]
+
+
+//POINTER #22 @ $12D25 - STRING #22 @ $12EB8
+
+#W16($12D25)
+せんかん1[BR]
+
+
+//POINTER #23 @ $12D27 - STRING #23 @ $12EBE
+
+#W16($12D27)
+せんかん2[BR]
+
+
+//POINTER #24 @ $12D29 - STRING #24 @ $12EC4
+
+#W16($12D29)
+イム[BR]
+
+
+//POINTER #25 @ $12D2B - STRING #25 @ $12EC7
+
+#W16($12D2B)
+ウル[BR]
+
+
+//POINTER #26 @ $12D2D - STRING #26 @ $12ECA
+
+#W16($12D2D)
+ラー[BR]
+
+
+//POINTER #27 @ $12D2F - STRING #27 @ $12ECD
+
+#W16($12D2F)
+カ゛ルムケ゛ート[BR]
+
+
+//POINTER #28 @ $12D31 - STRING #28 @ $12EF1
+
+#W16($12D31)
+テ゛ータヘ゛ース[BR]
+
+
+//POINTER #29 @ $12D33 - STRING #29 @ $12F06
+
+#W16($12D33)
+キャステロ[BR]
+
+
+//POINTER #30 @ $12D35 - STRING #30 @ $12F0C
+
+#W16($12D35)
+アルファ[BR]
+
+
+//POINTER #31 @ $12D37 - STRING #31 @ $12F11
+
+#W16($12D37)
+アモス[BR]
+
+
+//POINTER #32 @ $12D39 - STRING #32 @ $12ECD
+
+#W16($12D39)
+カ゛ルムケ゛ート[BR]
+
+
+//POINTER #33 @ $12D3B - STRING #33 @ $12ED6
+
+#W16($12D3B)
+スターケ゛ート[BR]
+
+
+//POINTER #34 @ $12D3D - STRING #34 @ $12DC7
+
+#W16($12D3D)
+たいよう[BR]
+
+
+//POINTER #35 @ $12D3F - STRING #35 @ $12DCC
+
+#W16($12D3F)
+ホ゜ー[BR]
+
+
+//POINTER #36 @ $12D41 - STRING #36 @ $12DD3
+
+#W16($12D41)
+ユニック[BR]
+
+
+//POINTER #37 @ $12D43 - STRING #37 @ $12DD8
+
+#W16($12D43)
+きんせい[BR]
+
+
+//POINTER #38 @ $12D45 - STRING #38 @ $12DDD
+
+#W16($12D45)
+シンフ゜ソン[BR]
+
+
+//POINTER #39 @ $12D47 - STRING #39 @ $12DEA
+
+#W16($12D47)
+ちきゅう[BR]
+
+
+//POINTER #40 @ $12D49 - STRING #40 @ $12DEF
+
+#W16($12D49)
+つき[BR]
+
+
+//POINTER #41 @ $12D4B - STRING #41 @ $12DF2
+
+#W16($12D4B)
+テ゛ィック[BR]
+
+
+//POINTER #42 @ $12D4D - STRING #42 @ $12DFD
+
+#W16($12D4D)
+かせい[BR]
+
+
+//POINTER #43 @ $12D4F - STRING #43 @ $12E01
+
+#W16($12D4F)
+ヒ゜クセル[BR]
+
+
+//POINTER #44 @ $12D51 - STRING #44 @ $12E0C
+
+#W16($12D51)
+イフ゛ル[BR]
+
+
+//POINTER #45 @ $12D53 - STRING #45 @ $12E1E
+
+#W16($12D53)
+くうほ゛[BR]
+
+
+//POINTER #46 @ $12D55 - STRING #46 @ $12E2A
+
+#W16($12D55)
+サ゛ンク゛[BR]
+
+
+//POINTER #47 @ $12D57 - STRING #47 @ $12E34
+
+#W16($12D57)
+てんおうせい[BR]
+
+
+//POINTER #48 @ $12D59 - STRING #48 @ $12E44
+
+#W16($12D59)
+ようさい[BR]
+
+
+//POINTER #49 @ $12D5B - STRING #49 @ $12E51
+
+#W16($12D5B)
+オメカ゛[BR]
+
+
+//POINTER #50 @ $12D5D - STRING #50 @ $12E5A
+
+#W16($12D5D)
+アルコ゛ス[BR]
+
+
+//POINTER #51 @ $12D5F - STRING #51 @ $12E65
+
+#W16($12D5F)
+めいおうせい[BR]
+
+
+//POINTER #52 @ $12D61 - STRING #52 @ $12E6C
+
+#W16($12D61)
+Xホ゜イント[BR]
+
+
+//POINTER #53 @ $12D63 - STRING #53 @ $12E83
+
+#W16($12D63)
+ヘ゛ース3[BR]
+
+
+//POINTER #54 @ $12D65 - STRING #54 @ $12E98
+
+#W16($12D65)
+ヘ゛ース1[BR]
+
+
+//POINTER #55 @ $12D67 - STRING #55 @ $12EAD
+
+#W16($12D67)
+ヘ゛ース2[BR]
+
+
+//POINTER #56 @ $12D69 - STRING #56 @ $12EB8
+
+#W16($12D69)
+せんかん1[BR]
+
+
+//POINTER #57 @ $12D6B - STRING #57 @ $12EBE
+
+#W16($12D6B)
+せんかん2[BR]
+
+
+//POINTER #58 @ $12D6D - STRING #58 @ $12EC4
+
+#W16($12D6D)
+イム[BR]
+
+
+//POINTER #59 @ $12D6F - STRING #59 @ $12EC7
+
+#W16($12D6F)
+ウル[BR]
+
+
+//POINTER #60 @ $12D71 - STRING #60 @ $12ECA
+
+#W16($12D71)
+ラー[BR]
+
+
+//POINTER #61 @ $12D73 - STRING #61 @ $12EDE
+
+#W16($12D73)
+ケ゛ート[BR]
+
+
+//POINTER #62 @ $12D75 - STRING #62 @ $12EFA
+
+#W16($12D75)
+テ゛ータ[BR]
+
+
+//POINTER #63 @ $12D77 - STRING #63 @ $12F06
+
+#W16($12D77)
+キャステロ[BR]
+
+
+//POINTER #64 @ $12D79 - STRING #64 @ $12F0C
+
+#W16($12D79)
+アルファ[BR]
+
+
+//POINTER #65 @ $12D7B - STRING #65 @ $12F11
+
+#W16($12D7B)
+アモス[BR]
+
+
+//POINTER #66 @ $12D7D - STRING #66 @ $12EDE
+
+#W16($12D7D)
+ケ゛ート[BR]
+
+
+//POINTER #67 @ $12D7F - STRING #67 @ $12EDE
+
+#W16($12D7F)
+ケ゛ート[BR]
+
+
+//POINTER #68 @ $12D81 - STRING #68 @ $12DC7
+
+#W16($12D81)
+たいよう[BR]
+
+
+//POINTER #69 @ $12D83 - STRING #69 @ $12DD0
+
+#W16($12D83)
+ポー[BR]
+
+
+//POINTER #70 @ $12D85 - STRING #70 @ $12DD3
+
+#W16($12D85)
+ユニック[BR]
+
+
+//POINTER #71 @ $12D87 - STRING #71 @ $12DD8
+
+#W16($12D87)
+きんせい[BR]
+
+
+//POINTER #72 @ $12D89 - STRING #72 @ $12DE4
+
+#W16($12D89)
+シンプソン[BR]
+
+
+//POINTER #73 @ $12D8B - STRING #73 @ $12DEA
+
+#W16($12D8B)
+ちきゅう[BR]
+
+
+//POINTER #74 @ $12D8D - STRING #74 @ $12DEF
+
+#W16($12D8D)
+つき[BR]
+
+
+//POINTER #75 @ $12D8F - STRING #75 @ $12DF8
+
+#W16($12D8F)
+ディック[BR]
+
+
+//POINTER #76 @ $12D91 - STRING #76 @ $12DFD
+
+#W16($12D91)
+かせい[BR]
+
+
+//POINTER #77 @ $12D93 - STRING #77 @ $12E07
+
+#W16($12D93)
+ピクセル[BR]
+
+
+//POINTER #78 @ $12D95 - STRING #78 @ $12E11
+
+#W16($12D95)
+イブル[BR]
+
+
+//POINTER #79 @ $12D97 - STRING #79 @ $12E23
+
+#W16($12D97)
+ガルムくうぼ[BR]
+
+
+//POINTER #80 @ $12D99 - STRING #80 @ $12E30
+
+#W16($12D99)
+ザング[BR]
+
+
+//POINTER #81 @ $12D9B - STRING #81 @ $12E34
+
+#W16($12D9B)
+てんおうせい[BR]
+
+
+//POINTER #82 @ $12D9D - STRING #82 @ $12E49
+
+#W16($12D9D)
+ガルムようさい[BR]
+
+
+//POINTER #83 @ $12D9F - STRING #83 @ $12E56
+
+#W16($12D9F)
+オメガ[BR]
+
+
+//POINTER #84 @ $12DA1 - STRING #84 @ $12E60
+
+#W16($12DA1)
+アルゴス[BR]
+
+
+//POINTER #85 @ $12DA3 - STRING #85 @ $12E65
+
+#W16($12DA3)
+めいおうせい[BR]
+
+
+//POINTER #86 @ $12DA5 - STRING #86 @ $12E73
+
+#W16($12DA5)
+Xポイント[BR]
+
+
+//POINTER #87 @ $12DA7 - STRING #87 @ $12E89
+
+#W16($12DA7)
+ベース3[BR]
+
+
+//POINTER #88 @ $12DA9 - STRING #88 @ $12E9E
+
+#W16($12DA9)
+ベース1[BR]
+
+
+//POINTER #89 @ $12DAB - STRING #89 @ $12EB3
+
+#W16($12DAB)
+ベース2[BR]
+
+
+//POINTER #90 @ $12DAD - STRING #90 @ $12EB8
+
+#W16($12DAD)
+せんかん1[BR]
+
+
+//POINTER #91 @ $12DAF - STRING #91 @ $12EBE
+
+#W16($12DAF)
+せんかん2[BR]
+
+
+//POINTER #92 @ $12DB1 - STRING #92 @ $12EC4
+
+#W16($12DB1)
+イム[BR]
+
+
+//POINTER #93 @ $12DB3 - STRING #93 @ $12EC7
+
+#W16($12DB3)
+ウル[BR]
+
+
+//POINTER #94 @ $12DB5 - STRING #94 @ $12ECA
+
+#W16($12DB5)
+ラー[BR]
+
+
+//POINTER #95 @ $12DB7 - STRING #95 @ $12EE3
+
+#W16($12DB7)
+ガルムゲート[BR]
+
+
+//POINTER #96 @ $12DB9 - STRING #96 @ $12EFF
+
+#W16($12DB9)
+データベース[BR]
+
+
+//POINTER #97 @ $12DBB - STRING #97 @ $12F06
+
+#W16($12DBB)
+キャステロ[BR]
+
+
+//POINTER #98 @ $12DBD - STRING #98 @ $12F0C
+
+#W16($12DBD)
+アルファ[BR]
+
+
+//POINTER #99 @ $12DBF - STRING #99 @ $12F11
+
+#W16($12DBF)
+アモス[BR]
+
+
+//POINTER #100 @ $12DC1 - STRING #100 @ $12EE3
+
+#W16($12DC1)
+ガルムゲート[BR]
+
+
+//POINTER #101 @ $12DC3 - STRING #101 @ $12EEA
+
+#W16($12DC3)
+スターゲート[BR]
+
+
+//POINTER #102 @ $12DC5 - STRING #102 @ $12F15
+
+#W16($12DC5)
+しょうわくせい[BR]
+

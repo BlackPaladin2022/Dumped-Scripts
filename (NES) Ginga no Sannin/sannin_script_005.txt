@@ -1,0 +1,46 @@
+//GAME NAME:		
+
+//BLOCK #005 NAME:		NAMES ??? (POINTER_RELATIVE)
+
+//POINTER #0 @ $1D0B5 - STRING #0 @ $1D0CD
+
+#W16($1D0B5)
+(01)(03)ミオ [BR]
+
+
+//POINTER #1 @ $1D0B7 - STRING #1 @ $1D0D3
+
+#W16($1D0B7)
+[はんぶっしつミサイル]ブルー [BR]
+
+
+//POINTER #2 @ $1D0B9 - STRING #2 @ $1D0DA
+
+#W16($1D0B9)
+(01)[さいしゅうへいき] [BR]
+
+
+//POINTER #3 @ $1D0BB - STRING #3 @ $1D0DF
+
+#W16($1D0BB)
+(06)[イム]イチ [BR]
+
+
+//POINTER #4 @ $1D0BD - STRING #4 @ $1D0E6
+
+#W16($1D0BD)
+(07)(04)ブルー [FF08]
+(03)リミ [BR]
+
+
+//POINTER #5 @ $1D0BF - STRING #5 @ $1D0ED
+
+#W16($1D0BF)
+(08)(03)リミ [BR]
+
+
+//POINTER #6 @ $1D0C1 - STRING #6 @ $1D0F3
+
+#W16($1D0C1)
+(01)(03)リミ [BR]
+

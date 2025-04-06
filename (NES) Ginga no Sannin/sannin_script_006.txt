@@ -1,0 +1,28 @@
+//GAME NAME:		
+
+//BLOCK #006 NAME:		NAMES ??? (POINTER_RELATIVE)
+
+//POINTER #0 @ $1D0C5 - STRING #0 @ $1D0F9
+
+#W16($1D0C5)
+[ÇΩÇ¢ÇÊÇ§][BR]
+
+
+//POINTER #1 @ $1D0C7 - STRING #1 @ $1D0FC
+
+#W16($1D0C7)
+ [ÉJÅJÉãÉÄÇÊÇ§Ç≥Ç¢]ÉãÉÄ [FF08]
+[Ç≥Ç¢ÇµÇ„Ç§Ç÷Ç¢Ç´] [BR]
+
+
+//POINTER #2 @ $1D0C9 - STRING #2 @ $1D103
+
+#W16($1D0C9)
+(08)[Ç≥Ç¢ÇµÇ„Ç§Ç÷Ç¢Ç´] [BR]
+
+
+//POINTER #3 @ $1D0CB - STRING #3 @ $1D108
+
+#W16($1D0CB)
+(09)(01)[BR]
+
