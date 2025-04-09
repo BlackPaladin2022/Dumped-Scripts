@@ -1,0 +1,189 @@
+//GAME NAME:		Shounen Ashibe (NES)
+
+//BLOCK #003 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $1BE92 - STRING #0 @ $1BED0
+
+#W16($1BE92)
+アシべ「[ED]
+
+
+//POINTER #1 @ $1BE94 - STRING #1 @ $1BED5
+
+#W16($1BE94)
+アシべくん[ED]
+
+
+//POINTER #2 @ $1BE96 - STRING #2 @ $1BEDB
+
+#W16($1BE96)
+ぺッぺッぺッちゃん[ED]
+
+
+//POINTER #3 @ $1BE98 - STRING #3 @ $1BEE5
+
+#W16($1BE98)
+ぺッぺッぺッ「[ED]
+
+
+//POINTER #4 @ $1BE9A - STRING #4 @ $1BEED
+
+#W16($1BE9A)
+ぺッぺッぺッ[ED]
+
+
+//POINTER #5 @ $1BE9C - STRING #5 @ $1BEF4
+
+#W16($1BE9C)
+かーちゃん「[ED]
+
+
+//POINTER #6 @ $1BE9E - STRING #6 @ $1BEFB
+
+#W16($1BE9E)
+かーちゃん[ED]
+
+
+//POINTER #7 @ $1BEA0 - STRING #7 @ $1BF01
+
+#W16($1BEA0)
+とーちゃん「[ED]
+
+
+//POINTER #8 @ $1BEA2 - STRING #8 @ $1BF08
+
+#W16($1BEA2)
+とーちゃん[ED]
+
+
+//POINTER #9 @ $1BEA4 - STRING #9 @ $1BF0E
+
+#W16($1BEA4)
+ゆうま「[ED]
+
+
+//POINTER #10 @ $1BEA6 - STRING #10 @ $1BF13
+
+#W16($1BEA6)
+リャンリャン「[ED]
+
+
+//POINTER #11 @ $1BEA8 - STRING #11 @ $1BF1B
+
+#W16($1BEA8)
+リャンリャン[ED]
+
+
+//POINTER #12 @ $1BEAA - STRING #12 @ $1BF22
+
+#W16($1BEAA)
+ゴマちゃん[ED]
+
+
+//POINTER #13 @ $1BEAC - STRING #13 @ $1BF28
+
+#W16($1BEAC)
+カンジ「[ED]
+
+
+//POINTER #14 @ $1BEAE - STRING #14 @ $1BF2D
+
+#W16($1BEAE)
+カンジくん[ED]
+
+
+//POINTER #15 @ $1BEB0 - STRING #15 @ $1BF33
+
+#W16($1BEB0)
+じーちゃん「[ED]
+
+
+//POINTER #16 @ $1BEB2 - STRING #16 @ $1BF3A
+
+#W16($1BEB2)
+じーちゃん[ED]
+
+
+//POINTER #17 @ $1BEB4 - STRING #17 @ $1BF40
+
+#W16($1BEB4)
+マオちゃん[ED]
+
+
+//POINTER #18 @ $1BEB6 - STRING #18 @ $1BF46
+
+#W16($1BEB6)
+ゆみこちゃん[ED]
+
+
+//POINTER #19 @ $1BEB8 - STRING #19 @ $1BF4D
+
+#W16($1BEB8)
+ネパール[ED]
+
+
+//POINTER #20 @ $1BEBA - STRING #20 @ $1BF52
+
+#W16($1BEBA)
+にんぎょう[ED]
+
+
+//POINTER #21 @ $1BEBC - STRING #21 @ $1BF58
+
+#W16($1BEBC)
+どうしたの？[ED]
+
+
+//POINTER #22 @ $1BEBE - STRING #22 @ $1BF5F
+
+#W16($1BEBE)
+・・・・・・[ED]
+
+
+//POINTER #23 @ $1BEC0 - STRING #23 @ $1BF66
+
+#W16($1BEC0)
+      ・1[ED]
+
+
+//POINTER #24 @ $1BEC2 - STRING #24 @ $1BF6F
+
+#W16($1BEC2)
+      ・2[ED]
+
+
+//POINTER #25 @ $1BEC4 - STRING #25 @ $1BF78
+
+#W16($1BEC4)
+      ・3[ED]
+
+
+//POINTER #26 @ $1BEC6 - STRING #26 @ $1BF81
+
+#W16($1BEC6)
+だいじょうぶ[ED]
+
+
+//POINTER #27 @ $1BEC8 - STRING #27 @ $1BF88
+
+#W16($1BEC8)
+スガオのママ「[ED]
+
+
+//POINTER #28 @ $1BECA - STRING #28 @ $1BF90
+
+#W16($1BECA)
+スガオくん[ED]
+
+
+//POINTER #29 @ $1BECC - STRING #29 @ $1BF96
+
+#W16($1BECC)
+・・・[ED]
+
+
+//POINTER #30 @ $1BECE - STRING #30 @ $1BF9A
+
+#W16($1BECE)
+しゃちょう[ED]
+
