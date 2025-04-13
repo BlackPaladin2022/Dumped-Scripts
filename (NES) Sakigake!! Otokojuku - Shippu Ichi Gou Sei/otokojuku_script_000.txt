@@ -1,0 +1,99 @@
+//GAME NAME:		Sakigake!! Otokojuku (NES)
+
+//BLOCK #000 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $18D2F - STRING #0 @ $18D70
+
+#W16($18D2F)
+も、もも[END]
+
+
+//POINTER #1 @ $18D31 - STRING #1 @ $18D75
+
+#W16($18D31)
+と、とがし[END]
+
+
+//POINTER #2 @ $18D33 - STRING #2 @ $18D7B
+
+#W16($18D33)
+ジ、ジェイ[END]
+
+
+//POINTER #3 @ $18D35 - STRING #3 @ $18D81
+
+#W16($18D35)
+と、とらまる[END]
+
+
+//POINTER #4 @ $18D37 - STRING #4 @ $18D88
+
+#W16($18D37)
+だ、だて[END]
+
+
+//POINTER #5 @ $18D39 - STRING #5 @ $18D8D
+
+#W16($18D39)
+げ、げっこう[END]
+
+
+//POINTER #6 @ $18D3B - STRING #6 @ $18D94
+
+#W16($18D3B)
+ひ、ひえん[END]
+
+
+//POINTER #7 @ $18D3D - STRING #7 @ $18D9A
+
+#W16($18D3D)
+ら、らいでん[END]
+
+
+//POINTER #8 @ $18D3F - STRING #8 @ $18D4F
+
+#W16($18D3F)
+もも[END]
+
+
+//POINTER #9 @ $18D41 - STRING #9 @ $18D52
+
+#W16($18D41)
+とがし[END]
+
+
+//POINTER #10 @ $18D43 - STRING #10 @ $18D56
+
+#W16($18D43)
+ジェイ[END]
+
+
+//POINTER #11 @ $18D45 - STRING #11 @ $18D5A
+
+#W16($18D45)
+とらまる[END]
+
+
+//POINTER #12 @ $18D47 - STRING #12 @ $18D5F
+
+#W16($18D47)
+だて[END]
+
+
+//POINTER #13 @ $18D49 - STRING #13 @ $18D62
+
+#W16($18D49)
+げっこう[END]
+
+
+//POINTER #14 @ $18D4B - STRING #14 @ $18D67
+
+#W16($18D4B)
+ひえん[END]
+
+
+//POINTER #15 @ $18D4D - STRING #15 @ $18D6B
+
+#W16($18D4D)
+らいでん[END]
+
