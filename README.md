@@ -14,7 +14,7 @@ That depends if I even have the slightest interest in said game and if I can dum
 
 If I cannot use Cartographer to dump those scripts, that's something beyond my current skill level.
 
-4.  Hey, I was wondering... I want to translate one of your scripts into English.  Can download any of your scripts and...
+4.  Hey, I was wondering... I want to translate one of your scripts into English.  Can I download any of your scripts and...
 
 PLEASE DO!!!  Heck, I might turn it into a full-fledged translation project if you can do that!  Of course, you will be credited for your efforts.
 
