@@ -1,4 +1,4 @@
-This is my personal repository of script dumps of various NES (and eventually FDS) games I'd like to see translated into English at some point.  All these scripts were made using the program, Cartographer.
+This is my personal repository of script dumps of various NES and FDS games I'd like to see translated into English at some point.  All these scripts were made using the program, Cartographer.
 
 Frequently Asked Questions
 
