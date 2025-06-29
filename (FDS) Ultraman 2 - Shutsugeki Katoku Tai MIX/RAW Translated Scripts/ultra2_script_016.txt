@@ -1,0 +1,27 @@
+//GAME NAME:		Ultraman 2: Shutsugeki Katoku Tai (NES)
+
+//BLOCK #015 NAME:		Dialogue Block (RAW)
+//Block Range: $19D1C - $19D91
+
+(20EA)モード セレクト[LN]
+Mode Select
+(216A)キャンセル[LN]
+Cancel
+(21AA)コントロール セレクト[LN]
+Control Select
+(21EA)ボウエイグン タイキョ[LN]
+Defense Force Launches
+(222A)ウルトラマン ヘンシン[LN]
+Ultraman Transformation
+(226A)ウルトラマン ヘンシンカイジョ[ED]
+Ultraman Transformation Ended
+(20EA)コントロール セレクト[LN]
+Control Select
+(216A)1[LN]
+1
+(21AA)2[LN]
+2
+(21EA)3[LN]
+3
+(222A)ホンブ ニ モドル[ED]
+Return to HQ
