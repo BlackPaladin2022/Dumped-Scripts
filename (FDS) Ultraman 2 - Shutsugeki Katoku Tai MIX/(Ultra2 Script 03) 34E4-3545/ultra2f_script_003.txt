@@ -1,0 +1,9 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		34E4-3545 (POINTER_RELATIVE)
+
+//POINTER #0 @ $34AC - STRING #0 @ $3518
+
+#W16($34AC)
+(21A7)ゲーム バージョン[ED]
+

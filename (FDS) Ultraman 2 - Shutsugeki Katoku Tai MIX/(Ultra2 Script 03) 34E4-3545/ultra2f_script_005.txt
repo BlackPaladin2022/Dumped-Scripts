@@ -1,0 +1,9 @@
+//GAME NAME:		
+
+//BLOCK #005 NAME:		34E4-3545 (POINTER_RELATIVE)
+
+//POINTER #0 @ $34BC - STRING #0 @ $352E
+
+#W16($34BC)
+(21A7)ディスク ナヲバー[ED]
+
