@@ -1,0 +1,79 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $14F15 - STRING #0 @ $14F2B
+
+#W16($14F15)
+(1C)エリア 1 ニ[LN]
+ムカイジュウ シュツゲン[ED]
+
+
+//POINTER #1 @ $14F17 - STRING #1 @ $14F41
+
+#W16($14F17)
+(1C)エリア 2 ニ[LN]
+ムカイジュウ シュツゲン[ED]
+
+
+//POINTER #2 @ $14F19 - STRING #2 @ $14F57
+
+#W16($14F19)
+(1C)エリア 3 ニ[LN]
+ムカイジュウ シュツゲン[ED]
+
+
+//POINTER #3 @ $14F1B - STRING #3 @ $14F6D
+
+#W16($14F1B)
+(1C)ケンキュウジョ ガ[LN]
+ムアブナイ[ED]
+
+
+//POINTER #4 @ $14F1D - STRING #4 @ $14F7E
+
+#W16($14F1D)
+(1C)ボウエイグンキチ ガ[LN]
+ムアブナイ[ED]
+
+
+//POINTER #5 @ $14F1F - STRING #5 @ $14F90
+
+#W16($14F1F)
+(1C)カトクタイ ガ[LN]
+ムアブナイ[ED]
+
+
+//POINTER #6 @ $14F21 - STRING #6 @ $14F9F
+
+#W16($14F21)
+(1C)ケンキュウジョ[LN]
+ムゼンメツ[ED]
+
+
+//POINTER #7 @ $14F23 - STRING #7 @ $14FAE
+
+#W16($14F23)
+(1C)ボウエイグンキチ[LN]
+ムゼンメツ[ED]
+
+
+//POINTER #8 @ $14F25 - STRING #8 @ $14FBE
+
+#W16($14F25)
+(1C)カトクタイ[LN]
+ムゼンメツ[ED]
+
+
+//POINTER #9 @ $14F27 - STRING #9 @ $14FCB
+
+#W16($14F27)
+(1C)ハヤタ ハ[LN]
+ムフショウシタ[ED]
+
+
+//POINTER #10 @ $14F29 - STRING #10 @ $14FD2
+
+#W16($14F29)
+ムフショウシタ[ED]
+
