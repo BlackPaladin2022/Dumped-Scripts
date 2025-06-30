@@ -1,0 +1,14 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Dialogue Block (19D1C-19D91) (POINTER_RELATIVE)
+
+//POINTER #0 @ $19BD4 - STRING #0 @ $19D1C
+
+#W16($19BD4)
+(20EA)モード セレクト[LN]
+(216A)キャンセル[LN]
+(21AA)コントロール セレクト[LN]
+(21EA)ボウエイグン タイキョ[LN]
+(222A)ウルトラマン ヘンシン[LN]
+(226A)ウルトラマン ヘンシンカイジョ[ED]
+
