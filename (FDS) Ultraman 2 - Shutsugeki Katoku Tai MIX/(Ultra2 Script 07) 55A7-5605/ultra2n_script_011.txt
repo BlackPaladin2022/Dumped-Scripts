@@ -1,0 +1,9 @@
+//GAME NAME:		
+
+//BLOCK #011 NAME:		55A7-5605 (POINTER_RELATIVE)
+
+//POINTER #0 @ $55A4 - STRING #0 @ $55F9
+
+#W16($55A4)
+(2067)メフィラスセイジン[ED]
+
