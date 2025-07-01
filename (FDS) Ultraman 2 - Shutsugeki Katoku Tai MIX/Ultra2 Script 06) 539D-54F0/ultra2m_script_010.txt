@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #010 NAME:		539D-54F0 (POINTER_RELATIVE)
-
-//POINTER #0 @ $4FF1 - STRING #0 @ $54AF
-
-#W16($4FF1)
-(2128)コントロール セレクト[ED]
-

@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #012 NAME:		539D-54F0 (POINTER_RELATIVE)
-
-//POINTER #0 @ $4F45 - STRING #0 @ $54DE
-
-#W16($4F45)
-(2129)バンゴウ ヲ エランデクダサイ[ED]
-
