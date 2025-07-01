@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #011 NAME:		539D-54F0 (POINTER_RELATIVE)
+
+//POINTER #0 @ $52AE - STRING #0 @ $54BD
+
+#W16($52AE)
+(21A4)ボウエイグン ヲ シュツドウサセマスカ[LN]
+(2228)イエス[LN]
+(22A8)ノー[ED]
+
