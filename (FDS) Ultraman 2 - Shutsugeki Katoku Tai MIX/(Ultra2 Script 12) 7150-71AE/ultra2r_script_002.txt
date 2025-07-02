@@ -1,0 +1,9 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Dialogue Block (7150-71AE) (POINTER_RELATIVE)
+
+//POINTER #0 @ $70F6 - STRING #0 @ $715D
+
+#W16($70F6)
+(2067)ザラブセイジン[ED]
+
