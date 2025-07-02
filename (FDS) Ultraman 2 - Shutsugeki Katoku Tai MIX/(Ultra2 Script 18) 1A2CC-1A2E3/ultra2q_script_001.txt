@@ -1,0 +1,15 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		Dialogue Block (1A2CC-1A2E3) (POINTER_RELATIVE)
+
+//POINTER #0 @ $1A2C8 - STRING #0 @ $1A2D2
+
+#W16($1A2C8)
+(C)アラシ[ED]
+
+
+//POINTER #1 @ $1A2CA - STRING #1 @ $1A2E0
+
+#W16($1A2CA)
+ュタマ[ED]
+
