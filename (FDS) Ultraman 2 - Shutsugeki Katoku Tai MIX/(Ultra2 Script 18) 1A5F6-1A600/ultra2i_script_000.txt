@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #000 NAME:		Dialogue Block (1A5F6-1A600) (POINTER_RELATIVE)
-
-//POINTER #0 @ $1A5D2 - STRING #0 @ $1A5F6
-
-#W16($1A5D2)
-(21AB)ゲーム オーバー[ED]
-
