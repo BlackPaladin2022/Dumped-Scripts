@@ -2,8 +2,8 @@
 
 //BLOCK #005 NAME:		34E4-3545 (POINTER_RELATIVE)
 
-//POINTER #0 @ $34BC - STRING #0 @ $352E
+//POINTER #0 @ $34AC - STRING #0 @ $3518
 
-#W16($34BC)
-(21A7)ディスク ナヲバー[ED]
+#W16($34AC)
+(21A7)ゲーム バージョン[ED]
 

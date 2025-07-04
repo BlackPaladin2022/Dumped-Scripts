@@ -2,8 +2,8 @@
 
 //BLOCK #003 NAME:		34E4-3545 (POINTER_RELATIVE)
 
-//POINTER #0 @ $34AC - STRING #0 @ $3518
+//POINTER #0 @ $349C - STRING #0 @ $3503
 
-#W16($34AC)
-(21A7)ゲーム バージョン[ED]
+#W16($349C)
+(21A7)ゲーム メーカー[ED]
 

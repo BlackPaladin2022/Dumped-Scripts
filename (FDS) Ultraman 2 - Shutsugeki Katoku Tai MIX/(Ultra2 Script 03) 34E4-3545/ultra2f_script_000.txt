@@ -2,8 +2,8 @@
 
 //BLOCK #000 NAME:		34E4-3545 (POINTER_RELATIVE)
 
-//POINTER #0 @ $3494 - STRING #0 @ $34F7
+//POINTER #0 @ $3484 - STRING #0 @ $34E4
 
-#W16($3494)
-(21A7)ライト プロテクト[ED]
+#W16($3484)
+(21A7)ディスク セット[ED]
 
