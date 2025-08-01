@@ -2,224 +2,174 @@
 
 //BLOCK #013 NAME:		Dialogue Block 14 (POINTER_RELATIVE)
 
-//POINTER #0 @ $15A28 - STRING #0 @ $15AE3
+//POINTER #0 @ $15D3E - STRING #0 @ $16801
 
-#W16($15A28)
-マン[ED]
+#W16($15D3E)
+わがぐんの[PAUSE]
+ちからは せかいいちィィィ[ED]
 
 
-//POINTER #1 @ $15A2A - STRING #1 @ $15AE6
+//POINTER #1 @ $15D40 - STRING #1 @ $16817
 
-#W16($15A2A)
-セブン[ED]
+#W16($15D40)
+ショ゛~と よんでくんな[ED]
 
 
-//POINTER #2 @ $15A2C - STRING #2 @ $15AEB
+//POINTER #2 @ $15D42 - STRING #2 @ $16825
 
-#W16($15A2C)
-しんマン[ED]
+#W16($15D42)
+なんぼのもんじゃ~[ED]
 
 
-//POINTER #3 @ $15A2E - STRING #3 @ $15AF0
+//POINTER #3 @ $15D44 - STRING #3 @ $16831
 
-#W16($15A2E)
-エ~ス[ED]
+#W16($15D44)
+ぶんり！......あれ？[ED]
 
 
-//POINTER #4 @ $15A30 - STRING #4 @ $15AF4
+//POINTER #4 @ $15D46 - STRING #4 @ $1683D
 
-#W16($15A30)
-タロウ[ED]
+#W16($15D46)
+わ~バグッた~[ED]
 
 
-//POINTER #5 @ $15A32 - STRING #5 @ $15AF8
+//POINTER #5 @ $15D48 - STRING #5 @ $16847
 
-#W16($15A32)
-レオ[ED]
+#W16($15D48)
+もえつきたぜ！！[ED]
 
 
-//POINTER #6 @ $15A34 - STRING #6 @ $15A92
+//POINTER #6 @ $15D4A - STRING #6 @ $16851
 
-#W16($15A34)
-メフィラス[ED]
+#W16($15D4A)
+どぎゃ[ED]
 
 
-//POINTER #7 @ $15A36 - STRING #7 @ $15A98
+//POINTER #7 @ $15D4C - STRING #7 @ $16857
 
-#W16($15A36)
-イカルス[ED]
+#W16($15D4C)
+つぎは かならずたおすぞ[ED]
 
 
-//POINTER #8 @ $15A38 - STRING #8 @ $15A9D
+//POINTER #8 @ $15D4E - STRING #8 @ $16867
 
-#W16($15A38)
-ババルウ[ED]
+#W16($15D4E)
+ヒッポちゃんと よんでね[ED]
 
 
-//POINTER #9 @ $15A3A - STRING #9 @ $15AA4
+//POINTER #9 @ $15D50 - STRING #9 @ $16876
 
-#W16($15A3A)
-ベル[ED]
+#W16($15D50)
+わ わたしがやられるとは[ED]
 
 
-//POINTER #10 @ $15A3C - STRING #10 @ $15AA8
+//POINTER #10 @ $15D52 - STRING #10 @ $16884
 
-#W16($15A3C)
-エレキング[ED]
+#W16($15D52)
+そこは だめ！！[ED]
 
 
-//POINTER #11 @ $15A3E - STRING #11 @ $15AAF
+//POINTER #11 @ $15D54 - STRING #11 @ $1688E
 
-#W16($15A3E)
-デスメフィラス[ED]
+#W16($15D54)
+ころころころ......ころがって[ED]
 
 
-//POINTER #12 @ $15A40 - STRING #12 @ $15AB8
+//POINTER #12 @ $15D56 - STRING #12 @ $1689E
 
-#W16($15A40)
-グリ~ンイカルス[ED]
+#W16($15D56)
+た~こ[ED]
 
 
-//POINTER #13 @ $15A42 - STRING #13 @ $15AC2
+//POINTER #13 @ $15D58 - STRING #13 @ $168A2
 
-#W16($15A42)
-ババルウマグマ[ED]
+#W16($15D58)
+しんだら すダコに してね[ED]
 
 
-//POINTER #14 @ $15A44 - STRING #14 @ $15ACD
+//POINTER #14 @ $15D5A - STRING #14 @ $168B2
 
-#W16($15A44)
-クレイジ~ベル[ED]
+#W16($15D5A)
+うっ......[ED]
 
 
-//POINTER #15 @ $15A46 - STRING #15 @ $15AD7
+//POINTER #15 @ $15D5C - STRING #15 @ $168B8
 
-#W16($15A46)
-エレキングサンダ~[ED]
+#W16($15D5C)
+あとは まかせたぞ[ED]
 
 
-//POINTER #16 @ $15A48 - STRING #16 @ $15A92
+//POINTER #16 @ $15D5E - STRING #16 @ $168C3
 
-#W16($15A48)
-メフィラス[ED]
+#W16($15D5E)
+ほっといて おいてよ[ED]
 
 
-//POINTER #17 @ $15A4A - STRING #17 @ $15A98
+//POINTER #17 @ $15D60 - STRING #17 @ $168CE
 
-#W16($15A4A)
-イカルス[ED]
+#W16($15D60)
+かき げんきん[ED]
 
 
-//POINTER #18 @ $15A4C - STRING #18 @ $15A9D
+//POINTER #18 @ $15D62 - STRING #18 @ $168D7
 
-#W16($15A4C)
-ババルウ[ED]
+#W16($15D62)
+あまり わたしに こうげき[PAUSE]
+しないほうが......[ED]
 
 
-//POINTER #19 @ $15A4E - STRING #19 @ $15AA4
+//POINTER #19 @ $15D64 - STRING #19 @ $168F1
 
-#W16($15A4E)
-ベル[ED]
+#W16($15D64)
+ぺた ぺた ぺた ......[ED]
 
 
-//POINTER #20 @ $15A50 - STRING #20 @ $15AA8
+//POINTER #20 @ $15D66 - STRING #20 @ $16901
 
-#W16($15A50)
-エレキング[ED]
+#W16($15D66)
+ぽて ......[ED]
 
 
-//POINTER #21 @ $15A52 - STRING #21 @ $15AAF
+//POINTER #21 @ $15D68 - STRING #21 @ $16909
 
-#W16($15A52)
-デスメフィラス[ED]
+#W16($15D68)
+シ~モンスが ないている[ED]
 
 
-//POINTER #22 @ $15A54 - STRING #22 @ $15AB8
+//POINTER #22 @ $15D6A - STRING #22 @ $16917
 
-#W16($15A54)
-グリ~ンイカルス[ED]
+#W16($15D6A)
+おっとの シ~ゴラスが[PAUSE]
+ヒッポリトと わるいことばかり[PAUSE]
+しているのです[ED]
 
 
-//POINTER #23 @ $15A56 - STRING #23 @ $15AC2
+//POINTER #23 @ $15D6C - STRING #23 @ $16940
 
-#W16($15A56)
-ババルウマグマ[ED]
+#W16($15D6C)
+(FF)シ~モンス？......し しらねえなぁ[ED]
 
 
-//POINTER #24 @ $15A58 - STRING #24 @ $15ACD
+//POINTER #24 @ $15D6E - STRING #24 @ $16941
 
-#W16($15A58)
-クレイジ~ベル[ED]
+#W16($15D6E)
+シ~モンス？......し しらねえなぁ[ED]
 
 
-//POINTER #25 @ $15A5A - STRING #25 @ $15AD7
+//POINTER #25 @ $15D70 - STRING #25 @ $16953
 
-#W16($15A5A)
-エレキングサンダ~[ED]
+#W16($15D70)
+きゅうしょは はずして ある[ED]
 
 
-//POINTER #26 @ $15A5C - STRING #26 @ $15AE3
+//POINTER #26 @ $15D72 - STRING #26 @ $16963
 
-#W16($15A5C)
-マン[ED]
-
-
-//POINTER #27 @ $15A5E - STRING #27 @ $15AE6
-
-#W16($15A5E)
-セブン[ED]
-
-
-//POINTER #28 @ $15A60 - STRING #28 @ $15AEB
-
-#W16($15A60)
-しんマン[ED]
-
-
-//POINTER #29 @ $15A62 - STRING #29 @ $15AF0
-
-#W16($15A62)
-エ~ス[ED]
-
-
-//POINTER #30 @ $15A64 - STRING #30 @ $15AF4
-
-#W16($15A64)
-タロウ[ED]
-
-
-//POINTER #31 @ $15A66 - STRING #31 @ $15AF8
-
-#W16($15A66)
-レオ[ED]
-
-
-//POINTER #32 @ $15A68 - STRING #32 @ $15AFB
-
-#W16($15A68)
-スペシウム[ED]
-
-
-//POINTER #33 @ $15A6A - STRING #33 @ $15AFB
-
-#W16($15A6A)
-スペシウム[ED]
-
-
-//POINTER #34 @ $15A6C - STRING #34 @ $15B02
-
-#W16($15A6C)
-メタリウム[ED]
-
-
-//POINTER #35 @ $15A6E - STRING #35 @ $15B08
-
-#W16($15A6E)
-ストリウム[ED]
-
-
-//POINTER #36 @ $15A70 - STRING #36 @ $15AE3
-
-#W16($15A70)
-マン[ED]
+#W16($15D72)
+そうか シ~モンスが[PAUSE]
+しんぱい しているのか[PAUSE]
+おれは かえることに するよ[PAUSE]
+そ~だ これは ヒッポリトから[PAUSE]
+あずかったキ~だが[PAUSE]
+もう おれには ひつようない[PAUSE]
+(02)は キ~を うけとった[ED]
 
