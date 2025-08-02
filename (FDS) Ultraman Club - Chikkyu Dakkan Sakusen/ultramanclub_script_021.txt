@@ -1,0 +1,189 @@
+//GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
+
+//BLOCK #021 NAME:		Dialogue Block 22 (POINTER_RELATIVE)
+
+//POINTER #0 @ $17406 - STRING #0 @ $1745E
+
+#W16($17406)
+ドラコ[ED]
+
+
+//POINTER #1 @ $17408 - STRING #1 @ $17463
+
+#W16($17408)
+ガンダ~[ED]
+
+
+//POINTER #2 @ $1740A - STRING #2 @ $1746A
+
+#W16($1740A)
+ギガス[ED]
+
+
+//POINTER #3 @ $1740C - STRING #3 @ $17470
+
+#W16($1740C)
+ウ~[ED]
+
+
+//POINTER #4 @ $1740E - STRING #4 @ $17473
+
+#W16($1740E)
+ギラドラス[ED]
+
+
+//POINTER #5 @ $17410 - STRING #5 @ $1747B
+
+#W16($17410)
+ス~パ~ドラコ[ED]
+
+
+//POINTER #6 @ $17412 - STRING #6 @ $17485
+
+#W16($17412)
+ブリザ~ドガンダ~[ED]
+
+
+//POINTER #7 @ $17414 - STRING #7 @ $17494
+
+#W16($17414)
+アイスギガス[ED]
+
+
+//POINTER #8 @ $17416 - STRING #8 @ $1749D
+
+#W16($17416)
+ワイルドウ~[ED]
+
+
+//POINTER #9 @ $17418 - STRING #9 @ $174A5
+
+#W16($17418)
+スカイギラドラス[ED]
+
+
+//POINTER #10 @ $1741A - STRING #10 @ $1745E
+
+#W16($1741A)
+ドラコ[ED]
+
+
+//POINTER #11 @ $1741C - STRING #11 @ $17463
+
+#W16($1741C)
+ガンダ~[ED]
+
+
+//POINTER #12 @ $1741E - STRING #12 @ $1746A
+
+#W16($1741E)
+ギガス[ED]
+
+
+//POINTER #13 @ $17420 - STRING #13 @ $17470
+
+#W16($17420)
+ウ~[ED]
+
+
+//POINTER #14 @ $17422 - STRING #14 @ $17473
+
+#W16($17422)
+ギラドラス[ED]
+
+
+//POINTER #15 @ $17424 - STRING #15 @ $1747B
+
+#W16($17424)
+ス~パ~ドラコ[ED]
+
+
+//POINTER #16 @ $17426 - STRING #16 @ $17485
+
+#W16($17426)
+ブリザ~ドガンダ~[ED]
+
+
+//POINTER #17 @ $17428 - STRING #17 @ $17494
+
+#W16($17428)
+アイスギガス[ED]
+
+
+//POINTER #18 @ $1742A - STRING #18 @ $1749D
+
+#W16($1742A)
+ワイルドウ~[ED]
+
+
+//POINTER #19 @ $1742C - STRING #19 @ $174A5
+
+#W16($1742C)
+スカイギラドラス[ED]
+
+
+//POINTER #20 @ $1742E - STRING #20 @ $174B0
+
+#W16($1742E)
+マン[ED]
+
+
+//POINTER #21 @ $17430 - STRING #21 @ $174B3
+
+#W16($17430)
+セブン[ED]
+
+
+//POINTER #22 @ $17432 - STRING #22 @ $174B8
+
+#W16($17432)
+しんマン[ED]
+
+
+//POINTER #23 @ $17434 - STRING #23 @ $174BD
+
+#W16($17434)
+エ~ス[ED]
+
+
+//POINTER #24 @ $17436 - STRING #24 @ $174C1
+
+#W16($17436)
+タロウ[ED]
+
+
+//POINTER #25 @ $17438 - STRING #25 @ $174C5
+
+#W16($17438)
+レオ[ED]
+
+
+//POINTER #26 @ $1743A - STRING #26 @ $174C8
+
+#W16($1743A)
+スペシウム[ED]
+
+
+//POINTER #27 @ $1743C - STRING #27 @ $174C8
+
+#W16($1743C)
+スペシウム[ED]
+
+
+//POINTER #28 @ $1743E - STRING #28 @ $174CF
+
+#W16($1743E)
+メタリウム[ED]
+
+
+//POINTER #29 @ $17440 - STRING #29 @ $174D5
+
+#W16($17440)
+ストリウム[ED]
+
+
+//POINTER #30 @ $17442 - STRING #30 @ $174B0
+
+#W16($17442)
+マン[ED]
+
