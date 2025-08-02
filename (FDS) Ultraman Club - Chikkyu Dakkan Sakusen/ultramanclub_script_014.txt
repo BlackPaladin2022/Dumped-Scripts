@@ -2,8 +2,260 @@
 
 //BLOCK #014 NAME:		Dialogue Block 15 (POINTER_RELATIVE)
 
-//POINTER #0 @ $15D7A - STRING #0 @ $169C2
+//POINTER #0 @ $15CF0 - STRING #0 @ $1409E
 
-#W16($15D7A)
-とった[ED]
+#W16($15CF0)
+(02)が[PAUSE]
+あらわれた[ED]
+
+
+//POINTER #1 @ $15CF2 - STRING #1 @ $140A8
+
+#W16($15CF2)
+(02)は はなしかけた[ED]
+
+
+//POINTER #2 @ $15CF4 - STRING #2 @ $140B2
+
+#W16($15CF4)
+(02)は ぼうぎょの[PAUSE]
+かまえをとった[ED]
+
+
+//POINTER #3 @ $15CF6 - STRING #3 @ $140C5
+
+#W16($15CF6)
+(02)の ちょっぷ[ED]
+
+
+//POINTER #4 @ $15CF8 - STRING #4 @ $140CE
+
+#W16($15CF8)
+(02)の きっく[ED]
+
+
+//POINTER #5 @ $15CFA - STRING #5 @ $140D5
+
+#W16($15CFA)
+(02)の こうげき[ED]
+
+
+//POINTER #6 @ $15CFC - STRING #6 @ $140DE
+
+#W16($15CFC)
+(02)の こうせん！[ED]
+
+
+//POINTER #7 @ $15CFE - STRING #7 @ $140E7
+
+#W16($15CFE)
+(02)の かえん！[ED]
+
+
+//POINTER #8 @ $15D00 - STRING #8 @ $140EF
+
+#W16($15D00)
+(02)の いなずま！[ED]
+
+
+//POINTER #9 @ $15D02 - STRING #9 @ $140F9
+
+#W16($15D02)
+(02)の ガス！[ED]
+
+
+//POINTER #10 @ $15D04 - STRING #10 @ $14101
+
+#W16($15D04)
+(02)は(03)に[PAUSE]
+カラ~タイマ~を つけた[PAUSE]
+(03)が ふっかつした[ED]
+
+
+//POINTER #11 @ $15D06 - STRING #11 @ $1411E
+
+#W16($15D06)
+(02)は(03)に[PAUSE]
+Eカプセルを つけた[PAUSE]
+もうだいじょうぶ[ED]
+
+
+//POINTER #12 @ $15D08 - STRING #12 @ $1413B
+
+#W16($15D08)
+(02)は[PAUSE]
+オ~ラを つかった[PAUSE]
+オ~ラが(03)をつつむ[ED]
+
+
+//POINTER #13 @ $15D0A - STRING #13 @ $14153
+
+#W16($15D0A)
+(02)は[PAUSE]
+ウルトラベルを ならした[PAUSE]
+かいじゅうたちは にげだした[ED]
+
+
+//POINTER #14 @ $15D0C - STRING #14 @ $14176
+
+#W16($15D0C)
+(02)は[PAUSE]
+キングハンマ~を つかった[PAUSE]
+かいじゅうたちは おとなしくなった[ED]
+
+
+//POINTER #15 @ $15D0E - STRING #15 @ $1419B
+
+#W16($15D0E)
+(02)は[PAUSE]
+ウルトラマントを みにつけた[ED]
+
+
+//POINTER #16 @ $15D10 - STRING #16 @ $141AD
+
+#W16($15D10)
+(02)は かまえた[PAUSE]
+(03)こうせん！！[ED]
+
+
+//POINTER #17 @ $15D12 - STRING #17 @ $141BD
+
+#W16($15D12)
+マンは かまえた[PAUSE]
+やつざき こうりん！！[ED]
+
+
+//POINTER #18 @ $15D14 - STRING #18 @ $141D3
+
+#W16($15D14)
+セブンは かまえた[PAUSE]
+ワイドショット！！[ED]
+
+
+//POINTER #19 @ $15D16 - STRING #19 @ $141E9
+
+#W16($15D16)
+セブンは かまえた[PAUSE]
+アイスラッガ~！！[ED]
+
+
+//POINTER #20 @ $15D18 - STRING #20 @ $141FF
+
+#W16($15D18)
+しんマンは かまえた[PAUSE]
+スピンキック！！[ED]
+
+
+//POINTER #21 @ $15D1A - STRING #21 @ $14214
+
+#W16($15D1A)
+エ~スは かまえた[PAUSE]
+エ~スバリア！！[ED]
+
+
+//POINTER #22 @ $15D1C - STRING #22 @ $14228
+
+#W16($15D1C)
+タロウは かまえた[PAUSE]
+ウルトラ フリ~ザ~！！[ED]
+
+
+//POINTER #23 @ $15D1E - STRING #23 @ $14240
+
+#W16($15D1E)
+レオは かまえた[PAUSE]
+クロスビ~ム！！[ED]
+
+
+//POINTER #24 @ $15D20 - STRING #24 @ $14253
+
+#W16($15D20)
+レオは かまえた[PAUSE]
+キリモミキック！！[ED]
+
+
+//POINTER #25 @ $15D22 - STRING #25 @ $14266
+
+#W16($15D22)
+(02)が いわを[PAUSE]
+(03)に なげつけた[ED]
+
+
+//POINTER #26 @ $15D24 - STRING #26 @ $14278
+
+#W16($15D24)
+(03)に[PAUSE]
+(04)の ダメ~ジ[ED]
+
+
+//POINTER #27 @ $15D26 - STRING #27 @ $14285
+
+#W16($15D26)
+(03)は たおれた[ED]
+
+
+//POINTER #28 @ $15D28 - STRING #28 @ $1428D
+
+#W16($15D28)
+しかし あたらなかった......[ED]
+
+
+//POINTER #29 @ $15D2A - STRING #29 @ $1429C
+
+#W16($15D2A)
+なにもおきなかった....[ED]
+
+
+//POINTER #30 @ $15D2C - STRING #30 @ $142A8
+
+#W16($15D2C)
+(03)は にげだした[ED]
+
+
+//POINTER #31 @ $15D2E - STRING #31 @ $142B3
+
+#W16($15D2E)
+(02)たちは にげだした[ED]
+
+
+//POINTER #32 @ $15D30 - STRING #32 @ $142C0
+
+#W16($15D30)
+......にげきった[ED]
+
+
+//POINTER #33 @ $15D32 - STRING #33 @ $142CA
+
+#W16($15D32)
+......おいつかれた[ED]
+
+
+//POINTER #34 @ $15D34 - STRING #34 @ $142D4
+
+#W16($15D34)
+(05)を てにいれた[ED]
+
+
+//POINTER #35 @ $15D36 - STRING #35 @ $142DD
+
+#W16($15D36)
+(03)は こおりついた[ED]
+
+
+//POINTER #36 @ $15D38 - STRING #36 @ $142E7
+
+#W16($15D38)
+(03)の こおりがとけた[ED]
+
+
+//POINTER #37 @ $15D3A - STRING #37 @ $142F3
+
+#W16($15D3A)
+(03)を たすけだした[ED]
+
+
+//POINTER #38 @ $15D3C - STRING #38 @ $142FE
+
+#W16($15D3C)
+そして なかまに くわえた[ED]
 
