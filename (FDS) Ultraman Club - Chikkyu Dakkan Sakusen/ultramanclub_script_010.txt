@@ -1,224 +1,225 @@
 //GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
 
-//BLOCK #010 NAME:		Dialogue Block 11 (POINTER_RELATIVE)
+//BLOCK #010 NAME:		Dialogue Block 09 (POINTER_RELATIVE)
 
-//POINTER #0 @ $15055 - STRING #0 @ $15B0E
+//POINTER #0 @ $14D3F - STRING #0 @ $14DFC
 
-#W16($15055)
-よくきたな しょくん まっていたぞ[ED]
+#W16($14D3F)
+マン[ED]
 
 
-//POINTER #1 @ $15057 - STRING #1 @ $15B21
+//POINTER #1 @ $14D41 - STRING #1 @ $14DFF
 
-#W16($15057)
-どうだ まいったか？[PAUSE]
-きょうのところは ひきわけ[PAUSE]
-ということに しておいてやる[ED]
+#W16($14D41)
+セブン[ED]
 
 
-//POINTER #2 @ $15059 - STRING #2 @ $15B4B
+//POINTER #2 @ $14D43 - STRING #2 @ $14E04
 
-#W16($15059)
-せっとく しているつもりか？[ED]
+#W16($14D43)
+しんマン[ED]
 
 
-//POINTER #3 @ $1505B - STRING #3 @ $15B5A
+//POINTER #3 @ $14D45 - STRING #3 @ $14E09
 
-#W16($1505B)
-ヒ~ かんべんしてよ~[ED]
+#W16($14D45)
+エ~ス[ED]
 
 
-//POINTER #4 @ $1505D - STRING #4 @ $15B67
+//POINTER #4 @ $14D47 - STRING #4 @ $14E0D
 
-#W16($1505D)
-ちくしょう~ おぼえてろ[ED]
+#W16($14D47)
+タロウ[ED]
 
 
-//POINTER #5 @ $1505F - STRING #5 @ $15B75
+//POINTER #5 @ $14D49 - STRING #5 @ $14E11
 
-#W16($1505F)
-でっかい みみだって？[PAUSE]
-おおきな おせわだよ[ED]
+#W16($14D49)
+レオ[ED]
 
 
-//POINTER #6 @ $15061 - STRING #6 @ $15B8F
+//POINTER #6 @ $14D4B - STRING #6 @ $14DA1
 
-#W16($15061)
-み みごとな こうげきだ[ED]
+#W16($14D4B)
+レッドキング[ED]
 
 
-//POINTER #7 @ $15063 - STRING #7 @ $15B9F
+//POINTER #7 @ $14D4D - STRING #7 @ $14DAA
 
-#W16($15063)
-きみの めをみれば わかる[PAUSE]
-わたしをたおそうと している[ED]
+#W16($14D4D)
+グドン[ED]
 
 
-//POINTER #8 @ $15065 - STRING #8 @ $15BBD
+//POINTER #8 @ $14D4F - STRING #8 @ $14DB0
 
-#W16($15065)
-やられちゃったのよ~[ED]
+#W16($14D4F)
+ジェロニモン[ED]
 
 
-//POINTER #9 @ $15067 - STRING #9 @ $15BC8
+//POINTER #9 @ $14D51 - STRING #9 @ $14DB8
 
-#W16($15067)
-やだ やだ やだぁ[ED]
+#W16($14D51)
+ツインテ~ル[ED]
 
 
-//POINTER #10 @ $15069 - STRING #10 @ $15BD5
+//POINTER #10 @ $14D53 - STRING #10 @ $14DBF
 
-#W16($15069)
-びぇ~ん[ED]
+#W16($14D53)
+テレスドン[ED]
 
 
-//POINTER #11 @ $1506B - STRING #11 @ $15BDB
+//POINTER #11 @ $14D55 - STRING #11 @ $14DC6
 
-#W16($1506B)
-バカァ[ED]
+#W16($14D55)
+ギルレッドキング[ED]
 
 
-//POINTER #12 @ $1506D - STRING #12 @ $15BE0
+//POINTER #12 @ $14D57 - STRING #12 @ $14DD2
 
-#W16($1506D)
-いぢめる？[ED]
+#W16($14D57)
+グドンマイティ~[ED]
 
 
-//POINTER #13 @ $1506F - STRING #13 @ $15BE7
+//POINTER #13 @ $14D59 - STRING #13 @ $14DDD
 
-#W16($1506F)
-そういうの ありかよ~[ED]
+#W16($14D59)
+ジェロニモンエ~ス[ED]
 
 
-//POINTER #14 @ $15071 - STRING #14 @ $15BF3
+//POINTER #14 @ $14D5B - STRING #14 @ $14DE8
 
-#W16($15071)
-おらに さわると[PAUSE]
-かんでんするぞ[ED]
+#W16($14D5B)
+ツインテ~ルボス[ED]
 
 
-//POINTER #15 @ $15073 - STRING #15 @ $15C06
+//POINTER #15 @ $14D5D - STRING #15 @ $14DF2
 
-#W16($15073)
-(FF)たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D5D)
+メタルテレスドン[ED]
 
 
-//POINTER #16 @ $15075 - STRING #16 @ $15C06
+//POINTER #16 @ $14D5F - STRING #16 @ $14DA1
 
-#W16($15075)
-(FF)たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D5F)
+レッドキング[ED]
 
 
-//POINTER #17 @ $15077 - STRING #17 @ $15C06
+//POINTER #17 @ $14D61 - STRING #17 @ $14DAA
 
-#W16($15077)
-(FF)たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D61)
+グドン[ED]
 
 
-//POINTER #18 @ $15079 - STRING #18 @ $15C06
+//POINTER #18 @ $14D63 - STRING #18 @ $14DB0
 
-#W16($15079)
-(FF)たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D63)
+ジェロニモン[ED]
 
 
-//POINTER #19 @ $1507B - STRING #19 @ $15C06
+//POINTER #19 @ $14D65 - STRING #19 @ $14DB8
 
-#W16($1507B)
-(FF)たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D65)
+ツインテ~ル[ED]
 
 
-//POINTER #20 @ $1507D - STRING #20 @ $15C06
+//POINTER #20 @ $14D67 - STRING #20 @ $14DBF
 
-#W16($1507D)
-(FF)たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D67)
+テレスドン[ED]
 
 
-//POINTER #21 @ $1507F - STRING #21 @ $15C06
+//POINTER #21 @ $14D69 - STRING #21 @ $14DC6
 
-#W16($1507F)
-(FF)たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D69)
+ギルレッドキング[ED]
 
 
-//POINTER #22 @ $15081 - STRING #22 @ $15C07
+//POINTER #22 @ $14D6B - STRING #22 @ $14DD2
 
-#W16($15081)
-たすけてください ほんとうは[PAUSE]
-あなたたちと たたかいたくない[PAUSE]
-わたしは イカルスにあやつ..[PAUSE]
-....られ....て......イ[ED]
+#W16($14D6B)
+グドンマイティ~[ED]
 
 
-//POINTER #23 @ $15083 - STRING #23 @ $15C42
+//POINTER #23 @ $14D6D - STRING #23 @ $14DDD
 
-#W16($15083)
-(FF)エレキング？ フン あいつか[PAUSE]
-あの おしゃべりは しばらく[PAUSE]
-だまらせたのよ[ED]
+#W16($14D6D)
+ジェロニモンエ~ス[ED]
 
 
-//POINTER #24 @ $15085 - STRING #24 @ $15C43
+//POINTER #24 @ $14D6F - STRING #24 @ $14DE8
 
-#W16($15085)
-エレキング？ フン あいつか[PAUSE]
-あの おしゃべりは しばらく[PAUSE]
-だまらせたのよ[ED]
+#W16($14D6F)
+ツインテ~ルボス[ED]
 
 
-//POINTER #25 @ $15087 - STRING #25 @ $15C6D
+//POINTER #25 @ $14D71 - STRING #25 @ $14DF2
 
-#W16($15087)
-リモコンを こわした[ED]
+#W16($14D71)
+メタルテレスドン[ED]
 
 
-//POINTER #26 @ $15089 - STRING #26 @ $15C78
+//POINTER #26 @ $14D73 - STRING #26 @ $14DFC
 
-#W16($15089)
-おかげで たすかりました[PAUSE]
-じつは イカルスたちは[PAUSE]
-ちかから やってきたのです[PAUSE]
-その いりぐちは[PAUSE]
-キ~と じゅもんによって[PAUSE]
-ふういん されている そうです[ED]
+#W16($14D73)
+マン[ED]
 
 
-//POINTER #27 @ $1508B - STRING #27 @ $15CCC
+//POINTER #27 @ $14D75 - STRING #27 @ $14DFF
 
-#W16($1508B)
-(FF)[PAUSE]
-かいだんが ある[ED]
+#W16($14D75)
+セブン[ED]
 
 
-//POINTER #28 @ $1508D - STRING #28 @ $15CCC
+//POINTER #28 @ $14D77 - STRING #28 @ $14E04
 
-#W16($1508D)
-(FF)[PAUSE]
-かいだんが ある[ED]
+#W16($14D77)
+しんマン[ED]
 
 
-//POINTER #29 @ $1508F - STRING #29 @ $15CCC
+//POINTER #29 @ $14D79 - STRING #29 @ $14E09
 
-#W16($1508F)
-(FF)[PAUSE]
-かいだんが ある[ED]
+#W16($14D79)
+エ~ス[ED]
+
+
+//POINTER #30 @ $14D7B - STRING #30 @ $14E0D
+
+#W16($14D7B)
+タロウ[ED]
+
+
+//POINTER #31 @ $14D7D - STRING #31 @ $14E11
+
+#W16($14D7D)
+レオ[ED]
+
+
+//POINTER #32 @ $14D7F - STRING #32 @ $14E14
+
+#W16($14D7F)
+スペシウム[ED]
+
+
+//POINTER #33 @ $14D81 - STRING #33 @ $14E14
+
+#W16($14D81)
+スペシウム[ED]
+
+
+//POINTER #34 @ $14D83 - STRING #34 @ $14E1B
+
+#W16($14D83)
+メタリウム[ED]
+
+
+//POINTER #35 @ $14D85 - STRING #35 @ $14E21
+
+#W16($14D85)
+ストリウム[ED]
+
+
+//POINTER #36 @ $14D87 - STRING #36 @ $14DFC
+
+#W16($14D87)
+マン[ED]
 

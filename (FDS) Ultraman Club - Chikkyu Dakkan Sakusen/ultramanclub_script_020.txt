@@ -1,209 +1,189 @@
 //GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
 
-//BLOCK #020 NAME:		Dialogue Block 21 (POINTER_RELATIVE)
+//BLOCK #020 NAME:		Dialogue Block 19 (POINTER_RELATIVE)
 
-//POINTER #0 @ $16A27 - STRING #0 @ $174DB
+//POINTER #0 @ $1671D - STRING #0 @ $16776
 
-#W16($16A27)
-いくぞ ウルトラきょうだいよ[ED]
+#W16($1671D)
+キングジョ~[ED]
 
 
-//POINTER #1 @ $16A29 - STRING #1 @ $174EC
+//POINTER #1 @ $1671F - STRING #1 @ $1677F
 
-#W16($16A29)
-ぐふっ なかなかやりまんなぁ[ED]
+#W16($1671F)
+ヒッポリト[ED]
 
 
-//POINTER #2 @ $16A2B - STRING #2 @ $174FC
+//POINTER #2 @ $16721 - STRING #2 @ $16786
 
-#W16($16A2B)
-ぎゃ~す あんぎゃ~[ED]
+#W16($16721)
+タッコング[ED]
 
 
-//POINTER #3 @ $16A2D - STRING #3 @ $17509
+//POINTER #3 @ $16723 - STRING #3 @ $1678D
 
-#W16($16A2D)
-ほな さいなら[ED]
+#W16($16723)
+シ~ゴラス[ED]
 
 
-//POINTER #4 @ $16A2F - STRING #4 @ $17511
+//POINTER #4 @ $16725 - STRING #4 @ $16794
 
-#W16($16A2F)
-このワテに かてまっか？[ED]
+#W16($16725)
+ペスタ~[ED]
 
 
-//POINTER #5 @ $16A31 - STRING #5 @ $1751E
+//POINTER #5 @ $16727 - STRING #5 @ $1679A
 
-#W16($16A31)
-かいじゅう ぐんだん[PAUSE]
-バンザ~イ[ED]
+#W16($16727)
+キングジョ~2[ED]
 
 
-//POINTER #6 @ $16A33 - STRING #6 @ $17534
+//POINTER #6 @ $16729 - STRING #6 @ $167A4
 
-#W16($16A33)
-おろかものめ[ED]
+#W16($16729)
+ワンダ~ヒッポリト[ED]
 
 
-//POINTER #7 @ $16A35 - STRING #7 @ $1753B
+//POINTER #7 @ $1672B - STRING #7 @ $167B0
 
-#W16($16A35)
-なかなか やるな[ED]
+#W16($1672B)
+ファイア~タッコング[ED]
 
 
-//POINTER #8 @ $16A37 - STRING #8 @ $17544
+//POINTER #8 @ $1672D - STRING #8 @ $167BC
 
-#W16($16A37)
-どうせ めがはなれてるよ[ED]
+#W16($1672D)
+バトルシ~ゴラス[ED]
 
 
-//POINTER #9 @ $16A39 - STRING #9 @ $17553
+//POINTER #9 @ $1672F - STRING #9 @ $167C7
 
-#W16($16A39)
-いてっ いてててて[ED]
+#W16($1672F)
+スタ~ペスタ~[ED]
 
 
-//POINTER #10 @ $16A3B - STRING #10 @ $1755D
+//POINTER #10 @ $16731 - STRING #10 @ $16776
 
-#W16($16A3B)
-やっちまえ~[ED]
+#W16($16731)
+キングジョ~[ED]
 
 
-//POINTER #11 @ $16A3D - STRING #11 @ $17564
+//POINTER #11 @ $16733 - STRING #11 @ $1677F
 
-#W16($16A3D)
-ここは オレの なわばりだ[ED]
+#W16($16733)
+ヒッポリト[ED]
 
 
-//POINTER #12 @ $16A3F - STRING #12 @ $17574
+//POINTER #12 @ $16735 - STRING #12 @ $16786
 
-#W16($16A3F)
-うっ！[ED]
+#W16($16735)
+タッコング[ED]
 
 
-//POINTER #13 @ $16A41 - STRING #13 @ $17578
+//POINTER #13 @ $16737 - STRING #13 @ $1678D
 
-#W16($16A41)
-ウ~ ウ~ ウ~ [ED]
+#W16($16737)
+シ~ゴラス[ED]
 
 
-//POINTER #14 @ $16A43 - STRING #14 @ $17582
+//POINTER #14 @ $16739 - STRING #14 @ $16794
 
-#W16($16A43)
-らっき~ ちゃちゃちゃ ウ~[ED]
+#W16($16739)
+ペスタ~[ED]
 
 
-//POINTER #15 @ $16A45 - STRING #15 @ $17591
+//POINTER #15 @ $1673B - STRING #15 @ $1679A
 
-#W16($16A45)
-やりたいことは それだけか？[ED]
+#W16($1673B)
+キングジョ~2[ED]
 
 
-//POINTER #16 @ $16A47 - STRING #16 @ $175A1
+//POINTER #16 @ $1673D - STRING #16 @ $167A4
 
-#W16($16A47)
-なんのようだ[ED]
+#W16($1673D)
+ワンダ~ヒッポリト[ED]
 
 
-//POINTER #17 @ $16A49 - STRING #17 @ $175A9
+//POINTER #17 @ $1673F - STRING #17 @ $167B0
 
-#W16($16A49)
-(FF)ガンダ~を さがしている[PAUSE]
-むすめの こゆきが......[ED]
+#W16($1673F)
+ファイア~タッコング[ED]
 
 
-//POINTER #18 @ $16A4B - STRING #18 @ $175A9
+//POINTER #18 @ $16741 - STRING #18 @ $167BC
 
-#W16($16A4B)
-(FF)ガンダ~を さがしている[PAUSE]
-むすめの こゆきが......[ED]
+#W16($16741)
+バトルシ~ゴラス[ED]
 
 
-//POINTER #19 @ $16A4D - STRING #19 @ $175A9
+//POINTER #19 @ $16743 - STRING #19 @ $167C7
 
-#W16($16A4D)
-(FF)ガンダ~を さがしている[PAUSE]
-むすめの こゆきが......[ED]
+#W16($16743)
+スタ~ペスタ~[ED]
 
 
-//POINTER #20 @ $16A4F - STRING #20 @ $175A9
+//POINTER #20 @ $16745 - STRING #20 @ $167D6
 
-#W16($16A4F)
-(FF)ガンダ~を さがしている[PAUSE]
-むすめの こゆきが......[ED]
+#W16($16745)
+マン[ED]
 
 
-//POINTER #21 @ $16A51 - STRING #21 @ $175A9
+//POINTER #21 @ $16747 - STRING #21 @ $167D9
 
-#W16($16A51)
-(FF)ガンダ~を さがしている[PAUSE]
-むすめの こゆきが......[ED]
+#W16($16747)
+セブン[ED]
 
 
-//POINTER #22 @ $16A53 - STRING #22 @ $175AA
+//POINTER #22 @ $16749 - STRING #22 @ $167DE
 
-#W16($16A53)
-ガンダ~を さがしている[PAUSE]
-むすめの こゆきが......[ED]
+#W16($16749)
+しんマン[ED]
 
 
-//POINTER #23 @ $16A55 - STRING #23 @ $175C8
+//POINTER #23 @ $1674B - STRING #23 @ $167E3
 
-#W16($16A55)
-ガンダ~の うしろに[PAUSE]
-おんなのこが いる[ED]
+#W16($1674B)
+エ~ス[ED]
 
 
-//POINTER #24 @ $16A57 - STRING #24 @ $175E0
+//POINTER #24 @ $1674D - STRING #24 @ $167E7
 
-#W16($16A57)
-ウ~？ しらねぇな[PAUSE]
-こいつは にんげんのこだ[ED]
+#W16($1674D)
+タロウ[ED]
 
 
-//POINTER #25 @ $16A59 - STRING #25 @ $175F9
+//POINTER #25 @ $1674F - STRING #25 @ $167EB
 
-#W16($16A59)
-(03)は[PAUSE]
-おんなのこを てのひらに のせた[ED]
+#W16($1674F)
+レオ[ED]
 
 
-//POINTER #26 @ $16A5B - STRING #26 @ $1760D
+//POINTER #26 @ $16751 - STRING #26 @ $167EE
 
-#W16($16A5B)
-こゆきを てわたした[PAUSE]
-なに？ こゆき......[PAUSE]
-ガンダ~のいた やまのなかで[PAUSE]
-なにかが ひかったと[PAUSE]
-いっております[PAUSE]
-ウ~が にんげんのすがたに[PAUSE]
-もどった[ED]
+#W16($16751)
+スペシウム[ED]
 
 
-//POINTER #27 @ $16A5D - STRING #27 @ $1760D
+//POINTER #27 @ $16753 - STRING #27 @ $167EE
 
-#W16($16A5D)
-こゆきを てわたした[PAUSE]
-なに？ こゆき......[PAUSE]
-ガンダ~のいた やまのなかで[PAUSE]
-なにかが ひかったと[PAUSE]
-いっております[PAUSE]
-ウ~が にんげんのすがたに[PAUSE]
-もどった[ED]
+#W16($16753)
+スペシウム[ED]
 
 
-//POINTER #28 @ $16A5F - STRING #28 @ $17660
+//POINTER #28 @ $16755 - STRING #28 @ $167F5
 
-#W16($16A5F)
-こゆき！ ぶじだったのか[ED]
+#W16($16755)
+メタリウム[ED]
 
 
-//POINTER #29 @ $16A61 - STRING #29 @ $17670
+//POINTER #29 @ $16757 - STRING #29 @ $167FB
 
-#W16($16A61)
-(FF)るよ[PAUSE]
-そ~だ これは ヒッポリトから[PAUSE]
-あずかったキ~だが[PAUSE]
-もう おれには ひつようない[PAUSE]
-(02)は キ~を うけとった[ED]
+#W16($16757)
+ストリウム[ED]
+
+
+//POINTER #30 @ $16759 - STRING #30 @ $167D0
+
+#W16($16759)
+シ~モンス[ED]
 
