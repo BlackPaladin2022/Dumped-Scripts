@@ -1,261 +1,225 @@
 //GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
 
-//BLOCK #016 NAME:		Dialogue Block 15 (POINTER_RELATIVE)
+//BLOCK #016 NAME:		Dialogue Block 14 (POINTER_RELATIVE)
 
-//POINTER #0 @ $15CF0 - STRING #0 @ $1409E
+//POINTER #0 @ $15A28 - STRING #0 @ $15AE3
 
-#W16($15CF0)
-(02)が[PAUSE]
-あらわれた[ED]
+#W16($15A28)
+マン[ED]
 
 
-//POINTER #1 @ $15CF2 - STRING #1 @ $140A8
+//POINTER #1 @ $15A2A - STRING #1 @ $15AE6
 
-#W16($15CF2)
-(02)は はなしかけた[ED]
+#W16($15A2A)
+セブン[ED]
 
 
-//POINTER #2 @ $15CF4 - STRING #2 @ $140B2
+//POINTER #2 @ $15A2C - STRING #2 @ $15AEB
 
-#W16($15CF4)
-(02)は ぼうぎょの[PAUSE]
-かまえをとった[ED]
+#W16($15A2C)
+しんマン[ED]
 
 
-//POINTER #3 @ $15CF6 - STRING #3 @ $140C5
+//POINTER #3 @ $15A2E - STRING #3 @ $15AF0
 
-#W16($15CF6)
-(02)の ちょっぷ[ED]
+#W16($15A2E)
+エ~ス[ED]
 
 
-//POINTER #4 @ $15CF8 - STRING #4 @ $140CE
+//POINTER #4 @ $15A30 - STRING #4 @ $15AF4
 
-#W16($15CF8)
-(02)の きっく[ED]
+#W16($15A30)
+タロウ[ED]
 
 
-//POINTER #5 @ $15CFA - STRING #5 @ $140D5
+//POINTER #5 @ $15A32 - STRING #5 @ $15AF8
 
-#W16($15CFA)
-(02)の こうげき[ED]
+#W16($15A32)
+レオ[ED]
 
 
-//POINTER #6 @ $15CFC - STRING #6 @ $140DE
+//POINTER #6 @ $15A34 - STRING #6 @ $15A92
 
-#W16($15CFC)
-(02)の こうせん！[ED]
+#W16($15A34)
+メフィラス[ED]
 
 
-//POINTER #7 @ $15CFE - STRING #7 @ $140E7
+//POINTER #7 @ $15A36 - STRING #7 @ $15A98
 
-#W16($15CFE)
-(02)の かえん！[ED]
+#W16($15A36)
+イカルス[ED]
 
 
-//POINTER #8 @ $15D00 - STRING #8 @ $140EF
+//POINTER #8 @ $15A38 - STRING #8 @ $15A9D
 
-#W16($15D00)
-(02)の いなずま！[ED]
+#W16($15A38)
+ババルウ[ED]
 
 
-//POINTER #9 @ $15D02 - STRING #9 @ $140F9
+//POINTER #9 @ $15A3A - STRING #9 @ $15AA4
 
-#W16($15D02)
-(02)の ガス！[ED]
+#W16($15A3A)
+ベル[ED]
 
 
-//POINTER #10 @ $15D04 - STRING #10 @ $14101
+//POINTER #10 @ $15A3C - STRING #10 @ $15AA8
 
-#W16($15D04)
-(02)は(03)に[PAUSE]
-カラ~タイマ~を つけた[PAUSE]
-(03)が ふっかつした[ED]
+#W16($15A3C)
+エレキング[ED]
 
 
-//POINTER #11 @ $15D06 - STRING #11 @ $1411E
+//POINTER #11 @ $15A3E - STRING #11 @ $15AAF
 
-#W16($15D06)
-(02)は(03)に[PAUSE]
-Eカプセルを つけた[PAUSE]
-もうだいじょうぶ[ED]
+#W16($15A3E)
+デスメフィラス[ED]
 
 
-//POINTER #12 @ $15D08 - STRING #12 @ $1413B
+//POINTER #12 @ $15A40 - STRING #12 @ $15AB8
 
-#W16($15D08)
-(02)は[PAUSE]
-オ~ラを つかった[PAUSE]
-オ~ラが(03)をつつむ[ED]
+#W16($15A40)
+グリ~ンイカルス[ED]
 
 
-//POINTER #13 @ $15D0A - STRING #13 @ $14153
+//POINTER #13 @ $15A42 - STRING #13 @ $15AC2
 
-#W16($15D0A)
-(02)は[PAUSE]
-ウルトラベルを ならした[PAUSE]
-かいじゅうたちは にげだした[ED]
+#W16($15A42)
+ババルウマグマ[ED]
 
 
-//POINTER #14 @ $15D0C - STRING #14 @ $14176
+//POINTER #14 @ $15A44 - STRING #14 @ $15ACD
 
-#W16($15D0C)
-(02)は[PAUSE]
-キングハンマ~を つかった[PAUSE]
-かいじゅうたちは おとなしくなった[ED]
+#W16($15A44)
+クレイジ~ベル[ED]
 
 
-//POINTER #15 @ $15D0E - STRING #15 @ $1419B
+//POINTER #15 @ $15A46 - STRING #15 @ $15AD7
 
-#W16($15D0E)
-(02)は[PAUSE]
-ウルトラマントを みにつけた[ED]
+#W16($15A46)
+エレキングサンダ~[ED]
 
 
-//POINTER #16 @ $15D10 - STRING #16 @ $141AD
+//POINTER #16 @ $15A48 - STRING #16 @ $15A92
 
-#W16($15D10)
-(02)は かまえた[PAUSE]
-(03)こうせん！！[ED]
+#W16($15A48)
+メフィラス[ED]
 
 
-//POINTER #17 @ $15D12 - STRING #17 @ $141BD
+//POINTER #17 @ $15A4A - STRING #17 @ $15A98
 
-#W16($15D12)
-マンは かまえた[PAUSE]
-やつざき こうりん！！[ED]
+#W16($15A4A)
+イカルス[ED]
 
 
-//POINTER #18 @ $15D14 - STRING #18 @ $141D3
+//POINTER #18 @ $15A4C - STRING #18 @ $15A9D
 
-#W16($15D14)
-セブンは かまえた[PAUSE]
-ワイドショット！！[ED]
+#W16($15A4C)
+ババルウ[ED]
 
 
-//POINTER #19 @ $15D16 - STRING #19 @ $141E9
+//POINTER #19 @ $15A4E - STRING #19 @ $15AA4
 
-#W16($15D16)
-セブンは かまえた[PAUSE]
-アイスラッガ~！！[ED]
+#W16($15A4E)
+ベル[ED]
 
 
-//POINTER #20 @ $15D18 - STRING #20 @ $141FF
+//POINTER #20 @ $15A50 - STRING #20 @ $15AA8
 
-#W16($15D18)
-しんマンは かまえた[PAUSE]
-スピンキック！！[ED]
+#W16($15A50)
+エレキング[ED]
 
 
-//POINTER #21 @ $15D1A - STRING #21 @ $14214
+//POINTER #21 @ $15A52 - STRING #21 @ $15AAF
 
-#W16($15D1A)
-エ~スは かまえた[PAUSE]
-エ~スバリア！！[ED]
+#W16($15A52)
+デスメフィラス[ED]
 
 
-//POINTER #22 @ $15D1C - STRING #22 @ $14228
+//POINTER #22 @ $15A54 - STRING #22 @ $15AB8
 
-#W16($15D1C)
-タロウは かまえた[PAUSE]
-ウルトラ フリ~ザ~！！[ED]
+#W16($15A54)
+グリ~ンイカルス[ED]
 
 
-//POINTER #23 @ $15D1E - STRING #23 @ $14240
+//POINTER #23 @ $15A56 - STRING #23 @ $15AC2
 
-#W16($15D1E)
-レオは かまえた[PAUSE]
-クロスビ~ム！！[ED]
+#W16($15A56)
+ババルウマグマ[ED]
 
 
-//POINTER #24 @ $15D20 - STRING #24 @ $14253
+//POINTER #24 @ $15A58 - STRING #24 @ $15ACD
 
-#W16($15D20)
-レオは かまえた[PAUSE]
-キリモミキック！！[ED]
+#W16($15A58)
+クレイジ~ベル[ED]
 
 
-//POINTER #25 @ $15D22 - STRING #25 @ $14266
+//POINTER #25 @ $15A5A - STRING #25 @ $15AD7
 
-#W16($15D22)
-(02)が いわを[PAUSE]
-(03)に なげつけた[ED]
+#W16($15A5A)
+エレキングサンダ~[ED]
 
 
-//POINTER #26 @ $15D24 - STRING #26 @ $14278
+//POINTER #26 @ $15A5C - STRING #26 @ $15AE3
 
-#W16($15D24)
-(03)に[PAUSE]
-(04)の ダメ~ジ[ED]
+#W16($15A5C)
+マン[ED]
 
 
-//POINTER #27 @ $15D26 - STRING #27 @ $14285
+//POINTER #27 @ $15A5E - STRING #27 @ $15AE6
 
-#W16($15D26)
-(03)は たおれた[ED]
+#W16($15A5E)
+セブン[ED]
 
 
-//POINTER #28 @ $15D28 - STRING #28 @ $1428D
+//POINTER #28 @ $15A60 - STRING #28 @ $15AEB
 
-#W16($15D28)
-しかし あたらなかった......[ED]
+#W16($15A60)
+しんマン[ED]
 
 
-//POINTER #29 @ $15D2A - STRING #29 @ $1429C
+//POINTER #29 @ $15A62 - STRING #29 @ $15AF0
 
-#W16($15D2A)
-なにもおきなかった....[ED]
+#W16($15A62)
+エ~ス[ED]
 
 
-//POINTER #30 @ $15D2C - STRING #30 @ $142A8
+//POINTER #30 @ $15A64 - STRING #30 @ $15AF4
 
-#W16($15D2C)
-(03)は にげだした[ED]
+#W16($15A64)
+タロウ[ED]
 
 
-//POINTER #31 @ $15D2E - STRING #31 @ $142B3
+//POINTER #31 @ $15A66 - STRING #31 @ $15AF8
 
-#W16($15D2E)
-(02)たちは にげだした[ED]
+#W16($15A66)
+レオ[ED]
 
 
-//POINTER #32 @ $15D30 - STRING #32 @ $142C0
+//POINTER #32 @ $15A68 - STRING #32 @ $15AFB
 
-#W16($15D30)
-......にげきった[ED]
+#W16($15A68)
+スペシウム[ED]
 
 
-//POINTER #33 @ $15D32 - STRING #33 @ $142CA
+//POINTER #33 @ $15A6A - STRING #33 @ $15AFB
 
-#W16($15D32)
-......おいつかれた[ED]
+#W16($15A6A)
+スペシウム[ED]
 
 
-//POINTER #34 @ $15D34 - STRING #34 @ $142D4
+//POINTER #34 @ $15A6C - STRING #34 @ $15B02
 
-#W16($15D34)
-(05)を てにいれた[ED]
+#W16($15A6C)
+メタリウム[ED]
 
 
-//POINTER #35 @ $15D36 - STRING #35 @ $142DD
+//POINTER #35 @ $15A6E - STRING #35 @ $15B08
 
-#W16($15D36)
-(03)は こおりついた[ED]
+#W16($15A6E)
+ストリウム[ED]
 
 
-//POINTER #36 @ $15D38 - STRING #36 @ $142E7
+//POINTER #36 @ $15A70 - STRING #36 @ $15AE3
 
-#W16($15D38)
-(03)の こおりがとけた[ED]
-
-
-//POINTER #37 @ $15D3A - STRING #37 @ $142F3
-
-#W16($15D3A)
-(03)を たすけだした[ED]
-
-
-//POINTER #38 @ $15D3C - STRING #38 @ $142FE
-
-#W16($15D3C)
-そして なかまに くわえた[ED]
+#W16($15A70)
+マン[ED]
 

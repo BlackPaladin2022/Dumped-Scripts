@@ -1,39 +1,69 @@
 //GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
 
-//BLOCK #005 NAME:		Dialogue Block 04 (POINTER_RELATIVE)
+//BLOCK #005 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
 
-//POINTER #0 @ $8641 - STRING #0 @ $864D
+//POINTER #0 @ $816F - STRING #0 @ $8185
 
-#W16($8641)
-マン[ED]
-
-
-//POINTER #1 @ $8643 - STRING #1 @ $8650
-
-#W16($8643)
-セブン[ED]
+#W16($816F)
+カラ~タイマ~[ED]
 
 
-//POINTER #2 @ $8645 - STRING #2 @ $8655
+//POINTER #1 @ $8171 - STRING #1 @ $818D
 
-#W16($8645)
-しんマン[ED]
-
-
-//POINTER #3 @ $8647 - STRING #3 @ $865A
-
-#W16($8647)
-エ~ス[ED]
+#W16($8171)
+Eカプセル[ED]
 
 
-//POINTER #4 @ $8649 - STRING #4 @ $865E
+//POINTER #2 @ $8173 - STRING #2 @ $8194
 
-#W16($8649)
-タロウ[ED]
+#W16($8173)
+オ~ラ[ED]
 
 
-//POINTER #5 @ $864B - STRING #5 @ $8662
+//POINTER #3 @ $8175 - STRING #3 @ $8198
 
-#W16($864B)
-レオ[ED]
+#W16($8175)
+ウルトラベル[ED]
+
+
+//POINTER #4 @ $8177 - STRING #4 @ $81A0
+
+#W16($8177)
+キングハンマ~[ED]
+
+
+//POINTER #5 @ $8179 - STRING #5 @ $81A9
+
+#W16($8179)
+マント[ED]
+
+
+//POINTER #6 @ $817B - STRING #6 @ $81AD
+
+#W16($817B)
+キ~[ED]
+
+
+//POINTER #7 @ $817D - STRING #7 @ $81B0
+
+#W16($817D)
+こゆき[ED]
+
+
+//POINTER #8 @ $817F - STRING #8 @ $81B4
+
+#W16($817F)
+ブレスレット[ED]
+
+
+//POINTER #9 @ $8181 - STRING #9 @ $81BC
+
+#W16($8181)
+たまご[ED]
+
+
+//POINTER #10 @ $8183 - STRING #10 @ $81C1
+
+#W16($8183)
+じゅもん[ED]
 
