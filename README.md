@@ -37,3 +37,7 @@ It just means I cannot dump the game's text using Cartographer's "POINTER_RELATI
 9.  What about the scripts marked with "MIX"?
 
 Some text areas in the game could be dumped through the game's text pointer tables and some were dumped RAW.  That's why it's marked as "MIX".
+
+10.  What about scripts marked with "WIP"?
+
+Those are works-in-progress.  They're in the process of being ripped from the game.  They're not complete... yet.
