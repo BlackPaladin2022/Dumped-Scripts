@@ -1,6 +1,6 @@
 //GAME NAME:		
 
-//BLOCK #004 NAME:		Dialogue Block 04 (POINTER_RELATIVE) (Fortune Telling: Blood Type)
+//BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE) (Fortune Telling: Blood Type)
 
 //POINTER #0 @ $6BAF - STRING #0 @ $6C60
 
