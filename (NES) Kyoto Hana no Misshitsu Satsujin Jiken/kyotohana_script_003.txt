@@ -1,0 +1,45 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $1E99A - STRING #0 @ $1E9A8
+
+#W16($1E99A)
+ƒLƒƒƒTƒŠƒ“[FD]
+
+
+//POINTER #1 @ $1E99C - STRING #1 @ $1E9AE
+
+#W16($1E99C)
+‚¶‚å‚¿‚ã‚¤[FD]
+
+
+//POINTER #2 @ $1E99E - STRING #2 @ $1E9B5
+
+#W16($1E99E)
+‚¢‚¦‚à‚Æ[FD]
+
+
+//POINTER #3 @ $1E9A0 - STRING #3 @ $1E9BA
+
+#W16($1E9A0)
+‚³‚í‚¾[FD]
+
+
+//POINTER #4 @ $1E9A2 - STRING #4 @ $1E9BF
+
+#W16($1E9A2)
+‚©‚è‚â[FD]
+
+
+//POINTER #5 @ $1E9A4 - STRING #5 @ $1E9C3
+
+#W16($1E9A4)
+‚©‚¨‚è[FD]
+
+
+//POINTER #6 @ $1E9A6 - STRING #6 @ $1E9C7
+
+#W16($1E9A6)
+‚Ý‚Â‚¨[FD]
+
