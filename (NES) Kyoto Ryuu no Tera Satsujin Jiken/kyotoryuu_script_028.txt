@@ -1,0 +1,236 @@
+//GAME NAME:		
+
+//BLOCK #028 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $B72E - STRING #0 @ $B76E
+
+#W16($B72E)
+     「だれですか そのひと・・・。」[LN]
+[ED]
+
+
+//POINTER #1 @ $B730 - STRING #1 @ $B787
+
+#W16($B730)
+     「さあ・・・よく しりませんけど・・・。」[LN]
+[ED]
+
+
+//POINTER #2 @ $B732 - STRING #2 @ $B7A4
+
+#W16($B732)
+     「ええ おんなやなあ・・・。」[LN]
+[ED]
+
+
+//POINTER #3 @ $B734 - STRING #3 @ $B7BA
+
+#W16($B734)
+ [LN]
+[ED]
+
+
+//POINTER #4 @ $B736 - STRING #4 @ $B7BD
+
+#W16($B736)
+     「そんなことは じけんとは かんけい ないと[LN]
+      おもうんですけど・・・。」[LN]
+[ED]
+
+
+//POINTER #5 @ $B738 - STRING #5 @ $B7F1
+
+#W16($B738)
+     「ひとを うたごうては いかん」[LN]
+[ED]
+
+
+//POINTER #6 @ $B73A - STRING #6 @ $B809
+
+#W16($B73A)
+     「・・・なんのことですか・・・。」[LN]
+[ED]
+
+
+//POINTER #7 @ $B73C - STRING #7 @ $B822
+
+#W16($B73C)
+  なみこ「・・・いくら がんばっても これいじょうは[LN]
+      だめよ。」[LN]
+[ED]
+
+
+//POINTER #8 @ $B73E - STRING #8 @ $B84F
+
+#W16($B73E)
+     「いきなり なにをするんですか！」[LN]
+[ED]
+
+
+//POINTER #9 @ $B740 - STRING #9 @ $B868
+
+#W16($B740)
+     「わしは しゃしんをとられるのが[LN]
+      きらいでな・・・。」[LN]
+[ED]
+
+
+//POINTER #10 @ $B742 - STRING #10 @ $B892
+
+#W16($B742)
+     「やめてください！！」[LN]
+[ED]
+
+
+//POINTER #11 @ $B744 - STRING #11 @ $B8A5
+
+#W16($B744)
+     「わたしの しゃしんをとっても しょうがな[LN]
+      いでしょう。」[LN]
+[ED]
+
+
+//POINTER #12 @ $B746 - STRING #12 @ $B8D1
+
+#W16($B746)
+     「きょうは けしょうしてないから、[LN]
+      またにしてね。」[LN]
+[ED]
+
+
+//POINTER #13 @ $B748 - STRING #13 @ $B8F8
+
+#W16($B748)
+     「うまく とってくださいよ。」[LN]
+[ED]
+
+
+//POINTER #14 @ $B74A - STRING #14 @ $B90F
+
+#W16($B74A)
+     「わたしを うたがってるんですか。」[LN]
+[ED]
+
+
+//POINTER #15 @ $B74C - STRING #15 @ $B92A
+
+#W16($B74C)
+     「いいかげんに しなさい！」[LN]
+[ED]
+
+
+//POINTER #16 @ $B74E - STRING #16 @ $B940
+
+#W16($B74E)
+     「・・・・・。」[LN]
+[ED]
+
+
+//POINTER #17 @ $B750 - STRING #17 @ $B94F
+
+#W16($B750)
+  なみこ「あらっ、あなた わたしのからだが[LN]
+      みたいの？」[LN]
+[ED]
+
+
+//POINTER #18 @ $B752 - STRING #18 @ $B976
+
+#W16($B752)
+     「・・・それが なにか・・・。」[LN]
+[ED]
+
+
+//POINTER #19 @ $B754 - STRING #19 @ $B98E
+
+#W16($B754)
+      しょうこが たりません。[LN]
+[ED]
+
+
+//POINTER #20 @ $B756 - STRING #20 @ $B9A3
+
+#W16($B756)
+     「なんですか それは・・・。」[LN]
+[ED]
+
+
+//POINTER #21 @ $B758 - STRING #21 @ $B9BA
+
+#W16($B758)
+     「ふけいほんぶの けいじさんです。」[LN]
+[ED]
+
+
+//POINTER #22 @ $B75A - STRING #22 @ $B9D6
+
+#W16($B75A)
+     「そこに いますよ。」[LN]
+[ED]
+
+
+//POINTER #23 @ $B75C - STRING #23 @ $B9E8
+
+#W16($B75C)
+     「たいへんでしたねえ。」[LN]
+[ED]
+
+
+//POINTER #24 @ $B75E - STRING #24 @ $B9FC
+
+#W16($B75E)
+     「いやーん、エッチ！」[LN]
+[ED]
+
+
+//POINTER #25 @ $B760 - STRING #25 @ $BA0E
+
+#W16($B760)
+   ひと「ええ・・・しってます。[LN]
+      そこの へやの ひとでしょう。」[LN]
+[ED]
+
+
+//POINTER #26 @ $B762 - STRING #26 @ $BA39
+
+#W16($B762)
+     「じぶんで しらべてください。」[LN]
+[ED]
+
+
+//POINTER #27 @ $B764 - STRING #27 @ $BA55
+
+#W16($B764)
+     「わたしにはかんけい ありません。」[LN]
+[ED]
+
+
+//POINTER #28 @ $B766 - STRING #28 @ $BA6E
+
+#W16($B766)
+     「このひとですか・・・さあ みたことある[LN]
+      ような かおですけど・・・。」[LN]
+[ED]
+
+
+//POINTER #29 @ $B768 - STRING #29 @ $BAA2
+
+#W16($B768)
+    * やまかんで こたえても だめです。[LN]
+      ちゃんと しらべて ください。[LN]
+[ED]
+
+
+//POINTER #30 @ $B76A - STRING #30 @ $BAD6
+
+#W16($B76A)
+    * ここには だれも いません。[LN]
+[ED]
+
+
+//POINTER #31 @ $B76C - STRING #31 @ $BAED
+
+#W16($B76C)
+    * フィルムのむだづかいです。[LN]
+[ED]
+

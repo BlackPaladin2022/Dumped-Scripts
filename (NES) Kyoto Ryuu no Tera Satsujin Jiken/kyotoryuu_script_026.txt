@@ -1,0 +1,315 @@
+//GAME NAME:		
+
+//BLOCK #026 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $ADC7 - STRING #0 @ $AE17
+
+#W16($ADC7)
+    * きょうとふけいの けいぶです。[LN]
+      でんわばんごうは 239 4000[LN]
+[ED]
+
+
+//POINTER #1 @ $ADC9 - STRING #1 @ $AE4B
+
+#W16($ADC9)
+    * もと アメリカ ふくだいとうりょうの[LN]
+      むすめです。[LN]
+[ED]
+
+
+//POINTER #2 @ $ADCB - STRING #2 @ $AE74
+
+#W16($ADCB)
+    * てんりゅうじです。[LN]
+[ED]
+
+
+//POINTER #3 @ $ADCD - STRING #3 @ $AE87
+
+#W16($ADCD)
+    * みなおのへやで みつかった[LN]
+      カセットテープです。[LN]
+[ED]
+
+
+//POINTER #4 @ $ADCF - STRING #4 @ $AEB0
+
+#W16($ADCF)
+    * 23さい かじてつだい。[LN]
+      おさわけの ようじょのひとり。[LN]
+[ED]
+
+
+//POINTER #5 @ $ADD1 - STRING #5 @ $AEDD
+
+#W16($ADD1)
+[ED]
+
+
+//POINTER #6 @ $ADD3 - STRING #6 @ $AEDE
+
+#W16($ADD3)
+    * 25さい げんざい むしょく。[LN]
+      おさわけの ようじょのひとり。[LN]
+[ED]
+
+
+//POINTER #7 @ $ADD5 - STRING #7 @ $AF0E
+
+#W16($ADD5)
+    * ちてきな じょせいだが、どこか くらいか[LN]
+      げがある。[LN]
+[ED]
+
+
+//POINTER #8 @ $ADD7 - STRING #8 @ $AF3C
+
+#W16($ADD7)
+    * こさわ みなお 24さい。かいしゃいん[LN]
+      おさわけの とおえんにあたる。[LN]
+[ED]
+
+
+//POINTER #9 @ $ADD9 - STRING #9 @ $AF6D
+
+#W16($ADD9)
+    * アートきかくに つとめている。[LN]
+[ED]
+
+
+//POINTER #10 @ $ADDB - STRING #10 @ $AF84
+
+#W16($ADDB)
+[ED]
+
+
+//POINTER #11 @ $ADDD - STRING #11 @ $AF85
+
+#W16($ADDD)
+    * おざわ ふじ 53さい。[LN]
+      おさわけの とうしゅ。[LN]
+      からだが よわく いまは かなり すいじ[LN]
+      ゃく している。[LN]
+[ED]
+
+
+//POINTER #12 @ $ADDF - STRING #12 @ $AFDA
+
+#W16($ADDF)
+[ED]
+
+
+//POINTER #13 @ $ADE1 - STRING #13 @ $AFDB
+
+#W16($ADE1)
+    * こなみ さわお 24さい。[LN]
+      いちりゅうがいしゃの エリート。[LN]
+[ED]
+
+
+//POINTER #14 @ $ADE3 - STRING #14 @ $B008
+
+#W16($ADE3)
+[ED]
+
+
+//POINTER #15 @ $ADE5 - STRING #15 @ $B009
+
+#W16($ADE5)
+    * みさわ なおこ 22さい。[LN]
+      さわおの こんやくしゃ。[LN]
+[ED]
+
+
+//POINTER #16 @ $ADE7 - STRING #16 @ $B031
+
+#W16($ADE7)
+[ED]
+
+
+//POINTER #17 @ $ADE9 - STRING #17 @ $B032
+
+#W16($ADE9)
+[ED]
+
+
+//POINTER #18 @ $ADEB - STRING #18 @ $B033
+
+#W16($ADEB)
+    * きくち アキラ 30さい。[LN]
+      ルポライターで    のゆうじん。[LN]
+      ゲームのないようを しっている じんぶつ。[LN]
+[ED]
+
+
+//POINTER #19 @ $ADED - STRING #19 @ $B082
+
+#W16($ADED)
+[ED]
+
+
+//POINTER #20 @ $ADEF - STRING #20 @ $B083
+
+#W16($ADEF)
+    * おさわけに ふるくからいる じょちゅう。[LN]
+[ED]
+
+
+//POINTER #21 @ $ADF1 - STRING #21 @ $B0A0
+
+#W16($ADF1)
+    * おさわけの しようにん。[LN]
+      およねの ていしゅ。[LN]
+[ED]
+
+
+//POINTER #22 @ $ADF3 - STRING #22 @ $B0C5
+
+#W16($ADF3)
+    * こみや ミキ 25さい OL。[LN]
+      なみこの ゆうじん。[LN]
+      コーポおむろに すんでいる。[LN]
+      18にちのよる12じごろ なみこと[LN]
+      でんわで はなしている。[LN]
+[ED]
+
+
+//POINTER #23 @ $ADF5 - STRING #23 @ $B134
+
+#W16($ADF5)
+    * みたとうりの おばあさん。[LN]
+[ED]
+
+
+//POINTER #24 @ $ADF7 - STRING #24 @ $B14A
+
+#W16($ADF7)
+    * ひょうきんそうな おぼうさん。[LN]
+      じけんとは かんけい なさそう。[LN]
+[ED]
+
+
+//POINTER #25 @ $ADF9 - STRING #25 @ $B17A
+
+#W16($ADF9)
+[ED]
+
+
+//POINTER #26 @ $ADFB - STRING #26 @ $B17B
+
+#W16($ADFB)
+    * アートきかくの しゃいん。[LN]
+      こさわ みのおの どうりょう。[LN]
+[ED]
+
+
+//POINTER #27 @ $ADFD - STRING #27 @ $B1A7
+
+#W16($ADFD)
+    * アートきかくの しゃちょう。[LN]
+[ED]
+
+
+//POINTER #28 @ $ADFF - STRING #28 @ $B1BD
+
+#W16($ADFF)
+    * さがのの けいかん。[LN]
+      おさわけの けいびを している。[LN]
+[ED]
+
+
+//POINTER #29 @ $AE01 - STRING #29 @ $B1E8
+
+#W16($AE01)
+    * しょうこくじの けいびをしている[LN]
+      けいかん。[LN]
+      なみこが おそわれたとき いちばんに[LN]
+      かけつけたらしい。[LN]
+[ED]
+
+
+//POINTER #30 @ $AE03 - STRING #30 @ $B239
+
+#W16($AE03)
+    * ウ゛ィラみやこの かんりにん。[LN]
+      うるさい おっさん。[LN]
+[ED]
+
+
+//POINTER #31 @ $AE05 - STRING #31 @ $B261
+
+#W16($AE05)
+    * しらかわそうの かんりにん。[LN]
+[ED]
+
+
+//POINTER #32 @ $AE07 - STRING #32 @ $B277
+
+#W16($AE07)
+    * うずまさ けいさつしょの けいじ。[LN]
+      かりやけいぶの ゆうじん。[LN]
+[ED]
+
+
+//POINTER #33 @ $AE09 - STRING #33 @ $B2A8
+
+#W16($AE09)
+    * こわそうな おぼうさん。[LN]
+[ED]
+
+
+//POINTER #34 @ $AE0B - STRING #34 @ $B2BD
+
+#W16($AE0B)
+    * おさわけの しゅじい。[LN]
+      せんだいのころから でいりしている。[LN]
+[ED]
+
+
+//POINTER #35 @ $AE0D - STRING #35 @ $B2EC
+
+#W16($AE0D)
+    * バーまいこのママさん。[LN]
+      けっこう いろっぽい。[LN]
+[ED]
+
+
+//POINTER #36 @ $AE0F - STRING #36 @ $B313
+
+#W16($AE0F)
+    * バーまいこの おんなのこ。[LN]
+      こさわ みなおの ガールフレンド。[LN]
+[ED]
+
+
+//POINTER #37 @ $AE11 - STRING #37 @ $B343
+
+#W16($AE11)
+    * カフェ・ド・ミサの マダム。[LN]
+      キャサリンの しりあいで すいりしょうせ[LN]
+      つファン。[LN]
+[ED]
+
+
+//POINTER #38 @ $AE13 - STRING #38 @ $B383
+
+#W16($AE13)
+  なみこ「ここが、わたしと さわおさんとの[LN]
+      さいごの ばしょなんです。[LN]
+      じつは ゆりこと みなこも かれと[LN]
+      つきあっていたんです。[LN]
+      3にんとも かれに むちゅうでした。」[LN]
+[ED]
+
+
+//POINTER #39 @ $AE15 - STRING #39 @ $B3FA
+
+#W16($AE15)
+  なみこ「そして もともと ちの つながりのない[LN]
+      わたしたちは おたがいに にくみあうように[LN]
+      なりました。けっきょく かれは ざいさんが[LN]
+      もくてき だったんです。でも わたしの[LN]
+      きもちは どうにも なりませんでした。」[LN]
+[ED]
+

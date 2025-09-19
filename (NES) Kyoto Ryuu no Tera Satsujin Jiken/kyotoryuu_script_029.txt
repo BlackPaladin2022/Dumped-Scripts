@@ -1,0 +1,252 @@
+//GAME NAME:		
+
+//BLOCK #029 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $BB05 - STRING #0 @ $BB47
+
+#W16($BB05)
+      このじけんも もうすぐ かいけつだ。[LN]
+[ED]
+
+
+//POINTER #1 @ $BB07 - STRING #1 @ $BB64
+
+#W16($BB07)
+    * それでは そうさを ちゅうだんします。[LN]
+[ED]
+
+
+//POINTER #2 @ $BB09 - STRING #2 @ $BB81
+
+#W16($BB09)
+  マダム「じゃあ そうさを つづけて ちょうだい。[LN]
+      また あとでネ・・・。」[LN]
+[ED]
+
+
+//POINTER #3 @ $BB0B - STRING #3 @ $BBB5
+
+#W16($BB0B)
+    * きょうは そこへいっても[LN]
+      なにも てがかりは えられません。[LN]
+      あしたに しましょう。[LN]
+[ED]
+
+
+//POINTER #4 @ $BB0D - STRING #4 @ $BBF4
+
+#W16($BB0D)
+    * へやには かぎが かかっていて[LN]
+      はいれません。[LN]
+[ED]
+
+
+//POINTER #5 @ $BB0F - STRING #5 @ $BC1B
+
+#W16($BB0F)
+  かりや「そんなこと してるばあいですか！」[LN]
+[ED]
+
+
+//POINTER #6 @ $BB11 - STRING #6 @ $BC36
+
+#W16($BB11)
+  かりや「どこへ いくのか しりませんが、[LN]
+      もうすこし、ここで ねばったほうが[LN]
+      いいんじゃ ないでしょうか・・・。」[LN]
+[ED]
+
+
+//POINTER #7 @ $BB13 - STRING #7 @ $BC86
+
+#W16($BB13)
+キャサリン「あらっ どこへいくの[LN]
+      まだ はなしは おわってないのよ。」[LN]
+[ED]
+
+
+//POINTER #8 @ $BB15 - STRING #8 @ $BCB3
+
+#W16($BB15)
+      [name]はじけんについて かんがえた。[LN]
+[ED]
+
+
+//POINTER #9 @ $BB17 - STRING #9 @ $BCCD
+
+#W16($BB17)
+      [name]は しょうこひんについて[LN]
+      かんがえてみた。[LN]
+[ED]
+
+
+//POINTER #10 @ $BB19 - STRING #10 @ $BCF2
+
+#W16($BB19)
+    * くるまのキーを とりました。[LN]
+[ED]
+
+
+//POINTER #11 @ $BB1B - STRING #11 @ $BD08
+
+#W16($BB1B)
+    * かぎを とりました。[LN]
+[ED]
+
+
+//POINTER #12 @ $BB1D - STRING #12 @ $BD1B
+
+#W16($BB1D)
+    * メモを とりました。[LN]
+[ED]
+
+
+//POINTER #13 @ $BB1F - STRING #13 @ $BD2D
+
+#W16($BB1F)
+    * かみきれを とりました。[LN]
+[ED]
+
+
+//POINTER #14 @ $BB21 - STRING #14 @ $BD41
+
+#W16($BB21)
+    * アルバムを とりました。[LN]
+[ED]
+
+
+//POINTER #15 @ $BB23 - STRING #15 @ $BD56
+
+#W16($BB23)
+    * カセットを とりました。[LN]
+[ED]
+
+
+//POINTER #16 @ $BB25 - STRING #16 @ $BD6A
+
+#W16($BB25)
+    * みなこのしゃしんを とりました。[LN]
+[ED]
+
+
+//POINTER #17 @ $BB27 - STRING #17 @ $BD82
+
+#W16($BB27)
+    * なみこのしゃしんを とりました。[LN]
+[ED]
+
+
+//POINTER #18 @ $BB29 - STRING #18 @ $BD9A
+
+#W16($BB29)
+    * なおこのしゃしんを とりました。[LN]
+[ED]
+
+
+//POINTER #19 @ $BB2B - STRING #19 @ $BDB2
+
+#W16($BB2B)
+    * みなおのしゃしんを とりました。[LN]
+[ED]
+
+
+//POINTER #20 @ $BB2D - STRING #20 @ $BDCA
+
+#W16($BB2D)
+    * そうさを やめるのなら、[LN]
+      カフェ・ド・ミサの マダムのところへ[LN]
+      いきましょう。[LN]
+[ED]
+
+
+//POINTER #21 @ $BB2F - STRING #21 @ $BE07
+
+#W16($BB2F)
+    * はなびらの しゃしんを とりました。[LN]
+[ED]
+
+
+//POINTER #22 @ $BB31 - STRING #22 @ $BE22
+
+#W16($BB31)
+    * まだ そういう じきでは ありません。[LN]
+[ED]
+
+
+//POINTER #23 @ $BB33 - STRING #23 @ $BE40
+
+#W16($BB33)
+    * かんがえごとが あるのなら[LN]
+      じぶんのへやへ もどりましょう。[LN]
+[ED]
+
+
+//POINTER #24 @ $BB35 - STRING #24 @ $BE72
+
+#W16($BB35)
+    * もらいものの おかしです。[LN]
+      たぶん、おまんじゅうか なにかでしょう。[LN]
+[ED]
+
+
+//POINTER #25 @ $BB37 - STRING #25 @ $BEA6
+
+#W16($BB37)
+    * このひとに そんなものを みせても[LN]
+      なにも おしえて くれません。[LN]
+[ED]
+
+
+//POINTER #26 @ $BB39 - STRING #26 @ $BED5
+
+#W16($BB39)
+     「わたしの じゅうしょを きいて[LN]
+      どうするんですか・・・。」[LN]
+[ED]
+
+
+//POINTER #27 @ $BB3B - STRING #27 @ $BF03
+
+#W16($BB3B)
+     「・・・いつの アリバイですか・・・？」[LN]
+[ED]
+
+
+//POINTER #28 @ $BB3D - STRING #28 @ $BF20
+
+#W16($BB3D)
+    * おかしを とりました。[LN]
+[ED]
+
+
+//POINTER #29 @ $BB3F - STRING #29 @ $BF33
+
+#W16($BB3F)
+  マダム「あらっ、もう やめちゃうの？」[LN]
+[ED]
+
+
+//POINTER #30 @ $BB41 - STRING #30 @ $BF4B
+
+#W16($BB41)
+  マダム「それじゃ だいじなことを いうから[LN]
+      ちゃんと メモしておいてネ。」[LN]
+[ED]
+
+
+//POINTER #31 @ $BB43 - STRING #31 @ $BF7E
+
+#W16($BB43)
+  マダム「どうも おつかれさまでした。」[LN]
+[ED]
+
+
+//POINTER #32 @ $BB45 - STRING #32 @ $BF98
+
+#W16($BB45)
+  およね「うちのひとやったら へやにいますわ。[LN]
+      がんこな おっさん ですけど、[LN]
+      てみやげの ひとつでも もっていったら[LN]
+      きげんが ようなる おもいまっせ。」[LN]
+[ED]
+

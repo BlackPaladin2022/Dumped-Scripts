@@ -1,0 +1,553 @@
+//GAME NAME:		
+
+//BLOCK #025 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $A5A7 - STRING #0 @ $A63F
+
+#W16($A5A7)
+    * さくらも いまが みごろです。[LN]
+[ED]
+
+
+//POINTER #1 @ $A5A9 - STRING #1 @ $A659
+
+#W16($A5A9)
+    * けいだいでの ちゅういがきです。[LN]
+[ED]
+
+
+//POINTER #2 @ $A5AB - STRING #2 @ $A675
+
+#W16($A5AB)
+    * なにか さがしもの ですか？[LN]
+[ED]
+
+
+//POINTER #3 @ $A5AD - STRING #3 @ $A68D
+
+#W16($A5AD)
+    * いままでに かいた、ゲームのシナリオです。[LN]
+[ED]
+
+
+//POINTER #4 @ $A5AF - STRING #4 @ $A6AD
+
+#W16($A5AF)
+ [LN]
+[ED]
+
+
+//POINTER #5 @ $A5B1 - STRING #5 @ $A6B0
+
+#W16($A5B1)
+    * ジャスミンの はなです。[LN]
+[ED]
+
+
+//POINTER #6 @ $A5B3 - STRING #6 @ $A6C6
+
+#W16($A5B3)
+    * かなり たかそうな つぼです。[LN]
+      さわらないほうが いいようです。[LN]
+[ED]
+
+
+//POINTER #7 @ $A5B5 - STRING #7 @ $A6F8
+
+#W16($A5B5)
+    * めぼしい ものは おちていません。[LN]
+[ED]
+
+
+//POINTER #8 @ $A5B7 - STRING #8 @ $A712
+
+#W16($A5B7)
+    * つくえというか テーブルというか・・・[LN]
+[ED]
+
+
+//POINTER #9 @ $A5B9 - STRING #9 @ $A72E
+
+#W16($A5B9)
+    * レコードです。[LN]
+      ジャズがおおいようです。[LN]
+      チャーリー・パーカー、バド・パウェル、[LN]
+      セロニアス・モンク、マイルス・デイビス[LN]
+      ・・・。[LN]
+[ED]
+
+
+//POINTER #10 @ $A5BB - STRING #10 @ $A79B
+
+#W16($A5BB)
+    * ほんが ならんでいます。[LN]
+      ルルー、ドイル、チェスタートンなどです。[LN]
+[ED]
+
+
+//POINTER #11 @ $A5BD - STRING #11 @ $A7CF
+
+#W16($A5BD)
+ [LN]
+[ED]
+
+
+//POINTER #12 @ $A5BF - STRING #12 @ $A7D2
+
+#W16($A5BF)
+[ED]
+
+
+//POINTER #13 @ $A5C1 - STRING #13 @ $A7D3
+
+#W16($A5C1)
+    * ヒョウショウジョウ・・・というやつです。[LN]
+[ED]
+
+
+//POINTER #14 @ $A5C3 - STRING #14 @ $A7F1
+
+#W16($A5C3)
+    * かってに しらべて いいものか どうか。[LN]
+[ED]
+
+
+//POINTER #15 @ $A5C5 - STRING #15 @ $A80F
+
+#W16($A5C5)
+    * かきかけの げんこうなどが[LN]
+      ちらばってます。[LN]
+[ED]
+
+
+//POINTER #16 @ $A5C7 - STRING #16 @ $A837
+
+#W16($A5C7)
+    * ロッカーには かぎが かかっています。[LN]
+[ED]
+
+
+//POINTER #17 @ $A5C9 - STRING #17 @ $A854
+
+#W16($A5C9)
+    * ほこりが たまっています。[LN]
+[ED]
+
+
+//POINTER #18 @ $A5CB - STRING #18 @ $A86A
+
+#W16($A5CB)
+    * けっこう ざこうが たかいようです。[LN]
+[ED]
+
+
+//POINTER #19 @ $A5CD - STRING #19 @ $A887
+
+#W16($A5CD)
+    * キッチンに めんした まどです。[LN]
+[ED]
+
+
+//POINTER #20 @ $A5CF - STRING #20 @ $A8A1
+
+#W16($A5CF)
+    * おおきな まどです。[LN]
+      とびおりて みますか？[LN]
+[ED]
+
+
+//POINTER #21 @ $A5D1 - STRING #21 @ $A8C8
+
+#W16($A5D1)
+ [LN]
+[ED]
+
+
+//POINTER #22 @ $A5D3 - STRING #22 @ $A8CB
+
+#W16($A5D3)
+    * ほんが たくさん ならんでいます。[LN]
+[ED]
+
+
+//POINTER #23 @ $A5D5 - STRING #23 @ $A8E6
+
+#W16($A5D5)
+    * カセットテープレコーダーです。[LN]
+[ED]
+
+
+//POINTER #24 @ $A5D7 - STRING #24 @ $A900
+
+#W16($A5D7)
+ [LN]
+[ED]
+
+
+//POINTER #25 @ $A5D9 - STRING #25 @ $A903
+
+#W16($A5D9)
+    * およねさんの ドレッサーです。[LN]
+[ED]
+
+
+//POINTER #26 @ $A5DB - STRING #26 @ $A91C
+
+#W16($A5DB)
+    * おもしろそうな ばんぐみは[LN]
+      やってないようですが・・・。[LN]
+[ED]
+
+
+//POINTER #27 @ $A5DD - STRING #27 @ $A94A
+
+#W16($A5DD)
+    * つくえというよりは、ちゃぶだいと いった[LN]
+      かんじです。[LN]
+[ED]
+
+
+//POINTER #28 @ $A5DF - STRING #28 @ $A977
+
+#W16($A5DF)
+     *ほんや アルバムが ならんでいます。[LN]
+[ED]
+
+
+//POINTER #29 @ $A5E1 - STRING #29 @ $A994
+
+#W16($A5E1)
+     *ファミコンです。[LN]
+      ゲームソフトもかなりあります。[LN]
+[ED]
+
+
+//POINTER #30 @ $A5E3 - STRING #30 @ $A9BC
+
+#W16($A5E3)
+ [LN]
+[ED]
+
+
+//POINTER #31 @ $A5E5 - STRING #31 @ $A9BF
+
+#W16($A5E5)
+ [LN]
+[ED]
+
+
+//POINTER #32 @ $A5E7 - STRING #32 @ $A9C2
+
+#W16($A5E7)
+    * エレベーターです。[LN]
+[ED]
+
+
+//POINTER #33 @ $A5E9 - STRING #33 @ $A9D5
+
+#W16($A5E9)
+ [LN]
+[ED]
+
+
+//POINTER #34 @ $A5EB - STRING #34 @ $A9D8
+
+#W16($A5EB)
+    * タイマーつきの クーラーです。[LN]
+[ED]
+
+
+//POINTER #35 @ $A5ED - STRING #35 @ $A9F0
+
+#W16($A5ED)
+    * ブラインドです。[LN]
+      あけると ひがしやまが いちぼうできます。[LN]
+[ED]
+
+
+//POINTER #36 @ $A5EF - STRING #36 @ $AA23
+
+#W16($A5EF)
+    * インターホンです。[LN]
+[ED]
+
+
+//POINTER #37 @ $A5F1 - STRING #37 @ $AA35
+
+#W16($A5F1)
+じゅうにん「だれでっかー！[LN]
+      おもてで ごそごそしてんのは・・・！」[LN]
+[ED]
+
+
+//POINTER #38 @ $A5F3 - STRING #38 @ $AA64
+
+#W16($A5F3)
+ [LN]
+[ED]
+
+
+//POINTER #39 @ $A5F5 - STRING #39 @ $AA67
+
+#W16($A5F5)
+    * マンホールのふたです。[LN]
+      なかに はいりますか。[LN]
+[ED]
+
+
+//POINTER #40 @ $A5F7 - STRING #40 @ $AA8D
+
+#W16($A5F7)
+ [LN]
+[ED]
+
+
+//POINTER #41 @ $A5F9 - STRING #41 @ $AA90
+
+#W16($A5F9)
+ [LN]
+[ED]
+
+
+//POINTER #42 @ $A5FB - STRING #42 @ $AA93
+
+#W16($A5FB)
+    * しゃちょうの つくえです。[LN]
+[ED]
+
+
+//POINTER #43 @ $A5FD - STRING #43 @ $AAA9
+
+#W16($A5FD)
+    * ペンたてです。[LN]
+[ED]
+
+
+//POINTER #44 @ $A5FF - STRING #44 @ $AABA
+
+#W16($A5FF)
+ [LN]
+[ED]
+
+
+//POINTER #45 @ $A601 - STRING #45 @ $AABA
+
+#W16($A601)
+ [LN]
+[ED]
+
+
+//POINTER #46 @ $A603 - STRING #46 @ $AABD
+
+#W16($A603)
+    * ぶつだんです。[LN]
+[ED]
+
+
+//POINTER #47 @ $A605 - STRING #47 @ $AACF
+
+#W16($A605)
+    * これが ゆうめいな りゅうのまつです。[LN]
+[ED]
+
+
+//POINTER #48 @ $A607 - STRING #48 @ $AAEC
+
+#W16($A607)
+    * きょうは 4がつ 16にちです。[LN]
+[ED]
+
+
+//POINTER #49 @ $A609 - STRING #49 @ $AB06
+
+#W16($A609)
+    * きょうは 4がつ 17にちです。[LN]
+[ED]
+
+
+//POINTER #50 @ $A60B - STRING #50 @ $AB20
+
+#W16($A60B)
+    * きょうは 4がつ 18にちです。[LN]
+[ED]
+
+
+//POINTER #51 @ $A60D - STRING #51 @ $AB3A
+
+#W16($A60D)
+    * きょうは 4がつ 19にちです。[LN]
+[ED]
+
+
+//POINTER #52 @ $A60F - STRING #52 @ $AB54
+
+#W16($A60F)
+    * きょうは 4がつ 20にちです。[LN]
+[ED]
+
+
+//POINTER #53 @ $A611 - STRING #53 @ $AB6E
+
+#W16($A611)
+    * きょうは 4がつ 21にちです。[LN]
+[ED]
+
+
+//POINTER #54 @ $A613 - STRING #54 @ $AB88
+
+#W16($A613)
+    * きょうは 4がつ 22にちです。[LN]
+[ED]
+
+
+//POINTER #55 @ $A615 - STRING #55 @ $ABA2
+
+#W16($A615)
+    * きょうは 4がつ 23にちです。[LN]
+[ED]
+
+
+//POINTER #56 @ $A617 - STRING #56 @ $ABBC
+
+#W16($A617)
+    * まだ なにも きくことは ありません。[LN]
+[ED]
+
+
+//POINTER #57 @ $A619 - STRING #57 @ $ABD8
+
+#W16($A619)
+    * とってはいけません。[LN]
+[ED]
+
+
+//POINTER #58 @ $A61B - STRING #58 @ $ABEA
+
+#W16($A61B)
+ [LN]
+[ED]
+
+
+//POINTER #59 @ $A61D - STRING #59 @ $ABED
+
+#W16($A61D)
+    * みたところ とるような ものは[LN]
+      ないようです。[LN]
+[ED]
+
+
+//POINTER #60 @ $A61F - STRING #60 @ $AC13
+
+#W16($A61F)
+    * ここで そんなことをしても[LN]
+      じかんの むだです。[LN]
+[ED]
+
+
+//POINTER #61 @ $A621 - STRING #61 @ $AC3D
+
+#W16($A621)
+    * とくに じけんとは かんけい ありません。[LN]
+[ED]
+
+
+//POINTER #62 @ $A623 - STRING #62 @ $AC5B
+
+#W16($A623)
+ [LN]
+[ED]
+
+
+//POINTER #63 @ $A625 - STRING #63 @ $AC5E
+
+#W16($A625)
+ [LN]
+[ED]
+
+
+//POINTER #64 @ $A627 - STRING #64 @ $AC61
+
+#W16($A627)
+    * わかい じょせいの したいです。[LN]
+      まだ あたたかみが のこっています。[LN]
+[ED]
+
+
+//POINTER #65 @ $A629 - STRING #65 @ $AC96
+
+#W16($A629)
+ [LN]
+[ED]
+
+
+//POINTER #66 @ $A62B - STRING #66 @ $AC99
+
+#W16($A62B)
+    * しらべるにも カギが かかっています。[LN]
+[ED]
+
+
+//POINTER #67 @ $A62D - STRING #67 @ $ACB7
+
+#W16($A62D)
+    * カレンダーです。[LN]
+[ED]
+
+
+//POINTER #68 @ $A62F - STRING #68 @ $ACC9
+
+#W16($A62F)
+    * さくらの だいもん です。[LN]
+[ED]
+
+
+//POINTER #69 @ $A631 - STRING #69 @ $ACE0
+
+#W16($A631)
+    * たくじょう カレンダーの 15にちの[LN]
+      ところが やぶれています。[LN]
+[ED]
+
+
+//POINTER #70 @ $A633 - STRING #70 @ $AD12
+
+#W16($A633)
+    * これは みとりずです。[LN]
+[ED]
+
+
+//POINTER #71 @ $A635 - STRING #71 @ $AD27
+
+#W16($A635)
+    * だいとくじ とかいてあります。[LN]
+      このおくに さんげんいんが あります。[LN]
+[ED]
+
+
+//POINTER #72 @ $A637 - STRING #72 @ $AD5C
+
+#W16($A637)
+    * はいざらのようです。[LN]
+[ED]
+
+
+//POINTER #73 @ $A639 - STRING #73 @ $AD70
+
+#W16($A639)
+    * なかなか かんじのいい バーです。[LN]
+[ED]
+
+
+//POINTER #74 @ $A63B - STRING #74 @ $AD8C
+
+#W16($A63B)
+    * うずまさ けいさつしょ とかいてあります。[LN]
+[ED]
+
+
+//POINTER #75 @ $A63D - STRING #75 @ $ADAA
+
+#W16($A63D)
+    * こうつうあんぜんの だるまさんです。[LN]
+[ED]
+
