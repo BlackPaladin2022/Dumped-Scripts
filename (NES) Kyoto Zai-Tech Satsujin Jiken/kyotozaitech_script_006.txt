@@ -1,0 +1,99 @@
+//GAME NAME:		
+
+//BLOCK #006 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $1DC0D - STRING #0 @ $1DC2D
+
+#W16($1DC0D)
+かりや[FD]
+
+
+//POINTER #1 @ $1DC0F - STRING #1 @ $1DC31
+
+#W16($1DC0F)
+なつこ「[FD]
+
+
+//POINTER #2 @ $1DC11 - STRING #2 @ $1DC36
+
+#W16($1DC11)
+つゆぐち[FD]
+
+
+//POINTER #3 @ $1DC13 - STRING #3 @ $1DC3B
+
+#W16($1DC13)
+きょうこ[FD]
+
+
+//POINTER #4 @ $1DC15 - STRING #4 @ $1DC40
+
+#W16($1DC15)
+でんわ[FD]
+
+
+//POINTER #5 @ $1DC17 - STRING #5 @ $1DC44
+
+#W16($1DC17)
+ゆみこ[FD]
+
+
+//POINTER #6 @ $1DC19 - STRING #6 @ $1DC48
+
+#W16($1DC19)
+にしかわ[FD]
+
+
+//POINTER #7 @ $1DC1B - STRING #7 @ $1DC4D
+
+#W16($1DC1B)
+ビリヤード[FD]
+
+
+//POINTER #8 @ $1DC1D - STRING #8 @ $1DC53
+
+#W16($1DC1D)
+みなみ[FD]
+
+
+//POINTER #9 @ $1DC1F - STRING #9 @ $1DC57
+
+#W16($1DC1F)
+マンション[FD]
+
+
+//POINTER #10 @ $1DC21 - STRING #10 @ $1DC5D
+
+#W16($1DC21)
+わたし[FD]
+
+
+//POINTER #11 @ $1DC23 - STRING #11 @ $1DC61
+
+#W16($1DC23)
+・・・[FD]
+
+
+//POINTER #12 @ $1DC25 - STRING #12 @ $1DC65
+
+#W16($1DC25)
+かりや「[FD]
+
+
+//POINTER #13 @ $1DC27 - STRING #13 @ $1DC6A
+
+#W16($1DC27)
+はしぐち[FD]
+
+
+//POINTER #14 @ $1DC29 - STRING #14 @ $1DC6F
+
+#W16($1DC29)
+じけん[FD]
+
+
+//POINTER #15 @ $1DC2B - STRING #15 @ $1DC73
+
+#W16($1DC2B)
+」[ED]
+
