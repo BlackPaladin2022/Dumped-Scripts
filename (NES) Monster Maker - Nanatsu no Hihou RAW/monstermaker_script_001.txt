@@ -1,9 +1,9 @@
 //GAME NAME:		Monster Maker: Nanatsu no Hihou (NES)
 
 //BLOCK #001 NAME:		Dialogue Block (RAW) 20010-2400F
-//Block Range: $20917 - $232B4
+//Block Range: $20927 - $232B4
 
-8‚¢_‚Á‚¢‚ ‚·_‚Á212‚È_‚Á94‚ç_‚Á‚Ð‚©‚è‚Ì‚±[ED]
+‚Ð‚©‚è‚Ì‚±[ED]
 
 ‚Ð‚©‚è‚Ì_[ED]
 
@@ -71,15 +71,15 @@ MP‚©J_‚½‚è‚Ü‚¹‚ñ[ED]
 
 ‚È‚©‚Ü‚©J_‚¢‚Á‚ÍK‚¢‚ÄJ‚·[ED]
 
-([[[[[[)‚Í_(7F308B)(7F6877)‚É_‚È‚Á‚½[LN]
-‚Â‚æ‚³‚©J_(7F8077)(7F888A)[LN]
-‚¿‚¦‚©J_(7F8377)(7F888A)[LN]
-(7F5A8B)‚©J_(7F8677)(7F888A)[LN]
-‚¤‚ñ‚©J_(7F8977)(7F888A)[LN]
-HP‚©J_(7F7D77)(7F888A)[ED]
+([[[[[[)‚Í_(ƒŒƒwJƒ‹)(7F6877)‚É_‚È‚Á‚½[LN]
+‚Â‚æ‚³‚©J_(7F8077)(‚ ‚©J‚Á‚½)[LN]
+‚¿‚¦‚©J_(7F8377)(‚ ‚©J‚Á‚½)[LN]
+(‚«‚ÐJ‚ñ)‚©J_(7F8677)(‚ ‚©J‚Á‚½)[LN]
+‚¤‚ñ‚©J_(7F8977)(‚ ‚©J‚Á‚½)[LN]
+HP‚©J_(7F7D77)(‚ ‚©J‚Á‚½)[ED]
 
 [LN]
-MP‚©J_(7F7A77)(7F888A)[ED]
+MP‚©J_(7F7A77)(‚ ‚©J‚Á‚½)[ED]
 
 [LN]
 (7F8C77)‚ð_‚¨‚ÙJ‚¦‚½[ED]
@@ -88,9 +88,9 @@ MP‚©J_(7F7A77)(7F888A)[ED]
 
 ‚ð_‚Â‚©‚¢‚Ü‚·‚©?[ED]
 
-(7FD8A6)(7F838E)‚ð_‚Ý‚Ü‚·‚©?[ED]
+([CLEAR]‚½J‚ê‚Ì_)(ƒXƒeƒCƒc)‚ð_‚Ý‚Ü‚·‚©?[ED]
 
-[CLEAR](7F138B)‚»‚¤‚ÐJ‚µ‚Ü‚·‚©?[ED]
+[CLEAR](‚½J‚ê‚©J_)‚»‚¤‚ÐJ‚µ‚Ü‚·‚©?[ED]
 
 [CLEAR]‚½J‚ê‚ð_‚¢‚ê‚©‚¦‚Ü‚·‚©?[ED]
 
@@ -1215,7 +1215,7 @@ MP‚ÓJ‚»‚­[ED]
 
 [CLEAR]([[[[[[)‚³‚ñ‚É‚Í_‚±‚ê‚ð_(7F018A)[ED]
 
-[CLEAR]‚»‚ê‚ÄJ‚à_‚¢‚¢‚Ì(‚ÄJ‚·‚©)ƒH‚½_?[ED]
+[CLEAR]‚»‚ê‚ÄJ‚à_‚¢‚¢‚Ì(‚ÄJ‚·‚©)?[ED]
 
 [CLEAR]‚È‚É‚ð[LN]
 ‚Ð‚«‚Æ‚è(‚Ü‚µ‚å‚¤)?[ED]
@@ -1474,7 +1474,7 @@ MP‚ÓJ‚»‚­[ED]
 
 1_ƒJ[ƒgJ1_1_1_ƒŒƒwJƒ‹1_MP[ED]
 
-[CLEAR](7F308B)‚©J_‚½‚©‚­‚Ä_‚ ‚È‚½‚É‚Í[LN]
+[CLEAR](ƒŒƒwJƒ‹)‚©J_‚½‚©‚­‚Ä_‚ ‚È‚½‚É‚Í[LN]
 ‚Â‚©‚¢_‚±‚È‚¹‚Ü‚¹‚ñ‚È[ED]
 
 [CLEAR]‚í‚½‚µ‚Í_‚Æ‚«‚ð_‚Â‚©‚³‚ÆJ‚é_‚ÍJ‚ñ‚É‚ñ[LN]
@@ -1519,7 +1519,7 @@ _______‚ÄJ‚ñ‚¯J‚ñ‚ð_‚«‚Á‚Ä(‚­‚½J‚³‚¢)[ED]
 
 ‚µ‚ç‚ÖJ‚Ä‚Ý‚Ü‚·‚©?[ED]
 
-[CLEAR](7F138B)‚µ‚ç‚ÖJ(7F7DA6)[ED]
+[CLEAR](‚½J‚ê‚©J_)‚µ‚ç‚ÖJ(7F7DA6)[ED]
 
 [CLEAR]‚È‚É‚à_‚¨‚©‚µ‚È_‚Æ‚±‚ë‚Í_‚ ‚è‚Ü‚¹‚ñ‚ÄJ‚µ‚½[ED]
 
@@ -1583,7 +1583,7 @@ HP‚©J_‚Í‚ñ‚ÓJ‚ñ‚É‚È‚Á‚½![ED]
 
 ‚Ü‚Ð‚µ‚Ä(7FACA6)[ED]
 
-‚¢‚µ‚É_‚È‚Á‚Ä(7FACA6)‚Ö_[ED]
+‚¢‚µ‚É_‚È‚Á‚Ä(7FACA6)[ED]
 
 [CLEAR](‚¹‚«‚»J‚¤)‚©J_‚¤‚±J‚«‚½J‚µ‚½![ED]
 
@@ -1592,7 +1592,7 @@ HP‚©J_‚Í‚ñ‚ÓJ‚ñ‚É‚È‚Á‚½![ED]
 
 [CLEAR]‚¨‚¢‚Ì‚è‚ð_‚µ‚Ä(7F7CA6)[ED]
 
-[CLEAR](7F138B)‚¨‚¢‚Ì‚è‚ð_‚µ(7F7DA6)[ED]
+[CLEAR](‚½J‚ê‚©J_)‚¨‚¢‚Ì‚è‚ð_‚µ(7F7DA6)[ED]
 
 [CLEAR]‚È‚É‚à_‚¨‚±‚ç‚È‚©‚Á‚½[ED]
 
@@ -1617,7 +1617,7 @@ HP‚©J_‚Í‚ñ‚ÓJ‚ñ‚É‚È‚Á‚½![ED]
 [CLEAR]‚í‚©J_‚¿‚©‚ç‚ð_‚Ý‚æ![LN]
 [ED]
 
-[CLEAR]‚Æ‚Â‚¹J‚ñ_([[[[[[)ƒ@‚Ì_‚·J‚µJ‚å‚¤‚É[LN]
+[CLEAR]‚Æ‚Â‚¹J‚ñ_([[[[[[)‚Ì_‚·J‚µJ‚å‚¤‚É[LN]
 ‚©‚Ý‚È‚è‚©J_‚¨‚¿‚½![ED]
 
 [CLEAR](7F5493)‚©J_‚ß‚ð_‚³‚Ü‚µ‚½![ED]
@@ -1692,9 +1692,9 @@ H(C3)M(7F02AA)‚»J[ED]
 [CLEAR]‚µ‚å‚Á‚ÍK‚¢[LN]
 ‚±‚ê‚Í_‚µ‚¨‚Ý‚·J‚½J[ED]
 
-[CLEAR](7F138B)‚Ì(7F7CA6)[ED]
+[CLEAR](‚½J‚ê‚©J_)‚Ì(7F7CA6)[ED]
 
-[CLEAR](7F138B)‚©‚«J(7F7DA6)[ED]
+[CLEAR](‚½J‚ê‚©J_)‚©‚«J(7F7DA6)[ED]
 
 [CLEAR]‚Ð‚à‚©J_1‚ÙK‚ñ_‚ÓJ‚ç‚³‚©J‚Á‚Ä‚¢‚é[LN]
 ‚Ð‚Á‚ÍK‚Á‚Ä_‚Ý‚Ü‚·‚©?[ED]
@@ -1779,7 +1779,7 @@ H(C3)M(7F02AA)‚»J[ED]
 
 [CLEAR]‚à‚µJ‚©J_‚«‚³J‚ñ‚ÄJ‚ ‚è‚Ü‚·_‚æ‚ñ‚ÄJ(7F7CA6)[ED]
 
-[CLEAR](7F138B)‚æ(7F7CA6)[ED]
+[CLEAR](‚½J‚ê‚©J_)‚æ(7F7CA6)[ED]
 
 ([[[[[[)‚Í_‚¹‚«‚Ð‚Ì_‚à‚µJ‚ð_‚æ‚ñ‚½J[ED]
 
@@ -1829,7 +1829,7 @@ H(C3)M(7F02AA)‚»J[ED]
 
 [CLEAR]‚©‚©J‚Ý‚©J_‚ ‚è‚Ü‚·_‚Ì‚»J‚¢‚Ä(7F7CA6)[ED]
 
-[CLEAR](7F138B)‚Ì‚»J‚«(7F7DA6)[ED]
+[CLEAR](‚½J‚ê‚©J_)‚Ì‚»J‚«(7F7DA6)[ED]
 
 [CLEAR]‚©‚©J‚Ý‚É_‚È‚É‚©‚©J_‚¤‚Â‚µ‚½J‚³‚ê‚½[ED]
 
@@ -1837,7 +1837,7 @@ H(C3)M(7F02AA)‚»J[ED]
 
 [CLEAR]‚©‚©J‚Ý‚©J_‚È‚É‚©‚ð_‚¤‚Â‚µ‚½J‚µ‚½[ED]
 
-([[[[[[)‚Í_‚à‚Æ‚Ì_‚·‚©J‚½‚É_‚à‚ÆJ‚Á‚½![ED]
+([[[[[[)ƒCƒ@‚Í_‚à‚Æ‚Ì_‚·‚©J‚½‚É_‚à‚ÆJ‚Á‚½![ED]
 
 ([[[[[[)‚Ì_‚·‚©J‚½‚©J_‚©‚©J‚Ý‚É_‚¤‚Â‚Á‚½[ED]
 
