@@ -1,1 +1,15 @@
 Sometimes, any [ED] will proceed the name inputted by the player at the beginning of the game.  (If no name is selected by the player, the game will display the Japanese word "どうし".  (The location of the default name has not been discovered yet.)
+
+In the second script file, these are text boxes that describes buildings before the player can enter them.  (Press the B Button to see the building's description.
+
+For reference...
+
+[C-UL] = Corner, upper left
+[LN-U] = Horizontal Line, up
+[C-UR] = Corner, upper right
+[L-HL] = Horizontal Line, left
+[Hart] = Heart
+[R-HL] = Horizontal Light, right
+[C-DL] = Corner, down left
+[LN-B] = Horizontal Line, down
+[C-DR] = Corner, down right
