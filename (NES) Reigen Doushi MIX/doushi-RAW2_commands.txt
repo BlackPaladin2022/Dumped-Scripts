@@ -1,0 +1,11 @@
+#GAME NAME:		Reigen Doushi (NES)
+
+#BLOCK NAME:		Dialogue Block (RAW)
+#TYPE:			NORMAL
+#METHOD:		RAW
+#SCRIPT START:		$1F3F9
+#SCRIPT STOP:		$1FA71
+#TABLE:			doushi-outside-jpn001.tbl
+#COMMENTS:		No		//start first line with //
+#END BLOCK				//remainder of comment placement
+					//is handled by control codes
