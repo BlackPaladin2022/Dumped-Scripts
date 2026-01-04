@@ -1,0 +1,43 @@
+//GAME NAME:		
+
+//BLOCK #016 NAME:		Dialogue Block 17 (POINTER_RELATIVE)
+
+//POINTER #0 @ $208 - STRING #0 @ $2B85
+
+#W16($208)
+ここは プラズマスパークです[ED]
+
+
+//POINTER #1 @ $20A - STRING #1 @ $2B98
+
+#W16($20A)
+プラズマスパークは[LN]
+ウルトラの国の たいようなのだ[ED]
+
+
+//POINTER #2 @ $20C - STRING #2 @ $2BB6
+
+#W16($20C)
+プラズマスパークは[LN]
+プラズマエネルギーで かがやいているんだ[ED]
+
+
+//POINTER #3 @ $20E - STRING #3 @ $2BDE
+
+#W16($20E)
+やっぱり あのアストラさんは[LN]
+にせものだったんだ[ED]
+
+
+//POINTER #4 @ $210 - STRING #4 @ $2BFA
+
+#W16($210)
+ウルトラの国の きどうが[LN]
+もとに もどったんですって[ED]
+
+
+//POINTER #5 @ $212 - STRING #5 @ $2C19
+
+#W16($212)
+ほへー たすかったよ[ED]
+

@@ -1,0 +1,66 @@
+//GAME NAME:		
+
+//BLOCK #024 NAME:		Dialogue Block 25 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2B6 - STRING #0 @ $368E
+
+#W16($2B6)
+そのほうこうには だれもいないよ[ED]
+
+
+//POINTER #1 @ $2B8 - STRING #1 @ $36A0
+
+#W16($2B8)
+なにも ありません[ED]
+
+
+//POINTER #2 @ $2BA - STRING #2 @ $36AA
+
+#W16($2BA)
+そのカプセルは いまは つかえないよ[ED]
+
+
+//POINTER #3 @ $2BC - STRING #3 @ $36BE
+
+#W16($2BC)
+ピグモン討の ほうこうへ なにかが[LN]
+とんでいくのを 見たのだが[LN]
+しらべてきてくれ[ED]
+
+
+//POINTER #4 @ $2BE - STRING #4 @ $36EE
+
+#W16($2BE)
+バルタン星人ジュニアに[LN]
+ピグモンのこどもが いじめられている[ED]
+
+
+//POINTER #5 @ $2C0 - STRING #5 @ $3714
+
+#W16($2C0)
+まて！ バルタン星人 わたしが あいてだ！[ED]
+
+
+//POINTER #6 @ $2C2 - STRING #6 @ $372D
+
+#W16($2C2)
+だれだ おまえは！ ウ ウルトラマン！？[ED]
+
+
+//POINTER #7 @ $2C4 - STRING #7 @ $3744
+
+#W16($2C4)
+ち ちくしょうめ・・・[ED]
+
+
+//POINTER #8 @ $2C6 - STRING #8 @ $3750
+
+#W16($2C6)
+力が・・・ ぬける・・・[ED]
+
+
+//POINTER #9 @ $2C8 - STRING #9 @ $375E
+
+#W16($2C8)
+ウルトラマン ウルトラマン！[ED]
+

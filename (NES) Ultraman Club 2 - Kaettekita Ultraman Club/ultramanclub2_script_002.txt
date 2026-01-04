@@ -1,0 +1,51 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
+
+//POINTER #0 @ $9E - STRING #0 @ $ECB
+
+#W16($9E)
+このかいだんは とうぎたいかいに[LN]
+でるときしか つかえないんだ[ED]
+
+
+//POINTER #1 @ $A0 - STRING #1 @ $EEF
+
+#W16($A0)
+ここは [さばくのおしろ]です[ED]
+
+
+//POINTER #2 @ $A2 - STRING #2 @ $F01
+
+#W16($A2)
+ここは 王さまの おへやです[ED]
+
+
+//POINTER #3 @ $A4 - STRING #3 @ $F11
+
+#W16($A4)
+たのむ 月にみずを とりもどしてはくれまいかあなたがたなら できるはずじゃ[ED]
+
+
+//POINTER #4 @ $A6 - STRING #4 @ $F3D
+
+#W16($A6)
+あなたがたは とてもつよいんですってね[LN]
+ボクも まけないように おべんきょうを[LN]
+がんばらなくっちゃ[ED]
+
+
+//POINTER #5 @ $A8 - STRING #5 @ $F75
+
+#W16($A8)
+すごいなぁ はやくぼくも[LN]
+つよくなろうっと おいっちにぃさんし[ED]
+
+
+//POINTER #6 @ $AA - STRING #6 @ $F97
+
+#W16($AA)
+この エレベーターで 2かいに いけますよ[LN]
+このあいだ こっそり エレベーターに[LN]
+のったのが おうさまに ばれちゃった[ED]
+

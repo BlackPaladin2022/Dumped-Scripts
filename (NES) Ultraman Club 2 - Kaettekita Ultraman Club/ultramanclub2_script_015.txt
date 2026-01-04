@@ -1,0 +1,46 @@
+//GAME NAME:		
+
+//BLOCK #015 NAME:		Dialogue Block 16 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1FA - STRING #0 @ $2AA3
+
+#W16($1FA)
+ここは プラズマスパークです[ED]
+
+
+//POINTER #1 @ $1FC - STRING #1 @ $2AB6
+
+#W16($1FC)
+プラズマスパークは[LN]
+ウルトラの国の たいようなのだ[ED]
+
+
+//POINTER #2 @ $1FE - STRING #2 @ $2AD4
+
+#W16($1FE)
+プラズマスパークは[LN]
+プラズマエネルギーで かがやいているんだ[ED]
+
+
+//POINTER #3 @ $200 - STRING #3 @ $2AFC
+
+#W16($200)
+アストラさんは ウルトラ戦士の[LN]
+しごとが ないのかしら[LN]
+いちにち中 あそこに たっているけど[ED]
+
+
+//POINTER #4 @ $202 - STRING #4 @ $2B2E
+
+#W16($202)
+ウルトラベルの ねいろは[LN]
+とても こころが なごむわ[ED]
+
+
+//POINTER #5 @ $204 - STRING #5 @ $2B4C
+
+#W16($204)
+ぶっそうな 地球から にげてきたのに[LN]
+なんで ウルトラの国ごと 地球に[LN]
+むかわなけりゃ ならないんだよ[ED]
+

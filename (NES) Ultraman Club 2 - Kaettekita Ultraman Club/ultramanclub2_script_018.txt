@@ -1,0 +1,40 @@
+//GAME NAME:		
+
+//BLOCK #018 NAME:		Dialogue Block 19 (POINTER_RELATIVE)
+
+//POINTER #0 @ $224 - STRING #0 @ $2D05
+
+#W16($224)
+ごくろうさまでした[ED]
+
+
+//POINTER #1 @ $226 - STRING #1 @ $2D11
+
+#W16($226)
+とうとう やりましたね！[ED]
+
+
+//POINTER #2 @ $228 - STRING #2 @ $2D1E
+
+#W16($228)
+さぁ プラズマスパークに エネルギーを[ED]
+
+
+//POINTER #3 @ $22A - STRING #3 @ $2D36
+
+#W16($22A)
+さすが ウルトラきょうだいですわ[ED]
+
+
+//POINTER #4 @ $22C - STRING #4 @ $2D4A
+
+#W16($22C)
+わたし ほれてしまいそう・・・ポッ[ED]
+
+
+//POINTER #5 @ $22E - STRING #5 @ $2D5D
+
+#W16($22E)
+これで のんびりと くらせるわけだ[LN]
+どーも ありがとよ[ED]
+

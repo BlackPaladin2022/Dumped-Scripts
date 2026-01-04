@@ -1,0 +1,345 @@
+//GAME NAME:		
+
+//BLOCK #029 NAME:		Dialogue Block 30 (POINTER_RELATIVE)
+
+//POINTER #0 @ $7A28 - STRING #0 @ $7A9A
+
+#W16($7A28)
+START[ED]
+
+
+//POINTER #1 @ $7A2A - STRING #1 @ $7AA0
+
+#W16($7A2A)
+CONTINUE[ED]
+
+
+//POINTER #2 @ $7A2C - STRING #2 @ $7AA9
+
+#W16($7A2C)
+こうげき[ED]
+
+
+//POINTER #3 @ $7A2E - STRING #3 @ $7AAF
+
+#W16($7A2E)
+ぼうぎょ[ED]
+
+
+//POINTER #4 @ $7A30 - STRING #4 @ $7AB6
+
+#W16($7A30)
+かいじゅう[ED]
+
+
+//POINTER #5 @ $7A32 - STRING #5 @ $7ABD
+
+#W16($7A32)
+アイテム[ED]
+
+
+//POINTER #6 @ $7A34 - STRING #6 @ $7AC2
+
+#W16($7A34)
+はなす[ED]
+
+
+//POINTER #7 @ $7A36 - STRING #7 @ $7AC6
+
+#W16($7A36)
+にげる[ED]
+
+
+//POINTER #8 @ $7A38 - STRING #8 @ $7ACB
+
+#W16($7A38)
+がんばれ[ED]
+
+
+//POINTER #9 @ $7A3A - STRING #9 @ $7AD2
+
+#W16($7A3A)
+ごくろうさん[ED]
+
+
+//POINTER #10 @ $7A3C - STRING #10 @ $7ADA
+
+#W16($7A3C)
+今だ必殺[ED]
+
+
+//POINTER #11 @ $7A3E - STRING #11 @ $7AE0
+
+#W16($7A3E)
+スペシウム・こうせん[ED]
+
+
+//POINTER #12 @ $7A40 - STRING #12 @ $7AEC
+
+#W16($7A40)
+八っざき・こうりん[ED]
+
+
+//POINTER #13 @ $7A42 - STRING #13 @ $7AF7
+
+#W16($7A42)
+スプリング・こうせん[ED]
+
+
+//POINTER #14 @ $7A44 - STRING #14 @ $7B04
+
+#W16($7A44)
+でんじ・バリア[ED]
+
+
+//POINTER #15 @ $7A46 - STRING #15 @ $7B0F
+
+#W16($7A46)
+エメリウム・こうせん[ED]
+
+
+//POINTER #16 @ $7A48 - STRING #16 @ $7B1A
+
+#W16($7A48)
+アイスラッガ一[ED]
+
+
+//POINTER #17 @ $7A4A - STRING #17 @ $7B23
+
+#W16($7A4A)
+かなしばり・こうせん[ED]
+
+
+//POINTER #18 @ $7A4C - STRING #18 @ $7B2F
+
+#W16($7A4C)
+ワイドショット[ED]
+
+
+//POINTER #19 @ $7A4E - STRING #19 @ $7AE0
+
+#W16($7A4E)
+スペシウム・こうせん[ED]
+
+
+//POINTER #20 @ $7A50 - STRING #20 @ $7AEC
+
+#W16($7A50)
+八っざき・こうりん[ED]
+
+
+//POINTER #21 @ $7A52 - STRING #21 @ $7B38
+
+#W16($7A52)
+りゅうせいキック[ED]
+
+
+//POINTER #22 @ $7A54 - STRING #22 @ $7B41
+
+#W16($7A54)
+フォッグビ一ム[ED]
+
+
+//POINTER #23 @ $7A56 - STRING #23 @ $7B4B
+
+#W16($7A56)
+メタリウム・こうせん[ED]
+
+
+//POINTER #24 @ $7A58 - STRING #24 @ $7B56
+
+#W16($7A58)
+エ一スバリア[ED]
+
+
+//POINTER #25 @ $7A5A - STRING #25 @ $7B5E
+
+#W16($7A5A)
+レッド・ビ一ム[ED]
+
+
+//POINTER #26 @ $7A5C - STRING #26 @ $7B68
+
+#W16($7A5C)
+きゅうしゅう[ED]
+
+
+//POINTER #27 @ $7A5E - STRING #27 @ $7B6F
+
+#W16($7A5E)
+ストリウム・こうせん[ED]
+
+
+//POINTER #28 @ $7A60 - STRING #28 @ $7B7A
+
+#W16($7A60)
+ホ一ン・スマッシュ[ED]
+
+
+//POINTER #29 @ $7A62 - STRING #29 @ $7B84
+
+#W16($7A62)
+ウルトラ・ダイナマイト[ED]
+
+
+//POINTER #30 @ $7A64 - STRING #30 @ $7B91
+
+#W16($7A64)
+リライブ・こうせん[ED]
+
+
+//POINTER #31 @ $7A66 - STRING #31 @ $7B9C
+
+#W16($7A66)
+キング・チョコ[ED]
+
+
+//POINTER #32 @ $7A68 - STRING #32 @ $7BA5
+
+#W16($7A68)
+バラ一ジのいし[ED]
+
+
+//POINTER #33 @ $7A6A - STRING #33 @ $7BAF
+
+#W16($7A6A)
+あかいきのみ[ED]
+
+
+//POINTER #34 @ $7A6C - STRING #34 @ $7BB6
+
+#W16($7A6C)
+カンオケのかぎ[ED]
+
+
+//POINTER #35 @ $7A6E - STRING #35 @ $7BBF
+
+#W16($7A6E)
+カラ一タイマ一[ED]
+
+
+//POINTER #36 @ $7A70 - STRING #36 @ $7BC7
+
+#W16($7A70)
+せんれいのたま[ED]
+
+
+//POINTER #37 @ $7A72 - STRING #37 @ $7BCF
+
+#W16($7A72)
+こわれたかぎ[ED]
+
+
+//POINTER #38 @ $7A74 - STRING #38 @ $7BD7
+
+#W16($7A74)
+ウルトラキ一[ED]
+
+
+//POINTER #39 @ $7A76 - STRING #39 @ $7BDE
+
+#W16($7A76)
+ウルトラマント[ED]
+
+
+//POINTER #40 @ $7A78 - STRING #40 @ $7BE6
+
+#W16($7A78)
+ウルトラブレスレット[ED]
+
+
+//POINTER #41 @ $7A7A - STRING #41 @ $7BF2
+
+#W16($7A7A)
+プラズマエネルギ一[ED]
+
+
+//POINTER #42 @ $7A7C - STRING #42 @ $7BFF
+
+#W16($7A7C)
+モチロン[ED]
+
+
+//POINTER #43 @ $7A7E - STRING #43 @ $7C04
+
+#W16($7A7E)
+サドラ一[ED]
+
+
+//POINTER #44 @ $7A80 - STRING #44 @ $7C0A
+
+#W16($7A80)
+ガバドン[ED]
+
+
+//POINTER #45 @ $7A82 - STRING #45 @ $7C12
+
+#W16($7A82)
+がまくじら[ED]
+
+
+//POINTER #46 @ $7A84 - STRING #46 @ $7C1A
+
+#W16($7A84)
+ウ一[ED]
+
+
+//POINTER #47 @ $7A86 - STRING #47 @ $7C1D
+
+#W16($7A86)
+ブルトン[ED]
+
+
+//POINTER #48 @ $7A88 - STRING #48 @ $7C23
+
+#W16($7A88)
+クレイジ一ゴン[ED]
+
+
+//POINTER #49 @ $7A8A - STRING #49 @ $7C2D
+
+#W16($7A8A)
+テレスドン[ED]
+
+
+//POINTER #50 @ $7A8C - STRING #50 @ $7C34
+
+#W16($7A8C)
+ライブキング[ED]
+
+
+//POINTER #51 @ $7A8E - STRING #51 @ $7C3D
+
+#W16($7A8E)
+ドラコ[ED]
+
+
+//POINTER #52 @ $7A90 - STRING #52 @ $7C42
+
+#W16($7A90)
+ゴモラ[ED]
+
+
+//POINTER #53 @ $7A92 - STRING #53 @ $7C47
+
+#W16($7A92)
+バキシム[ED]
+
+
+//POINTER #54 @ $7A94 - STRING #54 @ $7C4D
+
+#W16($7A94)
+ステ一タス[ED]
+
+
+//POINTER #55 @ $7A96 - STRING #55 @ $7C53
+
+#W16($7A96)
+アイテム[ED]
+
+
+//POINTER #56 @ $7A98 - STRING #56 @ $7C58
+
+#W16($7A98)
+カプセル[ED]
+

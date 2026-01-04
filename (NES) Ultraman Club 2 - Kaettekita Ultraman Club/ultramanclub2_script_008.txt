@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #008 NAME:		Dialogue Block 09 (POINTER_RELATIVE)
+
+//POINTER #0 @ $116 - STRING #0 @ $1845
+
+#W16($116)
+ジョーニアスたいちょうが およびです[LN]
+なにか じゅうような ことらしいので[LN]
+いそいでください[ED]
+

@@ -1,0 +1,10 @@
+//GAME NAME:		
+
+//BLOCK #020 NAME:		Dialogue Block 21 (POINTER_RELATIVE)
+
+//POINTER #0 @ $240 - STRING #0 @ $2E69
+
+#W16($240)
+どくガスが ふきだしてきた！[LN]
+マン「ううっ ちからが ぬける・・・」[ED]
+

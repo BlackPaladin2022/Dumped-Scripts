@@ -1,0 +1,21 @@
+//GAME NAME:		
+
+//BLOCK #013 NAME:		Dialogue Block 14 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1CC - STRING #0 @ $26E2
+
+#W16($1CC)
+とうとう てきの [巨大せんかん]が[LN]
+やってきてしまった！[LN]
+やつらは [キングじょう]の 北まで[LN]
+きてしまっている[NXT]
+
+
+//POINTER #1 @ $1CE - STRING #1 @ $2720
+
+#W16($1CE)
+新マンとエースは すでに[LN]
+巨大せんかんへ のりこんでいった[LN]
+おまえたちも すぐに 新マンたちの[LN]
+あとを おってくれ！[ED]
+

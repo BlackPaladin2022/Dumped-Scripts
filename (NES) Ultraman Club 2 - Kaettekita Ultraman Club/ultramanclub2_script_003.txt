@@ -1,0 +1,58 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		Dialogue Block 04 (POINTER_RELATIVE)
+
+//POINTER #0 @ $AE - STRING #0 @ $FD9
+
+#W16($AE)
+このかいだんは とうぎたいかいに[LN]
+でるときしか つかえないんだ[ED]
+
+
+//POINTER #1 @ $B0 - STRING #1 @ $FFD
+
+#W16($B0)
+ここは [さばくのおしろ]です[ED]
+
+
+//POINTER #2 @ $B2 - STRING #2 @ $100F
+
+#W16($B2)
+ここは 王さまの おへやです[ED]
+
+
+//POINTER #3 @ $B4 - STRING #3 @ $101F
+
+#W16($B4)
+よくやってくれた これで月も[LN]
+ゆたかになっていくだろう[LN]
+こころから れいをいうぞ[NXT]
+
+
+//POINTER #4 @ $B6 - STRING #4 @ $104B
+
+#W16($B6)
+ところで 南東のほうこうに[LN]
+なんと 巨大な うずまきが できたのだが[LN]
+あれはいったい なんであろうのぅ？[ED]
+
+
+//POINTER #5 @ $B8 - STRING #5 @ $1087
+
+#W16($B8)
+月にみずがあふれてるなんて・・・[LN]
+とてもすばらしい ことですね[ED]
+
+
+//POINTER #6 @ $BA - STRING #6 @ $10AB
+
+#W16($BA)
+こんど ぼくにも たたかいかたを[LN]
+おしえてくださいよこの エレベーターで 2かいに いけますよ[ED]
+
+
+//POINTER #7 @ $BC - STRING #7 @ $10C8
+
+#W16($BC)
+この エレベーターで 2かいに いけますよ[ED]
+

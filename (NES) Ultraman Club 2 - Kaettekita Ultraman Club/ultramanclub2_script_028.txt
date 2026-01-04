@@ -1,0 +1,879 @@
+//GAME NAME:		
+
+//BLOCK #028 NAME:		Dialogue Block 29 (POINTER_RELATIVE)
+
+//POINTER #0 @ $6F63 - STRING #0 @ $7087
+
+#W16($6F63)
+マン[ED]
+
+
+//POINTER #1 @ $6F65 - STRING #1 @ $708A
+
+#W16($6F65)
+セブン[ED]
+
+
+//POINTER #2 @ $6F67 - STRING #2 @ $708F
+
+#W16($6F67)
+新マン[ED]
+
+
+//POINTER #3 @ $6F69 - STRING #3 @ $7093
+
+#W16($6F69)
+エ一ス[ED]
+
+
+//POINTER #4 @ $6F6B - STRING #4 @ $7097
+
+#W16($6F6B)
+タロウ[ED]
+
+
+//POINTER #5 @ $6F6D - STRING #5 @ $709B
+
+#W16($6F6D)
+ があらわれた。[ED]
+
+
+//POINTER #6 @ $6F6F - STRING #6 @ $70A5
+
+#W16($6F6F)
+ のこうげき[ED]
+
+
+//POINTER #7 @ $6F71 - STRING #7 @ $70AD
+
+#W16($6F71)
+は ぼうぎょしている！[ED]
+
+
+//POINTER #8 @ $6F73 - STRING #8 @ $70BB
+
+#W16($6F73)
+ はたおれた！！[ED]
+
+
+//POINTER #9 @ $6F75 - STRING #9 @ $70C4
+
+#W16($6F75)
+ のダメ一ジ[ED]
+
+
+//POINTER #10 @ $6F77 - STRING #10 @ $70CD
+
+#W16($6F77)
+こうげきをかわした[ED]
+
+
+//POINTER #11 @ $6F79 - STRING #11 @ $70D8
+
+#W16($6F79)
+はバリア一をはった[ED]
+
+
+//POINTER #12 @ $6F7B - STRING #12 @ $70E3
+
+#W16($6F7B)
+はうごけなくなった[ED]
+
+
+//POINTER #13 @ $6F7D - STRING #13 @ $70EE
+
+#W16($6F7D)
+どくがきえたゾッ[ED]
+
+
+//POINTER #14 @ $6F7F - STRING #14 @ $70FA
+
+#W16($6F7F)
+ヤッタァ！ いきかえったゾッ[ED]
+
+
+//POINTER #15 @ $6F81 - STRING #15 @ $710A
+
+#W16($6F81)
+は にげだした・・・[ED]
+
+
+//POINTER #16 @ $6F83 - STRING #16 @ $7117
+
+#W16($6F83)
+は うごけない・・・[ED]
+
+
+//POINTER #17 @ $6F85 - STRING #17 @ $7123
+
+#W16($6F85)
+は うごけるようになった・・[ED]
+
+
+//POINTER #18 @ $6F87 - STRING #18 @ $7133
+
+#W16($6F87)
+ のこうげき[ED]
+
+
+//POINTER #19 @ $6F89 - STRING #19 @ $713B
+
+#W16($6F89)
+は ほのお を はいた[ED]
+
+
+//POINTER #20 @ $6F8B - STRING #20 @ $7147
+
+#W16($6F8B)
+の れいとう こうげき[ED]
+
+
+//POINTER #21 @ $6F8D - STRING #21 @ $7154
+
+#W16($6F8D)
+の ちょうおんぱ こうげき[ED]
+
+
+//POINTER #22 @ $6F8F - STRING #22 @ $7164
+
+#W16($6F8F)
+は どくガス を ふきかけた[ED]
+
+
+//POINTER #23 @ $6F91 - STRING #23 @ $7175
+
+#W16($6F91)
+は はげしく はばたいた[ED]
+
+
+//POINTER #24 @ $6F93 - STRING #24 @ $7184
+
+#W16($6F93)
+は ひかりを はなった[ED]
+
+
+//POINTER #25 @ $6F95 - STRING #25 @ $7190
+
+#W16($6F95)
+の さいみん こうげき[ED]
+
+
+//POINTER #26 @ $6F97 - STRING #26 @ $719D
+
+#W16($6F97)
+の はかいこうせん[ED]
+
+
+//POINTER #27 @ $6F99 - STRING #27 @ $71A7
+
+#W16($6F99)
+は みかたをよんだ[ED]
+
+
+//POINTER #28 @ $6F9B - STRING #28 @ $71B2
+
+#W16($6F9B)
+の サンダ一ボルト[ED]
+
+
+//POINTER #29 @ $6F9D - STRING #29 @ $71BE
+
+#W16($6F9D)
+は いわをなげなげつけた[ED]
+
+
+//POINTER #30 @ $6F9F - STRING #30 @ $71CD
+
+#W16($6F9F)
+の ミサイルこうげき[ED]
+
+
+//POINTER #31 @ $6FA1 - STRING #31 @ $71D9
+
+#W16($6FA1)
+は じめんをふみつけた[ED]
+
+
+//POINTER #32 @ $6FA3 - STRING #32 @ $71E6
+
+#W16($6FA3)
+は、こうせんをはっした[ED]
+
+
+//POINTER #33 @ $6FA5 - STRING #33 @ $7206
+
+#W16($6FA5)
+は ウルトラマントをみにつけた[ED]
+
+
+//POINTER #34 @ $6FA7 - STRING #34 @ $71F2
+
+#W16($6FA7)
+は ウルトラブレスレットをみにつけた[ED]
+
+
+//POINTER #35 @ $6FA9 - STRING #35 @ $7216
+
+#W16($6FA9)
+は、バラ一ジのいしをつかった[ED]
+
+
+//POINTER #36 @ $6FAB - STRING #36 @ $7227
+
+#W16($6FAB)
+は どくにおかされた[ED]
+
+
+//POINTER #37 @ $6FAD - STRING #37 @ $7233
+
+#W16($6FAD)
+は とんでいってしまった[ED]
+
+
+//POINTER #38 @ $6FAF - STRING #38 @ $7241
+
+#W16($6FAF)
+は めがくらんだ[ED]
+
+
+//POINTER #39 @ $6FB1 - STRING #39 @ $724C
+
+#W16($6FB1)
+は うごけなくなった[ED]
+
+
+//POINTER #40 @ $6FB3 - STRING #40 @ $7258
+
+#W16($6FB3)
+が たすけにきた[ED]
+
+
+//POINTER #41 @ $6FB5 - STRING #41 @ $7262
+
+#W16($6FB5)
+だれもたすけにこなかった[ED]
+
+
+//POINTER #42 @ $6FB7 - STRING #42 @ $7270
+
+#W16($6FB7)
+は、ねぼけている[ED]
+
+
+//POINTER #43 @ $6FB9 - STRING #43 @ $727A
+
+#W16($6FB9)
+は、めがさめた[ED]
+
+
+//POINTER #44 @ $6FBB - STRING #44 @ $7283
+
+#W16($6FBB)
+ の けいけんをえた。[ED]
+
+
+//POINTER #45 @ $6FBD - STRING #45 @ $728F
+
+#W16($6FBD)
+ POINT[ED]
+
+
+//POINTER #46 @ $6FBF - STRING #46 @ $7296
+
+#W16($6FBF)
+ササヒラー[ED]
+
+
+//POINTER #47 @ $6FC1 - STRING #47 @ $72A2
+
+#W16($6FC1)
+キングザウルス[ED]
+
+
+//POINTER #48 @ $6FC3 - STRING #48 @ $729C
+
+#W16($6FC3)
+シーモンス[ED]
+
+
+//POINTER #49 @ $6FC5 - STRING #49 @ $72AC
+
+#W16($6FC5)
+シーゴラス[ED]
+
+
+//POINTER #50 @ $6FC7 - STRING #50 @ $72B3
+
+#W16($6FC7)
+シシゴラン[ED]
+
+
+//POINTER #51 @ $6FC9 - STRING #51 @ $72C1
+
+#W16($6FC9)
+テロチルス[ED]
+
+
+//POINTER #52 @ $6FCB - STRING #52 @ $72BA
+
+#W16($6FCB)
+ガッツ星人[ED]
+
+
+//POINTER #53 @ $6FCD - STRING #53 @ $72C7
+
+#W16($6FCD)
+ペスター[ED]
+
+
+//POINTER #54 @ $6FCF - STRING #54 @ $72CD
+
+#W16($6FCF)
+チブル星人[ED]
+
+
+//POINTER #55 @ $6FD1 - STRING #55 @ $72DD
+
+#W16($6FD1)
+ギガス[ED]
+
+
+//POINTER #56 @ $6FD3 - STRING #56 @ $72D4
+
+#W16($6FD3)
+バルタン・JR[ED]
+
+
+//POINTER #57 @ $6FD5 - STRING #57 @ $72E3
+
+#W16($6FD5)
+ガバドン[ED]
+
+
+//POINTER #58 @ $6FD7 - STRING #58 @ $72EB
+
+#W16($6FD7)
+ヤメタランス[ED]
+
+
+//POINTER #59 @ $6FD9 - STRING #59 @ $72FB
+
+#W16($6FD9)
+ガンダー[ED]
+
+
+//POINTER #60 @ $6FDB - STRING #60 @ $72F2
+
+#W16($6FDB)
+ババルウ星人[ED]
+
+
+//POINTER #61 @ $6FDD - STRING #61 @ $7302
+
+#W16($6FDD)
+ガマクジラ[ED]
+
+
+//POINTER #62 @ $6FDF - STRING #62 @ $730A
+
+#W16($6FDF)
+ギャンゴ[ED]
+
+
+//POINTER #63 @ $6FE1 - STRING #63 @ $7317
+
+#W16($6FE1)
+ギエロン星獣[ED]
+
+
+//POINTER #64 @ $6FE3 - STRING #64 @ $7311
+
+#W16($6FE3)
+ブルトン[ED]
+
+
+//POINTER #65 @ $6FE5 - STRING #65 @ $731F
+
+#W16($6FE5)
+ウー[ED]
+
+
+//POINTER #66 @ $6FE7 - STRING #66 @ $7322
+
+#W16($6FE7)
+プラズマ[ED]
+
+
+//POINTER #67 @ $6FE9 - STRING #67 @ $7330
+
+#W16($6FE9)
+マイナズマ[ED]
+
+
+//POINTER #68 @ $6FEB - STRING #68 @ $7329
+
+#W16($6FEB)
+テレスドン[ED]
+
+
+//POINTER #69 @ $6FED - STRING #69 @ $7337
+
+#W16($6FED)
+きょうりゅうせんしゃ[ED]
+
+
+//POINTER #70 @ $6FEF - STRING #70 @ $7342
+
+#W16($6FEF)
+ムルロア[ED]
+
+
+//POINTER #71 @ $6FF1 - STRING #71 @ $7351
+
+#W16($6FF1)
+ハンザギラン[ED]
+
+
+//POINTER #72 @ $6FF3 - STRING #72 @ $7347
+
+#W16($6FF3)
+クレイジーゴン[ED]
+
+
+//POINTER #73 @ $6FF5 - STRING #73 @ $735A
+
+#W16($6FF5)
+バラバ[ED]
+
+
+//POINTER #74 @ $6FF7 - STRING #74 @ $7360
+
+#W16($6FF7)
+カイマンダー[ED]
+
+
+//POINTER #75 @ $6FF9 - STRING #75 @ $7372
+
+#W16($6FF9)
+バルタック星人[ED]
+
+
+//POINTER #76 @ $6FFB - STRING #76 @ $7368
+
+#W16($6FFB)
+ヒッポリット星人[ED]
+
+
+//POINTER #77 @ $6FFD - STRING #77 @ $737B
+
+#W16($6FFD)
+バキシム[ED]
+
+
+//POINTER #78 @ $6FFF - STRING #78 @ $7381
+
+#W16($6FFF)
+モチロン[ED]
+
+
+//POINTER #79 @ $7001 - STRING #79 @ $738C
+
+#W16($7001)
+アーストロン[ED]
+
+
+//POINTER #80 @ $7003 - STRING #80 @ $7386
+
+#W16($7003)
+サドラー[ED]
+
+
+//POINTER #81 @ $7005 - STRING #81 @ $7393
+
+#W16($7005)
+ゴモラ[ED]
+
+
+//POINTER #82 @ $7007 - STRING #82 @ $7398
+
+#W16($7007)
+オクスター[ED]
+
+
+//POINTER #83 @ $7009 - STRING #83 @ $73A7
+
+#W16($7009)
+バリケーン[ED]
+
+
+//POINTER #84 @ $700B - STRING #84 @ $739E
+
+#W16($700B)
+ライブキング[ED]
+
+
+//POINTER #85 @ $700D - STRING #85 @ $73AE
+
+#W16($700D)
+フィリップ星人[ED]
+
+
+//POINTER #86 @ $700F - STRING #86 @ $73B7
+
+#W16($700F)
+ブラックギラス[ED]
+
+
+//POINTER #87 @ $7011 - STRING #87 @ $73C8
+
+#W16($7011)
+レッドギラス[ED]
+
+
+//POINTER #88 @ $7013 - STRING #88 @ $73C1
+
+#W16($7013)
+エースキラー[ED]
+
+
+//POINTER #89 @ $7015 - STRING #89 @ $73D1
+
+#W16($7015)
+ガスゲゴン[ED]
+
+
+//POINTER #90 @ $7017 - STRING #90 @ $73DA
+
+#W16($7017)
+き[ED]
+
+
+//POINTER #91 @ $7019 - STRING #91 @ $73DC
+
+#W16($7019)
+ツインテール[ED]
+
+
+//POINTER #92 @ $701B - STRING #92 @ $73E3
+
+#W16($701B)
+ドラコ[ED]
+
+
+//POINTER #93 @ $701D - STRING #93 @ $73E8
+
+#W16($701D)
+イダテンラン[ED]
+
+
+//POINTER #94 @ $701F - STRING #94 @ $73F0
+
+#W16($701F)
+コダイゴン[ED]
+
+
+//POINTER #95 @ $7021 - STRING #95 @ $73FC
+
+#W16($7021)
+アントラー[ED]
+
+
+//POINTER #96 @ $7023 - STRING #96 @ $73F8
+
+#W16($7023)
+キーラ[ED]
+
+
+//POINTER #97 @ $7025 - STRING #97 @ $7402
+
+#W16($7025)
+ガバドン[ED]
+
+
+//POINTER #98 @ $7027 - STRING #98 @ $7413
+
+#W16($7027)
+ジャンボキング[ED]
+
+
+//POINTER #99 @ $7029 - STRING #99 @ $740A
+
+#W16($7029)
+キングクラブ[ED]
+
+
+//POINTER #100 @ $702B - STRING #100 @ $741E
+
+#W16($702B)
+タイラント[ED]
+
+
+//POINTER #101 @ $702D - STRING #101 @ $742B
+
+#W16($702D)
+キングジョー[ED]
+
+
+//POINTER #102 @ $702F - STRING #102 @ $7424
+
+#W16($702F)
+エレキング[ED]
+
+
+//POINTER #103 @ $7031 - STRING #103 @ $7434
+
+#W16($7031)
+イカルス星人[ED]
+
+
+//POINTER #104 @ $7033 - STRING #104 @ $7441
+
+#W16($7033)
+ジェロニモン[ED]
+
+
+//POINTER #105 @ $7035 - STRING #105 @ $743B
+
+#W16($7035)
+グドン[ED]
+
+
+//POINTER #106 @ $7037 - STRING #106 @ $7449
+
+#W16($7037)
+レッドキング[ED]
+
+
+//POINTER #107 @ $7039 - STRING #107 @ $7457
+
+#W16($7039)
+ゼットン[ED]
+
+
+//POINTER #108 @ $703B - STRING #108 @ $7452
+
+#W16($703B)
+サターン[ED]
+
+
+//POINTER #109 @ $703D - STRING #109 @ $745D
+
+#W16($703D)
+マグマ星人[ED]
+
+
+//POINTER #110 @ $703F - STRING #110 @ $746A
+
+#W16($703F)
+ヤプール[ED]
+
+
+//POINTER #111 @ $7041 - STRING #111 @ $7464
+
+#W16($7041)
+ギロ星獣[ED]
+
+
+//POINTER #112 @ $7043 - STRING #112 @ $7470
+
+#W16($7043)
+メフィラス星人[ED]
+
+
+//POINTER #113 @ $7045 - STRING #113 @ $747E
+
+#W16($7045)
+テンペラー星人[ED]
+
+
+//POINTER #114 @ $7047 - STRING #114 @ $7478
+
+#W16($7047)
+ガボラ[ED]
+
+
+//POINTER #115 @ $7049 - STRING #115 @ $7487
+
+#W16($7049)
+ベムスター[ED]
+
+
+//POINTER #116 @ $704B - STRING #116 @ $7495
+
+#W16($704B)
+メトロン星人[ED]
+
+
+//POINTER #117 @ $704D - STRING #117 @ $748E
+
+#W16($704D)
+ケンドロス[ED]
+
+
+//POINTER #118 @ $704F - STRING #118 @ $749C
+
+#W16($704F)
+バンドン[ED]
+
+
+//POINTER #119 @ $7051 - STRING #119 @ $74A3
+
+#W16($7051)
+ブラックエンド[ED]
+
+
+//POINTER #120 @ $7053 - STRING #120 @ $74AD
+
+#W16($7053)
+バルタン星人[ED]
+
+
+//POINTER #121 @ $7055 - STRING #121 @ $74B5
+
+#W16($7055)
+バルタン星人ジュニア[ED]
+
+
+//POINTER #122 @ $7057 - STRING #122 @ $74C2
+
+#W16($7057)
+スペシウム・こうせん ！！ ジュワ！[ED]
+
+
+//POINTER #123 @ $7059 - STRING #123 @ $74D7
+
+#W16($7059)
+必殺 八っざき・こうりん！！[ED]
+
+
+//POINTER #124 @ $705B - STRING #124 @ $74E7
+
+#W16($705B)
+スプリング・こうせん ！！[ED]
+
+
+//POINTER #125 @ $705D - STRING #125 @ $74F7
+
+#W16($705D)
+でんじ・バリアァ一一一！！[ED]
+
+
+//POINTER #126 @ $705F - STRING #126 @ $7508
+
+#W16($705F)
+エメリウム・こうせん ！！[ED]
+
+
+//POINTER #127 @ $7061 - STRING #127 @ $7516
+
+#W16($7061)
+ゆけぇ一！！ アイスラッガ一 ！！[ED]
+
+
+//POINTER #128 @ $7063 - STRING #128 @ $7529
+
+#W16($7063)
+うごけなくしてやる！ かなしばり・こうせん[ED]
+
+
+//POINTER #129 @ $7065 - STRING #129 @ $7541
+
+#W16($7065)
+くらえ！！ ワイドショット！！[ED]
+
+
+//POINTER #130 @ $7067 - STRING #130 @ $7552
+
+#W16($7067)
+スペシウム・こうせん ！！！[ED]
+
+
+//POINTER #131 @ $7069 - STRING #131 @ $7562
+
+#W16($7069)
+必殺 八っざきこうりん！！[ED]
+
+
+//POINTER #132 @ $706B - STRING #132 @ $7571
+
+#W16($706B)
+り・ゅ・う・せ・い キ一一一一一ック！！[ED]
+
+
+//POINTER #133 @ $706D - STRING #133 @ $7586
+
+#W16($706D)
+フォッグビ一ム だぁ一一一！！[ED]
+
+
+//POINTER #134 @ $706F - STRING #134 @ $7599
+
+#W16($706F)
+くらえ！！ メタリウム・こうせん！！[ED]
+
+
+//POINTER #135 @ $7071 - STRING #135 @ $75AC
+
+#W16($7071)
+むてきのバリア一ダァッ！ エ一スバリア！！[ED]
+
+
+//POINTER #136 @ $7073 - STRING #136 @ $75C5
+
+#W16($7073)
+必殺 レッド・ビ一一一一一ム ！！[ED]
+
+
+//POINTER #137 @ $7075 - STRING #137 @ $75D9
+
+#W16($7075)
+どくをすいとってやるゾ！！[ED]
+
+
+//POINTER #138 @ $7077 - STRING #138 @ $75E9
+
+#W16($7077)
+ストリウム・こうせん ！！[ED]
+
+
+//POINTER #139 @ $7079 - STRING #139 @ $75F7
+
+#W16($7079)
+ホ一ン・スマッシュ ！！[ED]
+
+
+//POINTER #140 @ $707B - STRING #140 @ $7604
+
+#W16($707B)
+ウルトラ・ダイナマイトォ！ ドォリャ一一一[ED]
+
+
+//POINTER #141 @ $707D - STRING #141 @ $761C
+
+#W16($707D)
+ふっかぁ一ッ！！ リライブ・こうせん！[ED]
+
+
+//POINTER #142 @ $707F - STRING #142 @ $7631
+
+#W16($707F)
+は カプセルをなげた！[ED]
+
+
+//POINTER #143 @ $7081 - STRING #143 @ $763F
+
+#W16($7081)
+が カプセルからあらわれた！[ED]
+
+
+//POINTER #144 @ $7083 - STRING #144 @ $7650
+
+#W16($7083)
+、たのんだゾ！[ED]
+
+
+//POINTER #145 @ $7085 - STRING #145 @ $765A
+
+#W16($7085)
+、よくやった ごくろうさん！[ED]
+
