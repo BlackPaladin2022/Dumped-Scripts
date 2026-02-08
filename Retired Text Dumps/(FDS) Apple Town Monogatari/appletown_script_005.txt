@@ -1,0 +1,76 @@
+//GAME NAME:		
+
+//BLOCK #005 NAME:		Dialogue Block 05 (POINTER_RELATIVE) (Fortune Telling: Horoscope)
+
+//POINTER #0 @ $6CCE - STRING #0 @ $6E15
+
+#W16($6CCE)
+(206B)_(せ)(い)゛(さ)_(う)(ら)(な)(い)_[ED]
+
+
+//POINTER #1 @ $6CD0 - STRING #1 @ $6DD8
+
+#W16($6CD0)
+(20E6)あなたの たんじようび を おしえてね。[ED]
+
+
+//POINTER #2 @ $6CD2 - STRING #2 @ $6DF1
+
+#W16($6CD2)
+(212D)  月   日   [ED]
+
+
+//POINTER #3 @ $6CD4 - STRING #3 @ $6DFE
+
+#W16($6CD4)
+(2186)1 2 3 4 5 6 7 8 9 0 [ED]
+
+
+//POINTER #4 @ $6CD6 - STRING #4 @ $6D4D
+
+#W16($6CD6)
+(20F2)は       [ED]
+
+
+//POINTER #5 @ $6CD8 - STRING #5 @ $6D58
+
+#W16($6CD8)
+(2135)ね？[ED]
+
+
+//POINTER #6 @ $6CDA - STRING #6 @ $6DC2
+
+#W16($6CDA)
+(2186)  はい           いいえ [ED]
+
+
+//POINTER #7 @ $6CDC - STRING #7 @ $6D73
+
+#W16($6CDC)
+(20E6)せいざ うらない は これで おしまい。[LN]
+こんど は おともだち のも うらなって[LN]
+あげよう ね。[LN]
+せいざ うらない を つづけますか？[LN]
+[ED]
+
+
+//POINTER #8 @ $6CDE - STRING #8 @ $6D5D
+
+#W16($6CDE)
+(21E6)  はい           いいえ [ED]
+
+
+//POINTER #9 @ $6CE0 - STRING #9 @ $6CF0
+
+#W16($6CE0)
+(20E6)せいざ は ひ(ほのお)、ち(だいち)[LN]
+みず、かぜ の 4つの グループに[LN]
+わけられるのよ。[LN]
+[ED]
+
+
+//POINTER #10 @ $6CE2 - STRING #10 @ $6CE4
+
+#W16($6CE2)
+(22E6)00月 00日生れ[ED]
+

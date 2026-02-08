@@ -1,0 +1,96 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE) (Fortune Telling: Blood Type)
+
+//POINTER #0 @ $6BAF - STRING #0 @ $6C60
+
+#W16($6BAF)
+(206B)(あ)(い)(し)(ょ)(う)_(う)(ら)(な)(い)[ED]
+
+
+//POINTER #1 @ $6BB1 - STRING #1 @ $6C6D
+
+#W16($6BB1)
+(20E7)あなたの けつえきがたを[LN]
+おしえてね。  [ED]
+
+
+//POINTER #2 @ $6BB3 - STRING #2 @ $6C86
+
+#W16($6BB3)
+(22A7)あなた :  [ED]
+
+
+//POINTER #3 @ $6BB5 - STRING #3 @ $6C9A
+
+#W16($6BB5)
+(20E7)あなたの けつえきがたは[LN]
+  がたね？[ED]
+
+
+//POINTER #4 @ $6BB7 - STRING #4 @ $6CB2
+
+#W16($6BB7)
+(21A7)はい      いいえ[ED]
+
+
+//POINTER #5 @ $6BB9 - STRING #5 @ $6CC0
+
+#W16($6BB9)
+(2187)           [ED]
+
+
+//POINTER #6 @ $6BBB - STRING #6 @ $6C90
+
+#W16($6BBB)
+(22A7)あなた :  [ED]
+
+
+//POINTER #7 @ $6BBD - STRING #7 @ $6C14
+
+#W16($6BBD)
+(20E7)こんど は あいての[LN]
+けつえきがた を[LN]
+おしえてね。[ED]
+
+
+//POINTER #8 @ $6BBF - STRING #8 @ $6C33
+
+#W16($6BBF)
+(22E7)あいて :  [ED]
+
+
+//POINTER #9 @ $6BC1 - STRING #9 @ $6C3D
+
+#W16($6BC1)
+(20E7)あいての けつえきがたは[LN]
+  がた ね？[ED]
+
+
+//POINTER #10 @ $6BC3 - STRING #10 @ $6C56
+
+#W16($6BC3)
+(22E7)あいて :  [ED]
+
+
+//POINTER #11 @ $6BC5 - STRING #11 @ $6BF6
+
+#W16($6BC5)
+(20E7)ほかの ひと との[LN]
+あいしょう を うらない[LN]
+ますか？[ED]
+
+
+//POINTER #12 @ $6BC7 - STRING #12 @ $6BCB
+
+#W16($6BC7)
+(22A7)  がたのひとは[LN]
+こんな せいかく[ED]
+
+
+//POINTER #13 @ $6BC9 - STRING #13 @ $6BE0
+
+#W16($6BC9)
+(22A7)  がたのひと  [LN]
+との あいしょう[ED]
+

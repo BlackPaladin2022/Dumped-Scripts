@@ -1,9 +1,0 @@
-//GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
-
-//BLOCK #002 NAME:		Dialogue Block 01b *GAME OVER: LINE 02* (POINTER_RELATIVE)
-
-//POINTER #0 @ $6BFB - STRING #0 @ $6BFD
-
-#W16($6BFB)
-(21C8)‚¿‚«‚ã‚¤‚Í ‚·‚­‚í‚ê‚È‚©‚Á‚½[ED]
-

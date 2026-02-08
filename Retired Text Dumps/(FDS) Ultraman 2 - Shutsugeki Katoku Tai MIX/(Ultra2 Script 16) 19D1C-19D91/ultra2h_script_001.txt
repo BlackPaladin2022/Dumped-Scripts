@@ -1,0 +1,13 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		Dialogue Block (19D1C-19D91) (POINTER_RELATIVE)
+
+//POINTER #0 @ $19BDC - STRING #0 @ $19D6B
+
+#W16($19BDC)
+(20EA)コントロール セレクト[LN]
+(216A)1[LN]
+(21AA)2[LN]
+(21EA)3[LN]
+(222A)ホンブ ニ モドル[ED]
+

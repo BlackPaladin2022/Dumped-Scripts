@@ -1,0 +1,63 @@
+//GAME NAME:		Ultraman 2: Shutsugeki Katoku Tai (NES)
+
+//BLOCK #006 NAME:		Dialogue Block (RAW)
+//Block Range: $539D - $54F0
+
+(212B)シュツドウ セレクト[LN]
+Dispatch Select
+(21AA)カガクトクソウタイ[LN]
+SSSP
+(21EA)チキュウボウエイグン[LN]
+EDF
+(222A)コントロールセレクト[ED]
+Control Select
+(2127)ー ー カガクトクソウタイ ー ー[LN]
+--SSSP--
+(21A8)タイイン ヲ エランデクダサイ[LN]
+Choose Your Teammate
+(222A)ムラマツ[LN]
+Muramatsu
+(2232)イデ[LN]
+Ide
+(226A)ハヤタ[LN]
+Hayata
+(22AA)アラシ[ED]
+Arashi
+(21AA)ブキ ヲ エランデクダサイ[LN]
+Choose Your Weapon
+(2228)スーパーガン[LN]
+Super Gun
+(2232)スパイダーショット[ED]
+Spider Shot
+(2268)シンヘイキ[ED]
+New Weapon
+(2268)マルス133[ED]
+Mars 133
+(2268)バラージノアオイイシ[ED]
+Blue Stone of Barahji
+(2268)UNGマスイダン[ED]
+UNG Tranquilizer Rounds
+(2268)ペンシルバクダン[ED]
+Pencil Bomb
+(21A9)ノリモノヲ エランデクダサイ[LN]
+Choose Your Vehicle
+(2224)パトロールカー[LN]
+Patrol Car
+(2232)ビートル 1[LN]
+Beetle 1
+(22A4)ビートル 2[LN]
+Beetle 2
+(22B2)ビートル 3[ED]
+Beetle 3
+(2068)タイイン   ブキ  ノリモノ[ED]
+Teammate Weapon Vehicle
+(2128)コントロール セレクト[ED]
+Control Select
+(21A4)ボウエイグン ヲ シュツドウサセマスカ[LN]
+Launch the Defense Force?
+(2228)イエス[LN]
+Yes
+(22A8)ノー[ED]
+No
+(2129)バンゴウ ヲ エランデクダサイ[ED]
+Choose Your Number

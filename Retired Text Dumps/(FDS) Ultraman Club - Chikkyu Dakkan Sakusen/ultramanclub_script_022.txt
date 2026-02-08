@@ -1,0 +1,261 @@
+//GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
+
+//BLOCK #022 NAME:		Dialogue Block 20 (POINTER_RELATIVE)
+
+//POINTER #0 @ $169D9 - STRING #0 @ $1409E
+
+#W16($169D9)
+(02)が[PAUSE]
+あらわれた[ED]
+
+
+//POINTER #1 @ $169DB - STRING #1 @ $140A8
+
+#W16($169DB)
+(02)は はなしかけた[ED]
+
+
+//POINTER #2 @ $169DD - STRING #2 @ $140B2
+
+#W16($169DD)
+(02)は ぼうぎょの[PAUSE]
+かまえをとった[ED]
+
+
+//POINTER #3 @ $169DF - STRING #3 @ $140C5
+
+#W16($169DF)
+(02)の ちょっぷ[ED]
+
+
+//POINTER #4 @ $169E1 - STRING #4 @ $140CE
+
+#W16($169E1)
+(02)の きっく[ED]
+
+
+//POINTER #5 @ $169E3 - STRING #5 @ $140D5
+
+#W16($169E3)
+(02)の こうげき[ED]
+
+
+//POINTER #6 @ $169E5 - STRING #6 @ $140DE
+
+#W16($169E5)
+(02)の こうせん！[ED]
+
+
+//POINTER #7 @ $169E7 - STRING #7 @ $140E7
+
+#W16($169E7)
+(02)の かえん！[ED]
+
+
+//POINTER #8 @ $169E9 - STRING #8 @ $140EF
+
+#W16($169E9)
+(02)の いなずま！[ED]
+
+
+//POINTER #9 @ $169EB - STRING #9 @ $140F9
+
+#W16($169EB)
+(02)の ガス！[ED]
+
+
+//POINTER #10 @ $169ED - STRING #10 @ $14101
+
+#W16($169ED)
+(02)は(03)に[PAUSE]
+カラ~タイマ~を つけた[PAUSE]
+(03)が ふっかつした[ED]
+
+
+//POINTER #11 @ $169EF - STRING #11 @ $1411E
+
+#W16($169EF)
+(02)は(03)に[PAUSE]
+Eカプセルを つけた[PAUSE]
+もうだいじょうぶ[ED]
+
+
+//POINTER #12 @ $169F1 - STRING #12 @ $1413B
+
+#W16($169F1)
+(02)は[PAUSE]
+オ~ラを つかった[PAUSE]
+オ~ラが(03)をつつむ[ED]
+
+
+//POINTER #13 @ $169F3 - STRING #13 @ $14153
+
+#W16($169F3)
+(02)は[PAUSE]
+ウルトラベルを ならした[PAUSE]
+かいじゅうたちは にげだした[ED]
+
+
+//POINTER #14 @ $169F5 - STRING #14 @ $14176
+
+#W16($169F5)
+(02)は[PAUSE]
+キングハンマ~を つかった[PAUSE]
+かいじゅうたちは おとなしくなった[ED]
+
+
+//POINTER #15 @ $169F7 - STRING #15 @ $1419B
+
+#W16($169F7)
+(02)は[PAUSE]
+ウルトラマントを みにつけた[ED]
+
+
+//POINTER #16 @ $169F9 - STRING #16 @ $141AD
+
+#W16($169F9)
+(02)は かまえた[PAUSE]
+(03)こうせん！！[ED]
+
+
+//POINTER #17 @ $169FB - STRING #17 @ $141BD
+
+#W16($169FB)
+マンは かまえた[PAUSE]
+やつざき こうりん！！[ED]
+
+
+//POINTER #18 @ $169FD - STRING #18 @ $141D3
+
+#W16($169FD)
+セブンは かまえた[PAUSE]
+ワイドショット！！[ED]
+
+
+//POINTER #19 @ $169FF - STRING #19 @ $141E9
+
+#W16($169FF)
+セブンは かまえた[PAUSE]
+アイスラッガ~！！[ED]
+
+
+//POINTER #20 @ $16A01 - STRING #20 @ $141FF
+
+#W16($16A01)
+しんマンは かまえた[PAUSE]
+スピンキック！！[ED]
+
+
+//POINTER #21 @ $16A03 - STRING #21 @ $14214
+
+#W16($16A03)
+エ~スは かまえた[PAUSE]
+エ~スバリア！！[ED]
+
+
+//POINTER #22 @ $16A05 - STRING #22 @ $14228
+
+#W16($16A05)
+タロウは かまえた[PAUSE]
+ウルトラ フリ~ザ~！！[ED]
+
+
+//POINTER #23 @ $16A07 - STRING #23 @ $14240
+
+#W16($16A07)
+レオは かまえた[PAUSE]
+クロスビ~ム！！[ED]
+
+
+//POINTER #24 @ $16A09 - STRING #24 @ $14253
+
+#W16($16A09)
+レオは かまえた[PAUSE]
+キリモミキック！！[ED]
+
+
+//POINTER #25 @ $16A0B - STRING #25 @ $14266
+
+#W16($16A0B)
+(02)が いわを[PAUSE]
+(03)に なげつけた[ED]
+
+
+//POINTER #26 @ $16A0D - STRING #26 @ $14278
+
+#W16($16A0D)
+(03)に[PAUSE]
+(04)の ダメ~ジ[ED]
+
+
+//POINTER #27 @ $16A0F - STRING #27 @ $14285
+
+#W16($16A0F)
+(03)は たおれた[ED]
+
+
+//POINTER #28 @ $16A11 - STRING #28 @ $1428D
+
+#W16($16A11)
+しかし あたらなかった......[ED]
+
+
+//POINTER #29 @ $16A13 - STRING #29 @ $1429C
+
+#W16($16A13)
+なにもおきなかった....[ED]
+
+
+//POINTER #30 @ $16A15 - STRING #30 @ $142A8
+
+#W16($16A15)
+(03)は にげだした[ED]
+
+
+//POINTER #31 @ $16A17 - STRING #31 @ $142B3
+
+#W16($16A17)
+(02)たちは にげだした[ED]
+
+
+//POINTER #32 @ $16A19 - STRING #32 @ $142C0
+
+#W16($16A19)
+......にげきった[ED]
+
+
+//POINTER #33 @ $16A1B - STRING #33 @ $142CA
+
+#W16($16A1B)
+......おいつかれた[ED]
+
+
+//POINTER #34 @ $16A1D - STRING #34 @ $142D4
+
+#W16($16A1D)
+(05)を てにいれた[ED]
+
+
+//POINTER #35 @ $16A1F - STRING #35 @ $142DD
+
+#W16($16A1F)
+(03)は こおりついた[ED]
+
+
+//POINTER #36 @ $16A21 - STRING #36 @ $142E7
+
+#W16($16A21)
+(03)の こおりがとけた[ED]
+
+
+//POINTER #37 @ $16A23 - STRING #37 @ $142F3
+
+#W16($16A23)
+(03)を たすけだした[ED]
+
+
+//POINTER #38 @ $16A25 - STRING #38 @ $142FE
+
+#W16($16A25)
+そして なかまに くわえた[ED]
+

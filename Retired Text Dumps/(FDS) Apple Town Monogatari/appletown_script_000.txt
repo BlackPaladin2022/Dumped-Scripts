@@ -1,0 +1,33 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Dialogue Block 01 (POINTER_RELATIVE) (LOADING)
+
+//POINTER #0 @ $2408 - STRING #0 @ $2412
+
+#W16($2408)
+(2574)(C-TL)     (C-TR)[ED]
+
+
+//POINTER #1 @ $240A - STRING #1 @ $241C
+
+#W16($240A)
+(25B4)オマチクタサイ[ED]
+
+
+//POINTER #2 @ $240C - STRING #2 @ $2426
+
+#W16($240C)
+(2594)    ゛  [ED]
+
+
+//POINTER #3 @ $240E - STRING #3 @ $2430
+
+#W16($240E)
+(25D4)       [ED]
+
+
+//POINTER #4 @ $2410 - STRING #4 @ $243A
+
+#W16($2410)
+(25F4)(C-BL)     (C-BR)[ED]
+

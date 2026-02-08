@@ -1,0 +1,13 @@
+//GAME NAME:		
+
+//BLOCK #008 NAME:		539D-54F0 (POINTER_RELATIVE)
+
+//POINTER #0 @ $4E13 - STRING #0 @ $5467
+
+#W16($4E13)
+(21A9)ノリモノヲ エランデクダサイ[LN]
+(2224)パトロールカー[LN]
+(2232)ビートル 1[LN]
+(22A4)ビートル 2[LN]
+(22B2)ビートル 3[ED]
+

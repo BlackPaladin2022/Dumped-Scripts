@@ -1,6 +1,0 @@
-//GAME NAME:		Ultraman 2: Shutsugeki Katoku Tai (NES)
-
-//BLOCK #004 NAME:		Dialogue Block (RAW)
-//Block Range: $458C - $4597
-
-(21A8)ー シーン ー [LN]

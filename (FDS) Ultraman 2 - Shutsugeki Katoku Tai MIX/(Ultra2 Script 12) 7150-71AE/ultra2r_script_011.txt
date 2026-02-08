@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #011 NAME:		Dialogue Block (7150-71AE) (POINTER_RELATIVE)
-
-//POINTER #0 @ $714D - STRING #0 @ $71A2
-
-#W16($714D)
-(2067)メフィラスセイジン[ED]
-

@@ -1,0 +1,27 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $51E8 - STRING #0 @ $51F0
+
+#W16($51E8)
+シ゛ェイルワールト゛[ED]
+
+
+//POINTER #1 @ $51EA - STRING #1 @ $51FB
+
+#W16($51EA)
+ライテ゛ンワールト゛[ED]
+
+
+//POINTER #2 @ $51EC - STRING #2 @ $5206
+
+#W16($51EC)
+エースワールト゛[ED]
+
+
+//POINTER #3 @ $51EE - STRING #3 @ $520F
+
+#W16($51EE)
+セ゛ノンワールト゛[ED]
+

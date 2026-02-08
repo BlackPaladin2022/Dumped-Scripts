@@ -1,0 +1,17 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $195C7 - STRING #0 @ $195CB
+
+#W16($195C7)
+(20)アイテム スクリーン セレクト[LN]
+ユA ー イエス    B ー ノー[ED]
+
+
+//POINTER #1 @ $195C9 - STRING #1 @ $195EF
+
+#W16($195C9)
+(20)ホンブ ニ モドル[LN]
+ユA ー イエス    B ー ノー[ED]
+

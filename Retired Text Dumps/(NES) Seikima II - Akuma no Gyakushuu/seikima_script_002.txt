@@ -1,0 +1,99 @@
+//GAME NAME:		Final Fantasy 1 (NES)
+
+//BLOCK #002 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $52D5 - STRING #0 @ $5360
+
+#W16($52D5)
+ÉnÅJÉJÇ»Ç±Ç∆ÇÇ∑ÇÈÇ»[ED]
+
+
+//POINTER #1 @ $52D7 - STRING #1 @ $536B
+
+#W16($52D7)
+Ç¢ÇøÇ©ÇÁÇƒÅJÇ»Ç®Çπ[ED]
+
+
+//POINTER #2 @ $52D9 - STRING #2 @ $5375
+
+#W16($52D9)
+Ç®Ç‹Ç¶Ç‡ÇÎÇ§Ç…ÇÒÇ´ÅJÇÂÇ§Ç…ÇµÇƒÇ‚ÇÈÇªÅJÅIÅI[ED]
+
+
+//POINTER #3 @ $52DB - STRING #3 @ $538B
+
+#W16($52DB)
+Ç†Ç´ÇÍÇƒÇ‡ÇÃÇ‡Ç¢Ç¶ÇÒÇÌ[ED]
+
+
+//POINTER #4 @ $52DD - STRING #4 @ $5397
+
+#W16($52DD)
+ÇÃÇÎÇÌÇÍÇÈÇªÅJ[ED]
+
+
+//POINTER #5 @ $52DF - STRING #5 @ $5324
+
+#W16($52DF)
+Ç´ÇÂÇ§ÇÕÇ–Ç∆Ç‹Ç∑ÅJÇÀÇÎ[ED]
+
+
+//POINTER #6 @ $52E1 - STRING #6 @ $5330
+
+#W16($52E1)
+[5C][5D][5E][5F]ÇÃÉÅÉìÉnÅJÅ[ÇÇπÅJÇÒÇ”ÅJÇ®ÇŸÅJÇ¶ÇÎ[ED]
+
+
+//POINTER #7 @ $52E3 - STRING #7 @ $5346
+
+#W16($52E3)
+Ç†Ç´ÇÁÇﬂÇÈÇ»[ED]
+
+
+//POINTER #8 @ $52E5 - STRING #8 @ $534D
+
+#W16($52E5)
+Ç©Ç»ÇÁÇ∑ÅJÉ~ÉTÇ÷Ç±Ç¢[ED]
+
+
+//POINTER #9 @ $52E7 - STRING #9 @ $5358
+
+#W16($52E7)
+ÇÃÇÎÇÃÇÎÇ∑ÇÈÇ»[ED]
+
+
+//POINTER #10 @ $52E9 - STRING #10 @ $52F5
+
+#W16($52E9)
+ÇŸÇﬂÇƒÇ¬Ç©ÇÌÇ∑[ED]
+
+
+//POINTER #11 @ $52EB - STRING #11 @ $52FD
+
+#W16($52EB)
+ÇµÇÒÇµÅJÇ·Ç…ÇµÇƒÇ‚ÇÈ[ED]
+
+
+//POINTER #12 @ $52ED - STRING #12 @ $5308
+
+#W16($52ED)
+ÇΩÇ¢ÇµÇΩÇ‡ÇÃÇΩÅJ[ED]
+
+
+//POINTER #13 @ $52EF - STRING #13 @ $5311
+
+#W16($52EF)
+Ç±ÇÒÇµÅJÇÂÇ§Ç©ÅJÇ†ÇÈÇ»[ED]
+
+
+//POINTER #14 @ $52F1 - STRING #14 @ $531D
+
+#W16($52F1)
+Ç§ÇÈÇ≥Ç¢ÇªÅJ[ED]
+
+
+//POINTER #15 @ $52F3 - STRING #15 @ $539F
+
+#W16($52F3)
+Ç†Ç≠Ç‹Ç©ÅJÇ´ÇΩÇËÇƒÉwÉqÅJÉÅÉ^ÉãÅIÅI[ED]
+

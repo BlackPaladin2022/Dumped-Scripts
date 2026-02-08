@@ -1,0 +1,37 @@
+//GAME NAME:		Ultraman 2: Shutsugeki Katoku Tai (NES)
+
+//BLOCK #011 NAME:		Dialogue Block (RAW)
+//Block Range: $5AB7 - $5BCE
+
+(21A6)ガボラ ハ ホノオ ニ ヨワイ[ED]
+Gabora is weak to fire
+(2226)ネロンガ ヲ タオスニハ[LN]
+To defeat Neronga
+(2266)シンヘイキ ノ カイハツガ ヒツヨウ[ED]
+You need to develop a new weapon
+(21A6)ペスター ハ ホノオ ニ ヨワイ[ED]
+Pestar is weak to fire
+(21E6)ブルトン ハ ワープ ヲ スル[ED]
+Bullton Warps
+(2226)ゴモラ ヲ タオスニハ[LN]
+To defeat Gomora
+(2266)マルス133 ノ カイハツガ ヒツヨウ[ED]
+You need to develop Mars 133
+(21A6)アントラー ヲ タオスニハ [LN]
+To defeat Antlar
+(21E6)バラージノ アオイイシ ガ ヒツヨウ[ED]
+You need the Blue Stone of Barahji
+(2226)ラゴン ヲ タオスニハ [LN]
+To defeat Ragon
+(2266)UNGマスイダン ガ ヒツヨウ[ED]
+You need UNG Tranquilizer Rounds
+(21A6)。。。。。[ED]
+...
+(21A6)ゼットン ヲ タオスニハ [LN]
+To defeat Zetton
+(21E6)ペンシルバクダン ガ ヒツヨウ[ED]
+You need the Pencil Bomb
+(2226)メフィラスセイジン ヲ タオスニハ [LN]
+To defeat Mefilas
+(2266)エム78コウセン ガ ヒツヨウ[ED]
+You need the M78 Ray

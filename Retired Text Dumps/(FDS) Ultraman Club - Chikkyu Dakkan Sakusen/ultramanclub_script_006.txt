@@ -1,0 +1,39 @@
+//GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
+
+//BLOCK #006 NAME:		Dialogue Block 04 (POINTER_RELATIVE)
+
+//POINTER #0 @ $8641 - STRING #0 @ $864D
+
+#W16($8641)
+マン[ED]
+
+
+//POINTER #1 @ $8643 - STRING #1 @ $8650
+
+#W16($8643)
+セブン[ED]
+
+
+//POINTER #2 @ $8645 - STRING #2 @ $8655
+
+#W16($8645)
+しんマン[ED]
+
+
+//POINTER #3 @ $8647 - STRING #3 @ $865A
+
+#W16($8647)
+エ~ス[ED]
+
+
+//POINTER #4 @ $8649 - STRING #4 @ $865E
+
+#W16($8649)
+タロウ[ED]
+
+
+//POINTER #5 @ $864B - STRING #5 @ $8662
+
+#W16($864B)
+レオ[ED]
+

@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #001 NAME:		Dialogue Block (7404-741B) (POINTER_RELATIVE)
-
-//POINTER #0 @ $73E0 - STRING #0 @ $740B
-
-#W16($73E0)
-(20A8)ÉCÉf[ED]
-

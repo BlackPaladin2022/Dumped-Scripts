@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #005 NAME:		Dialogue Block (7150-71AE) (POINTER_RELATIVE)
-
-//POINTER #0 @ $7113 - STRING #0 @ $7175
-
-#W16($7113)
-(2067)ƒSƒ‚ƒ‰[ED]
-

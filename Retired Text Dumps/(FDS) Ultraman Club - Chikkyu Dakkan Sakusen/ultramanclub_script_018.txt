@@ -1,0 +1,175 @@
+//GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
+
+//BLOCK #018 NAME:		Dialogue Block 16 (POINTER_RELATIVE)
+
+//POINTER #0 @ $15D3E - STRING #0 @ $16801
+
+#W16($15D3E)
+わがぐんの[PAUSE]
+ちからは せかいいちィィィ[ED]
+
+
+//POINTER #1 @ $15D40 - STRING #1 @ $16817
+
+#W16($15D40)
+ショ゛~と よんでくんな[ED]
+
+
+//POINTER #2 @ $15D42 - STRING #2 @ $16825
+
+#W16($15D42)
+なんぼのもんじゃ~[ED]
+
+
+//POINTER #3 @ $15D44 - STRING #3 @ $16831
+
+#W16($15D44)
+ぶんり！......あれ？[ED]
+
+
+//POINTER #4 @ $15D46 - STRING #4 @ $1683D
+
+#W16($15D46)
+わ~バグッた~[ED]
+
+
+//POINTER #5 @ $15D48 - STRING #5 @ $16847
+
+#W16($15D48)
+もえつきたぜ！！[ED]
+
+
+//POINTER #6 @ $15D4A - STRING #6 @ $16851
+
+#W16($15D4A)
+どぎゃ[ED]
+
+
+//POINTER #7 @ $15D4C - STRING #7 @ $16857
+
+#W16($15D4C)
+つぎは かならずたおすぞ[ED]
+
+
+//POINTER #8 @ $15D4E - STRING #8 @ $16867
+
+#W16($15D4E)
+ヒッポちゃんと よんでね[ED]
+
+
+//POINTER #9 @ $15D50 - STRING #9 @ $16876
+
+#W16($15D50)
+わ わたしがやられるとは[ED]
+
+
+//POINTER #10 @ $15D52 - STRING #10 @ $16884
+
+#W16($15D52)
+そこは だめ！！[ED]
+
+
+//POINTER #11 @ $15D54 - STRING #11 @ $1688E
+
+#W16($15D54)
+ころころころ......ころがって[ED]
+
+
+//POINTER #12 @ $15D56 - STRING #12 @ $1689E
+
+#W16($15D56)
+た~こ[ED]
+
+
+//POINTER #13 @ $15D58 - STRING #13 @ $168A2
+
+#W16($15D58)
+しんだら すダコに してね[ED]
+
+
+//POINTER #14 @ $15D5A - STRING #14 @ $168B2
+
+#W16($15D5A)
+うっ......[ED]
+
+
+//POINTER #15 @ $15D5C - STRING #15 @ $168B8
+
+#W16($15D5C)
+あとは まかせたぞ[ED]
+
+
+//POINTER #16 @ $15D5E - STRING #16 @ $168C3
+
+#W16($15D5E)
+ほっといて おいてよ[ED]
+
+
+//POINTER #17 @ $15D60 - STRING #17 @ $168CE
+
+#W16($15D60)
+かき げんきん[ED]
+
+
+//POINTER #18 @ $15D62 - STRING #18 @ $168D7
+
+#W16($15D62)
+あまり わたしに こうげき[PAUSE]
+しないほうが......[ED]
+
+
+//POINTER #19 @ $15D64 - STRING #19 @ $168F1
+
+#W16($15D64)
+ぺた ぺた ぺた ......[ED]
+
+
+//POINTER #20 @ $15D66 - STRING #20 @ $16901
+
+#W16($15D66)
+ぽて ......[ED]
+
+
+//POINTER #21 @ $15D68 - STRING #21 @ $16909
+
+#W16($15D68)
+シ~モンスが ないている[ED]
+
+
+//POINTER #22 @ $15D6A - STRING #22 @ $16917
+
+#W16($15D6A)
+おっとの シ~ゴラスが[PAUSE]
+ヒッポリトと わるいことばかり[PAUSE]
+しているのです[ED]
+
+
+//POINTER #23 @ $15D6C - STRING #23 @ $16940
+
+#W16($15D6C)
+(FF)シ~モンス？......し しらねえなぁ[ED]
+
+
+//POINTER #24 @ $15D6E - STRING #24 @ $16941
+
+#W16($15D6E)
+シ~モンス？......し しらねえなぁ[ED]
+
+
+//POINTER #25 @ $15D70 - STRING #25 @ $16953
+
+#W16($15D70)
+きゅうしょは はずして ある[ED]
+
+
+//POINTER #26 @ $15D72 - STRING #26 @ $16963
+
+#W16($15D72)
+そうか シ~モンスが[PAUSE]
+しんぱい しているのか[PAUSE]
+おれは かえることに するよ[PAUSE]
+そ~だ これは ヒッポリトから[PAUSE]
+あずかったキ~だが[PAUSE]
+もう おれには ひつようない[PAUSE]
+(02)は キ~を うけとった[ED]
+

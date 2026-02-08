@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #000 NAME:		2530-2531 (POINTER_RELATIVE)
-
-//POINTER #0 @ $247E - STRING #0 @ $24BD
-
-#W16($247E)
-        [ED]
-

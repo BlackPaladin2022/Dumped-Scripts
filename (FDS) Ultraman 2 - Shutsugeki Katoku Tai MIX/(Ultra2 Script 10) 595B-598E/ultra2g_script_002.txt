@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #002 NAME:		Dialogue Block (595B-598E) (POINTER_RELATIVE)
-
-//POINTER #0 @ $5958 - STRING #0 @ $5977
-
-#W16($5958)
-(21E6)アイテム ガ ツカエマス[ED]
-

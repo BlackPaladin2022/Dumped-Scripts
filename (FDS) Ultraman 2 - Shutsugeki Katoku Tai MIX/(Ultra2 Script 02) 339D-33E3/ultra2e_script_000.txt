@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #000 NAME:		2530-2531 (POINTER_RELATIVE)
-
-//POINTER #0 @ $3377 - STRING #0 @ $339D
-
-#W16($3377)
-(2188)A メン ヲ セットシテクダサイ[ED]
-

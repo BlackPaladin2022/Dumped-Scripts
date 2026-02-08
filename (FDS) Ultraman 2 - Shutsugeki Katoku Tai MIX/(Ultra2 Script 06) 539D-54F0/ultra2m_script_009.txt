@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #009 NAME:		539D-54F0 (POINTER_RELATIVE)
-
-//POINTER #0 @ $4BA5 - STRING #0 @ $549D
-
-#W16($4BA5)
-(2068)タイイン   ブキ  ノリモノ[ED]
-

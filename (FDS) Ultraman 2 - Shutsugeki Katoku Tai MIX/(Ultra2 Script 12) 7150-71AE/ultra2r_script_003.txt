@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #003 NAME:		Dialogue Block (7150-71AE) (POINTER_RELATIVE)
-
-//POINTER #0 @ $7107 - STRING #0 @ $7167
-
-#W16($7107)
-(2067)ペスター[ED]
-

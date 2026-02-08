@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #001 NAME:		Dialogue Block (595B-598E) (POINTER_RELATIVE)
-
-//POINTER #0 @ $5952 - STRING #0 @ $5967
-
-#W16($5952)
-(21E6)アイテム ガ ヒツヨウデス[ED]
-

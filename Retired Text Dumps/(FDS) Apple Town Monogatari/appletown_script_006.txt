@@ -1,0 +1,25 @@
+//GAME NAME:		
+
+//BLOCK #006 NAME:		Dialogue Block 06 (POINTER_RELATIVE) (Fortune Telling: Text)
+
+//POINTER #0 @ $6E23 - STRING #0 @ $6E29
+
+#W16($6E23)
+(206B)_(う)(ん)(せ)(い)(う)(ら)(な)(い)_[ED]
+
+
+//POINTER #1 @ $6E25 - STRING #1 @ $6E36
+
+#W16($6E25)
+(20A5)(き)゛(そ)(く)_(の)_(ロ)(ン)゛(ト)_:_(き)(ょ)(う)_(の)_(う)(ん)(せ)(い)[ED]
+
+
+//POINTER #2 @ $6E27 - STRING #2 @ $6E51
+
+#W16($6E27)
+(20E6)あなたの とし と うらなう ひ の[LN]
+ひにち を たして ください。[LN]
+その かず だけ A ボタン を[LN]
+おして ね。 B ボタン で[LN]
+うらない スタート です。[ED]
+

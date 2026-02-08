@@ -1,0 +1,9 @@
+//GAME NAME:		
+
+//BLOCK #008 NAME:		34E4-3545 (POINTER_RELATIVE)
+
+//POINTER #0 @ $34C4 - STRING #0 @ $353A
+
+#W16($34C4)
+(21A7)ディスク トラブル[ED]
+

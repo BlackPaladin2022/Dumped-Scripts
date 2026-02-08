@@ -1,0 +1,9 @@
+//GAME NAME:		Ultraman Club: Chikkyu Dakkan Sakusen (FDS)
+
+//BLOCK #024 NAME:		Dialogue Block 22 (POINTER_RELATIVE)
+
+//POINTER #0 @ $16A63 - STRING #0 @ $176AB
+
+#W16($16A63)
+‚Æ‚Á‚½[ED]
+

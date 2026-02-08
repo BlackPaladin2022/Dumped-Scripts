@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #005 NAME:		539D-54F0 (POINTER_RELATIVE)
-
-//POINTER #0 @ $4D75 - STRING #0 @ $5444
-
-#W16($4D75)
-(2268)バラージノアオイイシ[ED]
-

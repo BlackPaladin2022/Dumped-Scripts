@@ -1,9 +1,0 @@
-//GAME NAME:		
-
-//BLOCK #001 NAME:		2530-2531 (POINTER_RELATIVE)
-
-//POINTER #0 @ $24A4 - STRING #0 @ $24BD
-
-#W16($24A4)
-        [ED]
-
