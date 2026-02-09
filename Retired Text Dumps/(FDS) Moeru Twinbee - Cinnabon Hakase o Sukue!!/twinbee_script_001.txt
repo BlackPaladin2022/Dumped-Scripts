@@ -1,0 +1,48 @@
+//GAME NAME:		Moeru Twinbee (NES)
+
+//BLOCK #001 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $BC20 - STRING #0 @ $BC5E
+
+#W16($BC20)
+[07]‚Ý‚ñ‚È ‚í‚µ‚Í ‚¤‚ê‚µ‚¢‚»JB‚í‚µ[ED]
+
+//POINTER #1 @ $BC22 - STRING #1 @ $BC71
+
+#W16($BC22)
+ ‚Ð‚Æ‚è‚Ì‚½‚ß‚É ‚±‚±‚Ü‚ÄJ‚½‚½‚©‚¢‚Ê‚¢‚Ä‚­‚ê‚Ä[ED]
+
+//POINTER #2 @ $BC24 - STRING #2 @ $BC8A
+
+#W16($BC24)
+ ‚Æ‚Ä‚à ‚©‚ñ‚µ‚á‚µ‚Ä‚¢‚éB‚©J‚Æ‚ç‚ñ‚Ä‚Þ‚·‚­J‚ñ[ED]
+
+//POINTER #3 @ $BC26 - STRING #3 @ $BCA4
+
+#W16($BC26)
+ ‚É‚Â‚ê‚³‚ç‚ê‚½‚Æ‚«‚Í ‚¢‚Á‚½‚¢ ‚ÆJ‚¤‚È‚é‚©‚Æ[ED]
+
+//POINTER #4 @ $BC28 - STRING #4 @ $BCBD
+
+#W16($BC28)
+ ‚¨‚à‚Á‚½‚©J‚í‚µ‚Ì ‚Ü‚±J‚½‚¿‚©J‚«‚Á‚Æ ‚½‚·‚¯[ED]
+
+//POINTER #5 @ $BC2A - STRING #5 @ $BCD7
+
+#W16($BC2A)
+ ‚É‚«‚Ä ‚­‚ê‚é‚Æ ‚µ‚ñ‚µJ‚Ä‚¨‚Á‚½B ‚¯‚ñ‚«‚ã‚¤[ED]
+
+//POINTER #6 @ $BC2C - STRING #6 @ $BCF1
+
+#W16($BC2C)
+ ‚µJ‚å‚Í ‚Â‚ÓJ‚³‚ê‚½‚©J‚Ý‚ñ‚È‚Æ ‚¢‚Á‚µ‚å‚É[ED]
+
+//POINTER #7 @ $BC2E - STRING #7 @ $BD0A
+
+#W16($BC2E)
+ ‚ ‚½‚ç‚µ‚­ ‚½‚Ä‚È‚¨‚µ ‚ÆJ‚ñ‚ÓJ‚è‚Æ‚¤‚ð ‚Ý‚ñ[ED]
+
+//POINTER #8 @ $BC30 - STRING #8 @ $BD24
+
+#W16($BC30)
+ ‚È‚ÄJ ‚Ü‚à‚é‚ñ‚½J II[ED]
