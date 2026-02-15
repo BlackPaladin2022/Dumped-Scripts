@@ -1,51 +1,24 @@
 //GAME NAME:		
 
-//BLOCK #002 NAME:		Dialogue Block 02 (POINTER_RELATIVE)
+//BLOCK #002 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
 
-//POINTER #0 @ $2ADC8 - STRING #0 @ $2ADD8
+//POINTER #0 @ $289F7 - STRING #0 @ $28A2F
 
-#W16($2ADC8)
-さうざんど[FF]
-
-
-//POINTER #1 @ $2ADCA - STRING #1 @ $2ADE0
-
-#W16($2ADCA)
-きらー[FF]
+#W16($289F7)
+これから どうするの？[FF]
 
 
-//POINTER #2 @ $2ADCC - STRING #2 @ $2ADE4
+//POINTER #1 @ $289FE - STRING #1 @ $28A3C
 
-#W16($2ADCC)
-てーらー[FF]
-
-
-//POINTER #3 @ $2ADCE - STRING #3 @ $2ADE9
-
-#W16($2ADCE)
-びりー[FF]
+#W16($289FE)
+ばしょを いどうする[FE]
+ぱすわーどを きく[FF]
 
 
-//POINTER #4 @ $2ADD0 - STRING #4 @ $2ADEE
+//POINTER #2 @ $28A05 - STRING #2 @ $28A55
 
-#W16($2ADD0)
-ぱとらいん[FF]
-
-
-//POINTER #5 @ $2ADD2 - STRING #5 @ $2ADF5
-
-#W16($2ADD2)
-くーがー[FF]
-
-
-//POINTER #6 @ $2ADD4 - STRING #6 @ $2ADFB
-
-#W16($2ADD4)
-じゃっく[FF]
-
-
-//POINTER #7 @ $2ADD6 - STRING #7 @ $2AE01
-
-#W16($2ADD6)
-まりーん[FF]
+#W16($28A05)
+[64][65]もちもの[65][66]
+[69][6A][6A][6A][6A][6A][6A][6B]
+[FF]
 
