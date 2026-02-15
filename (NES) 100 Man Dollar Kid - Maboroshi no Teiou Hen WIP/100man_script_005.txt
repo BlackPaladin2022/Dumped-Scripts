@@ -5,71 +5,73 @@
 //POINTER #0 @ $2CC65 - STRING #0 @ $2CC7D
 
 #W16($2CC65)
-�₠�I ������̂Ȃ܂���[FF]
-
+やあ！ おいらのなまえは[FF]
+I'm Hiroshi[FF]
 
 //POINTER #1 @ $2CC67 - STRING #1 @ $2CC8A
 
 #W16($2CC67)
- �ɂ����ǂ� �Ђ낵�I[FF]
-
+ にかいどう ひろし！[FF]
+Nikaidou![FF]
 
 //POINTER #2 @ $2CC69 - STRING #2 @ $2CC97
 
 #W16($2CC69)
-���݂� �����Ђ傤��[FF]
-
+きみの もくひょうは[FF]
+I aim to beat[FF]
 
 //POINTER #3 @ $2CC6B - STRING #3 @ $2CCA2
 
 #W16($2CC6B)
-�������̂����Ԃ�[������[FF]
-
+せかいのぎゃんぶらーたちに[FF]
+a god in the[FF]
 
 //POINTER #4 @ $2CC6D - STRING #4 @ $2CCB2
 
 #W16($2CC6D)
-���݂��܂Ƃ�΂�Ă���[FF]
-
+かみさまとよばれている[FF]
+gambler world[FF]
 
 //POINTER #5 @ $2CC6F - STRING #5 @ $2CCBF
 
 #W16($2CC6F)
-�܂ڂ낵�̂Ă�������[FF]
-
+まぼろしのていおうを[FF]
+known only as[FF]
 
 //POINTER #6 @ $2CC71 - STRING #6 @ $2CCCB
 
 #W16($2CC71)
- ���������ƂȂ񂾁I[FF]
+ たおすことなんだ！[FF]
+the Phantom[FF]
 
 
 //POINTER #7 @ $2CC73 - STRING #7 @ $2CCD7
 
 #W16($2CC73)
-�܂��� �炷�ׂ����ւ�����[FF]
-
+まずは らすべがすへいって[FF]
+Emperor![FF]
 
 //POINTER #8 @ $2CC75 - STRING #8 @ $2CCE8
 
 #W16($2CC75)
-�ڂ��̂Ƃ����� ����ł��[[FF]
-
+ぼくのともだち しんでぃー[FF]
+Cindy will[FF]
 
 //POINTER #9 @ $2CC77 - STRING #9 @ $2CCF9
 
 #W16($2CC77)
-�� �����Ƃ�����I[FF]
-
+に あうといいよ！[FF]
+meet us in[FF]
 
 //POINTER #10 @ $2CC79 - STRING #10 @ $2CD03
 
 #W16($2CC79)
-���ꂶ��܂��c[FF]
-
+それじゃまた…[FF]
+Las Vegas…[FF]
 
 //POINTER #11 @ $2CC7B - STRING #11 @ $2CD0C
 
 #W16($2CC7B)
-     �����ǁE������I[FF]
+     ぐっど・らっく！[FF]
+   Good Luck！[FF]
 
