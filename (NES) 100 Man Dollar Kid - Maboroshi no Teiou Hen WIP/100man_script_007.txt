@@ -5,33 +5,40 @@
 //POINTER #0 @ $2D871 - STRING #0 @ $2D87B
 
 #W16($2D871)
-�ւցc�܂��Ă�����c�c[FF]
-
+へへ…まっていたよ……[FF]
+Hehe… I've been waiting……[FF]
 
 //POINTER #1 @ $2D873 - STRING #1 @ $2D887
 
 #W16($2D873)
-����I[FE]
-�킽���� �ق�Ƃ��� �܂ڂ낵�̂Ă����� ���I[FE]
-���݂������� ���傤���������̂� �ق��ł��Ȃ��c[FF]
+くん！[FE]
+わたしが ほんとうの まぼろしのていおう だ！[FE]
+きみをここに しょうたいしたのは ほかでもない…[FF]
+くん！[FE]
+I am the real Phantom Emperor！[FE]
+And also the one who invited you here…[FF]
 
 
 //POINTER #2 @ $2D875 - STRING #2 @ $2D8C0
 
 #W16($2D875)
-���݂� �����������߂��I[FF]
-
+きみと たたかうためだ！[FF]
+All for the sake of battling you![FF]
 
 //POINTER #3 @ $2D877 - STRING #3 @ $2D8CE
 
 #W16($2D877)
-�ւցc�c[FF]
+へへ……[FF]
+Hehe……[FF]
 
 
 //POINTER #4 @ $2D879 - STRING #4 @ $2D8D3
 
 #W16($2D879)
-����I �悭�Ȃ����ˁc�ڂ���[FE]
-����ς����I ���ꂶ�� �₭�����ǂ���[FE]
-�ڂ��� ���傤�������݂����c�c�c�c�c�c�I[FF]
+くん！ つよくなったね…ぼくの[FE]
+かんぱいだ！ それじゃ やくそくどおり[FE]
+ぼくの しょうたいをみせるよ………………！[FF]
+くん！ You've grown stronger…[FE]
+It's my complete loss！ Then, as promised[FE]
+I will reveal my true identity………………！[FF]
 
