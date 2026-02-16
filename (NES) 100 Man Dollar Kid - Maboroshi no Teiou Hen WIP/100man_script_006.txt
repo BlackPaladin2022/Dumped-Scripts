@@ -5,167 +5,214 @@
 //POINTER #0 @ $2CDA7 - STRING #0 @ $2CDD7
 
 #W16($2CDA7)
- ‚®‚ê‚ñE‚Ü‚­‚ê‚ª[    26‚³‚¢[FE]
-  ‚©‚Ý‚Ì‚ß‚ð‚à‚Â ‚¨‚Æ‚±[FF]
-
+ ãã‚Œã‚“ãƒ»ã¾ãã‚ŒãŒãƒ¼    26ã•ã„[FE]
+  ã‹ã¿ã®ã‚ã‚’ã‚‚ã¤ ãŠã¨ã“[FF]
+ Glenãƒ»McGregor   26[FE]
+ Man with God's Eye[FF]
 
 //POINTER #1 @ $2CDA9 - STRING #1 @ $2CE62
 
 #W16($2CDA9)
- ‚Å‚­‚ëE‚Í‚¤‚¢‚ñ     40‚³‚¢[FE]
-  ‚ ‚©‚¢ ‚µ‚É‚ª‚Ý[FF]
-
+ ã§ãã‚ãƒ»ã¯ã†ã„ã‚“     40ã•ã„[FE]
+  ã‚ã‹ã„ ã—ã«ãŒã¿[FF]
+ Dekroãƒ»Hauin    40[FE]
+ Red Reaper       [FF]
 
 //POINTER #2 @ $2CDAB - STRING #2 @ $2CDFA
 
 #W16($2CDAB)
- ‚Ñ‚éE‚ç‚Á‚­‚Ü‚ñ     28‚³‚¢[FE]
-  ‚±‚¤‚¤‚ñ‚ð‚æ‚Ô ‚¨‚Æ‚±[FF]
+ ã³ã‚‹ãƒ»ã‚‰ã£ãã¾ã‚“     28ã•ã„[FE]
+  ã“ã†ã†ã‚“ã‚’ã‚ˆã¶ ãŠã¨ã“[FF]
+ Billãƒ»Luckman   28[FE]
+ Lucky Caller     [FF]
 
 
 //POINTER #3 @ $2CDAD - STRING #3 @ $2CE82
 
 #W16($2CDAD)
- ‚ë[‚çE‚é‚­‚¹‚ñ‚Ô‚é‚®  27‚³‚¢[FE]
-  ‚½‚Ñ‚Ì ‚¨‚ñ‚È[FF]
+ ã‚ãƒ¼ã‚‰ãƒ»ã‚‹ãã›ã‚“ã¶ã‚‹ã  27ã•ã„[FE]
+  ãŸã³ã® ãŠã‚“ãª[FF]
+ Laraãƒ»Luxemburg 27[FE]
+ Traveling Lady   [FF]
 
 
 //POINTER #4 @ $2CDAF - STRING #4 @ $2CE1D
 
 #W16($2CDAF)
- ‚®‚ç‚ñ‚ÂE‚µ‚ã‚Ý‚Á‚Æ   35‚³‚¢[FE]
-  ‚Í‚Á‚½‚è‚â‚Ô‚è‚Ì ‚ß‚¢‚¶‚ñ[FF]
+ ãã‚‰ã‚“ã¤ãƒ»ã—ã‚…ã¿ã£ã¨   35ã•ã„[FE]
+  ã¯ã£ãŸã‚Šã‚„ã¶ã‚Šã® ã‚ã„ã˜ã‚“[FF]
+ Grantãƒ»Schmidt  35[FE]
+ Bluffing Master  [FF]
 
 
 //POINTER #5 @ $2CDB1 - STRING #5 @ $2CEA2
 
 #W16($2CDB1)
- ‚Ü[‚×‚éE‚Ô‚ç‚¤‚ñ    26‚³‚¢[FE]
- ‚·‚¢‚µ‚å‚¤‚¾‚Ü‚¤‚ç‚È‚¢‚Ì ‚¨‚ñ‚È [FF]
+ ã¾ãƒ¼ã¹ã‚‹ãƒ»ã¶ã‚‰ã†ã‚“    26ã•ã„[FE]
+ ã™ã„ã—ã‚‡ã†ã ã¾ã†ã‚‰ãªã„ã® ãŠã‚“ãª [FF]
+ Mabelãƒ»Brown    26[FE]
+ Fortune Teller   [FF]
 
 
 //POINTER #6 @ $2CDB3 - STRING #6 @ $2CE43
 
 #W16($2CDB3)
- ‚Ï ‚ß ‚ç        23‚³‚¢[FE]
-  ‚µ‚Ì ‚¹‚Á‚Õ‚ñ[FF]
+ ã± ã‚ ã‚‰        23ã•ã„[FE]
+  ã—ã® ã›ã£ã·ã‚“[FF]
+ Pamela         23[FE]
+ Kiss of Death    [FF]
 
 
 //POINTER #7 @ $2CDB5 - STRING #7 @ $2CECB
 
 #W16($2CDB5)
- ‚¨‚è‚Ñ‚ E‚µ‚á‚¢‚ ‚ñ   22‚³‚¢[FE]
-  ‚¹‚ñ‚Ì‚©‚¨‚ð ‚à‚Â ‚¨‚ñ‚È[FF]
+ ãŠã‚Šã³ã‚ãƒ»ã—ã‚ƒã„ã‚ã‚“   22ã•ã„[FE]
+  ã›ã‚“ã®ã‹ãŠã‚’ ã‚‚ã¤ ãŠã‚“ãª[FF]
+ Oliviaãƒ»Cheyene 22[FE]
+ A thousand faces [FF]
 
 
 //POINTER #8 @ $2CDB7 - STRING #8 @ $2CEEF
 
 #W16($2CDB7)
- ‚º ‚¤ ‚·        42‚³‚¢[FE]
-  ‚Ô‚ç‚Á‚­‚¶‚á‚Á‚­‚Ì ‚©‚Ý[FF]
+ ãœ ã† ã™        42ã•ã„[FE]
+  ã¶ã‚‰ã£ãã˜ã‚ƒã£ãã® ã‹ã¿[FF]
+ Zeus           42[FE]
+ God of Blackjack [FF]
 
 
 //POINTER #9 @ $2CDB9 - STRING #9 @ $2CFCC
 
 #W16($2CDB9)
- ‚Î[‚·‚½[        31‚³‚¢[FE]
-  ‚Í‚Á‚½‚è‚â‚Ô‚è‚Ì ‚ß‚¢‚¶‚ñ[FF]
+ ã°ãƒ¼ã™ãŸãƒ¼        31ã•ã„[FE]
+  ã¯ã£ãŸã‚Šã‚„ã¶ã‚Šã® ã‚ã„ã˜ã‚“[FF]
+ Buster         31[FE]
+ Bluffing Master  [FF]
 
 
 //POINTER #10 @ $2CDBB - STRING #10 @ $2CF14
 
 #W16($2CDBB)
- ‚« ‚ñ ‚®        37‚³‚¢[FE]
-  ‚©‚¶‚Ì‚Ì ‚í‚½‚è‚Ç‚è[FF]
+ ã ã‚“ ã        37ã•ã„[FE]
+  ã‹ã˜ã®ã® ã‚ãŸã‚Šã©ã‚Š[FF]
+ King           37[FE]
+ Casino Wanderer  [FF]
 
 
 //POINTER #11 @ $2CDBD - STRING #11 @ $2CFF2
 
 #W16($2CDBD)
- ‚²[‚Ç‚ñ         45‚³‚¢[FE]
-  ‚Ô‚ç‚Á‚­E‚³‚¤‚·‚Û[[FF]
+ ã”ãƒ¼ã©ã‚“         45ã•ã„[FE]
+  ã¶ã‚‰ã£ããƒ»ã•ã†ã™ã½ãƒ¼[FF]
+ Gordon         45[FE]
+ Blackãƒ»Southpaw   [FF]
 
 
 //POINTER #12 @ $2CDBF - STRING #12 @ $2CF37
 
 #W16($2CDBF)
- ‚ ‚¢‚é‚Æ‚ñE‚ç‚©‚ç    28‚³‚¢[FE]
-  ‚·‚±[‚Ò‚¨‚ñ ‚³‚»‚è‚Ì‚¢‚¿‚°‚«[FF]
+ ã‚ã„ã‚‹ã¨ã‚“ãƒ»ã‚‰ã‹ã‚‰    28ã•ã„[FE]
+  ã™ã“ãƒ¼ã´ãŠã‚“ ã•ãã‚Šã®ã„ã¡ã’ã[FF]
+ Ailtonãƒ»Lacara  28[FE]
+ Scorpion's Sting [FF]
 
 
 //POINTER #13 @ $2CDC1 - STRING #13 @ $2CFA6
 
 #W16($2CDC1)
- ‚ª[‚è[         29‚³‚¢[FE]
-  ‚«‚¨‚­‚¶‚ã‚Â‚Ì ‚Å‚¡[‚ç[[FF]
+ ãŒãƒ¼ã‚Šãƒ¼         29ã•ã„[FE]
+  ããŠãã˜ã‚…ã¤ã® ã§ãƒãƒ¼ã‚‰ãƒ¼[FF]
+ Gary           29[FE]
+ Mnemonic Dealer  [FF]
 
 
 //POINTER #14 @ $2CDC3 - STRING #14 @ $2CF5E
 
 #W16($2CDC3)
- ‚Ò[‚Ò‚ñ‚®E‚Æ‚Þ     20‚³‚¢[FE]
-  ‚Ì‚¼‚«‚â ‚¾‚¢3‚Ì‚ß[FF]
+ ã´ãƒ¼ã´ã‚“ããƒ»ã¨ã‚€     20ã•ã„[FE]
+  ã®ãžãã‚„ ã ã„3ã®ã‚[FF]
+ Peepingãƒ»Tom    20[FE]
+ Third Eye Peeper [FF]
 
 
 //POINTER #15 @ $2CDC5 - STRING #15 @ $2CF83
 
 #W16($2CDC5)
- ‚Ñ‚ñ‚¹‚ñ‚Æ        18‚³‚¢[FE]
-  ‚Ü‚æ‚È‚©‚Ì ‚µ‚ñ‚Å‚ê‚ç[FF]
+ ã³ã‚“ã›ã‚“ã¨        18ã•ã„[FE]
+  ã¾ã‚ˆãªã‹ã® ã—ã‚“ã§ã‚Œã‚‰[FF]
+ Vincent        18[FE]
+ 12AM Cinderella[FF]
 
 
 //POINTER #16 @ $2CDC7 - STRING #16 @ $2D016
 
 #W16($2CDC7)
- ‚í‚ñE‚¨‚ÔE‚³‚¤‚´‚ñ‚Ç  88‚³‚¢[FE]
-  ‚Å‚ñ‚¹‚Â‚Ì ‚Å‚¡[‚ç[[FF]
+ ã‚ã‚“ãƒ»ãŠã¶ãƒ»ã•ã†ã–ã‚“ã©  88ã•ã„[FE]
+  ã§ã‚“ã›ã¤ã® ã§ãƒãƒ¼ã‚‰ãƒ¼[FF]
+ Oneãƒ»ofãƒ»Thousand 88[FE] (Space issue, one too many characters)
+ Legendary Dealer [FF]
 
 
 //POINTER #17 @ $2CDC9 - STRING #17 @ $2D0A6
 
 #W16($2CDC9)
- ‚ë[‚çE‚Ï‚Æ‚ç‚¢‚ñ    21‚³‚¢[FE]
-  ‚ç‚¢‚ñ‚Ì ‚Ü‚¶‚å[FF]
+ ã‚ãƒ¼ã‚‰ãƒ»ã±ã¨ã‚‰ã„ã‚“    21ã•ã„[FE]
+  ã‚‰ã„ã‚“ã® ã¾ã˜ã‚‡[FF]
+ Lolaãƒ»Patline   21[FE]
+ Line Witch       [FF]
 
 
 //POINTER #18 @ $2CDCB - STRING #18 @ $2D03C
 
 #W16($2CDCB)
- ‚« ‚ç [EK      46‚³‚¢[FE]
-  ‚µ‚Ì 2‚Î‚ñ‚¾‚¢[FF]
+ ã ã‚‰ ãƒ¼ãƒ»K      46ã•ã„[FE]
+  ã—ã® 2ã°ã‚“ã ã„[FF]
+ Killerãƒ»K       46[FE]
+ Dead in two turns[FF]
 
 
 //POINTER #19 @ $2CDCD - STRING #19 @ $2D0C6
 
 #W16($2CDCD)
- ‚¦‚Ç‚à‚ñ‚ÇE‚­[‚ª[   43‚³‚¢[FE]
-  ‚º‚ë‚Ì ‚Ü‚¶‚ã‚Â‚µ[FF]
+ ãˆã©ã‚‚ã‚“ã©ãƒ»ããƒ¼ãŒãƒ¼   43ã•ã„[FE]
+  ãœã‚ã® ã¾ã˜ã‚…ã¤ã—[FF]
+ Edmondãƒ»Cougar  43[FE]
+ Zero Magician   [FF]
 
 
 //POINTER #20 @ $2CDCF - STRING #20 @ $2D05C
 
 #W16($2CDCF)
- ‚¶‚å‚ñE‚Ä[‚ç[     33‚³‚¢[FE]
-  ‚Å‚¡[‚ç[‚Ì ‚¨‚¤[FF]
+ ã˜ã‚‡ã‚“ãƒ»ã¦ãƒ¼ã‚‰ãƒ¼     33ã•ã„[FE]
+  ã§ãƒãƒ¼ã‚‰ãƒ¼ã® ãŠã†[FF]
+ Johnãƒ»Teller    33[FE]
+ King of Dealers  [FF]
 
 
 //POINTER #21 @ $2CDD1 - STRING #21 @ $2D0EA
 
 #W16($2CDD1)
- ‚¶‚á‚Á‚­E‚Ü[‚ë‚ñ    26‚³‚¢[FE]
-‚®‚¤‚º‚ñ‚Æ ‚Ý‚·‚Ä‚¢‚­‚ð ‚«‚ç‚¤‚¨‚Æ‚±[FF]
+ ã˜ã‚ƒã£ããƒ»ã¾ãƒ¼ã‚ã‚“    26ã•ã„[FE]
+ãã†ãœã‚“ã¨ ã¿ã™ã¦ã„ãã‚’ ãã‚‰ã†ãŠã¨ã“[FF]
+ Jackãƒ»Maron     26[FE]
+ The Perfectionist[FF] *the text actually reads: 'The man who hates chance and mistakes' but it is far too large to fit.
 
 
 //POINTER #22 @ $2CDD3 - STRING #22 @ $2D07D
 
 #W16($2CDD3)
- ‚Ñ‚è[E‚¶‚¦‚ñ‚È[    29‚³‚¢[FE]
-  ‚«‚Ü‚®‚ê ‚Ù‚ñ‚Û‚¤ ‚©‚í‚è‚à‚Ì[FF]
+ ã³ã‚Šãƒ¼ãƒ»ã˜ãˆã‚“ãªãƒ¼    29ã•ã„[FE]
+  ãã¾ãã‚Œ ã»ã‚“ã½ã† ã‹ã‚ã‚Šã‚‚ã®[FF]
+ Billyãƒ»Jenner   29[FE]
+ Wild and Crazy   [FF]
 
 
 //POINTER #23 @ $2CDD5 - STRING #23 @ $2D114
 
 #W16($2CDD5)
- ‚Ó‚¦‚ ‚è[E‚Ü‚è[‚ñ   19‚³‚¢[FE]
-  ‚æ‚¤‚¹‚¢‚Ì ‚Ü‚è[‚ñ[FF]
+ ãµãˆã‚ã‚Šãƒ¼ãƒ»ã¾ã‚Šãƒ¼ã‚“   19ã•ã„[FE]
+  ã‚ˆã†ã›ã„ã® ã¾ã‚Šãƒ¼ã‚“[FF]
+ Fairyãƒ»Marin    19[FE]
+ Fairy Marin      [FF]
+
 
