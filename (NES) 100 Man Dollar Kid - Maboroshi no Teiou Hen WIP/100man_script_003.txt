@@ -5,47 +5,48 @@
 //POINTER #0 @ $2ADC8 - STRING #0 @ $2ADD8
 
 #W16($2ADC8)
-‚³‚¤‚´‚ñ‚Ç[FF]
-
+ã•ã†ã–ã‚“ã©[FF]
+Thousand[FF]
 
 //POINTER #1 @ $2ADCA - STRING #1 @ $2ADE0
 
 #W16($2ADCA)
-‚«‚ç[[FF]
-
+ãã‚‰ãƒ¼[FF]
+Killer[FF]
 
 //POINTER #2 @ $2ADCC - STRING #2 @ $2ADE4
 
 #W16($2ADCC)
-‚Ä[‚ç[[FF]
-
+ã¦ãƒ¼ã‚‰ãƒ¼[FF]
+Teller[FF]
 
 //POINTER #3 @ $2ADCE - STRING #3 @ $2ADE9
 
 #W16($2ADCE)
-‚Ñ‚è[[FF]
-
+ã³ã‚Šãƒ¼[FF]
+Billy[FF]
 
 //POINTER #4 @ $2ADD0 - STRING #4 @ $2ADEE
 
 #W16($2ADD0)
-‚Ï‚Æ‚ç‚¢‚ñ[FF]
-
+ã±ã¨ã‚‰ã„ã‚“[FF]
+Patline[FF]
 
 //POINTER #5 @ $2ADD2 - STRING #5 @ $2ADF5
 
 #W16($2ADD2)
-‚­[‚ª[[FF]
-
+ããƒ¼ãŒãƒ¼[FF]
+Cougar[FF]
 
 //POINTER #6 @ $2ADD4 - STRING #6 @ $2ADFB
 
 #W16($2ADD4)
-‚¶‚á‚Á‚­[FF]
-
+ã˜ã‚ƒã£ã[FF]
+Jack[FF]
 
 //POINTER #7 @ $2ADD6 - STRING #7 @ $2AE01
 
 #W16($2ADD6)
-‚Ü‚è[‚ñ[FF]
+ã¾ã‚Šãƒ¼ã‚“[FF]
+Marin[FF]
 
