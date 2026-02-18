@@ -5,71 +5,76 @@
 //POINTER #0 @ $2D913 - STRING #0 @ $2D92B
 
 #W16($2D913)
-�ւցI ���� �ڂ��������̂��I[FF]
+へへ！ じつは ぼくだったのさ！[FF]
+Hehe！ Actually, it was me！[FF]
 
 
 //POINTER #1 @ $2D915 - STRING #1 @ $2D93F
 
 #W16($2D915)
-�܂ڂ낵�̂Ă����� �Ȃ�� ���̂�ɂ� ���Ȃ��I[FF]
+まぼろしのていおう なんて このよには いない！[FF]
+There was no such person as the Phantom Emperor！[FF]
 
 
 //POINTER #2 @ $2D917 - STRING #2 @ $2D959
 
 #W16($2D917)
-���̂Ȃ̂Ƃ��� ���ׂĂ� �܂ڂ낵�c[FF]
+そのなのとおり すべては まぼろし…[FF]
+As it is, everythign has been an illusion…[FF]
 
 
 //POINTER #3 @ $2D919 - STRING #3 @ $2D96E
 
 #W16($2D919)
-�����炵�� �炢�΂�� �݂��邽�߂�[FF]
+あたらしい らいばるを みつけるために[FF]
+It was all a plot I crafted in order[FF]
 
 
 //POINTER #4 @ $2D91B - STRING #4 @ $2D983
 
 #W16($2D91B)
-�ڂ��� ������ �����΂� �������̂��I[FF]
-
+ぼくが しくんだ おしばい だったのさ！[FF]
+to find a worthy rival![FF]
 
 //POINTER #5 @ $2D91D - STRING #5 @ $2D99D
 
 #W16($2D91D)
-���߂��c�������܂ł������Ăāc�ł�[FF]
-
+ごめんよ…さいごまでかくしてて…でも[FF]
+I'm sorry… for hiding it until the end…[FF]
 
 //POINTER #6 @ $2D91F - STRING #6 @ $2D9B4
 
 #W16($2D91F)
-���݂Ȃ炫���� �����܂ł����� ���񂶂Ă������I[FF]
-
+きみならきっと ここまでこれると しんじていたさ！[FF]
+But, I believed that you would make it this far!
 
 //POINTER #7 @ $2D921 - STRING #7 @ $2D9D0
 
 #W16($2D921)
-������ �݂��Ƃ� �ڂ��̂������� �������Ă��ꂽ�I[FF]
-
+そして みごとに ぼくのきたいに こたえてくれた！[FF]
+And you answered my request splendidly！[FF]
 
 //POINTER #8 @ $2D923 - STRING #8 @ $2D9EC
 
 #W16($2D923)
-���肪�Ƃ��I[FF]
-
+ありがとう！[FF]
+Thank you！[FF]
 
 //POINTER #9 @ $2D925 - STRING #9 @ $2D9F4
 
 #W16($2D925)
-���������イ�ɂ� �����炽������ �����Ƃ�����[FF]
-
+せかいじゅうには おいらたちよりも もっともっと[FF]
+I'm sure there are still many many strong[FF]
 
 //POINTER #10 @ $2D927 - STRING #10 @ $2DA0E
 
 #W16($2D927)
-�悢 �����Ԃ�[������͂��c������[FF]
-
+つよい ぎゃんぶらーがいるはず…だから[FF]
+gamblers out there in the world,[FF]
 
 //POINTER #11 @ $2D929 - STRING #11 @ $2DA27
 
 #W16($2D929)
-������̂��傤����� ���ꂩ����Â��̂��I �c�c[FF]
+おいらのちょうせんは これからもつづくのさ！ ……[FF]
+which is why my challenge shall continue！ ……[FF]
 
