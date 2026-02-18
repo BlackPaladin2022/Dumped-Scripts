@@ -5,186 +5,235 @@
 //POINTER #0 @ $2DAE7 - STRING #0 @ $2DB69
 
 #W16($2DAE7)
-Å[Å[Å[Å[100Ç‹ÇÒÅêÇ´Ç¡Ç«Å[Å[Å[Å[[FE]
-    Ç∑ÇΩÇ¡Ç”ÅEÇµÇÂÇ§Ç©Ç¢    [FF]
+„Éº„Éº„Éº„Éº100„Åæ„ÇìÔºÑ„Åç„Å£„Å©„Éº„Éº„Éº„Éº[FE]
+    „Åô„Åü„Å£„Åµ„Éª„Åó„Çá„ÅÜ„Åã„ÅÑ    [FF]
+„Éº„Éº„Éº„ÉºMillion Dollar Kid„Éº„Éº„Éº„Éº[FE]
+    Staff„ÉªRoll    [FF]
 
 
 //POINTER #1 @ $2DAE9 - STRING #1 @ $2DB8F
 
 #W16($2DAE9)
-COPYRIGHTÅEÇ¢ÇµÇ™Ç´Ç‰Ç§Ç´[FE]
-         ÅEÇ›Ç‚Ç¥Ç´Ç‹Ç≥ÇÈ[FF]
+COPYRIGHT„Éª„ÅÑ„Åó„Åå„Åç„ÇÜ„ÅÜ„Åç[FE]
+         „Éª„Åø„ÇÑ„Åñ„Åç„Åæ„Åï„Çã[FF]
+COPYRIGHT„ÉªIshigaki Yuuki[FE]
+         „ÉªMiyazaki Masaru[FF]
 
 
 //POINTER #2 @ $2DAEB - STRING #2 @ $2DBB5
 
 #W16($2DAEB)
-COPYRIGHTÅE Ç±Ç§ÇæÇÒÇµÇ·[FF]
-
+COPYRIGHT„Éª „Åì„ÅÜ„Å†„Çì„Åó„ÇÉ[FF]
+COPYRIGHT„Éª Koudansha[FF]
 
 //POINTER #3 @ $2DAED - STRING #3 @ $2DBC8
 
 #W16($2DAED)
-     Å[Å[Ç∞ÇÒÇ≥Ç≠Å[Å[[FE]
- Ç¢ÇµÇ™Ç´Ç‰Ç§Ç´  Ç›Ç‚Ç¥Ç´Ç‹Ç≥ÇÈ[FF]
+     „Éº„Éº„Åí„Çì„Åï„Åè„Éº„Éº[FE]
+ „ÅÑ„Åó„Åå„Åç„ÇÜ„ÅÜ„Åç  „Åø„ÇÑ„Åñ„Åç„Åæ„Åï„Çã[FF]
+     „Éº„ÉºOriginal Work„Éº„Éº[FE]
+ Ishigaki Yuuki  Miyazaki Masaru[FF]
 
 
 //POINTER #4 @ $2DAEF - STRING #4 @ $2DBEB
 
 #W16($2DAEF)
- Å[Å[Ç´Ç·Ç≠ÇµÇÂÇ≠Å[Å[[FE]
-        Ç›Ç»Ç™ÇÌ Ç–Ç≈Ç†Ç´[FF]
+ „Éº„ÉºDramatization„Éº„Éº[FE]
+        Minagawa Hideaki[FF]
 
 
 //POINTER #5 @ $2DAF1 - STRING #5 @ $2DC0B
 
 #W16($2DAF1)
- Å[Å[Ç´Ç·ÇÁÇ≠ÇΩÅEÇ≈Ç¥Ç¢ÇÒÅ[Å[[FE]
-         Ç¢ÇµÇ™Ç´ Ç‰Ç§Ç´[FF]
+ „Éº„Éº„Åç„ÇÉ„Çâ„Åè„Åü„Éª„Åß„Åñ„ÅÑ„Çì„Éº„Éº[FE]
+         „ÅÑ„Åó„Åå„Åç „ÇÜ„ÅÜ„Åç[FF]
+ „Éº„ÉºCharacter„ÉªDesign„Éº„Éº[FE]
+         Ishigaki Yuuki[FF]
 
 
 //POINTER #6 @ $2DAF3 - STRING #6 @ $2DC30
 
 #W16($2DAF3)
- Å[Å[CGÅEÇ≈Ç¥Ç¢ÇÒÅ[Å[[FE]
-          Ç≠Ç⁄ÇΩ Ç≥Ç∆ÇÈ[FF]
+ „Éº„ÉºCG„Éª„Åß„Åñ„ÅÑ„Çì„Éº„Éº[FE]
+          „Åè„Åº„Åü „Åï„Å®„Çã[FF]
+ „Éº„ÉºCG„ÉªDesign„Éº„Éº[FE]
+          Kubota Satoru[FF]
 
 
 //POINTER #7 @ $2DAF5 - STRING #7 @ $2DC52
 
 #W16($2DAF5)
- Å[Å[CGÅEÇ≈Ç¥Ç¢ÇÒÅ[Å[[FE]
-          ÇÃÇﬁÇÁ ÇΩÇæÇ®[FF]
+ „Éº„ÉºCG„Éª„Åß„Åñ„ÅÑ„Çì„Éº„Éº[FE]
+          „ÅÆ„ÇÄ„Çâ „Åü„Å†„Åä[FF]
+ „Éº„ÉºCG„ÉªDesign„Éº„Éº[FE]
+          Nomura Tadao[FF]
 
 
 //POINTER #8 @ $2DAF7 - STRING #8 @ $2DC74
 
 #W16($2DAF7)
- Å[Å[CGÅEÇ≈Ç¥Ç¢ÇÒÅ[Å[[FE]
-        Ç» Çø Ç„ ÇÁ ÇÈ[FF]
+ „Éº„ÉºCG„Éª„Åß„Åñ„ÅÑ„Çì„Éº„Éº[FE]
+        „Å™ „Å° „ÇÖ „Çâ „Çã[FF]
+ „Éº„ÉºCG„ÉªDesign„Éº„Éº[FE]
+        Natural[FF]
 
 
 //POINTER #9 @ $2DAF9 - STRING #9 @ $2DC95
 
 #W16($2DAF9)
- Å[Å[Ç®ÇÒÇ™Ç≠Å[Å[[FE]
-          ÇﬁÇÁÇ¢ Ç∆ÇµÇ®[FF]
+ „Éº„Éº„Åä„Çì„Åå„Åè„Éº„Éº[FE]
+          „ÇÄ„Çâ„ÅÑ „Å®„Åó„Åä[FF]
+ „Éº„ÉºMusic„Éº„Éº[FE]
+          Murai Toshio[FF]
 
 
 //POINTER #10 @ $2DAFB - STRING #10 @ $2DCB2
 
 #W16($2DAFB)
- Å[Å[Ç’ÇÎÇÆÇÁÇﬁÅEÇ≈Ç¥Ç¢ÇÒÅ[Å[[FE]
-        Ç∑Ç¨Ç≥Ç© Ç–ÇÎÇ©Ç∏[FF]
+ „Éº„Éº„Å∑„Çç„Åê„Çâ„ÇÄ„Éª„Åß„Åñ„ÅÑ„Çì„Éº„Éº[FE]
+        „Åô„Åé„Åï„Åã „Å≤„Çç„Åã„Åö[FF]
+ „Éº„ÉºProgram„ÉªDesign„Éº„Éº[FE]
+        Sugisaka Hirokazu[FF]
 
 
 //POINTER #11 @ $2DAFD - STRING #11 @ $2DCDA
 
 #W16($2DAFD)
- Å[Å[Ç’ÇÎÇÆÇÁÇﬁÅEÇ≈Ç¥Ç¢ÇÒÅ[Å[[FE]
-        ÇΩÇ©ÇÕÇµ Ç©Ç∏Ç–Ç∆[FF]
+ „Éº„Éº„Å∑„Çç„Åê„Çâ„ÇÄ„Éª„Åß„Åñ„ÅÑ„Çì„Éº„Éº[FE]
+        „Åü„Åã„ÅØ„Åó „Åã„Åö„Å≤„Å®[FF]
+ „Éº„ÉºProgram„ÉªDesign„Éº„Éº[FE]
+        Takahashi Kazuhito[FF]
 
 
 //POINTER #12 @ $2DAFF - STRING #12 @ $2DD01
 
 #W16($2DAFF)
- Å[Å[Ç’ÇÎÇÆÇÁÇﬁÅEÇ≈Ç¥Ç¢ÇÒÅ[Å[[FE]
-         Ç≠Ç¬Ç» Ç‰Ç´Ç‚Ç∑[FF]
+ „Éº„Éº„Å∑„Çç„Åê„Çâ„ÇÄ„Éª„Åß„Åñ„ÅÑ„Çì„Éº„Éº[FE]
+         „Åè„Å§„Å™ „ÇÜ„Åç„ÇÑ„Åô[FF]
+ „Éº„ÉºProgram„ÉªDesign„Éº„Éº[FE]
+         Kutsuna Yukiyasu[FF]
 
 
 //POINTER #13 @ $2DB01 - STRING #13 @ $2DD27
 
 #W16($2DB01)
- Å[Å[ÇÕÇ¢ÇœÅEÇ’ÇÎÇÆÇÁÇ‹Å[Å[[FE]
-        ÇµÇÃÇÕÇÁ Ç‹Ç≥ÇÊÇµ[FF]
+ „Éº„Éº„ÅØ„ÅÑ„Å±„Éª„Å∑„Çç„Åê„Çâ„Åæ„Éº„Éº[FE]
+        „Åó„ÅÆ„ÅØ„Çâ „Åæ„Åï„Çà„Åó[FF]
+ „Éº„ÉºHyper„ÉªProgrammer„Éº„Éº[FE]
+        Shinohara Masayoshi[FF]
 
 
 //POINTER #14 @ $2DB03 - STRING #14 @ $2DD4B
 
 #W16($2DB03)
- Å[Å[Ç’ÇÎÇÆÇÁÇ‹Å[Å[[FE]
-         Ç±ÇÒÇ«Ç§ ÇµÇ∞Ç›[FF]
+ „Éº„Éº„Å∑„Çç„Åê„Çâ„Åæ„Éº„Éº[FE]
+         „Åì„Çì„Å©„ÅÜ „Åó„Åí„Åø[FF]
+ „Éº„ÉºProgrammer„Éº„Éº[FE]
+         Kondou Shigemi[FF]
 
 
 //POINTER #15 @ $2DB05 - STRING #15 @ $2DD6C
 
 #W16($2DB05)
- Å[Å[Ç’ÇÎÇÆÇÁÇ‹Å[Å[[FE]
-        ÇΩÇ©ÇÕÇµ ÇÃÇËÇ›Çø[FF]
+ „Éº„Éº„Å∑„Çç„Åê„Çâ„Åæ„Éº„Éº[FE]
+        „Åü„Åã„ÅØ„Åó „ÅÆ„Çä„Åø„Å°[FF]
+ „Éº„ÉºProgrammer„Éº„Éº[FE]
+        Takahashi Norimichi[FF]
 
 
 //POINTER #16 @ $2DB07 - STRING #16 @ $2DD8B
 
 #W16($2DB07)
- Å[Å[Ç’ÇÎÇÆÇÁÇ‹Å[Å[[FE]
-          Ç®Ç© Ç©Ç∏Ç‰Ç´[FF]
+ „Éº„Éº„Å∑„Çç„Åê„Çâ„Åæ„Éº„Éº[FE]
+          „Åä„Åã „Åã„Åö„ÇÜ„Åç[FF]
+ „Éº„ÉºProgrammer„Éº„Éº[FE]
+          Oka Kazuyuki[FF]
 
 
 //POINTER #17 @ $2DB09 - STRING #17 @ $2DDAB
 
 #W16($2DB09)
- Å[Å[Ç≈Ç°ÇÍÇ≠ÇΩÅ[Å[[FE]
-        Ç¢ÇÌÇ‡Ç∆ Ç‹Ç≥ÇÃÇË[FF]
+ „Éº„Éº„Åß„ÅÉ„Çå„Åè„Åü„Éº„Éº[FE]
+        „ÅÑ„Çè„ÇÇ„Å® „Åæ„Åï„ÅÆ„Çä[FF]
+ „Éº„ÉºDirector„Éº„Éº[FE]
+        Iwamoto Masanori[FF]
 
 
 //POINTER #18 @ $2DB0B - STRING #18 @ $2DDC9
 
 #W16($2DB0B)
- Å[Å[Ç’ÇÎÇ≈Ç„Å[Ç≥Å[Å[[FE]
-         Ç‚Ç‹ÇÆÇø Ç‰Ç§Ç∂[FF]
+ „Éº„Éº„Å∑„Çç„Åß„ÇÖ„Éº„Åï„Éº„Éº[FE]
+         „ÇÑ„Åæ„Åê„Å° „ÇÜ„ÅÜ„Åò[FF]
+ „Éº„ÉºProducer„Éº„Éº[FE]
+         Yamaguchi Yuuji[FF]
 
 
 //POINTER #19 @ $2DB0D - STRING #19 @ $2DDEB
 
 #W16($2DB0D)
- Å[Å[Ç’ÇÍÇ∂Ç≈ÇÒÇ∆Å[Å[[FE]
-          Ç¢Ç™ ÇΩÇØÇµ[FF]
+ „Éº„Éº„Å∑„Çå„Åò„Åß„Çì„Å®„Éº„Éº[FE]
+          „ÅÑ„Åå „Åü„Åë„Åó[FF]
+ „Éº„ÉºPresident„Éº„Éº[FE]
+          Iga Takeshi[FF]
 
 
 //POINTER #20 @ $2DB0F - STRING #20 @ $2DE0C
 
 #W16($2DB0F)
- Å[Å[Ç´Ç©Ç≠ÅEÇπÇ¢Ç≥Ç≠Å[Å[[FE]
-     SOFEL ÅE ÇªÇ”Ç¶ÇÈ[FF]
+ „Éº„Éº„Åç„Åã„Åè„Éª„Åõ„ÅÑ„Åï„Åè„Éº„Éº[FE]
+     SOFEL „Éª „Åù„Åµ„Åà„Çã[FF]
+ „Éº„ÉºPlannmg„ÉªDevelopment„Éº„Éº[FE]
+     SOFEL „Éª SOFEL[FF]
 
 
 //POINTER #21 @ $2DB11 - STRING #21 @ $2DE2C
 
 #W16($2DB11)
-Å[Å[Å[Å[100Ç‹ÇÒÅêÇ´Ç¡Ç«Å[Å[Å[Å[[FE]
-      Ç¶Ç“ÇÎÅ[ÇÆ     [FF]
+„Éº„Éº„Éº„Éº100„Åæ„ÇìÔºÑ„Åç„Å£„Å©„Éº„Éº„Éº„Éº[FE]
+      „Åà„Å¥„Çç„Éº„Åê     [FF]
+„Éº„Éº„Éº„ÉºMillion Dollar Kid„Éº„Éº„Éº„Éº[FE]
+      Epilogue     [FF]
 
 
 //POINTER #22 @ $2DB13 - STRING #22 @ $2DE52
 
 #W16($2DB13)
- Ç–Ç∆Ç…ÇÕ 2ÇµÇ„ÇÈÇ¢ Ç†ÇÈÅcÅc[FF]
-
+ „Å≤„Å®„Å´„ÅØ 2„Åó„ÇÖ„Çã„ÅÑ „ÅÇ„Çã‚Ä¶‚Ä¶[FF]
+ There are two kinds of people‚Ä¶‚Ä¶[FF]
 
 //POINTER #23 @ $2DB15 - STRING #23 @ $2DE63
 
 #W16($2DB15)
- Ç¨Ç·ÇÒÇ‘ÇÁÅ[Ç∆[FE]
-       ÇªÇ§Ç≈Ç»Ç¢Ç‡ÇÃÇ∆Åc[FF]
+ „Åé„ÇÉ„Çì„Å∂„Çâ„Éº„Å®[FE]
+       „Åù„ÅÜ„Åß„Å™„ÅÑ„ÇÇ„ÅÆ„Å®‚Ä¶[FF]
+ Those who gamble[FE]
+       And those who don't‚Ä¶[FF]
 
 
 //POINTER #24 @ $2DB17 - STRING #24 @ $2DE80
 
 #W16($2DB17)
-        Ç∆[FE]
-       Ç…Ç©Ç¢Ç«Ç§ÅEÇ–ÇÎÇµÅI[FF]
+        „Å®[FE]
+       „Å´„Åã„ÅÑ„Å©„ÅÜ„Éª„Å≤„Çç„ÅóÔºÅ[FF]
+        And[FE]
+       Nikaidou„ÉªHiroshiÔºÅ[FF]
 
 
 //POINTER #25 @ $2DB19 - STRING #25 @ $2DE9D
 
 #W16($2DB19)
- Ç©ÇÍÇÁÇ‡Ç‹ÇΩ[FE]
-        Ç‰ÇﬂÇÇ®Ç¢Ç‡Ç∆ÇﬂÅc[FF]
+ „Åã„Çå„Çâ„ÇÇ„Åæ„Åü[FE]
+        „ÇÜ„ÇÅ„Çí„Åä„ÅÑ„ÇÇ„Å®„ÇÅ‚Ä¶[FF]
+ They will always[FE]
+        chase their dreams‚Ä¶[FF]
 
 
 //POINTER #26 @ $2DB1B - STRING #26 @ $2DEB7
 
 #W16($2DB1B)
- ÇÕÇµÇËÇ¬Ç√ÇØÇÈ[FE]
-      Ç¨Ç·ÇÒÇ‘ÇÁÅ[ Ç»ÇÃÇæÅI[FF]
+ „ÅØ„Åó„Çä„Å§„Å•„Åë„Çã[FE]
+      „Åé„ÇÉ„Çì„Å∂„Çâ„Éº „Å™„ÅÆ„Å†ÔºÅ[FF]
+ Gamblers,[FE]
+      never give it upÔºÅ[FF]
+
 
