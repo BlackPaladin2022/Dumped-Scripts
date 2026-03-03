@@ -1,0 +1,87 @@
+//GAME NAME:		Dragon Ball: Shenron no Nazo (NES)
+
+//BLOCK #006 NAME:		Dialogue Block 06 (POINTER_RELATIVE)
+
+//POINTER #0 @ $14B50 - STRING #0 @ $13CA2
+
+#W16($14B50)
+ヘその1 かめせんにん との て゛あい[ED]
+
+
+//POINTER #1 @ $14B52 - STRING #1 @ $13CB7
+
+#W16($14B52)
+マその2 ウーロン あらわる[ED]
+
+
+//POINTER #2 @ $14B54 - STRING #2 @ $13CC7
+
+#W16($14B54)
+フその3 さは゛く の とうそ゛く ヤムチャ [ED]
+
+
+//POINTER #3 @ $14B56 - STRING #3 @ $13CE0
+
+#W16($14B56)
+ヒその4 フライハ゜ン やま の き゛ゅうまおう[ED]
+
+
+//POINTER #4 @ $14B58 - STRING #4 @ $13CFA
+
+#W16($14B58)
+ミその5 ウサキ゛ た゛ん[ED]
+
+
+//POINTER #5 @ $14B5A - STRING #5 @ $13D09
+
+#W16($14B5A)
+ヘその6 ヒ゜ラフ た゛いおう の やほ゛う[ED]
+
+
+//POINTER #6 @ $14B5C - STRING #6 @ $13D21
+
+#W16($14B5C)
+ヘその7 カンフー たいかい 1かいせん[ED]
+
+
+//POINTER #7 @ $14B5E - STRING #7 @ $13D37
+
+#W16($14B5E)
+ヘその8 カンフー たいかい 2かいせん[ED]
+
+
+//POINTER #8 @ $14B60 - STRING #8 @ $13D4D
+
+#W16($14B60)
+ヒその9 カンフー たいかい し゛ゅんけっしょう[ED]
+
+
+//POINTER #9 @ $14B62 - STRING #9 @ $13D67
+
+#W16($14B62)
+フその10 カンフー たいかい けっしょう[ED]
+
+
+//POINTER #10 @ $14B64 - STRING #10 @ $13D7E
+
+#W16($14B64)
+ヘその11 トニンシ゛ンカ の ふくしゅう[ED]
+
+
+//POINTER #11 @ $14B66 - STRING #11 @ $13D95
+
+#W16($14B66)
+マその12 セフ゛ンアイラント゛ [ED]
+
+
+//POINTER #12 @ $14B68 - STRING #12 @ $13DA8
+
+#W16($14B68)
+ヘその13 シ゛ャンク゛ル おう ヒ゛ンホ゛ [ED]
+
+
+//POINTER #13 @ $14B6A - STRING #13 @ $13DC1
+
+#W16($14B6A)
+ミその14  コンヘ゜イ とう[ED]
+
