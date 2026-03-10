@@ -4,8 +4,9 @@
 //Block Range: $121E1 - $13EBF
 
 モさあ さあ![LN]
+"Come on then!"
+
 (E7)たのしいたひ゛に レッツコ゛ーよ[LN]
-"Now then!
 Let's go on a fun adventure!"
 
 ホて゛も と゛うやって さか゛すんた゛ [ED]
@@ -38,7 +39,7 @@ Let's go on a fun adventure!"
 
 メシ゛ョータ゛ンし゛ゃ[LN]
 (EA)すまされないわよーっ![ED]
-"You're not being serious are you!"
+"You've got to be kidding!"
 
 
 ミなっなにっ やってんのよー![LN]
@@ -57,21 +58,24 @@ Let's go on a fun adventure!"
 "You OK?"
 
 (6A)ホ・・・ホッホッホッ[LN]
+"Ohohoho"
+
 ヘわたしは へいきよ それより はやく[LN]
 (E7)さんそ゛くを やっつけちゃってよ![ED]
-"Ohohoho
 I'm just fine, just get rid of the bandits already!"
 
 (6B)すく゛に いくわよ[LN]
+"I'm going now."
+
 ホこんな ところに ク゛ス゛ク゛ス゛してられ[LN]
 (ED)ないわ![ED]
-"I'm going now.
-I'm not hanging around in a place like this!"
+"I'm not hanging around in a place like this!"
 
 ムははー こわいんた゛ろ[LN]
+"Haha, you were scared weren't you?"
+
 マハ゛カいわないて゛よ わたしは[LN]
 (E8)たた゛ し゛かんか゛ おしい た゛けよ[ED]
-"Haha, you were scared weren't you?"
 "Don't be stupid, I just let my guard down is all."
 
 (6F)し゛つは[LN]
@@ -85,21 +89,25 @@ but I lost my way."
 "Can you bring us to the ocean?!"
 
 モシ゛ョータ゛ンし゛ゃ ない![LN]
+"You can't be serious!"
+
 (EA)そんな ヒマは ないのよー[ED]
-"You can't be serious!
-We don't have time for that!"
+"We don't have time for that!"
 
 ヨし゛ゃあ[LN]
+"Well then"
+
 (EA)オラた゛けて゛ いってくる[LN]
-メちょちょっと!まってよ[ED]
-"Well then
 I'll just go by myself."
+
+メちょちょっと!まってよ[ED]
 "Hang on a second! Wait for me!"
 
 (6F)ハロー[LN]
+"Hello!"
+
 ミわしは せんにんし゛ゃ!たすけて[LN]
 (EA)くれたのは と゛っちし゛ゃ?[ED]
-"Hello!"
 "I'm a hermit! Who helped you out?"
 
 ユおほ゛っちゃまの[LN]
@@ -109,20 +117,21 @@ I'll just go by myself."
 (6F)て゛は[LN]
 モおれいに ステキな[LN]
 (E9)フ゜レセ゛ントを あけ゛てしまおう[ED]
-"Well then
-I'll give you a special present as a reward."
+"Well then I'll give you a special present as a reward."
 
 (6F)くるんた゛![LN]
+"Here it comes!"
+
 ムきんとうんよー!!たた゛し[LN]
 (E9)うまく とひ゛のらないと のれん[ED]
-"Here it comes!
 Kinto'un!! However you won't be able
 to use it if you can't get on."
 
 ヤわたしもほしい[LN]
+"I want one too!"
+
 ヤハ゜ッ ハ゜ンテーを[LN]
 (EC)みせて くれたらな![ED]
-"I want one too!"
 "How about you let me see
 your p-panties!"
 
@@ -133,40 +142,43 @@ your p-panties!"
 "Shut up!!"
 
 ヤい いいわよ・・・・[LN]
-(EE)はいっ!![ED]
 "O-okay..."
+
+(EE)はいっ!![ED]
 "Here!!"
 
 (6F)ねえ その[LN]
 メくひ゛から さけ゛てるの[LN]
 (ED)ちょうた゛いよっ![ED]
-"How about you give me that thing 
+"Hey how about you give me that thing 
 hanging from your neck!"
 
 ヨよかろう[LN]
+"Very well."
+
 メやったー やったーっ!![LN]
 (EC)これて゛ 4つた゛!![ED]
-"Very well."
-"Yayy! Yayy!!
-Now we have four balls!"
+"We did it!! Now we have four balls!"
 
 ムしす゛かねえ・・・・[LN]
+"It sure it quiet..."
+
 (E7)た゛れも すんて゛ないのかしら・・・[LN]
+I wonder if no one lives here..."
+
 ミひとの けはいは するそ゛ [ED]
-"It sure it quiet...
-I wonder if nobody lives here..."
 "There's signs of people here."
 
 
 メこのあたりに すんて゛る[LN]
 (EB)ようかい ウーロンか゛ [ED]
 "There is a wicked beast that 
-lives around here called Oolong
+lives around here called Oolong"
 
 (6D)し゛ょせいに は゛け[LN]
 ヤエッチ なことを[LN]
 (EC)しているんて゛す[ED]
-that takes the form of the women and
+"that takes the form of the women and
 does perverted things."
 
 (6D)ウーロンは おとこに[LN]
@@ -177,8 +189,9 @@ by men."
 
 ヤこ゛くう あんたか゛ [LN]
 (EA)ウーロンを さか゛すのよ[LN]
-ユオラか゛?[ED]
 "Goku, you go and look for Oolong."
+
+ユオラか゛?[ED]
 "Me?"
 
 (6D)たいし゛してくれたら[LN]
@@ -199,12 +212,12 @@ They're getting away!
 (6C)ホ゛ケッ と[LN]
 メしないて゛ [LN]
 (EA)つかまえてよっ![ED]
-Don't just stand there and
-catch them!
+"Don't just stand there and
+catch them!"
 
 モその カキ゛を[LN]
 (EA)ひろうのよっ!![ED]
-Get that key!!
+"Get that key!!"
 
 (6C)その カキ゛か゛ [LN]
 ホあれは゛ かわむこうの いえを[LN]
@@ -229,197 +242,347 @@ the river can be opened!"
 
 ヤおまえら[LN]
 (E7)と゛こに いこうと してるんた゛?[LN]
-メフライハ゜ンやまよ[ED]
 "Where are you guys heading?
+
+メフライハ゜ンやまよ[ED]
 "To Mt. Frypan"
+
 ヤえー![LN]
+"Whaat!"
+
 (E8)あの サハ゛クを わたるのか?[LN]
+"You're going to cross the desert?"
+
 ミいくしか ないた゛ろう・・[ED]
+"There's no other way"
 
 メなんた゛ いまの[LN]
+"What was that just now?"
+
 ムき゛ええええーっ!!![LN]
+"EEEEEEK!!!"
+
 ムと゛ と゛うしたんた゛!![ED]
+"W-what's wrong?"
 
 (6C)ホ゛ ホ゛ールか゛ [LN]
 マなーいっ!さか゛すのよ 5この[LN]
 (E7)ト゛ラコ゛ンホ゛ールを さか゛すのよ[ED]
+"The b-balls are gone! Go find them! 
+Find the 5 dragon balls!"
 
 (6D)レータ゛ーに[LN]
 マよると このカヘ゛の と゛こかに[LN]
 (E7)ト゛ラコ゛ンホ゛ール か゛ あるはす゛よ[ED]
+"According to the radar the Dragon Balls 
+should be behind the wall somewhere"
 
 ムやったわ やったーっ![ED]
+"We did it!"
 
 ムあそこに カキ゛みたいな[LN]
 (EA)ものか゛ あるそ゛!![ED]
+"There's something that looks like
+a key over there!!"
 
 モこの とひ゛ら[LN]
 (EB)あかねえよ![LN]
+"The door won't open!"
+
 ムカキ゛あなか゛ あるそ゛![ED]
+"There's a keyhole!"
 
 メきっと カキ゛か゛ [LN]
 (EA)あるはす゛た゛!![LN]
+"There must be a key!!"
+
 マカキ゛を さか゛すのよ!![ED]
+"Go and find the key!!"
 
 モやったわ やったー![ED]
+"We did it!"
 
 ヤこのカキ゛て゛ [LN]
 (E7)と゛っか はいれるんし゛ゃないか?[LN]
+"Don't you think this key can open up
+somewhere?"
+
 ムきっと そうよ!![ED]
+"It's gotta open somewhere!!"
+
 
 メあったわ あったわ!![ED]
+"There it is there it is!!"
 
 ムあそこよ あそこ!![ED]
+"Over there over there!!"
 
 モねえ はやく[LN]
 (EB)しなさいよ![ED]
+"Hurry up!"
 
 メなに やってんのよ[LN]
+"What are you doing!"
+
 (EB)ノロマーッ!![ED]
+"You blockhead!!"
 
 (6D) ハッ[LN]
 マハッハッ この とひ゛らは[LN]
 (E9)ト゛ラコ゛ンホ゛ール か゛ 4つ[ED]
+"Ha Haha, the door won't open"
 
 ユないと[LN]
 (EB)あかないのた゛!![ED]
+"unless you have 4 dragon balls!"
 
 メホッホッ これて゛ [LN]
 (E9)また もとと゛うりね!![LN]
+"Ohoho, now things are back to normal!"
+
 ミよかった よかった![ED]
+"Thank heavens!"
 
 ヤヤムチャって[LN]
 (E8)わりと いいおとこた゛ったわね![LN]
+"That Yamucha seems like quite a nice guy!"
+
 ム・・・・・・・・[ED]
+"....."
 
 (69)やつらを つけて 7つ[LN]
 ヘせ゛んふ゛を あつめたら ホ゛ールを[LN]
 (E8)いたた゛くことに するそ゛!![ED]
+"If we go after them, we can take the balls after they
+get all seven!"
 
 ユさすか゛ [LN]
 (EB) ヤムチャさま![ED]
+"Great idea Master Yamucha!"
 
 (6C)あの やまの[LN]
 ホてっへ゜んの しろに き゛ゅうまおう[LN]
 (E7)というやつか゛ いるんた゛そ゛!![ED]
+"In the castle at the peak of the mountain
+lives a guy named Ox-King!!"
 
 ヤすけ゛えな![LN]
+"Wow!"
+
 メいまのうちに[LN]
 (E9)おとなしく ひきさか゛ろうせ゛ [ED]
+"We should go back while we still can."
 
 (6B)ハ゛カいいなさいよ[LN]
+"Don't say such a stupid thing!"
+
 ムなんとしても[LN]
 (EA)いくのよ!![ED]
+"We're going no matter what!!"
 
 ムた゛めた゛ー!! あつくて[LN]
 (E8)さきには すすめねえよーっ[ED]
+"No way!! It's too hot to continue!"
 
 (6C)ねえ! あの[LN]
 マエッチ な かめせんにんに[LN]
 (E8)たのんた゛ら と゛うかしら!![ED]
+"Well! What if we ask for help from
+the Turtle Hermit then!!"
 
 (6B)し゛ゃ! オラか゛ [LN]
 マさっそく いってくる!![LN]
+"Alright! I'll hurry to them!!"
+
 (EA)きんとうんーっ!![ED]
+"KINTO'UN--!"
 
 ヤおーい! おっす![LN]
+"Hey there!"
+
 メきんとうんを やった[LN]
 (EB)こそ゛うし゛ゃないか!![ED]
+"Why it isn't the kid I gave Kinto'un to!!"
 
 モなんの ようし゛ゃ?[LN]
+"What do you want?"
+
 ミフライハ゜ンやまの ひを けして[LN]
 (EC)もらいてえんた゛!![ED]
+"I want you to put out the fire
+on Mt. Frypan!!"
 
 (6C)けしてやろう!!ここ[LN]
-ムたた゛し し゛ょうけんか゛ ある![LN]
-(EC)ヒ゜チヒ゜チキ゛ャル を[ED]
+"I'll put it out!!"
 
+ムたた゛し し゛ょうけんか゛ ある![LN]
+"However I have a request!"
+
+(EC)ヒ゜チヒ゜チキ゛ャル を[ED]
 モつれてくるのし゛ゃ[LN]
+"I want you to bring a lively young girl."
+
 モなんた゛ そんなことか[LN]
+"What is that?"
+
 モきたいしてるそ゛!![ED]
+"I'll be waiting!!"
 
 (6D)このまえ おまえと[LN]
 ミいっしょに おった むすめの[LN]
 (E8)ハ゜イハ゜イを つつかせてくれたら[ED]
+"If you let me touch the boobies of the
+girl that was with you"
 
 モけしてやっても いいそ゛![LN]
+"I'll put the fire out!"
+
 メいいんし゛ゃないか?[LN]
+"Is that fine?"
+
 ムお おまえ かるいのう![ED]
+"Y-youre so naive!"
 
 メて゛は やるかの・・・・・[LN]
 ヤは!!![ED]
+"Well then here goes...
+HAH!!!
 
 ミか・・め・・は・・め・・・[ED]
+"KA...ME...HA...ME..."
 
 ユは!!![ED]
+"HA!!!"
 
 ヤた たまけ゛た![LN]
+"Holy cow!"
+
 モす・・・・すこ゛いわね[LN]
+"A-amazing!"
+
 (EA)て゛も たすかったわ・・[ED]
+"But now we're saved..."
 
 ユし゛ゃ わしは[LN]
 (EA)ひとを またせてるんて゛・・[ED]
+"Well now, I'm leaving other waiting..."
 
 ヤた たまけ゛た![LN]
+"Holy cow!"
+
 モす・・・すこ゛いわね[LN]
+"A-amazing!"
+
 (EA)て゛も たすかったわ・・[ED]
+"But now we're saved..."
 
 (6E)ほ゛うす゛・・[LN]
+"Hey kid..."
+
 ムホレ れいの やくそく・・[LN]
+"Come on and keep your promise..."
+
 メえーと・・・し゛いちゃんか゛ [ED]
+"Well... gramps here said he wants"
 
 モおまえの むねを[LN]
 (EC)つつきたいんた゛と![LN]
+"to touch your chest!"
+
 メし゛ょうた゛んし゛ゃないわ![ED]
+"You've got to be kidding!"
 
 モ やくそくし゛ゃそ゛![ED]
+"He promised me!"
 
 ミウーロン ちょっと・・[LN]
+"Hey Oolong just a second..."
+
 モえ![LN]
+"Wha!"
+
 ミし゛つは カクカクシカシ゛カ[ED]
+"So here's the thing... Whisper whisper"
 
 ユへ?[LN]
+"What?"
+
 マわたしに は゛けて つつかれて![LN]
+"Transform into me and let him touch you!"
+
 モいっ!![ED]
+"Eee!"
 
 (B0)うふ[LN]
+"Eehee"
+
 ヤううん!![LN]
+"Hmmmm!!!"
+
 (EC)し゛らすんた゛から!![ED]
+"You tease me!!"
 
 (6D)つつくた゛けより[LN]
 ムハ゜フハ゜フの ほうか゛ いい ?[LN]
+"How about instead of just touching them,
+I'll give you a puff-puff?"
+
 ミ ハ゜!ハ゜!ハ゜フハ゜フ・・・? [ED]
+"Pu...! Pu... Puff Puff...?"
 
 ヤハ゜フ ハ゜フ[LN]
+"Puff puff"
+
 モハ゜フ ハ゜フ!!![ED]
+"PUFF PUFF!!!"
 
 ヨおおっ[LN]
+"Ohhh"
+
 (EA)く゛おおーっ す゛け゛け゛ーっ[ED]
+"OHH! Wonderful!"
 
 メなんた゛か やたら[LN]
 (E8)あなの おおい やまね!![LN]
+"This mountain has quite a few pits!!"
+
 ムなにか ありそうた゛![ED]
+"There seems to be something here!"
 
 (6D)この とひ゛ら[LN]
 ヨ あかねえよ[LN]
+"The door won't open!"
+
 (EC)カキ゛あなか゛ あるそ゛![ED]
+"There's a keyhole!"
 
 (6C)きっと カキ゛か゛ [LN]
 ユあるはす゛た゛!![LN]
+"There must be a key!!"
+
 (EC)カキ゛を さか゛すのよっ![ED]
+"Go and find the key!!"
 
 ミ ハ゛ンサ゛ーイ ハ゛ンサ゛ーイ[LN]
+"Hooraay hooraay!"
+
 ミへへー あと 1こた゛な![ED]
+"Eheh, only one left!"
 
 モおし゛ょうさん わたしと[LN]
 (EC)あくしゅしましょう[ED]
+"Come shake my hand fine lady"
 
 ヤふんっ!!た゛れか゛ [LN]
 (EC)あんた なんかと!![ED]
+"Hmph!! Someone will make you pay!!"
 
 (6D)け゛ーっ!フ゛ルマ か゛ [LN]
 ミニンシ゛ン に なっちゃった![LN]
+"Whaaaat! Bulma got turned into a carrot!"
+
 ユほっほっほ[ED]
+"Ohoho"
 
 (6B)ニンシ゛ンを 4つ[LN]
 ヘあつめないと フ゛ルマは もとに[LN]
@@ -884,5 +1047,6 @@ the river can be opened!"
 むく゛っひっひっひっ!![ED]
 
 [ED]
+
 
 
