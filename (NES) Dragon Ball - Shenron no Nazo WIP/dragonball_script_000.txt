@@ -587,369 +587,630 @@ I'll give you a puff-puff?"
 (6B)ニンシ゛ンを 4つ[LN]
 ヘあつめないと フ゛ルマは もとに[LN]
 (EA)もと゛らないそ゛!![ED]
+"Bulma won't turn back until we
+collect 4 carrots!!"
 
 メあいつに さわると[LN]
 (E8)ニンシ゛ンに なっちゃうのか[ED]
+"If you touch him you turn into
+a carrot huh?"
 
 (6D)このトヒ゛ラ[LN]
 ムニンシ゛ン か゛ 4つないと[LN]
 (EB)あかないのて゛すよ!![ED]
+"The door won't open unless you have
+4 carrots!!"
 
 (6D)コ゛クウ ![LN]
+"Goku!"
+
 マニンシ゛ンは とりあけ゛たそ゛!![LN]
+"You got the carrots!"
+
 (E6)にょいほ゛うて゛ やつを たたきのめせ![ED]
+"Finish him with Nyoibou!"
 
 モおい!この ニンシ゛ン[LN]
 (EC)もとにもと゛せい!![LN]
+"Hey! Turn the carrot back!!"
+
 ムはっはい わかりました![ED]
+"Fine fine, I'll do it!"
 
 ムほ゛うよ うんと のひ゛ろ!![LN]
+"Extend far Nyoibou!!"
+
 ムおっおい !![LN]
+"Hey hey!!"
+
 (E8)と゛ と゛うするつもりかっ?[ED]
+"W-what do you think you're doing?"
 
 ヤたた゛いまーっ[LN]
+"I'm baack!"
+
 ミあんた と゛こ いってたのよ?[LN]
+"Where did you go?"
+
 ミウサキ゛は つきた゛!![ED]
+"Rabbits belong on the moon!"
 
 モなんた゛ いまの[LN]
+"What was that just now?"
+
 ムき゛えええええーっ![LN]
+"YEEEEEEEK!"
+
 ムと゛うしたんた゛!![ED]
+"What's wrong!!"
 
 (6B)ほ゛っ ホ゛ールか゛ [LN]
+"The balls, they're, they're"
+
 ホないっ!く゛す゛く゛す゛ してないて゛ [LN]
+"Gone! Don't just stand there and"
+
 (E8)はやく とりもと゛すのよ!!![ED]
+"hurry up and get them back!!!"
 
 ヤよしっ[LN]
+"Alright!"
+
 (EB)いそこ゛うせ゛![ED]
+"Let's hurry!"
 
 (6D)おい![LN]
+"Hey!"
+
 ミト゛ラコ゛ンホ゛ールは[LN]
 (EA)と゛こに ある!![ED]
+"Where are the Dragon Balls!!"
+
 
 (6D)すなおに[LN]
 ムはくし゛ょうすれは゛ [LN]
 (E9)いたいめに あわす゛に[ED]
+"If you tell us you won't"
 
 ヤすむそ゛!![LN]
+"Get hurt!!"
+
 ムそうよ さっさと[LN]
 (E9)いっちゃいなさいよ![ED]
+"That's right, you better hurry
+up and tell!"
 
 (6C)この うえの[LN]
 ムとひ゛らの むこうに[LN]
 (EB)かくしてある![ED]
+"It's hidden beyond the door
+up there!"
 
 ユや やっと[LN]
 (ED)そろったわ!![LN]
+"F-finally we have them all!!"
+
 ユへーっ[ED]
+"Really?"
 
 (6F)はやく[LN]
+"Hurry up"
+
 メシェンロン を よへ゛よっ[LN]
+"and summon Shenron!"
+
 モいて゛よ ト゛ラコ゛ン ![ED]
+"Come forth Dragon!"
 
 ヤそして ねか゛いを[LN]
 (EC)かなえ たまえ!![ED]
+"And grant my wish!!"
 
 (6D)さあ[LN]
+"Very well"
+
 マと゛んな ねか゛いも ひとつた゛け[LN]
 (EA)かなえてやろう・・[ED]
+"I shall grant you a single wish
+whatever it be..."
 
 ユこれて゛ [LN]
 (EA)おれたちも かいさんた゛ [LN]
+"We can part ways now"
+
 メそうね 1ねん[ED]
+"Yeah, the Dragon Balls"
 
 (6C)たたないと[LN]
 メト゛ラコ゛ンホ゛ールは[LN]
 (EA)みつからないから![ED]
+"can't be found again for one year"
 
 モハ゛イハ゛ーイ[LN]
+"Bye byee!"
+
 (EC) ハ゛イハ゛ーイッ[ED]
+"Bye byee!"
 
 ヤし゛いちゃん オラ[LN]
 (EB)しゅき゛ょうに きたそ゛![LN]
+"Gramps, I've come here to train!"
+
 モうむ それて゛は[ED]
+"I see, then"
 
 ムカンフーたいかいに しゅつし゛ょう[LN]
 (ED)するのし゛ゃ![ED]
+"you can join the kung-fu tournament!""
 
 (6F)よいか[LN]
+"Listen up"
+
 ムた゛い1かいせんの あいては[LN]
 (EC)クリリンし゛ゃ![ED]
+"Your opponent for round 1 will be
+Kuririn!"
 
 (B0)ふむ[LN]
+"Mmm."
+
 (ED)よくやったそ゛![ED]
+"Well done."
 
 メまた゛ また゛ しゅき゛ょうか゛ [LN]
 (EB)たりんようし゛ゃな[ED]
+"There is still much training for
+you to be done"
 
 (6F)よいか[LN]
+"Listen up"
+
 ムた゛い2かいせんの あいては[LN]
 (EB)メタリックく゛んそうた゛ [ED]
+"Your opponent for round 2 will be
+Sergeant Metallic!"
 
 (B0)よう[LN]
+"Ohh"
 (EC)か゛んは゛ったのう![ED]
+"You did well!"
 
 (69) また゛ また゛ [LN]
 ムしゅき゛ょうか゛ [LN]
 (EB) たりんようし゛ゃな[ED]
+"There is still much training for
+you to be done"
 
 (6F)よいか[LN]
+"Listen up"
+
 ムし゛ゅんけっしょうのあいては[LN]
 (ED)ヤムチャ し゛ゃ[ED]
+"Your opponent for the semifinal is
+Yamucha."
 
 ユえーっ!![LN]
 (EB)あの ヤムチャか!![ED]
+"That Yamucha!!"
 
 ヨなか なか[LN]
 (EC)やるて゛は ないか[ED]
+"You're quite good"
 
 (6B)また゛ また゛ しゅき゛ょうか゛ [LN]
 ヤたりんようし゛ゃな![ED]
+"There is still much training for
+you to be done!"
 
 (6D)ト゛ラコ゛ンホ゛ール は[LN]
 モまた と゛こかえ[LN]
 (EB)ちってしまったわい[ED]
+"It seems the Dragon Balls have
+scattered again"
 
 (6F)いよ いよ[LN]
+"It is finally"
+
 ミけっしょうし゛ゃ!あいてはかいふ゛つ[LN]
 (E9)フ゛ヨン ぬかるて゛はないそ゛![ED]
+"the finals! Your opponent will be Buyon! Don't mess up!"
 
 ユて゛かしたそ゛ [LN]
+"You did it!"
+
 (ED)みこ゛とし゛ゃ!![ED]
+"Well done!"
 
 ムまた゛ また゛ しゅき゛ょうか゛ [LN]
 (EC)たりんようし゛ゃな![ED]
+"There is still much training for
+you to be done!"
 
 モそろ そろ[LN]
 (EA)まんけ゛つか゛ て゛るころよ[ED]
+"It's about time for the full moon
+to come out"
 
 (6D)のこりの ホ゛ールは[LN]
 マてんかいちふ゛と゛うかいに ゆうしょう[LN]
 (EB)すれは゛ てにはいるよ[ED]
+"If you win the Tenkaichi Tournament
+you can have the rest of the balls."
 
 (6C) アレ?[LN]
+"Huh?"
+
 ムと゛うしたんた゛ いきか゛ [LN]
 (EA)て゛きないそ゛?![ED]
+"What's going on, I can't breathe?!"
 
 / あたりまえし゛ゃ とちゅうて゛ [LN]
 マさんそ ホ゛ンヘ゛ を とって[LN]
 (E8)いかないと ちっそく するそ゛い[ED]
+"Of course not, if you don't collect
+the air canisters you'll suffocate."
 
 (6D)ムフフ!よく[LN]
 ムやってきましたね こんと゛は[LN]
 (EA)まえのようにはいきませんよ[ED]
+"Hohoho! You have done well, I won't
+have a repeat of last time."
+
 
 (6C)ハハー フ゛ルマ を[LN]
 モニンシ゛ン にした[LN]
 (EE)やつた゛な![ED]
+"Haha, you're the guy who turned
+Bulma into a carrot!"
 
 (6C)さあっ! うちゅう1 の[LN]
 ミころしや クリリアン!こいつを[LN]
 (E9)ちまつりに してちょうた゛い![ED]
+"Come on! The number one assassin in
+the universe, Krillian! Go and rip him apart!
 
 (6C)ムッ!しふ゛といカ゛キた゛ [LN]
+"Hmph! You're quite a tough kid.
+
 ムこーんと゛こそ このわたしか゛ [LN]
 (EA)ニンシ゛ン にしてくれるわ![ED]
+"This time I will turn you into a carrot!"
 
 (6E)ヘヘーン ![LN]
+"Well!"
+
 ムまた この にょいほ゛うて゛ [LN]
 (EC)たいし゛ してやる![ED]
+"I'll get rid of you with Nyoibou again!"
 
 (6C)しふ゛とい カ゛キ た゛![LN]
+"Hmph! You're quite a tough kid!
+
 ムこんと゛こそ このわたしか゛ [LN]
 (EA)ニンシ゛ン にしてくれるわ![ED]
+"This time I will turn you into a carrot!"
 
 (6C)クッソー!にょいほ゛うか゛ [LN]
 ムねぇと あいつを やっつけられ[LN]
 (ED)ねぇんた゛![ED]
+"Darn it! Without Nyoubou I can't
+beat this guy!"
 
 (69)やったあ!ト゛ラコ゛ンホ゛ール[LN]
+"I did it! I have the Dragon Ball."
+
 ヘ・・これは し゛っちゃんの かたみの[LN]
 (EA)ホ゛ール し゛ゃねえ[ED]
+"...This isn't grandpa's memento!"
 
 /ウーン  やっは゜り くうきの[LN]
 ヘあるところは いいなあ レータ゛ー た゛と[LN]
 (E8)このあたり なんた゛けと゛なあ[ED]
+"Mmm, being in a place with air sure
+is nice. According to the radar it
+should be around here."
 
 / セフ゛ンアイラント゛ へ わたる[LN]
 マのなら ふとう のはす゛れに[LN]
 (EA)いくことし゛ゃ[ED]
+"If you are to cross Seven Islands,
+you must go to the far wharf."
 
 モ サンキュー![ED]
+"Thank you!"
 
 (6A)よく あの ハ゛フ゛ラー を[LN]
 ヘたおしたのぉ! セフ゛ンアイラント゛ に[LN]
 (E6)かかるはし には きおつけてな[ED]
+"You have done well do defeat Babra! Be careful
+crossing the bridges between Seven Islands."
 
 ムフーン !? はした゛な[ED]
+"Hmm?! Bridges, huh."
 
 /セフ゛ンアイラント゛ の カステラ[LN]
+"Seven Islands Castella"
+
 ホやまに シ゛ャンク゛ル に つうし゛る[LN]
 (EA)とひ゛らか゛ ある[ED]
+"There is a door in the mountains
+that leads to the jungle."
 
 ユとひ゛ら?[ED]
+"A door?"
 
 /その とひ゛らに はいるには[LN]
 マその ふもとにいる た゛れかから[LN]
 (E8)カキ゛を うは゛わなくては ならん![ED]
+"To enter the door you must take a key
+from someone on the foot of the mountain!"
 
 (6D)ありゃあ![LN]
+"Whaa!"
+
 ムカキ゛ か゛ なくちゃ[LN]
 (EC)はいれないそ゛![ED]
+"I need a key to enter!"
 
 (6E)よし![LN]
+Alright!
+
 モこのさきか゛ [LN]
 (EB)シ゛ャンク゛ル た゛な![ED]
+"The jungle's ahead!"
 
 [LN]
 / ヤッホー! こいつ 2つも[LN]
 マト゛ラコ゛ンホ゛ール を もってたそ゛ [LN]
+"Yahoo! They got two Dragon Balls."
+
 (E8)ん?レータ゛ー か゛ こわれちまった[ED]
+"Hm? The radar's broken."
 
 /フ゛ルマに なおしてもらおう[ED]
+"Bulma can fix it."
 
 [LN]
 /コ゛クウーッ ! と゛うなってんのよ[LN]
+"Gokuuu! What did you do?"
+
 マまた へんなこと したんて゛しょ[LN]
+"I bet you got into trouble again."
+
 (E8)   あんたっ![ED]
+"Why you!"
 
 /なあ ト゛ラコ゛ンレータ゛ー か゛ [LN]
 マこわれちまったんた゛よ[LN]
+"Hey, the Dragon Radar is broken."
+
 (EA)なおしてくれよ![ED]
+"Fix it for me!"
 
 /あんた ト゛ラコ゛ンホ゛ール を[LN]
 ホさか゛してるのよねぇ!?いっしょに [LN]
 (E7)いってあけ゛るわ!むぁかせなさい![ED]
+"You're looking for the Dragon Balls?!
+I'll go with you! Lead me away!"
 
 ホオレ も いっしょに いってやるせ゛ [ED]
+"I'll come along too."
 
 (6A)えーっと 4つめの[LN]
 ミト゛ラコ゛ンホ゛ール は[LN]
 (E8)シ゛ャンク゛ル の おくね[ED]
+"Well then, the fourth Dragon Ball
+is in the jungle."
 
 (6B)オラ は やっは゜り[LN]
 ミこういう ところか゛ [LN]
 (E9)いいなあ エヘヘッ[ED]
+"I sure feel at home in a place
+like this heh heh."
 
 (6A)は゛かやろう! オレ は[LN]
 マシティーホ゛ーイ  た゛そ゛! [LN]
+"You idiot! I'm a city boy!"
+
 (E9)こんなの やた゛よう![ED]
+"I hate this!"
 
 (6F)ハロー![LN]
+"Hello!"
+
 モひさしふ゛り し゛ゃのう[LN]
+"It's been a while"
+
 (EE)おまえたち[ED]
+"you guys"
 
 モかめの し゛いちゃん![ED]
+"the Turtle guy!"
 
 ヤこんな ところて゛ [LN]
 (EB)なに やってんのよ?[ED]
+"What are you doing in a 
+place like this?"
 
 (6C) ハ゛カンス し゛ゃよ[LN]
+"Taking a vacation"
+
 モナウい し゛ゃろ[LN]
+"Pretty hip huh?"
+
 (EC)ムフフッ !! [ED]
+"Heh heh heh!!"
 
 (6C)このさきの と゛うくつに[LN]
 ムものすこ゛く やくにたつ [LN]
 (EA)カキ゛ か゛ あるんし゛ゃか゛のう[ED]
+"There's a very useful key in the cave ahead."
 
 ヤほんとうか ?[ED]
+"Really?"
 
 ユあったそ゛ ![ED]
+"I got it!"
 
 (6C)たた゛て゛は やらんそ゛ [LN]
+"You can't have it for free though."
+
 ムフ゛ルマ の ハ゜イハ゜イを[LN]
 (EA)つつかせて くれたらな[ED]
+"Only if I can touch Bulma's
+boobies."
+
 
 モし゛ょ し゛ょーた゛んし゛ゃ[LN]
 (ED)ないわよ![ED]
+"Y-you can't be serious!"
 
 モし゛ゃあ あけ゛ないもん[ED]
+"I guess you can't have it then."
 
 (6D)おい!![LN]
+"Hey!!"
+
 メちかのほうに[LN]
 (EB)つうし゛ているそ゛ [ED]
+"It's connected to the underground."
 
 ヤほんとた゛ [ED]
+"Sure is."
 
 モほらっ みてっ![LN]
+"Hey look!"
+
 (EA) ト゛ラコ゛ンホ゛ールよ![ED]
+"A Dragon Ball!"
 
 (6D)アリャーッ![LN]
+"Whaaa!"
+
 ムまた し゛っちゃんの[LN]
 (E8)かたみのホ゛ール し゛ゃねぇや![ED]
+"It's not grandpa's memento either!"
 
 (6D)うーん[LN]
+"Hmmm"
+
 ムこの とひ゛らっ[LN]
 (EB)あかねぇそ゛![ED]
+"This door won't open!"
 
 (6E)あの [LN]
 ムうえに いるやつか゛ [LN]
 (EA)あやしいわよっ![ED]
+"That guy up there looks suspicious!"
 
 モうわぁっ ![LN]
+"Ack!"
+
 (E9)たかい とうた゛なあ[ED]
+"What a tall tower."
 
 (6D)さあっ[LN]
+"Well"
+
 ムこれか゛ さいこ゛の[LN]
 (EB)けっせんよ![ED]
+"this is the final challenge!"
 
 モ フ゛ルマ[LN]
 (EA)はりきってるなあ[ED]
+"Bulma sure is excited"
 
 モと゛うなってんた゛![LN]
+"What's with it!"
+
 (EA)このたてものは![ED]
+"This building!"
 
 (6D)よわねを[LN]
 ムはいてるヒマなんて[LN]
 (EC)ないのよ![ED]
+"There's no time to be whining!"
 
 (6D)ハハーッ[LN]
+"Haha"
+
 モウーロン[LN]
 (EC)おこられた![ED]
+"You got told off Oolong!"
 
 (6D)いったい[LN]
 マと゛れた゛け やっつけたら[LN]
 (EA)いいんた゛! ハーハー [ED]
+"How many guys do I need to defeat! Huff..."
 
 (6B)しっかりしてよっ[LN]
+"Get it together!"
+
 メあんたた゛けか゛ [LN]
 (EA)たよりなんた゛から![ED]
+"You're the only one we can rely on!"
 
 モもう タ゛メた゛せ゛ [LN]
+"I can't go anymore."
+
 (EB)あきらめよう[ED]
+"Let's give up."
 
 (6C) ヤタ゛ーッ[LN]
+"Nooo!"
+
 メまた もとに [LN]
 (EA)もと゛っちゃったの?[ED]
+"They're back to normal again?"
 
 モそうた゛な・・・[ED]
+"It seems so..."
 
 /きっと このうえに ホ゛ール か゛ [LN]
 マあるはす゛よ! た゛って[LN]
 (E8)しようく゛んか゛ いるのよ![ED]
+"There's sure to be a ball above!
+The General is up there!"
 
 モ オレ ここて゛ [LN]
 (EC)まっててやるよ[ED]
+"I'll just wait here."
 
 (6C) ヘヘーッ [LN]
+"Heh heh"
+
 モウーロン[LN]
 (EB)こわいんた゛ろ[ED]
+"You're scared aren't you
+Oolong?"
 
 (6C)ホ゛ール なんか[LN]
 モせ゛んせ゛ん[LN]
 (E9)もってないし゛ゃないか![ED]
+"They don't have any balls!"
 
 (6D)いちいち[LN]
 ムうるさいわねぇ! [LN]
+"You complain about everything!"
+
 (E8)このうえよ!このうえっ![ED]
+"Above! Above!"
 
 (EB)むかし むかし の こと[LN]
+"Once upon a time"
+
 むみやこ から[LN]
 (6A)すうせんキロ も かなたの[LN]
 ムある やまおく・・・[LN]
+"In the mountains thousands of kilometers
+from the city"
+
 (EA)この キソウテンカ゛イ な[LN]
 むものか゛たり は[LN]
 (6A)とりあえす゛ そんなところ[LN]
 ムから はし゛まります[ED]
+"It is here an incredible tale
+begins."
 
 (EB)たった ひとつ[LN]
 むと゛んな ねか゛い て゛も[LN]
@@ -959,6 +1220,9 @@ I'll give you a puff-puff?"
 むフ゛ルマ の たひ゛は はし゛ [LN]
 (6A)まったのて゛ あります[LN]
 ムカ゛ンハ゛ルン シ゛ャソ゛ !![ED]
+"Goku and Bulma begin their journey
+to gather the seven Dragon Balls which
+will grant a single wish. Good luck!!"
 
 (EB)フ゛ルマ たちとの なか゛い[LN]
 むなか゛い ほ゛うけんか゛ おわ[LN]
@@ -968,6 +1232,9 @@ I'll give you a puff-puff?"
 むの ト゛ラコ゛ンホ゛ール をさ[LN]
 (6A)か゛すために あらたな[LN]
 ムほ゛うけんの たひ゛にて゛ました[ED]
+"Another year has passed since Bulma and her friends'
+journey has ended. Goku sets out on a new journey to
+find Son Gohan's memento Dragon Ball."
 
 (EB)こんと゛のたひ゛は コ゛クウ[LN]
 むひとり[LN]
@@ -976,66 +1243,106 @@ I'll give you a puff-puff?"
 (EA)を たよりに ぬぁんと[LN]
 むうちゅうへ むかった[LN]
 (6A)のて゛す・・・・[ED]
+"Goku sets out on this journey alone. Using the Dragon
+Radar he got from Bulma, he heads all the way to space..."
 
 め1 タイトル の ト゛ラコ゛ン[LN]
 (6C)を うこ゛かす[LN]
+"1 Move the dragon on the title"
+
 ム2 みらいをみる[LN]
+"2 See the future"
+
 (EA)3 ハ゜ワーをUPする[LN]
+"3 Power Up"
+
 む4 キ゛ャル の ハ゜ンティ[LN]
 (6C)か゛ほしい[ED]
+"4 Wish for girl panties"
 
 め1 タイトル の ト゛ラコ゛ン[LN]
 (6C)を うこ゛かす[LN]
+"1 Move the dragon on the title"
+
 ム2 ケ゛ーム を つつ゛ける[LN]
+"2 Continue game"
+
 (EA)3 キ゛ャル の ハ゜ンティ[LN]
 もか゛ ほしい[LN]
+"3 Wish for girl panties"
+
 (6A)4 ハ゜フハ゜フか゛ したい[ED]
+"4 Wish for puff-puff"
 
 ムGAME OVER[ED]
+"GAME OVER"
 
 ヘその1 かめせんにん との て゛あい[ED]
+"Chapter 1 Meeting the Turtle Hermit"
 
 マその2 ウーロン あらわる[ED]
+"Chapter 2 Oolong Appears"
 
 フその3 さは゛く の とうそ゛く ヤムチャ [ED]
+"Chapter 3 The Desert Bandit Yamucha"
 
 ヒその4 フライハ゜ン やま の き゛ゅうまおう[ED]
+"Chapter 4 Ox-King of Mt. Frypan"
 
 ミその5 ウサキ゛ た゛ん[ED]
+"Chapter 5 Rabbit Gang"
 
 ヘその6 ヒ゜ラフ た゛いおう の やほ゛う[ED]
+"Chapter 6 Great King Pilaf's Ambition"
 
 ヘその7 カンフー たいかい 1かいせん[ED]
+"Chapter 7 Kung-fu Tournament Round 1"
 
 ヘその8 カンフー たいかい 2かいせん[ED]
+"Chapter 7 Kung-fu Tournament Round 2"
 
 ヒその9 カンフー たいかい し゛ゅんけっしょう[ED]
+"Chapter 7 Kung-fu Tournament Semifinals"
 
 フその10 カンフー たいかい けっしょう[ED]
+"Chapter 7 Kung-fu Tournament Finals"
 
 ヘその11 トニンシ゛ンカ の ふくしゅう[ED]
+"Chapter 11 Revenge of Mr. Carrot"
 
 マその12 セフ゛ンアイラント゛ [ED]
+"Chapter 12 Seven Islands"
 
 ヘその13 シ゛ャンク゛ル おう ヒ゛ンホ゛ [ED]
+"Chapter 13 Jungle King Bimbo"
 
 ミその14  コンヘ゜イ とう[ED]
+"Chapter 14 Konpei Tower"
 
 [ED]
 
 (EB)け゛っへっへっ・・わたしは[LN]
 むヒ゜ラフ た゛いおうた゛![LN]
+"Gehehe... I am the Great King Pilaf!"
+
 (6A)こんかいは せかいおうに[LN]
 ムなれなかったか゛ [LN]
 (EA)このつき゛は きっと・・[ED]
+"I wasn't able to become the
+ruler of the world this time,
+but next time for sure..."
 
 [LN]
 (EB)ものか゛たりは これて゛ [LN]
 むおわった わけて゛わないそ゛![LN]
+"The story doesn't end here!"
+
 (6A)これから と゛んなホ゛ーケンか゛ [LN]
 ムまっているのか ? それは[LN]
 (EA)とりやまセンセイに[LN]
 むまかせといて・・[ED]
+"What adventures await? 
+Leave it to Mr. Toriyama..."
 
 [ED]
 
@@ -1043,10 +1350,15 @@ I'll give you a puff-puff?"
 むト゛ラコ゛ンホ゛ール を[LN]
 (6A)わたしのところへ[LN]
 ムもってくるのた゛ [LN]
-(EA)たのしみにしておるそ゛ [LN]
-むく゛っひっひっひっ!![ED]
+"And take the seven Dragon Balls
+to me."
 
+(EA)たのしみにしておるそ゛ [LN]
+"This will be fun."
+むく゛っひっひっひっ!![ED]
+"Eeheeheehee!!"
 [ED]
+
 
 
 
