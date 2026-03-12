@@ -282,10 +282,10 @@ COLLISION
  ジョウリク[LN]
  アースウイング[LN]
  バトルスター[ED]
- Warp
- Land
- Earthwing
- Battlestar
+ WARP
+ LAND
+ EARTHWING
+ BATTLESTAR
 
 ワープスル キョリガ[LN]
 トウスギテ[LN]
@@ -372,7 +372,7 @@ LAND SITE
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- ARTEM. AREA
+ ARTEM AREA
  IDA AREA
  RIKANU AREA
  HESPER Area
@@ -380,165 +380,164 @@ LAND SITE
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
- ARTEM. AREA
+ ARTEM AREA
  IDA AREA
  RIKANU AREA
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- ARTEM. AREA
+ ARTEM AREA
  IDA AREA
- HESPER AREA
+ HESP. AREA
 
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- ARTEM. AREA
+ ARTEM AREA
  RIKANU AREA
- HESPER AREA
+ HESP AREA
 
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Ida Area
- Rikarnu Area
- Hesperis Area
+ IDA AREA
+ RIKANU AREA
+ HESP AREA
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[ED]
- Artemis Area
- Ida Area
+ ARTEM AREA
+ IDA AREA
 
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[ED]
- Artemis Area
- Rikarnu Area
+ ARTEM AREA
+ RIKAN AREA
 
  アルテミス ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Area
- Hesperis Area
+ ARTEM AREA
+ HESP AREA
 
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
- Ida Area
- Rikarnu Area
+ IDA AREA
+ RIKAN AREA
 
  イーデー ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Ida Area
- Hesperis Area
+ IDA AREA
+ HESP AREA
 
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Rikarnu Area
- Hesperis Area
+ RIKANU AREA
+ HESP AREA
 
  アルテミス ダイチ[LN]
 [LN]
 [LN]
 [ED]
-Artemis Area
+ ARTEM AREA
 
  イーデー ダイチ[ED]
- Ida Area
+ IDA AREA
 
  リカーヌ ダイチ[ED]
- Rikarnu Area
+ RIKAN AREA
 
  ヘスヘ゜リス ダイチ[ED]
- Hesperis Area
+ HESP AREA
 
  ヘクトール キョウチ[LN]
- Hector Region
- 
  ピュロス キョウチ[LN]
  レルネー キョウチ[ED]
- Pylus Region
- Lelnay Region
+ HECTR LAND
+ PYLUS LAND
+ LELNY LAND
  
  ヘクトール キョウチ[LN]
  ピュロス キョウチ[ED]
- Hector Region
- Pylus Region
+ HECTR LAND
+ PYLUS LAND
 
  ヘクトール キョウチ[LN]
  レルネー キョウチ[ED]
- Hector Region
- Lelnay Region
+ HECTR LAND
+ LELNY LAND
 
  ピュロス キョウチ[LN]
  レルネー キョウチ[ED]
- Pylus Region
- Lelnay Region
+ PYLUS LAND
+ LELNY LAND
 
  ヘクトール キョウチ[ED]
- Hector Region
+ HECTR LAND
 
  ピュロス キョウチ[ED]
- Pylus Region
+ PYLUS LAND
 
  レルネー キョウチ[ED]
- Lelnay Region
+ LELNY LAND
 
  テティス ヘイゲン[LN]
  ダナエー ヘイゲン[ED]
- Thetis Plains
- Danae Plains
+ THETIS FLD
+ DANAE FLD
 
  テティス ヘイゲン[ED]
- Thetis Plains
+ THETIS FLD
 
  ダナエー ヘイゲン[ED]
- Danae Plains
+ DANAE FLD
 
  カシウス ダイチ[LN]
  ウトピア ダイチ[ED]
- Cassius Plains
- Utopia Plains
+ CASSI PLN
+ UTOPIA PLN
  
 
  カシウス ダイチ[ED]
- Cassius Plains
+ CASSI PLN
 
  ウトピア ダイチ[ED]
- Utopia Plains
+ UTOPIA PLN
 
  ベッセル コウゲン[ED]
- Bessel Plateau
+ BESSL PLAT
 
  テーセウス キヨウチ[LN]
  アッティカ キヨウチ[LN]
  ヒュドラ キヨウチ[ED]
- Theseus Region
- Attica Region
- Hydra Region
+ THES LAND
+ ATICA LAND
+ HYDRA LAND
 
  テーセウス キヨウチ[LN]
  アッティカ キヨウチ[ED]
- Theseus Region
- Attica Region
+ THES LAND
+ ATICA LAND
 
  テーセウス キヨウチ[LN]
  ヒュドラ キヨウチ[ED]
- Theseus Region
- Hydra Region
+ THES LAND
+ HYDRA LAND
 
 
  アッティカ キヨウチ[LN]
  ヒュドラ キヨウチ[ED]
- Attica Region
- Hydra Region
+ ATICA LAND
+ HYDRA LAND
 
  テーセウス キヨウチ[ED]
- Theseus Region
+ THES LAND
 
  アッティカ キヨウチ[ED]
- Attica Region
+ ATICA LAND
 
  ヒュドラ キヨウチ[ED]
- Hydra Region
+ HYDRA LAND
 
  ジュウリョクガ[LN]
  ヒジョウニ オオキイ[LN]
@@ -1397,6 +1396,7 @@ speed carrier
 シンガタ ライゲキキ[ED]
 Battlestar's new
 torpedo craft
+
 
 
 
