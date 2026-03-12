@@ -93,32 +93,33 @@ RED SPOT
 モチ リングハ[LN]
 ショウ ワクセイガ[LN]
 コワレタ モノデス[ED]
-Has large 
-rings made 
-of small
-ex planet
+HAS LARGE
+RINGS MADE
+OF SMALL
+EX PLANET
 
 ジテンジクガ[LN]
 カタムキ タテニ[LN]
 ジテン シテイル[ED]
-Axis is
-tilted
-to vertical
+AXIS IS
+TILTED
+TO VERTICAL
+ROTATION
 
 ハンケイハ チキュウノ[LN]
 4バイ  コウリト[LN]
 スイソ デ デキテイル[ED]
-4x Earth's 
-radius has
-hydrogen
-and ice
+4X EARTHS
+RADIUS HAS
+HYDROGEN
+AND ICE
 
 キワメテ シツリョウガ[LN]
 チイサク  コウリデ[LN]
 デキテイル[ED]
-Extremely 
-small mass
-Contains ice
+EXTREMELY
+SMALL MASS
+CONTAINS ICE
 
 DUMMY[ED]
 
@@ -127,47 +128,49 @@ DUMMY[ED]
 キアツ        P[LN]
 
 オンド       ゜C[ED]
-Grav       G
-Press      P
-Temp      ゜C
+GRV        G
+PRS        P
+TMP       ゜C
 
 ヒョウメンヲ[LN]
 クレータデ オオワレタ[LN]
 エイセイ[ED]
-Satellite 
-covered in
-many craters
+SATELLITE
+COVERED IN
+MANY CRATERS
 
 ハンケイ 6キロノ[LN]
 チイサナ テンタイ[ED]
-Small body 
-with 6 kilo 
-radius
+SMALL BODY
+WITH 6 KILO
+RADIUS
 
 ヒョウメンヲ[LN]
 イオウデ オオワレ[LN]
 チカクヘンドウガ[LN]
 アリマス[ED]
-Surface 
-covered in
-sulfur
-Fluctuations
-nearby
+SURFACE
+COVERED IN
+SULFUR
+FLUCTUATIONS
+NEARBY
 
 チヒョウハ チッソ ノ[LN]
 コウカガク スモッグ[LN]
 デ オオワレ ナニモ[LN]
 ミエマセン[ED]
-Nitrogen
-smog hides surface
-Unable to see anything
+NITROGEN
+SMOG HIDES
+SURFACE
+CANNOT SEE
 
 タイキガナク[LN]
 コウリト イワデ[LN]
 デキテイル[ED]
-No atmosphere
-Contains ice and
-rocks
+NO 
+ATMOSPHERE
+HAS ICE AND
+ROCK
 
 カイオウセイ ト[LN]
 ギヤクコウ シ[LN]
@@ -175,94 +178,105 @@ rocks
 カタムイテイル[ED]
 [ED]
 [ED]
-Neptune's orbit is
-tilting
+NEPTUNES
+ORBIT IS
+OFFSET
 
 コウゲキリョク    P[LN]
 ツヨサ        P[ED]
 [ED]
-Attack     P
-Strength     P
+Att        P
+Str        P
 
 ミサイルノ パーツヲ[LN]
 1 ツ テニイレタ[ED]
-Recieved single
-missile part
+RECIEVED 1
+MISSILE PART
 
 レベルガ 1ツ [LN]
 アガッタ[ED]
-Level increased
-by 1
+LEVEL
+INCREASED
+BY 1
 
 ミサイルノ レベルガ[LN]
 1ツ アガッタ[ED]
-Missile level
-increased by 1
+MISSILE 
+LEVEL
+INCREASED
+BY 1
 
 シールドノ [LN]
 シュウリニ    P[LN]
 シヨウ シマス[ED]
-Shield repairs
-require     P
+SHIELD
+REPAIR
+NEEDS      P
 
 コウゲキ ソウチノ[LN]
 シュウリニ    P[LN]
 シヨウシマス[ED]
-Attack system
-repairs 
-require     P
+ATTACK SYS
+REPAIR
+NEEDS      P
 
 ツウシンシステムノ[LN]
 シュウリニ    P[LN]
 シヨウシマス[ED]
-Comm systems repair
-require     P
+COMM SYS
+REPAIR
+NEEDS      P
 
 イジョウ アリマセン[ED]
-No issues
+NO ISSUES
 
 シュウリ サレマシタ[ED]
-Finished repairs
+FINISHED
+REPAIRS
 
 エネルギー フソク ノ[LN]
 タメ シュウリ[LN]
 デキマセン デシタ[ED]
-Insufficient energy
-to repair
+NOT ENOUGH
+ENERGY TO
+REPAIR
 
 ウチュウ センニ[LN]
 ゲキトツ シマス[LN]
 ワープ デキマセン[ED]
-Unable to warp
-due to collision
-with ship
+CANNOT WARP
+DUE TO SHIP
+COLLISION
 
 ウチュウ センニ[LN]
 ドッキング シマス[ED]
-Docking with ship
+DOCKING
+WITH SHIP
 
 チキュウニ キカン[LN]
 シマス[ED]
-Returning to Earth
+RETURNING
+TO EARTH
 
 ゲキトツ シマス[LN]
 ワープ デキマセン[ED]
-Unable to warp due
-to collision
+CANNOT WARP
+DUE TO
+COLLISION
 
  ワープ[LN]
  ジョウリク[LN]
  アースウイング[ED]
- Warp
- Land
- Earthwing
+ WARP
+ LAND
+ EARTHWING
 
  ワープ[LN]
  ジョウリク[LN]
  バトルスター[ED]
- Warp
- Land
- Battlestar
+ WARP
+ LAND
+ BATTLESTAR
 
  ワープ[LN]
  ジョウリク[LN]
@@ -276,110 +290,113 @@ to collision
 ワープスル キョリガ[LN]
 トウスギテ[LN]
 ワープ デキマセン[ED]
-Distance too far
-unable to warp
+DISTANCE TOO
+FAR CANNOT
+WARP
 
  ワープ[LN]
  ジョウリク[ED]
- Warp
- Land
+ WARP
+ LAND
 
  チキュウ[ED]
- Earth
+ EARTH
 
  カセイ[ED]
- Mars
+ MARS
 
  モクセイ[ED]
- Jupiter
+ JUPITER
 
  ドセイ[ED]
- Saturn
+ SATURN
 
  テンノウセイ[ED]
- Uranus
+ URANUS
 
  カイオウセイ[ED]
- Neptune
+ NEPTUNE
 
  メイオウセイ[ED]
 [ED]
-Pluto
+PLUTO
 
 キョリガ トウクテ[LN]
 ジョウリク デキマセン[ED]
-Too far to land
+TOO FAR TO
+LAND
 
 ジョウリク スル[LN]
 コトハ デキマセン[ED]
-Unable to land
+CANNOT LAND
 
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Athena  Basin
- Satyr Basin
- Nemes Basin
+ ATHENA BSN
+ SATYR BSN
+ NEMES BSN
 
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[ED]
- Athena Basin
- Satyr Basin
+ ATHENA BSN
+ SATYR BSN
 
  アテイナ ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Athena Basin
- Nemes Basin
+ ATHENA BSN
+ NEMES BSN
 
  アテイナ ホ゛ンチ[ED]
- Athena Basin
+ ATHENA BSN
 
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Satyr Basin
+ SATYR BSN
 
  サテロス ホ゛ンチ[ED]
- Satyr Basin
+ SATYR BSN
 
  ネメス ホ゛ンチ[ED]
- Nemes Basin
+ NEMES BSN
 
 ジョウリク チテン[LN]
 ガ フメイデス[LN]
 ジョウリク[LN]
 デキマセン[ED]
-Unable to confirm
-site to land
+CANNOT
+CONFIRM
+LAND SITE
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Area
- Ida Area
- Rikarnu Area
- Hesperis Area
+ ARTEM. AREA
+ IDA AREA
+ RIKANU AREA
+ HESPER Area
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
- Artemis Area
- Ida Area
- Rikarnu Area
+ ARTEM. AREA
+ IDA AREA
+ RIKANU AREA
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Area
- Ida Area
- Hesperis Area
+ ARTEM. AREA
+ IDA AREA
+ HESPER AREA
 
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Area
- Rikarnu Area
- Hesperis Area
+ ARTEM. AREA
+ RIKANU AREA
+ HESPER AREA
 
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
@@ -1380,6 +1397,7 @@ speed carrier
 シンガタ ライゲキキ[ED]
 Battlestar's new
 torpedo craft
+
 
 
 
