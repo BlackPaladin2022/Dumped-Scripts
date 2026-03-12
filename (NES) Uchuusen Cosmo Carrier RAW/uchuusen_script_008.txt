@@ -7,7 +7,7 @@
 シテクダサイ[LN]
 [LN]
             [ED]
-Please fill
+Please fill up
 energy
 
 ブッタイニ[LN]
@@ -27,7 +27,7 @@ P damage
 Destroyed object
 
 シヨウデキマセン[ED]
-Cannot do
+Cannot use
 
  ミサイル[LN]
  Missile
@@ -40,16 +40,15 @@ Cannot do
 タクラム ナゾノホシ[LN]
 バトルスター[ED]
 Unknown planet Battlestar
-intends to use the moon
+intending to use the moon
 to terminate Earth
 
 コウシミサイル クミタテ[LN]
 カンリョウ[LN]
-Photon missile creation
-complete
-
 ショウジュンヲ[LN]
 バトルスター ニ ロック[ED]
+Photon missile 
+construction complete
 Target locked on
 Battlestar
 
@@ -71,132 +70,271 @@ found on surface
 
 アンモニアノ クモニ[LN]
 オオワレテイル[LN]
-Covered in ammonium
-clouds
-
 ダイセキハン ニ[LN]
 タンサキガ アル[ED]
-There is a probe
-in the Great Red Spot
+Probe hidden by ammonia
+clouds in the Great Red
+Spot
 
 オオキナ リングヲ[LN]
 モチ リングハ[LN]
 ショウ ワクセイガ[LN]
 コワレタ モノデス[ED]
+Has large rings
+made of a small
+destroyed planet
+
 ジテンジクガ[LN]
 カタムキ タテニ[LN]
 ジテン シテイル[ED]
+Axis is tilted
+to vertical
+
 ハンケイハ チキュウノ[LN]
 4バイ  コウリト[LN]
 スイソ デ デキテイル[ED]
+4x Earth's radius
+Contains hydrogen
+and ice
+
 キワメテ シツリョウガ[LN]
 チイサク  コウリデ[LN]
 デキテイル[ED]
+Extremely small mass
+Contains ice
+
 DUMMY[ED]
+
 ジュウリョク     G[LN]
+Gravity     G
+
 キアツ        P[LN]
+Pressure     P
+
 オンド        ゜C[ED]
+Temperature     ゜C
+
 ヒョウメンヲ[LN]
 クレータデ オオワレタ[LN]
 エイセイ[ED]
+Satellite covered in
+many craters
+
 ハンケイ 6キロノ[LN]
 チイサナ テンタイ[ED]
+Small body with 
+6 kilo radius
+
 ヒョウメンヲ[LN]
 イオウデ オオワレ[LN]
 チカクヘンドウガ[LN]
 アリマス[ED]
+Surface covered in
+sulfur
+Fluctuations found
+nearby
+
 チヒョウハ チッソ ノ[LN]
 コウカガク スモッグ[LN]
 デ オオワレ ナニモ[LN]
 ミエマセン[ED]
+Nitrogen smog
+obscures surface
+Unable to see anything
+
 タイキガナク[LN]
 コウリト イワデ[LN]
 デキテイル[ED]
+No atmosphere
+Contains ice and
+rocks
+
 カイオウセイ ト[LN]
 ギヤクコウ シ[LN]
 キドウガ[LN]
 カタムイテイル[ED]
 [ED]
 [ED]
+
 コウゲキリョク    P[LN]
 ツヨサ        P[ED]
 [ED]
+Attack     P
+Strength     P
+
 ミサイルノ パーツヲ[LN]
 1 ツ テニイレタ[ED]
+Recieved single
+missile part
+
 レベルガ 1ツ [LN]
 アガッタ[ED]
+Level increased
+by 1
+
 ミサイルノ レベルガ[LN]
 1ツ アガッタ[ED]
+Missile level
+increased by 1
+
 シールドノ [LN]
 シュウリニ    P[LN]
 シヨウ シマス[ED]
+Shield repairs
+require     P
+
 コウゲキ ソウチノ[LN]
 シュウリニ    P[LN]
 シヨウシマス[ED]
+Attack system
+repairs 
+require     P
+
 ツウシンシステムノ[LN]
 シュウリニ    P[LN]
 シヨウシマス[ED]
+Comm systems repair
+require     P
+
 イジョウ アリマセン[ED]
+No issues
+
 シュウリ サレマシタ[ED]
+Finished repairs
+
 エネルギー フソク ノ[LN]
 タメ シュウリ[LN]
 デキマセン デシタ[ED]
+Insufficient energy
+to repair
+
 ウチュウ センニ[LN]
 ゲキトツ シマス[LN]
 ワープ デキマセン[ED]
+Unable to warp
+due to collision
+with ship
+
 ウチュウ センニ[LN]
 ドッキング シマス[ED]
+Docking with ship
+
 チキュウニ キカン[LN]
 シマス[ED]
+Returning to Earth
+
 ゲキトツ シマス[LN]
 ワープ デキマセン[ED]
+Unable to warp due
+to collision
+
  ワープ[LN]
  ジョウリク[LN]
  アースウイング[ED]
+ Warp
+ Land
+ Earthwing
+
  ワープ[LN]
  ジョウリク[LN]
  バトルスター[ED]
+ Warp
+ Land
+ Battlestar
+
  ワープ[LN]
  ジョウリク[LN]
  アースウイング[LN]
  バトルスター[ED]
+ Warp
+ Land
+ Earthwing
+ Battlestar
+
 ワープスル キョリガ[LN]
 トウスギテ[LN]
 ワープ デキマセン[ED]
+Distance too far
+unable to warp
+
  ワープ[LN]
  ジョウリク[ED]
+ Warp
+ Land
+
  チキュウ[ED]
+ Earth
+
  カセイ[ED]
+ Mars
+
  モクセイ[ED]
+ Jupiter
+
  ドセイ[ED]
+ Saturn
+
  テンノウセイ[ED]
+ Uranus
+
  カイオウセイ[ED]
+ Neptune
+
  メイオウセイ[ED]
 [ED]
+Pluto
+
 キョリガ トウクテ[LN]
 ジョウリク デキマセン[ED]
+Too far to land
+
 ジョウリク スル[LN]
 コトハ デキマセン[ED]
+Unable to land
+
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
+ Atena  Basin
+ Sateros Basin
+ Nemes Basin
+
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[ED]
+ Atena Basin
+ Sateros Basin
+
  アテイナ ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
+ Atena Basin
+ Nemes Basin
+
  アテイナ ホ゛ンチ[ED]
+ Atena Basin
+
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
+ Sateros Basin
+
  サテロス ホ゛ンチ[ED]
+ Sateros Basin
+
  ネメス ホ゛ンチ[ED]
+ Nemes Basin
+
 ジョウリク チテン[LN]
 ガ フメイデス[LN]
 ジョウリク[LN]
 デキマセン[ED]
+Unable to confirm
+landing site to
+land
+
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
@@ -628,4 +766,5 @@ UFO ガタノ[LN]
 [ED]
 バトルスターノ[LN]
 シンガタ ライゲキキ[ED]
+
 
