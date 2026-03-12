@@ -745,53 +745,57 @@ TAKE OFF
 
  シールド ON[LN]
  シールド OFF[ED]
- Shield ON
- Shield OFF
+ SHIELD ON
+ SHIELD OFF
 
 
 シールド ニ[LN]
 シヨウスル エネルギー[LN]
 ガ フソクデス[ED]
-Insufficient energy for
-shield
+NOT ENOUGH
+ENERGY FOR 
+SHIELD
 
 ベッセル コウゲン ニ[LN]
 バトル シュビタイ[LN]
 ノ キチガ アル[ED]
-Battle defense
-base found in
-Bessel Plateau
+BATTLE DEF
+BASE IN
+BESSL PLAT
 
 カシウス ダイチ ニ[LN]
 キンゾク ハンノウガ[LN]
 アリマス[ED]
-Metallic readings
-found in
-Cassius Plains
+METAL READING
+IN
+CASSI PLN
 
 ウトピア ダイチ ニ[LN]
 チカヅクナ！[ED]
-Stay away from
-Utopia Plains!
+KEEP AWAY FROM
+UTOPIA PLN!
 
 ダナエー フキンニ[LN]
 テキ ヒミツキチ ガ[LN]
 アル ヨウデス[ED]
-Enemy hidden base 
-in Danae area
+ENEMY SECRET
+BASE IN
+DANAE AREA
 
 テティス ヘイゲン ニ[LN]
 エネルギー ハンノウ[LN]
 ガ アリマス[ED]
-Energy readings
-in Thetis Plains
+ENERGY
+READING IN
+THETIS FLD
 
 オマエヲ アテナイキチ[LN]
 ニ イカセルワケニワ[LN]
 イカナイ[ED]
-There is no way
-you are reaching
-Athena Base
+NO WAY
+YOU ARE
+REACHING
+ATHENA BASE!
 
 サテロス ニ[LN]
 キョウリョクナ [LN]
@@ -1405,6 +1409,7 @@ speed carrier
 シンガタ ライゲキキ[ED]
 Battlestar's new
 torpedo craft
+
 
 
 
