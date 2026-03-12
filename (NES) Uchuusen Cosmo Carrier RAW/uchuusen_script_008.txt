@@ -155,6 +155,8 @@ rocks
 カタムイテイル[ED]
 [ED]
 [ED]
+Neptune's orbit is
+tilting
 
 コウゲキリョク    P[LN]
 ツヨサ        P[ED]
@@ -374,7 +376,7 @@ site to land
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[ED]
  Artemis Area
- Rikarnu Plateau
+ Rikarnu Area
 
  アルテミス ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
@@ -467,7 +469,7 @@ Artemis Area
  Utopia Plains
 
  ベッセル コウゲン[ED]
- Bessel plateau
+ Bessel Plateau
 
  テーセウス キヨウチ[LN]
  アッティカ キヨウチ[LN]
@@ -504,220 +506,438 @@ Artemis Area
  ジュウリョクガ[LN]
  ヒジョウニ オオキイ[LN]
  ホシデス[ED]
+ Planet with abnormally
+ strong gravity
 
  ジョウリク ハ[LN]
  フカノウデス[ED]
+ Unable to land
 
 グラビティ ヲ[LN]
 ウシナイ マシタ[ED]
+Lost Gravity
 
 ブリザート ヲ[LN]
 ウシナイ マシタ[ED]
+Lost Blizzard
 
 フィールド ヲ[LN]
 ウシナイ マシタ[ED]
+Lost Field
 
 オンドガ[LN]
 ヒジョウニ ヒクイ[LN]
 ホシデス[ED]
+Planet with abnormally
+low temperature
 
 コマンドースーツ ガ[LN]
 ノコッテ イマセン[ED]
+There are no
+command suits left
 
  グラビティ[ED]
+ Gravity
 
  ブリザート[ED]
+ Blizzard
 
  グラビティ[LN]
  ブリザート[ED]
+ Gravity
+ Blizzard
 
  フィールド[ED]
+ Field
 
  グラビティ[LN]
  フィールド[ED]
+ Gravity
+ Field
 
  ブリザート[LN]
  フィールド[ED]
+ Blizzard
+ Field
 
  グラビティ[LN]
  ブリザート[LN]
  フィールド[ED]
+ Gravity
+ Blizzard
+ Field
 
 グラビティ[LN]
 ハッシン シマシタ[ED]
+Gravity has launched
 
 ブリザート[LN]
 ハッシン シマシタ[ED]
+Blizzard has launched
 
 フィールド[LN]
 ハッシン シマシタ[ED]
+Field has launched
 
  コスモキャリア[LN]
  グラビィティ[LN]
  ブリザート[LN]
  フィールド[ED]
+ Cosmo Carrier
+ Gravity
+ Blizzard
+ Field
 
 ナクナリマシタ[ED]
+Lost
 
  シールド[LN]
  コウゲキ ソウチ[LN]
  ツウシン システム[ED]
+ Shield
+ Attack system
+ Comm System
 
 イジヨウ アリマセン[LN]
 [ED]
+No issues
 
 ソンガイヲ ウケマシタ[LN]
 キケンデス[ED]
+Warning!
+Sustained damage
 
 ソンガイヲ ウケマシタ[LN]
 シヨウ デキマセン[ED]
+Cannot use
+Sustained damage
 
 ミサイル ビーム [LN]
 ソウチ ハ[LN]
 イジヨウ アリマセン[ED]
+Missile beam systems
+nominal
 
 ミサイルソウチガ [LN]
 シヨウ デキマセン[LN]
 ビームソウチ ハ[LN]
 シヨウ カノウデス[ED]
+Unable to use missile
+system
+Able to use Beam
+system
 
 ミサイル ビーム [LN]
 ソウチニ ソンガイヲ[LN]
 ウケマシタ[LN]
 シヨウ デキマセン[ED]
+Missile beam system
+sustained damage
+unable to use
 
 イジヨウ アリマセン[LN]
 [ED]
+No issues
 
 [LN]
 エネルギー      P[LN]
 ミサイル       P[LN]
 ビーム        P[ED]
+Energy     P
+Missile     P
+Beam     P
+
  ノウリョク[LN]
  ライフ システム[ED]
+ Ability
+ Life system
+
 エネルギー     OK[LN]
 コウゲキソウチ   OK[LN]
 ツウシン システム OK[LN]
 シールド      OK[ED]
+Energy
+Attack System
+Comm System
+Shield
+
 コスモキャリア ハッシン[ED]
+Cosmo carrier take off
+
  リヘ゜アー[ED]
+ Repair
+
  ハッシン[LN]
  キュウケイ[ED]
+ Repair
+ Rest
+
  シールド ヲ[LN]
  カイジョ シマシタ[ED]
+ Shields have been
+ lifted
+
  シールド ヲ[LN]
  シヨウ シマス[ED]
+ Use shield
+
  シールド ハ[LN]
  スデニ[LN]
  シヨウ シテイマス[ED]
+ Sheild aleady in
+ use
+
  シールドハ[LN]
  シヨウ シテイマセン[ED]
+ Unable to use shields
+
  シールド ソウチ ガ[LN]
  コショウ シテイマス[LN]
  シヨウ フカノウデス[ED]
+ Shield system is
+ broken
+ unable to use
+
  シールド ON[LN]
  シールド OFF[ED]
+ Shield ON
+ Shield OFF
+
+
 シールド ニ[LN]
 シヨウスル エネルギー[LN]
 ガ フソクデス[ED]
+Insufficient energy for
+shield
+
 ベッセル コウゲン ニ[LN]
 バトル シュビタイ[LN]
 ノ キチガ アル[ED]
+Battle defense
+base found in
+Bessel Plateau
+
 カシウス ダイチ ニ[LN]
 キンゾク ハンノウガ[LN]
 アリマス[ED]
+Metallic readings
+found in
+Cassius Plains
+
 ウトピア ダイチ ニ[LN]
 チカヅクナ！[ED]
+Stay away from
+Utopia Plains!
+
 ダナエー フキンニ[LN]
 テキ ヒミツキチ ガ[LN]
 アル ヨウデス[ED]
+Enemy hidden base 
+in Danae area
+
 テティス ヘイゲン ニ[LN]
 エネルギー ハンノウ[LN]
 ガ アリマス[ED]
+Energy readings
+in Thetis Plains
+
 オマエヲ アテナイキチ[LN]
 ニ イカセルワケニワ[LN]
 イカナイ[ED]
+There is no way
+you are reaching
+Athena Base
+
 サテロス ニ[LN]
 キョウリョクナ [LN]
 メカガイル[ED]
+Strong Mecha
+found in
+Satyr Basin
+
 ネメス ニ オオキナ[LN]
 エネルギー ハンノウ[LN]
 アル[ED]
+Large energy readings
+in Nemes Basin
+
 ヘクトールキチ ニ[LN]
 イクマデニ オマエヲ[LN]
 ハカイスル[ED]
+You'll be destroyed
+if you apporach
+Hector Base
+
 ピ゜ュロスダイチ カラ[LN]
 デンパガ ハッシン[LN]
 サレテイマシタ[ED]
+Signal sent
+from Pylus 
+Plains
+
 テンオウセイ カラ[LN]
 ソウシンヲ キャッチ[LN]
 レルネーニ テキブタイ[LN]
 ゾウキョウチュウ[ED]
+Transmission from
+Uranus caught
+Ememy reinforcement
+at Lelnay
+
 ウチュウセン ガ[LN]
 テーセウス コウゲン[LN]
 デ シヨウソクヲ[LN]
 タッタ[ED]
+Lost contact with
+ship in
+Theseus Plateau
+
 アッティカニ オオガタ[LN]
 ユソウセンガ ヨク[LN]
 チャクリク シテイル[ED]
+Large transport ship
+succesfully landed
+on Attica
+
+
 ヒュドラ キョウチ ニ[LN]
 コウジョウ ヲ[LN]
 ケンセツ シテイル[ED]
+Building factory
+in Hydra Region
+
 アルテミス キチ ニ[LN]
 イク ツモリ ダナ[LN]
 ナマイキナ ヤツメ[LN]
 カナラズ オトシテヤル[ED]
+You intend on going to
+Artemis Base huh
+You fool I will
+take you down
+
 イーデンダイチ[LN]
 アタリデ ウチュウ[LN]
 リョコウ ツアー ガ゛[LN]
 ショウソク ヲ タッタ[ED]
+Lost contact with
+space travel tour
+group
+
+
 コレカラ リカーヌ[LN]
 ニ ウラン ヲ トリニ[LN]
 イクガ トテモ[LN]
 キケンダ[ED]
+Getting Uranium from
+Rikarnu will be
+very dangerous
+now
+
+
 ヘスヘ゜リス ダイチ ヲ[LN]
 タンサチュウ コウゲキ[LN]
 ヲ ウケマシタ[ED]
+Attacked while
+probing
+Hesperis Area
+
 カセイ フキンニ[LN]
 バトル カンタイガ[LN]
 シュウケツ シテイル[LN]
 モヨウ デス[ED]
+Battleships
+gathering in
+Mars area
+
 ツキニハ エネルギー[LN]
 アップノ ソウチガ[LN]
 アルハズダ[ED]
+There should be
+an energy increase
+device on the moon
+
 ・・・・・・・・・[ED]
+.......
+
 アナタハ カミヲ[LN]
 シンジマスカ ？[ED]
+Do you believe
+in God?
+
 バトル カンタイ ニ[LN]
 チュウイ セヨ！[ED]
+Focus on the
+battleships!
+
 カセイ エリア ヨリ[LN]
 タチサレ[LN]
 タチサラナイト[LN]
 コウゲキ スル[ED]
+Retreat from
+Mars area or
+be attacked
+
 アタマヲ カガクスル[LN]
 JALECO[ED]
+The science
+of you
+JALECO
+
 ココワ オマエノ[LN]
 ヨウナ モノガ クル[LN]
 トコロ デハ ナイ[ED]
+You do not belong
+here
+
+
 ココワ オマエノ[LN]
 ヨウナ モノガ クル[LN]
 トコロ デハ ナイ[ED]
+You do not belong
+here
+
+
 ウチュウクウホ゛ノ[LN]
 ナカニ キミノ[LN]
 チカラヲ アップ[LN]
 サセルモノガアル[ED]
+Inside the space
+carrier is a
+power up item
+
+
 オマエニ アスハ ナイ[ED]
+You will not live
+to see tomorrow
+
 ウチュウクウホ゛ ニ[LN]
 2ツノ ヘアガ アル[ED]
+There are 2 rooms
+in the space carrier
+
 シーバスノ ウゲン ニ[LN]
 イリグチガ アル[LN]
 キイロノ カンパン ニ[LN]
 ノルコトダ[ED]
+Theres an entrance
+on Seabass starboard
+yo can go on
+the yellow deck
+
 クウホ゛ サゲンニ[LN]
 フッカツノ パワー ガ[LN]
 アル[ED]
+There is the power
+to revive on the
+carrier port
+
+
 シーバスト オナジ[LN]
 イリグチハ キケンダ[ED]
+Using the same entrance
+as the Seabass is
+dangerous
+
 [ED]
 [ED]
 [ED]
@@ -740,161 +960,407 @@ JALECO[ED]
 [ED]
 [ED]
 [ED]
+
 タイタンニ[LN]
 エネルギー フルアップ[LN]
 スル テキガイル[ED]
+There are enemies
+with full energy
+on Titan
+
 クウホ゛ニ ジョウリク[LN]
 シテ ヘアニ ハイレ[LN]
 チカラガ アップスル[ED]
+Enter the room where
+the carrier lands
+and you will power up
+
 レベルガ アガレバ[LN]
 ハナシガ デキル[ED]
+I will talk to you
+if you level up
+
 クウホ゛ト コウシン[LN]
 セヨ[ED]
+Talk to the carrier
+
 ランドサット[ED]
+Landsat
+
 ナブスター[ED]
+Navstar
+
 バトルエース[ED]
+Battle Ace
+
 バトルシップ[ED]
+Battleship
+
 スターウルフ[ED]
+Star Wolf
+
 ファイヤー[ED]
+Fire
+
 サーチャー[ED]
+Searcher
+
 エラスムス[ED]
+Erasmus
+
 シーバス[ED]
+Seabass
+
 シーウルフ[ED]
+Seawolf
+
 フリーク[ED]
+Freak
+
 ネルバ[ED]
+Nerva
+
 ゾラ[ED]
+Zola
+
 リミット[ED]
+Limit
+
 デュール[ED]
+Duel
+
 バッカス[ED]
+Bacchus
+
 ガリレオ[ED]
+Galileo
+
 スターグレース[ED]
+Star Grace
+
 ピュース[ED]
+Puce
+
 バージャス[ED]
+Burgess
+
 チェイサー[ED]
+Chaser
+
 タナー[ED]
+Tanner
+
 ツキ[ED]
+Moon
+
 ダイモス[ED]
+Deimos
+
 イオ[ED]
+Io
+
 タイタン[ED]
+Titan
+
 ミランダ[ED]
+Miranda
+
 トリトン[ED]
+Triton
+
 ツインクラブ[ED]
+Twinclub
+
 アローピューマ[ED]
+Arrowpuma
+
 アースクロック[ED]
+Earth Croc
+
 シャットヘロン[ED]
+Shutte Heron
+
 ファンガス[ED]
+Fungus
+
 フライングゲス[ED]
+Flyer
+
 アキューストン[ED]
+Accuston
+
 スターマラスク[ED]
+Star Marask
+
 ダブルイヤー[ED]
+Double Ear
+
 スィザス[ED]
+Sivas
+
 レッグバット[ED]
+Legbat
+
 スピンアント[ED]
+Spinant
+
 ホップパァイク[ED]
+Pop Pike
 ショットコング[ED]
+Shotcong
+
 オクトータ[ED]
+Octohta
+
 カルトシェル[ED]
+Cartshell
+
 ストライダー[ED]
+Strider
+
 ブレンキー[ED]
+Brenki
+
 ガンフリー[ED]
+Gunfri
+
 ゴルチョフ[ED]
+Golchiv
+
 ゴスタリアン[ED]
+Gostarian
+
 MAP NAME[ED]
+
 トスカナ[ED]
+Toskana
+
 バシリカ[ED]
+Bashirika
+
 ブルサホウ[ED]
+Bulsahou
+
 ベッセル キチ[ED]
+Bessel Base
+
 ウトピア キチ[ED]
+Utopia Base
+
 カシウス キチ[ED]
+Cassius Base
+
 ダナエー キチ[ED]
+Danae Base
+
 テティス キチ[ED]
+Thetis Base
+
 ネメス キチ[ED]
+Nemes Base
+
 サテロス キチ[ED]
+Satyr Base
+
 アテナイ キチ[ED]
+Athena Base
+
 ピュロス キチ[ED]
+Pylus Base
+
 レルネー キチ[ED]
+Lelnay Base
+
 ヘクトール キチ[ED]
+Hector Base
+
 アッティカ キチ[ED]
+Attica Base
+
 テーセウス キチ[ED]
+Theseus Base
+
 ヒュドラ キチ[ED]
+Hydra Base
+
 イーデン キチ[ED]
+Eden Base
+
 アルテミス キチ[ED]
+Artemis Base
+
 ヘスヘ゜リス キチ[ED]
+Hesperis Base
+
 リカーヌ キチ[ED]
+Rikarnu Base
+
 ロケットランチャー ヲ[LN]
 ソウビシテイマス[ED]
+Equipped rocket
+launcher
+
 キャノン ホウヲ[LN]
 ソウビシテイマス[ED]
+Equipped cannon
+
 レーザー ホウヲ[LN]
 ソウビシテイマス[ED]
+Equipped laser
+
 シールド エネルギー[LN]
 キュウシュウ アーム[LN]
 ヲ ソウビ シテイマス[ED]
+Equipped shield
+energy absorbing
+arm
+
 シールド エネルギー[LN]
 キュウシュウ アーム[LN]
 ヲ ソウビ シテイマス[ED]
+Equipped shield
+energy absorbing
+arm
+
 エネルギー[LN]
 キュウシュウ アーム[LN]
 ヲ ソウビ シテイマス[ED]
+Equipped energy 
+absorbing arm
+
 コウゲキ ソウチ[LN]
 ハカイ アーム ヲ[LN]
 ソウビ シテイマス[ED]
 [ED]
+Equipped attack
+system destruction
+arm
+
 チキュウ ノ キショウ[LN]
 エイセイ[ED]
+Earth's weather
+satellite
+
 チキュウ ノ[LN]
 カセイ カンシ[LN]
 エイセイ[ED]
+Earth's Mars
+monitor
+satellite
+
 チキュウ ノ[LN]
 テンノウセイ カンシ[LN]
 エイセイ[ED]
+Earth's Uranus
+monitor 
+satellite
+
 チキュウ ノ[LN]
 カイオウセイ タンサ[LN]
 エイセイ[ED]
+Earth's Neptune
+monitor
+satellite
+
 チキュウ ノ[LN]
 メイオウセイ タンサ[LN]
 エイセイ[ED]
 [ED]
+Earth's Pluto
+monitor satellite
+
 アメリカ ノ グンジ[LN]
 ヨウ ジンコウエイセイ[ED]
+American military
+satellite
+
 チキュウ ノ[LN]
 モクセイ タンサ[LN]
 エイセイ[ED]
+Earth's Jupiter
+monitor satellite
+
 UFO ガタノ[LN]
 ショゾク フメイ ノ[LN]
 ウチュウセン デス[ED]
+UFO type ship
+of unknown ally
+
 コウソク テイサツ ヨウ[LN]
 ノ ウチュウ ロケット[ED]
+Hi speed
+survey space
+rocket
+
 ショゾク フメイ ノ[LN]
 ウチュウセン デス[ED]
+Ship of unknown ally
+
 カセイエリア デノ[LN]
 コガタ ウチュウクウホ゛[LN]
 カンサイキ ハ フメイ[ED]
+Unknown small 
+carrier ship
+at Mars area
+
 バトルスター シュリョク[LN]
 クウホ゛[LN]
 テンノウセイ シュビタイ[LN]
 ノ ヨウデス[ED]
+Main carrier for
+Battlestar
+Uranus forces
+
 オオガタ クウホ゛[LN]
 テキ ノ シレイホンブ[LN]
 ノ ヨウデス[ED]
+Large carrier
+seems to be
+enemy main
+base
+
 ユソウセン デス[LN]
 カナリノ ブッシ ヲ[LN]
 ハコンデ イル[LN]
 ヨウデス[ED]
+Transport ship
+Carrying many
+items
+
 チョウキョリ ガタ[LN]
 テキ ユソウセン[LN]
 [ED]
+Very long distance
+enemy transport
+
 コウソク ウンパンヨウ[LN]
 テキ ユソウセン[ED]
+High speed enemy
+transport ship
+
 モクセイ ニ チャクリク[LN]
 シタ タンサキ[ED]
+Probe landed on
+Jupiter
+
 カイオウセイ タンサキ[ED]
+Neptune Probe
+
+
 メイオウセイ タンサキ[ED]
+Pluto Probe
+
 ショキガタ ノ コウソク[LN]
 シュリョク セントウキ[LN]
 [ED]
+Eary based high
+speed carrier
+
 バトルスターノ[LN]
 シンガタ ライゲキキ[ED]
+Battlestar's new
+torpedo craft
+
 
 
 
