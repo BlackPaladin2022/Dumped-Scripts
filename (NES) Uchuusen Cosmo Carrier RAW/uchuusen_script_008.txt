@@ -7,139 +7,159 @@
 シテクダサイ[LN]
 [LN]
             [ED]
-Please fill up
-energy
+PLEASE FILL
+UP ENERGY
 
 ブッタイニ[LN]
 ダメージヲ アタエ[LN]
 ラレマセン デシタ[ED]
-Unable to damage
-object
+UNABLE TO
+DAMAGE
+OBJECT
 
 ブッタイニ[LN]
   P ダメージヲ[LN]
 アタエマシタ[ED]
-Damaged object for
-P damage
+DAMAGED
+OBJECT FOR
+P DMG
 
 ブッタイハ[LN]
 ショウメツ シマシタ[ED]
-Destroyed object
+DESTROYED
+OBJECT
 
 シヨウデキマセン[ED]
-Cannot use
+CANNOT USE
 
  ミサイル[LN]
- Missile
+ MISSILE
 
  コウシミサイル[ED]
- Photon missile
+ PHOTON
+ MISSILE
 
 ツキヲ ウゴカシ[LN]
 チキュウ メッホ゛ウヲ[LN]
 タクラム ナゾノホシ[LN]
 バトルスター[ED]
-Unknown planet Battlestar
-intending to use the moon
-to terminate Earth
+UNK. PLANET
+BATTLESTAR
+USING MOON
+TO HIT EARTH
 
 コウシミサイル クミタテ[LN]
 カンリョウ[LN]
 ショウジュンヲ[LN]
 バトルスター ニ ロック[ED]
-Photon missile 
-construction complete
-Target locked on
-Battlestar
+PHOTON
+MISSILE
+COMPLETE
+TARGET ON
+BATTLESTAR
 
 バトルスター ニ[LN]
 メイチュウ シマシタ[ED]
-Successfully hit
-Battlestar
+SUCCESSFULLY
+HIT
+BATTLESTAR
+
 
 タイヨウケイデ[LN]
 チテキブンメイ ガ[LN]
 ソンザイ シマス[ED]
-Advanced civilization
-found in solar system
+ADVANCED
+CIVILIZATION
+FOUND IN
+SOLAR SYSTEM
 
 チヒョウニ ウンガノ[LN]
 アトガ ミラレル[ED]
-Signs of waterways
-found on surface
+SIGNS OF
+WATERWAYS
+FOUND ON
+SURFACE
 
 アンモニアノ クモニ[LN]
 オオワレテイル[LN]
 ダイセキハン ニ[LN]
 タンサキガ アル[ED]
-Probe hidden by ammonia
-clouds in the Great Red
-Spot
+PROBE HIDDEN
+IN AMMONIA
+CLOUDS ON
+RED SPOT
 
 オオキナ リングヲ[LN]
 モチ リングハ[LN]
 ショウ ワクセイガ[LN]
 コワレタ モノデス[ED]
-Has large rings
-made of a small
-destroyed planet
+Has large 
+rings made 
+of small
+ex planet
 
 ジテンジクガ[LN]
 カタムキ タテニ[LN]
 ジテン シテイル[ED]
-Axis is tilted
+Axis is
+tilted
 to vertical
 
 ハンケイハ チキュウノ[LN]
 4バイ  コウリト[LN]
 スイソ デ デキテイル[ED]
-4x Earth's radius
-Contains hydrogen
+4x Earth's 
+radius has
+hydrogen
 and ice
 
 キワメテ シツリョウガ[LN]
 チイサク  コウリデ[LN]
 デキテイル[ED]
-Extremely small mass
+Extremely 
+small mass
 Contains ice
 
 DUMMY[ED]
 
 ジュウリョク     G[LN]
-Gravity     G
 
 キアツ        P[LN]
-Pressure     P
 
-オンド        ゜C[ED]
-Temperature     ゜C
+オンド       ゜C[ED]
+Grav       G
+Press      P
+Temp      ゜C
 
 ヒョウメンヲ[LN]
 クレータデ オオワレタ[LN]
 エイセイ[ED]
-Satellite covered in
+Satellite 
+covered in
 many craters
 
 ハンケイ 6キロノ[LN]
 チイサナ テンタイ[ED]
-Small body with 
-6 kilo radius
+Small body 
+with 6 kilo 
+radius
 
 ヒョウメンヲ[LN]
 イオウデ オオワレ[LN]
 チカクヘンドウガ[LN]
 アリマス[ED]
-Surface covered in
+Surface 
+covered in
 sulfur
-Fluctuations found
+Fluctuations
 nearby
 
 チヒョウハ チッソ ノ[LN]
 コウカガク スモッグ[LN]
 デ オオワレ ナニモ[LN]
 ミエマセン[ED]
-Nitrogen smog
-obscures surface
+Nitrogen
+smog hides surface
 Unable to see anything
 
 タイキガナク[LN]
@@ -1360,6 +1380,7 @@ speed carrier
 シンガタ ライゲキキ[ED]
 Battlestar's new
 torpedo craft
+
 
 
 
