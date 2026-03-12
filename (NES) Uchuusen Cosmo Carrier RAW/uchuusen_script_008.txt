@@ -295,22 +295,22 @@ Unable to land
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Atena  Basin
+ Ateina  Basin
  Sateros Basin
  Nemes Basin
 
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[ED]
- Atena Basin
+ Ateina Basin
  Sateros Basin
 
  アテイナ ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Atena Basin
+ Ateina Basin
  Nemes Basin
 
  アテイナ ホ゛ンチ[ED]
- Atena Basin
+ Ateina Basin
 
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
@@ -327,57 +327,109 @@ Unable to land
 ジョウリク[LN]
 デキマセン[ED]
 Unable to confirm
-landing site to
-land
+site to land
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+ Artemis Plateau
+ Ida Plateau
+ Rikarnu Plateau
+ Hesperis Plateau
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
+ Artemis Plateau
+ Ida Plateau
+ Rikarnu Plateau
+
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+ Artemis Plateau
+ Ida Plateau
+ Hesperis Plateau
+
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+ Artemis Plateau
+ Rikarnu Plateau
+ Hesperis Plateau
+
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+ Ida Plateau
+ Rikarnu Plateau
+ Hesperis Plateau
+
  アルテミス ダイチ[LN]
  イーデー ダイチ[ED]
+ Artemis Plateau
+ Ida Plateau
+
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[ED]
+ Artemis Plateau
+ Rikarnu Plateau
+
  アルテミス ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+ Artemis Plateau
+ Hesperis Plateau
+
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
+ Ida Plateau
+ Rikarnu Plateau
+
  イーデー ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+ Ida Plateau
+ Hesperis Plateau
+
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
+ Rikarnu Plateau
+ Hesperis Plateau
+
  アルテミス ダイチ[LN]
 [LN]
 [LN]
 [ED]
+Artemis Plateau
+
  イーデー ダイチ[ED]
+ Ida Plateau
+
  リカーヌ ダイチ[ED]
+ Rikarnu Plateau
+
  ヘスヘ゜リス ダイチ[ED]
+ Hesperis Plateau
+
  ヘクトール キョウチ[LN]
  ピュロス キョウチ[LN]
  レルネー キョウチ[ED]
+
  ヘクトール キョウチ[LN]
  ピュロス キョウチ[ED]
+
  ヘクトール キョウチ[LN]
  レルネー キョウチ[ED]
+
  ピュロス キョウチ[LN]
  レルネー キョウチ[ED]
+
  ヘクトール キョウチ[ED]
+
  ピュロス キョウチ[ED]
+
  レルネー キョウチ[ED]
+
  テティス ヘイゲン[LN]
  ダナエー ヘイゲン[ED]
  テティス ヘイゲン[ED]
@@ -766,5 +818,6 @@ UFO ガタノ[LN]
 [ED]
 バトルスターノ[LN]
 シンガタ ライゲキキ[ED]
+
 
 
