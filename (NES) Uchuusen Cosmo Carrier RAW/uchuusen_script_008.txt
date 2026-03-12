@@ -800,29 +800,31 @@ ATHENA BASE!
 サテロス ニ[LN]
 キョウリョクナ [LN]
 メカガイル[ED]
-Strong Mecha
-found in
-Satyr Basin
+STRONG MECH
+IN
+SATYR BSN
 
 ネメス ニ オオキナ[LN]
 エネルギー ハンノウ[LN]
 アル[ED]
-Large energy readings
-in Nemes Basin
+LARGE ENEMY
+READING IN
+NEMES BSN
 
 ヘクトールキチ ニ[LN]
 イクマデニ オマエヲ[LN]
 ハカイスル[ED]
-You'll be destroyed
-if you apporach
-Hector Base
+APPROACH
+HECTOR BASE
+AND BE
+DESTROYED
 
 ピ゜ュロスダイチ カラ[LN]
 デンパガ ハッシン[LN]
 サレテイマシタ[ED]
-Signal sent
-from Pylus 
-Plains
+SIGNAL SENT
+FROM 
+PYLUS LAND
 
 テンオウセイ カラ[LN]
 ソウシンヲ キャッチ[LN]
@@ -1409,6 +1411,7 @@ speed carrier
 シンガタ ライゲキキ[ED]
 Battlestar's new
 torpedo craft
+
 
 
 
