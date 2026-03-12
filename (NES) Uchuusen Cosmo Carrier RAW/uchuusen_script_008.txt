@@ -542,151 +542,158 @@ LAND SITE
  ジュウリョクガ[LN]
  ヒジョウニ オオキイ[LN]
  ホシデス[ED]
- Planet with abnormally
- strong gravity
+ PLANET WITH
+ ABNORMALLY
+ STRONG
+ GRAVITY
 
  ジョウリク ハ[LN]
  フカノウデス[ED]
- Unable to land
+ CANNOT LAND
 
 グラビティ ヲ[LN]
 ウシナイ マシタ[ED]
-Lost Gravity
+LOST GRAVITY
 
 ブリザート ヲ[LN]
 ウシナイ マシタ[ED]
-Lost Blizzard
+LOST BLIZZARD
 
 フィールド ヲ[LN]
 ウシナイ マシタ[ED]
-Lost Field
+LOST FIELD
 
 オンドガ[LN]
 ヒジョウニ ヒクイ[LN]
 ホシデス[ED]
-Planet with abnormally
-low temperature
+PLANET WITH
+ABNORMALLY
+LOW TEMP
 
 コマンドースーツ ガ[LN]
 ノコッテ イマセン[ED]
-There are no
-command suits left
+NO COMMAND
+SUITS LEFT
 
  グラビティ[ED]
- Gravity
+ GRAVITY
 
  ブリザート[ED]
- Blizzard
+ BLIZZARD
 
  グラビティ[LN]
  ブリザート[ED]
- Gravity
- Blizzard
+ GRAVITY
+ BLIZZARD
 
  フィールド[ED]
- Field
+ FIELD
 
  グラビティ[LN]
  フィールド[ED]
- Gravity
- Field
+ GRAVITY
+ FIELD
 
  ブリザート[LN]
  フィールド[ED]
- Blizzard
- Field
+ BLIZZARD
+ FIELD
 
  グラビティ[LN]
  ブリザート[LN]
  フィールド[ED]
- Gravity
- Blizzard
- Field
+ GRAVITY
+ BLIZZARD
+ FIELD
 
 グラビティ[LN]
 ハッシン シマシタ[ED]
-Gravity has launched
+GRAVITY
+LAUNCHED
 
 ブリザート[LN]
 ハッシン シマシタ[ED]
-Blizzard has launched
+BLIZZARD
+LAUNCHED
 
 フィールド[LN]
 ハッシン シマシタ[ED]
-Field has launched
+FIELD LAUNCHED
 
  コスモキャリア[LN]
  グラビィティ[LN]
  ブリザート[LN]
  フィールド[ED]
- Cosmo Carrier
- Gravity
- Blizzard
- Field
+ COSMCARRIER
+ GRAVOTY
+ BLIZZARD
+ FIELD
 
 ナクナリマシタ[ED]
-Lost
+LOST
 
  シールド[LN]
  コウゲキ ソウチ[LN]
  ツウシン システム[ED]
- Shield
- Attack system
- Comm System
+ SHIELD
+ ATTACK SYS
+ COMM SYS
 
 イジヨウ アリマセン[LN]
 [ED]
-No issues
+NO ISSUE
 
 ソンガイヲ ウケマシタ[LN]
 キケンデス[ED]
-Warning!
-Sustained damage
+WARNING!
+SUSTAINED
+DAMAGE
 
 ソンガイヲ ウケマシタ[LN]
 シヨウ デキマセン[ED]
-Cannot use
-Sustained damage
+SUSTAINED
+DAMAGE
+CANNOT USE
 
 ミサイル ビーム [LN]
 ソウチ ハ[LN]
 イジヨウ アリマセン[ED]
-Missile beam systems
-nominal
+MISSILE+BEAM
+SYSTEM OK
 
 ミサイルソウチガ [LN]
 シヨウ デキマセン[LN]
 ビームソウチ ハ[LN]
 シヨウ カノウデス[ED]
-Unable to use missile
-system
-Able to use Beam
-system
+CANNT USE 
+MISSILE SYS
+CAN USE
+BEAM SYS
 
 ミサイル ビーム [LN]
 ソウチニ ソンガイヲ[LN]
 ウケマシタ[LN]
 シヨウ デキマセン[ED]
-Missile beam system
-sustained damage
-unable to use
+MISSILE+BEAM
+DAMAGED
+CANNOT USE
 
 イジヨウ アリマセン[LN]
 [ED]
-No issues
+NO ISSUE
 
 [LN]
 エネルギー      P[LN]
 ミサイル       P[LN]
 ビーム        P[ED]
-Energy     P
-Missile     P
-Beam     P
+EN         P
+MSL        P
+BEAM       P
 
  ノウリョク[LN]
  ライフ システム[ED]
- Ability
- Life system
+ ABILITY
+ LIFE SYSTEM
 
 エネルギー     OK[LN]
 コウゲキソウチ   OK[LN]
@@ -698,41 +705,43 @@ Comm System
 Shield
 
 コスモキャリア ハッシン[ED]
-Cosmo carrier take off
+COSMOCARRIER
+TAKE OFF
 
  リヘ゜アー[ED]
- Repair
+ HEAL
 
  ハッシン[LN]
  キュウケイ[ED]
- Repair
- Rest
+ TAKE OFF
+ REST
 
  シールド ヲ[LN]
  カイジョ シマシタ[ED]
- Shields have been
- lifted
+ SHIELD IS
+ LIFTED
 
  シールド ヲ[LN]
  シヨウ シマス[ED]
- Use shield
+ USE SHIELD
 
  シールド ハ[LN]
  スデニ[LN]
  シヨウ シテイマス[ED]
- Sheild aleady in
- use
+ ALREADY
+ USING SHIELD
 
  シールドハ[LN]
  シヨウ シテイマセン[ED]
- Unable to use shields
+ CANNOT USE
+ SHIELD
 
  シールド ソウチ ガ[LN]
  コショウ シテイマス[LN]
  シヨウ フカノウデス[ED]
- Shield system is
- broken
- unable to use
+ SHIELD SYS
+ BROKEN
+ CANNOT USE
 
  シールド ON[LN]
  シールド OFF[ED]
@@ -1396,6 +1405,7 @@ speed carrier
 シンガタ ライゲキキ[ED]
 Battlestar's new
 torpedo craft
+
 
 
 
