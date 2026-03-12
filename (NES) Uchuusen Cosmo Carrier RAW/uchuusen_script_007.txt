@@ -5,52 +5,53 @@
 
  エイセイ[LN]
  シュウリ[ED]
- Repair
- Satellite
+ REPAIR
+ SATELLITE
 
  ワクセイ[LN]
  シュウリ[ED]
- Planet
- Repair
+ PLANET
+ REPAIR
 
  ウチュウセン[LN]
  シュウリ[ED]
- Ship
- Repair
+ SHIP
+ REPAIR
 
  メカ[LN]
  シュウリ[ED]
- Mech
- Repair
+ MECH
+ REPAIR
 
  エイセイ[LN]
  シュウリ[LN]
  リヘ゜アー[ED]
- Satellite
- Repair
- Heal
+ SATELLITE
+ REPAIR
+ HEAL
 
  ワクセイ[LN]
  シュウリ[LN]
  リヘ゜アー[ED]
- Planet
- Repair
- Heal
+ PLANET
+ REPAIR
+ HEAL
 
  ウチュウセン[LN]
  シュウリ[LN]
  リヘ゜アー[ED]
- Ship
- Repair
- Heal
+ SHIP
+ REPAIR
+ HEAL
 
  メカ[LN]
  シュウリ[LN]
  リヘ゜アー[ED]
- Mech
- Repair
- Heal
+ MECH
+ REPAIR
+ HEAL
 
  リヘ゜アー[ED]
- Heal
+ HEAL
+
 
