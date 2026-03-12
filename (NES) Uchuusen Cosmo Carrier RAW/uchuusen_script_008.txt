@@ -830,164 +830,177 @@ PYLUS LAND
 ソウシンヲ キャッチ[LN]
 レルネーニ テキブタイ[LN]
 ゾウキョウチュウ[ED]
-Transmission from
-Uranus caught
-Ememy reinforcement
-at Lelnay
+MSG FROM
+URANUS ENEMY
+REINFORCEME
+AT LELNAY
 
 ウチュウセン ガ[LN]
 テーセウス コウゲン[LN]
 デ シヨウソクヲ[LN]
 タッタ[ED]
-Lost contact with
-ship in
-Theseus Plateau
+CONTACT LOST
+WITH SHIP IN
+THES PLT
 
 アッティカニ オオガタ[LN]
 ユソウセンガ ヨク[LN]
 チャクリク シテイル[ED]
-Large transport ship
-succesfully landed
-on Attica
+LARGE
+TRANSPORT
+SHIP LANDED
+AT ATICA
+
 
 
 ヒュドラ キョウチ ニ[LN]
 コウジョウ ヲ[LN]
 ケンセツ シテイル[ED]
-Building factory
-in Hydra Region
+FACTORY
+CREATION AT
+HYDRA BASE
 
 アルテミス キチ ニ[LN]
 イク ツモリ ダナ[LN]
 ナマイキナ ヤツメ[LN]
 カナラズ オトシテヤル[ED]
-You intend on going to
-Artemis Base huh
-You fool I will
-take you down
+YOURE GOING
+TO ARTEM
+BASE HUH
+DIE FOOL
 
 イーデンダイチ[LN]
 アタリデ ウチュウ[LN]
 リョコウ ツアー ガ゛[LN]
 ショウソク ヲ タッタ[ED]
-Lost contact with
-space travel tour
-group
-
+LOST CONTACT
+WITH SPACE
+TOUR GROUP
 
 コレカラ リカーヌ[LN]
 ニ ウラン ヲ トリニ[LN]
 イクガ トテモ[LN]
 キケンダ[ED]
-Getting Uranium from
-Rikarnu will be
-very dangerous
-now
+URANIUM FROM
+RIKAN WILL
+BE RISKY TO
+GET NOW
 
 
 ヘスヘ゜リス ダイチ ヲ[LN]
 タンサチュウ コウゲキ[LN]
 ヲ ウケマシタ[ED]
-Attacked while
-probing
-Hesperis Area
+ATTACKED
+WHILE 
+PROBING
+HESP AREA
 
 カセイ フキンニ[LN]
 バトル カンタイガ[LN]
 シュウケツ シテイル[LN]
 モヨウ デス[ED]
-Battleships
-gathering in
-Mars area
+BATTLESHIPS
+GATHERING
+NEAR MARS
 
 ツキニハ エネルギー[LN]
 アップノ ソウチガ[LN]
 アルハズダ[ED]
-There should be
-an energy increase
-device on the moon
+THERE SHOULD
+BE AN ENERGY
+UP DEVICE ON
+THE MOON
 
 ・・・・・・・・・[ED]
 .......
 
 アナタハ カミヲ[LN]
 シンジマスカ ？[ED]
-Do you believe
-in God?
+DO YOU
+BELIEVE IN
+GOD?
 
 バトル カンタイ ニ[LN]
 チュウイ セヨ！[ED]
-Focus on the
-battleships!
+FOCUS ON THE
+BATTLESHIPS!
 
 カセイ エリア ヨリ[LN]
 タチサレ[LN]
 タチサラナイト[LN]
 コウゲキ スル[ED]
-Retreat from
-Mars area or
-be attacked
+RETREAT FROM
+MARS AREA OR
+BE ATTACKED
 
 アタマヲ カガクスル[LN]
 JALECO[ED]
-The science
-of you
+THE SCIENCE
+OF YOU
+
 JALECO
 
 ココワ オマエノ[LN]
 ヨウナ モノガ クル[LN]
 トコロ デハ ナイ[ED]
-You do not belong
-here
+YOU DO NOT
+BELONG HERE
 
 
 ココワ オマエノ[LN]
 ヨウナ モノガ クル[LN]
 トコロ デハ ナイ[ED]
-You do not belong
-here
+YOU DO NOT
+BELONG HERE
 
 
 ウチュウクウホ゛ノ[LN]
 ナカニ キミノ[LN]
 チカラヲ アップ[LN]
 サセルモノガアル[ED]
-Inside the space
-carrier is a
-power up item
+INSIDE SPACE
+CARRIER IS
+A POWER UP
 
 
 オマエニ アスハ ナイ[ED]
-You will not live
-to see tomorrow
+YOU WILL NOT
+LIVE TO SEE
+TOMORROW
 
 ウチュウクウホ゛ ニ[LN]
 2ツノ ヘアガ アル[ED]
-There are 2 rooms
-in the space carrier
+THERES TWO
+ROOMS IN THE
+SPACE 
+CARRIER
 
 シーバスノ ウゲン ニ[LN]
 イリグチガ アル[LN]
 キイロノ カンパン ニ[LN]
 ノルコトダ[ED]
-Theres an entrance
-on Seabass starboard
-yo can go on
-the yellow deck
+ON SEABASS
+RIGHT IS AN
+ENTRANCE
+TO YLW DECT
+
 
 クウホ゛ サゲンニ[LN]
 フッカツノ パワー ガ[LN]
 アル[ED]
-There is the power
-to revive on the
-carrier port
+THERE IS THE
+POWER TO
+REVIVE ON
+CARRIER LEFT
 
 
 シーバスト オナジ[LN]
 イリグチハ キケンダ[ED]
-Using the same entrance
-as the Seabass is
-dangerous
+USING SAME
+ENTRANCE AS 
+THE SEABASS
+IS DANGEROUS
+
 
 [ED]
 [ED]
@@ -1411,6 +1424,7 @@ speed carrier
 シンガタ ライゲキキ[ED]
 Battlestar's new
 torpedo craft
+
 
 
 
