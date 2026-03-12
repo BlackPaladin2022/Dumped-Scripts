@@ -295,29 +295,29 @@ Unable to land
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Ateina  Basin
- Sateros Basin
+ Athena  Basin
+ Satyr Basin
  Nemes Basin
 
  アテイナ ホ゛ンチ[LN]
  サテロス ホ゛ンチ[ED]
- Ateina Basin
- Sateros Basin
+ Athena Basin
+ Satyr Basin
 
  アテイナ ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Ateina Basin
+ Athena Basin
  Nemes Basin
 
  アテイナ ホ゛ンチ[ED]
- Ateina Basin
+ Athena Basin
 
  サテロス ホ゛ンチ[LN]
  ネメス ホ゛ンチ[ED]
- Sateros Basin
+ Satyr Basin
 
  サテロス ホ゛ンチ[ED]
- Sateros Basin
+ Satyr Basin
 
  ネメス ホ゛ンチ[ED]
  Nemes Basin
@@ -333,185 +333,262 @@ site to land
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Plateau
- Ida Plateau
- Rikarnu Plateau
- Hesperis Plateau
+ Artemis Area
+ Ida Area
+ Rikarnu Area
+ Hesperis Area
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
- Artemis Plateau
- Ida Plateau
- Rikarnu Plateau
+ Artemis Area
+ Ida Area
+ Rikarnu Area
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Plateau
- Ida Plateau
- Hesperis Plateau
+ Artemis Area
+ Ida Area
+ Hesperis Area
 
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Plateau
- Rikarnu Plateau
- Hesperis Plateau
+ Artemis Area
+ Rikarnu Area
+ Hesperis Area
 
  イーデー ダイチ[LN]
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Ida Plateau
- Rikarnu Plateau
- Hesperis Plateau
+ Ida Area
+ Rikarnu Area
+ Hesperis Area
 
  アルテミス ダイチ[LN]
  イーデー ダイチ[ED]
- Artemis Plateau
- Ida Plateau
+ Artemis Area
+ Ida Area
 
  アルテミス ダイチ[LN]
  リカーヌ ダイチ[ED]
- Artemis Plateau
+ Artemis Area
  Rikarnu Plateau
 
  アルテミス ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Artemis Plateau
- Hesperis Plateau
+ Artemis Area
+ Hesperis Area
 
  イーデー ダイチ[LN]
  リカーヌ ダイチ[ED]
- Ida Plateau
- Rikarnu Plateau
+ Ida Area
+ Rikarnu Area
 
  イーデー ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Ida Plateau
- Hesperis Plateau
+ Ida Area
+ Hesperis Area
 
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- Rikarnu Plateau
- Hesperis Plateau
+ Rikarnu Area
+ Hesperis Area
 
  アルテミス ダイチ[LN]
 [LN]
 [LN]
 [ED]
-Artemis Plateau
+Artemis Area
 
  イーデー ダイチ[ED]
- Ida Plateau
+ Ida Area
 
  リカーヌ ダイチ[ED]
- Rikarnu Plateau
+ Rikarnu Area
 
  ヘスヘ゜リス ダイチ[ED]
- Hesperis Plateau
+ Hesperis Area
 
  ヘクトール キョウチ[LN]
+ Hector Region
+ 
  ピュロス キョウチ[LN]
  レルネー キョウチ[ED]
-
+ Pylus Region
+ Lelnay Region
+ 
  ヘクトール キョウチ[LN]
  ピュロス キョウチ[ED]
+ Hector Region
+ Pylus Region
 
  ヘクトール キョウチ[LN]
  レルネー キョウチ[ED]
+ Hector Region
+ Lelnay Region
 
  ピュロス キョウチ[LN]
  レルネー キョウチ[ED]
+ Pylus Region
+ Lelnay Region
 
  ヘクトール キョウチ[ED]
+ Hector Region
 
  ピュロス キョウチ[ED]
+ Pylus Region
 
  レルネー キョウチ[ED]
+ Lelnay Region
 
  テティス ヘイゲン[LN]
  ダナエー ヘイゲン[ED]
+ Thetis Plains
+ Danae Plains
+
  テティス ヘイゲン[ED]
+ Thetis Plains
+
  ダナエー ヘイゲン[ED]
+ Danae Plains
+
  カシウス ダイチ[LN]
  ウトピア ダイチ[ED]
+ Cassius Plains
+ Utopia Plains
+ 
+
  カシウス ダイチ[ED]
+ Cassius Plains
+
  ウトピア ダイチ[ED]
+ Utopia Plains
+
  ベッセル コウゲン[ED]
+ Bessel plateau
+
  テーセウス キヨウチ[LN]
  アッティカ キヨウチ[LN]
  ヒュドラ キヨウチ[ED]
+ Theseus Region
+ Attica Region
+ Hydra Region
+
  テーセウス キヨウチ[LN]
  アッティカ キヨウチ[ED]
+ Theseus Region
+ Attica Region
+
  テーセウス キヨウチ[LN]
  ヒュドラ キヨウチ[ED]
+ Theseus Region
+ Hydra Region
+
+
  アッティカ キヨウチ[LN]
  ヒュドラ キヨウチ[ED]
+ Attica Region
+ Hydra Region
+
  テーセウス キヨウチ[ED]
+ Theseus Region
+
  アッティカ キヨウチ[ED]
+ Attica Region
+
  ヒュドラ キヨウチ[ED]
+ Hydra Region
+
  ジュウリョクガ[LN]
  ヒジョウニ オオキイ[LN]
  ホシデス[ED]
+
  ジョウリク ハ[LN]
  フカノウデス[ED]
+
 グラビティ ヲ[LN]
 ウシナイ マシタ[ED]
+
 ブリザート ヲ[LN]
 ウシナイ マシタ[ED]
+
 フィールド ヲ[LN]
 ウシナイ マシタ[ED]
+
 オンドガ[LN]
 ヒジョウニ ヒクイ[LN]
 ホシデス[ED]
+
 コマンドースーツ ガ[LN]
 ノコッテ イマセン[ED]
+
  グラビティ[ED]
+
  ブリザート[ED]
+
  グラビティ[LN]
  ブリザート[ED]
+
  フィールド[ED]
+
  グラビティ[LN]
  フィールド[ED]
+
  ブリザート[LN]
  フィールド[ED]
+
  グラビティ[LN]
  ブリザート[LN]
  フィールド[ED]
+
 グラビティ[LN]
 ハッシン シマシタ[ED]
+
 ブリザート[LN]
 ハッシン シマシタ[ED]
+
 フィールド[LN]
 ハッシン シマシタ[ED]
+
  コスモキャリア[LN]
  グラビィティ[LN]
  ブリザート[LN]
  フィールド[ED]
+
 ナクナリマシタ[ED]
+
  シールド[LN]
  コウゲキ ソウチ[LN]
  ツウシン システム[ED]
+
 イジヨウ アリマセン[LN]
 [ED]
+
 ソンガイヲ ウケマシタ[LN]
 キケンデス[ED]
+
 ソンガイヲ ウケマシタ[LN]
 シヨウ デキマセン[ED]
+
 ミサイル ビーム [LN]
 ソウチ ハ[LN]
 イジヨウ アリマセン[ED]
+
 ミサイルソウチガ [LN]
 シヨウ デキマセン[LN]
 ビームソウチ ハ[LN]
 シヨウ カノウデス[ED]
+
 ミサイル ビーム [LN]
 ソウチニ ソンガイヲ[LN]
 ウケマシタ[LN]
 シヨウ デキマセン[ED]
+
 イジヨウ アリマセン[LN]
 [ED]
+
 [LN]
 エネルギー      P[LN]
 ミサイル       P[LN]
@@ -818,6 +895,7 @@ UFO ガタノ[LN]
 [ED]
 バトルスターノ[LN]
 シンガタ ライゲキキ[ED]
+
 
 
 
