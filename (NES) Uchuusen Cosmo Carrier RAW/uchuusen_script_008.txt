@@ -432,7 +432,7 @@ LAND SITE
 
  リカーヌ ダイチ[LN]
  ヘスヘ゜リス ダイチ[ED]
- RIKANU AREA
+ RIKAN AREA
  HESP AREA
 
  アルテミス ダイチ[LN]
@@ -699,10 +699,10 @@ BEAM       P
 コウゲキソウチ   OK[LN]
 ツウシン システム OK[LN]
 シールド      OK[ED]
-Energy
-Attack System
-Comm System
-Shield
+ENERGY OK
+ATT SYS OK
+COMM SYS OK
+SHIELD OK
 
 コスモキャリア ハッシン[ED]
 COSMOCARRIER
@@ -1028,402 +1028,436 @@ IS DANGEROUS
 タイタンニ[LN]
 エネルギー フルアップ[LN]
 スル テキガイル[ED]
-There are enemies
-with full energy
-on Titan
+THERE ARE
+FULL ENERGY
+ENEMIES ON
+TITAN
+
 
 クウホ゛ニ ジョウリク[LN]
 シテ ヘアニ ハイレ[LN]
 チカラガ アップスル[ED]
-Enter the room where
-the carrier lands
-and you will power up
+ENTER
+CARRIER
+LANDING ROOM
+TO POWER UP
 
 レベルガ アガレバ[LN]
 ハナシガ デキル[ED]
-I will talk to you
-if you level up
+IF YOU LEVEL
+UP I WILL
+TALK TO YOU
 
 クウホ゛ト コウシン[LN]
 セヨ[ED]
-Talk to the carrier
+TALK TO
+CARRIER
 
 ランドサット[ED]
-Landsat
+LANDSAT
 
 ナブスター[ED]
-Navstar
+NAVSTAR
 
 バトルエース[ED]
-Battle Ace
+BATTLEACE
 
 バトルシップ[ED]
-Battleship
+BATTLESHIP
 
 スターウルフ[ED]
-Star Wolf
+STAR WOLF
 
 ファイヤー[ED]
-Fire
+FIRE
 
 サーチャー[ED]
-Searcher
+SEARCHER
 
 エラスムス[ED]
-Erasmus
+ERASMUS
 
 シーバス[ED]
-Seabass
+SEABASS
 
 シーウルフ[ED]
-Seawolf
+SEA WOLF
 
 フリーク[ED]
-Freak
+FREAK
 
 ネルバ[ED]
-Nerva
+NERVA
 
 ゾラ[ED]
-Zola
+ZOLA
 
 リミット[ED]
-Limit
+LIMIT
 
 デュール[ED]
-Duel
+DUAL
 
 バッカス[ED]
-Bacchus
+BACCHUS
 
 ガリレオ[ED]
-Galileo
+GALILEO
 
 スターグレース[ED]
-Star Grace
+STAR GRACE
 
 ピュース[ED]
-Puce
+PUCE
 
 バージャス[ED]
-Burgess
+BURGESS
 
 チェイサー[ED]
-Chaser
+CHASER
 
 タナー[ED]
-Tanner
+TANNER
 
 ツキ[ED]
-Moon
+MOON
 
 ダイモス[ED]
-Deimos
+DEIMOS
 
 イオ[ED]
-Io
+IO
 
 タイタン[ED]
-Titan
+TITAN
 
 ミランダ[ED]
-Miranda
+MIRANDA
 
 トリトン[ED]
-Triton
+TRITON
 
 ツインクラブ[ED]
-Twinclub
+TWINCLUB
 
 アローピューマ[ED]
-Arrowpuma
+ARROWPUMA
 
 アースクロック[ED]
-Earth Croc
+EARTH CROC
 
 シャットヘロン[ED]
-Shutte Heron
+SHUTTHERON
 
 ファンガス[ED]
-Fungus
+FUNGUS
 
 フライングゲス[ED]
-Flyer
+FLYER
 
 アキューストン[ED]
-Accuston
+ACCUSTON
 
 スターマラスク[ED]
-Star Marask
+STAR MARASK
 
 ダブルイヤー[ED]
-Double Ear
+DOUBLE EAR
 
 スィザス[ED]
-Sivas
+SIVAS
 
 レッグバット[ED]
-Legbat
+LEGBAT
 
 スピンアント[ED]
-Spinant
+SPINANT
 
 ホップパァイク[ED]
-Pop Pike
+HOP PIKE
+
 ショットコング[ED]
-Shotcong
+SHOTKONG
 
 オクトータ[ED]
-Octohta
+OCTOHTA
 
 カルトシェル[ED]
-Cartshell
+CARTSHELL
 
 ストライダー[ED]
-Strider
+STRIDER
 
 ブレンキー[ED]
-Brenki
+BRENKI
 
 ガンフリー[ED]
-Gunfri
+GUNFRI
 
 ゴルチョフ[ED]
-Golchiv
+GOLCHOV
 
 ゴスタリアン[ED]
-Gostarian
+GOSTARIAN
 
 MAP NAME[ED]
 
 トスカナ[ED]
-Toskana
+TOSKANA
 
 バシリカ[ED]
-Bashirika
+BASHIRIKA
 
 ブルサホウ[ED]
-Bulsahou
+BULSAHOU
 
 ベッセル キチ[ED]
-Bessel Base
+BESSL BASE
 
 ウトピア キチ[ED]
-Utopia Base
+UTOPIA BASE
 
 カシウス キチ[ED]
-Cassius Base
+CASSI BASE
 
 ダナエー キチ[ED]
-Danae Base
+DANAE BASE
 
 テティス キチ[ED]
-Thetis Base
+TGETUS BASE
 
 ネメス キチ[ED]
-Nemes Base
+NEMES BASE
 
 サテロス キチ[ED]
-Satyr Base
+SATYR BASE
 
 アテナイ キチ[ED]
-Athena Base
+ATHENA BASE
 
 ピュロス キチ[ED]
-Pylus Base
+PYLUS BASE
 
 レルネー キチ[ED]
-Lelnay Base
+LELNY BASE
 
 ヘクトール キチ[ED]
-Hector Base
+HECT BASE
 
 アッティカ キチ[ED]
-Attica Base
+ATICA BASE
 
 テーセウス キチ[ED]
-Theseus Base
+THES BASE
 
 ヒュドラ キチ[ED]
-Hydra Base
+HYDRA BASE
 
 イーデン キチ[ED]
-Eden Base
+EDEN BASE
 
 アルテミス キチ[ED]
-Artemis Base
+ARTEM BASE
 
 ヘスヘ゜リス キチ[ED]
-Hesperis Base
+HESP BASE
 
 リカーヌ キチ[ED]
-Rikarnu Base
+RIKAN BASE
 
 ロケットランチャー ヲ[LN]
 ソウビシテイマス[ED]
-Equipped rocket
-launcher
+EQUIPPIED
+ROCKET
+LAUNCHER
 
 キャノン ホウヲ[LN]
 ソウビシテイマス[ED]
-Equipped cannon
+EQUIPPED
+CANNON
 
 レーザー ホウヲ[LN]
 ソウビシテイマス[ED]
-Equipped laser
+EQUIPPED
+LASER
 
 シールド エネルギー[LN]
 キュウシュウ アーム[LN]
 ヲ ソウビ シテイマス[ED]
-Equipped shield
-energy absorbing
-arm
+EQUIPPED
+SHIELD ENRGY
+ABSORBING 
+ARM
 
 シールド エネルギー[LN]
 キュウシュウ アーム[LN]
 ヲ ソウビ シテイマス[ED]
-Equipped shield
-energy absorbing
-arm
+EQUIPPED
+SHIELD ENRGY
+ABSORBING
+ARM
 
 エネルギー[LN]
 キュウシュウ アーム[LN]
 ヲ ソウビ シテイマス[ED]
-Equipped energy 
-absorbing arm
+EQUIPPED
+ENERGY
+ABSORBING
+ARM
 
 コウゲキ ソウチ[LN]
 ハカイ アーム ヲ[LN]
 ソウビ シテイマス[ED]
 [ED]
-Equipped attack
-system destruction
-arm
+EQUIPPED
+ATT SYS
+DESTRUCTION
+ARM
 
 チキュウ ノ キショウ[LN]
 エイセイ[ED]
-Earth's weather
-satellite
+EARTH 
+WEATHER
+SATELLITE
 
 チキュウ ノ[LN]
 カセイ カンシ[LN]
 エイセイ[ED]
-Earth's Mars
-monitor
-satellite
+EARTHS MARS 
+MONITOR
+SATELLITE
 
 チキュウ ノ[LN]
 テンノウセイ カンシ[LN]
 エイセイ[ED]
-Earth's Uranus
-monitor 
-satellite
+EARTHS
+URANUS
+MONITOR
+SATELLITE
 
 チキュウ ノ[LN]
 カイオウセイ タンサ[LN]
 エイセイ[ED]
-Earth's Neptune
-monitor
-satellite
+EARTHS
+NEPTUNE
+MONITOR
+SATELLITE
 
 チキュウ ノ[LN]
 メイオウセイ タンサ[LN]
 エイセイ[ED]
 [ED]
-Earth's Pluto
-monitor satellite
+EARTHS PLUTO
+MONITOR
+SATELLITE
 
 アメリカ ノ グンジ[LN]
 ヨウ ジンコウエイセイ[ED]
-American military
-satellite
+AMERICAN
+MILITARY
+SATELLITE
 
 チキュウ ノ[LN]
 モクセイ タンサ[LN]
 エイセイ[ED]
-Earth's Jupiter
-monitor satellite
+EARTHS
+JUPITER
+MONITOR
+SATELLITE
 
 UFO ガタノ[LN]
 ショゾク フメイ ノ[LN]
 ウチュウセン デス[ED]
-UFO type ship
-of unknown ally
+UFO TYPE
+SHIP OF
+UNKNOWN
+AFFILIATION
 
 コウソク テイサツ ヨウ[LN]
 ノ ウチュウ ロケット[ED]
-Hi speed
-survey space
-rocket
+HI SPEED
+SURVEY SPACE
+ROCKET
 
 ショゾク フメイ ノ[LN]
 ウチュウセン デス[ED]
-Ship of unknown ally
+SHIP OF
+UNKNOWN
+AFFILIATION
 
 カセイエリア デノ[LN]
 コガタ ウチュウクウホ゛[LN]
 カンサイキ ハ フメイ[ED]
-Unknown small 
-carrier ship
-at Mars area
+UNKNOWN
+SMALL
+CARRIER AT
+MARS AREA
 
 バトルスター シュリョク[LN]
 クウホ゛[LN]
 テンノウセイ シュビタイ[LN]
 ノ ヨウデス[ED]
-Main carrier for
-Battlestar
-Uranus forces
+BATTLESTAR
+URANUS FORCE
+MAIN CARRIER
+
 
 オオガタ クウホ゛[LN]
 テキ ノ シレイホンブ[LN]
 ノ ヨウデス[ED]
-Large carrier
-seems to be
-enemy main
-base
+LARGE
+CARRIER
+LIKELY ENEMY
+MAIN BASE
 
 ユソウセン デス[LN]
 カナリノ ブッシ ヲ[LN]
 ハコンデ イル[LN]
 ヨウデス[ED]
-Transport ship
-Carrying many
-items
+TRANS SHIP
+CARRYING
+MANY ITEMS
 
 チョウキョリ ガタ[LN]
 テキ ユソウセン[LN]
 [ED]
-Very long distance
-enemy transport
+VERY LONG
+DISTANCE
+ENEMY
+TRANSPORT
 
 コウソク ウンパンヨウ[LN]
 テキ ユソウセン[ED]
-High speed enemy
-transport ship
+HI SPEED
+ENEMY TRANS
+SHIP
 
 モクセイ ニ チャクリク[LN]
 シタ タンサキ[ED]
-Probe landed on
-Jupiter
+PROBE LANDED
+ON JUPITER
 
 カイオウセイ タンサキ[ED]
-Neptune Probe
+NEPTUNE
+PROBE
 
 
 メイオウセイ タンサキ[ED]
-Pluto Probe
+PLUTO PROBE
 
 ショキガタ ノ コウソク[LN]
 シュリョク セントウキ[LN]
 [ED]
-Eary based high
-speed carrier
+EARLY MODEL
+HI SPEED
+CARRIER
 
 バトルスターノ[LN]
 シンガタ ライゲキキ[ED]
-Battlestar's new
-torpedo craft
+BATTLESTAR
+NEW TORPEDO
+CRAFT
+
 
 
 
