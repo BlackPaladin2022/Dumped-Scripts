@@ -60,66 +60,77 @@
 
 #W16($18024)
 [null]ライセンス・カード[null][ED]
+[null]License Card[null][ED]
 
 
 //POINTER #9 @ $18026 - STRING #9 @ $18876
 
 #W16($18026)
 [null]イーストシティ[null][ED]
+[null]East City[null]ED]
 
 
 //POINTER #10 @ $18028 - STRING #10 @ $18880
 
 #W16($18028)
 [null]ノースフィルド[null][ED]
+[Null]Northfield[null][ED]
 
 
 //POINTER #11 @ $1802A - STRING #11 @ $1888A
 
 #W16($1802A)
 [null]セント・ピーターズ[null][ED]
+[nulll]St. Peters[null][ED]
 
 
 //POINTER #12 @ $1802C - STRING #12 @ $18896
 
 #W16($1802C)
 [null]あくまが ささやいた。[null][ED]
+[null]The demon whispered.[null][ED]
 
 
 //POINTER #13 @ $1802E - STRING #13 @ $188A4
 
 #W16($1802E)
 [null]てんしが ささやいた。[null][ED]
+[null]The angel whispered.[null][ED]
 
 
 //POINTER #14 @ $18030 - STRING #14 @ $188B2
 
 #W16($18030)
 [null]そのしなものは[null][ED]
+[null]That item is[null][ED]
 
 
 //POINTER #15 @ $18032 - STRING #15 @ $188BC
 
 #W16($18032)
 [null]ほんなら いくでー[null][ED]
+[null]Well c'mon![null][ED]
 
 
 //POINTER #16 @ $18034 - STRING #16 @ $188C8
 
 #W16($18034)
 [null]「オオカミが ひとをおそわなくなったずら[null][ED]
+[null]Well I guess the wolves stopped attacking people[null][ED]
 
 
 //POINTER #17 @ $18036 - STRING #17 @ $188DF
 
 #W16($18036)
 [null]シルバーせんちょう[null][ED]
+[null]Captain Silver[null][ED]
 
 
 //POINTER #18 @ $18038 - STRING #18 @ $188EB
 
 #W16($18038)
 [null]あおいカード[null][ED]
+[null]Blue card[null][ED]
 
 
 //POINTER #19 @ $1803A - STRING #19 @ $188F4
