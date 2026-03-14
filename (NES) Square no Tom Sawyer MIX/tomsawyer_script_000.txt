@@ -6,36 +6,42 @@
 
 #W16($18014)
 [null]ベッキー[null][ED]
+[null]Becky[null][ED]
 
 
 //POINTER #1 @ $18016 - STRING #1 @ $18819
 
 #W16($18016)
 [null]かいぞくのタカラ[null][ED]
+[null]Pirate's treasure[null][ED]
 
 
 //POINTER #2 @ $18018 - STRING #2 @ $18824
 
 #W16($18018)
 [null]サウスエンド[null][ED]
+[null]South End[null][ED]
 
 
 //POINTER #3 @ $1801A - STRING #3 @ $1882D
 
 #W16($1801A)
 [null]バケモノやしき[null][ED]
+[null]Monster House[null][ED]
 
 
 //POINTER #4 @ $1801C - STRING #4 @ $18837
 
 #W16($1801C)
 [null]バケモノ[null][ED]
+[null]Monster[null][ED]
 
 
 //POINTER #5 @ $1801E - STRING #5 @ $1883E
 
 #W16($1801E)
 [null]インジャン・ジョー[null][ED]
+[null]Injun Joe[null][ED]
 
 
 //POINTER #6 @ $18020 - STRING #6 @ $1884A
