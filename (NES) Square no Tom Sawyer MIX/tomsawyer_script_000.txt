@@ -137,18 +137,20 @@
 
 #W16($1803A)
 [null]あかいカード[null][ED]
-
+[null]Red Card[null][ED]
 
 //POINTER #20 @ $1803C - STRING #20 @ $188FD
 
 #W16($1803C)
 [null]きいろのカード[null][ED]
+[null]Yellow Card[null][ED]
 
 
 //POINTER #21 @ $1803E - STRING #21 @ $18907
 
 #W16($1803E)
 [null]くろまじゅつ[null][ED]
+[null]Black magic[null][ED]
 
 
 //POINTER #22 @ $18040 - STRING #22 @ $18910
@@ -156,41 +158,48 @@
 #W16($18040)
 [null]オオカミ[null][ED]
 
+[null]Wolf[null][ED]
 
 //POINTER #23 @ $18042 - STRING #23 @ $18917
 
 #W16($18042)
 [null]なかまに[null][ED]
+[null]Friend[null][ED]
 
 
 //POINTER #24 @ $18044 - STRING #24 @ $1891E
 
 #W16($18044)
 [null]ハンニバル[null][ED]
+[null]Hannibal[null][ED]
 
 
 //POINTER #25 @ $18046 - STRING #25 @ $18926
 
 #W16($18046)
 [null]リバーウェスト[null][ED]
+[null]West River[null][ED]
 
 
 //POINTER #26 @ $18048 - STRING #26 @ $18930
 
 #W16($18048)
 [null]それじゃあ[null][ED]
+[null]Well[null][ED]
 
 
 //POINTER #27 @ $1804A - STRING #27 @ $18938
 
 #W16($1804A)
 [null]タカラさがし[null][ED]
+[null]Treasure hunt[null][ED]
 
 
 //POINTER #28 @ $1804C - STRING #28 @ $18941
 
 #W16($1804C)
 [null]まあ がんばれよ！[ED]
+[null]Well good luck![null][ED]
 
 
 //POINTER #29 @ $1804E - STRING #29 @ $1894D
@@ -198,12 +207,18 @@
 #W16($1804E)
 (ト ム)「ふねがあれば このかわを[LN]
 わたれるのになあ。[ED]
+(TOM) If I had a boat the[LN]
+river can be[ED]
+crossed[LN]
 
 
 //POINTER #30 @ $18050 - STRING #30 @ $18967
 
 #W16($18050)
 (ト ム)「くらくて すすめないや！[ED]
+(Tom) It's too dark to go[LN]
+on![ED]
+
 
 
 //POINTER #31 @ $18052 - STRING #31 @ $18977
