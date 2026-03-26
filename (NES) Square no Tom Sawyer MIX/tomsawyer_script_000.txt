@@ -1,3 +1,4 @@
+
 //GAME NAME:		
 
 //BLOCK #000 NAME:		Dialogue Block 01 (POINTER_RELATIVE)
@@ -6,174 +7,200 @@
 
 #W16($18014)
 [null]ベッキー[null][ED]
+Becky
 
 
 //POINTER #1 @ $18016 - STRING #1 @ $18819
 
 #W16($18016)
 [null]かいぞくのタカラ[null][ED]
+Pirate's treasure
 
 
 //POINTER #2 @ $18018 - STRING #2 @ $18824
 
 #W16($18018)
 [null]サウスエンド[null][ED]
+South End
 
 
 //POINTER #3 @ $1801A - STRING #3 @ $1882D
 
 #W16($1801A)
 [null]バケモノやしき[null][ED]
+Monster House
 
 
 //POINTER #4 @ $1801C - STRING #4 @ $18837
 
 #W16($1801C)
 [null]バケモノ[null][ED]
+Monster
 
 
 //POINTER #5 @ $1801E - STRING #5 @ $1883E
 
 #W16($1801E)
 [null]インジャン・ジョー[null][ED]
+Injun Joe
 
 
 //POINTER #6 @ $18020 - STRING #6 @ $1884A
 
 #W16($18020)
 [null]ざまみろー！ おれたちは[null][ED]
+#Take that!
 
 
 //POINTER #7 @ $18022 - STRING #7 @ $18859
 
 #W16($18022)
 [null]いじめっこー！ おまえなんか[null][ED]
-
+#
 
 //POINTER #8 @ $18024 - STRING #8 @ $1886A
 
 #W16($18024)
 [null]ライセンス・カード[null][ED]
+License Card
 
 
 //POINTER #9 @ $18026 - STRING #9 @ $18876
 
 #W16($18026)
 [null]イーストシティ[null][ED]
+East City
 
 
 //POINTER #10 @ $18028 - STRING #10 @ $18880
 
 #W16($18028)
 [null]ノースフィルド[null][ED]
+Northfield]
 
 
 //POINTER #11 @ $1802A - STRING #11 @ $1888A
 
 #W16($1802A)
 [null]セント・ピーターズ[null][ED]
+St. Peters
 
 
 //POINTER #12 @ $1802C - STRING #12 @ $18896
 
 #W16($1802C)
 [null]あくまが ささやいた。[null][ED]
+The demon whispered.
 
 
 //POINTER #13 @ $1802E - STRING #13 @ $188A4
 
 #W16($1802E)
 [null]てんしが ささやいた。[null][ED]
+The angel whispered.
 
 
 //POINTER #14 @ $18030 - STRING #14 @ $188B2
 
 #W16($18030)
 [null]そのしなものは[null][ED]
+That item is
 
 
 //POINTER #15 @ $18032 - STRING #15 @ $188BC
 
 #W16($18032)
 [null]ほんなら いくでー[null][ED]
+Well c'mon!
 
 
 //POINTER #16 @ $18034 - STRING #16 @ $188C8
 
 #W16($18034)
 [null]「オオカミが ひとをおそわなくなったずら[null][ED]
+Well I guess the wolves stopped attacking people
 
 
 //POINTER #17 @ $18036 - STRING #17 @ $188DF
 
 #W16($18036)
 [null]シルバーせんちょう[null][ED]
+Captain Silver
 
 
 //POINTER #18 @ $18038 - STRING #18 @ $188EB
 
 #W16($18038)
 [null]あおいカード[null][ED]
+Blue card
 
 
 //POINTER #19 @ $1803A - STRING #19 @ $188F4
 
 #W16($1803A)
 [null]あかいカード[null][ED]
-
+Red Card
 
 //POINTER #20 @ $1803C - STRING #20 @ $188FD
 
 #W16($1803C)
 [null]きいろのカード[null][ED]
+Yellow Card
 
 
 //POINTER #21 @ $1803E - STRING #21 @ $18907
 
 #W16($1803E)
 [null]くろまじゅつ[null][ED]
+Black magic
 
 
 //POINTER #22 @ $18040 - STRING #22 @ $18910
 
 #W16($18040)
 [null]オオカミ[null][ED]
-
+Wolf
 
 //POINTER #23 @ $18042 - STRING #23 @ $18917
 
 #W16($18042)
 [null]なかまに[null][ED]
+Friend
 
 
 //POINTER #24 @ $18044 - STRING #24 @ $1891E
 
 #W16($18044)
-[null]ハンニバル[null][ED]
+[null]Be[null][ED]
+[null]Hannibal[null][ED]
 
 
 //POINTER #25 @ $18046 - STRING #25 @ $18926
 
 #W16($18046)
 [null]リバーウェスト[null][ED]
+West River
 
 
 //POINTER #26 @ $18048 - STRING #26 @ $18930
 
 #W16($18048)
 [null]それじゃあ[null][ED]
+Well
 
 
 //POINTER #27 @ $1804A - STRING #27 @ $18938
 
 #W16($1804A)
 [null]タカラさがし[null][ED]
+Treasure hunt
 
 
 //POINTER #28 @ $1804C - STRING #28 @ $18941
 
 #W16($1804C)
 [null]まあ がんばれよ！[ED]
+Well good luck!
 
 
 //POINTER #29 @ $1804E - STRING #29 @ $1894D
@@ -181,12 +208,15 @@
 #W16($1804E)
 (ト ム)「ふねがあれば このかわを[LN]
 わたれるのになあ。[ED]
+TOM:If I had a boat I could cross the river.
 
 
 //POINTER #30 @ $18050 - STRING #30 @ $18967
 
 #W16($18050)
 (ト ム)「くらくて すすめないや！[ED]
+Tom:It's too dark to go on!
+
 
 
 //POINTER #31 @ $18052 - STRING #31 @ $18977
@@ -194,13 +224,14 @@
 #W16($18052)
 (ト ム)「てんらんかい このみち[LN]
 ひだりをまがれと かいてあるぞ。[ED]
-
+Tom:It says to turn left to reach the exhibition
 
 //POINTER #32 @ $18054 - STRING #32 @ $18997
 
 #W16($18054)
 (ト ム)「あれッ？ なんかはいったビンが[LN]
 ひっかかっているぞ。[ED]
+Tom:Huh? I caught a bottle with something in it.
 
 
 //POINTER #33 @ $18056 - STRING #33 @ $189B5
@@ -208,6 +239,7 @@
 #W16($18056)
 (ト ム)「あれが サウスエンドの[LN]
 まちだ！[ED]
+Tom:There's the town of Southend!
 
 
 //POINTER #34 @ $18058 - STRING #34 @ $189C5
@@ -217,6 +249,7 @@
 ぼっちゃん わりーけど[LN]
 てつだってくれんかね？[BR]
 [04][ED]
+Jim:I gotta clean up this quick. Sorry boy, can ya please help me out?
 
 
 //POINTER #35 @ $1805A - STRING #35 @ $189F1
@@ -225,20 +258,20 @@
 (ジ ム)「それらば おらも[LN]
 つれてってくんねかねー？[BR]
 [05][ED]
-
+Jim:Can I come too?
 
 //POINTER #36 @ $1805C - STRING #36 @ $18A0C
 
 #W16($1805C)
 (ジ ム)「はょーもどらんと[LN]
 おばさまに しかられますだー[ED]
-
+Jim:If I don't head back soon auntie will give me a tellin' off.
 
 //POINTER #37 @ $1805E - STRING #37 @ $18A27
 
 #W16($1805E)
 (ジ ム)「ぼっちゃん そうじてっだってー[ED]
-
+Jim:Help me clean up boy
 
 //POINTER #38 @ $18060 - STRING #38 @ $18A3A
 
@@ -247,14 +280,14 @@
 きたのもりなら このきたがわよ[LN]
 ついて いってもいい？[BR]
 [05][ED]
-
+Emy:Hey! Where you going Tom? The north forest is up on the north side. Can I come along?
 
 //POINTER #39 @ $18062 - STRING #39 @ $18A69
 
 #W16($18062)
 (エミー)「わたしを つれていかないと[LN]
 あとでこまるから。[ED]
-
+Emy:You'll run into trouble without me.
 
 //POINTER #40 @ $18064 - STRING #40 @ $18A84
 
@@ -262,19 +295,21 @@
 (エミー)「おいてゆくなんて ひどいわ！[LN]
 また つれていって？[BR]
 [05][ED]
-
+Emy:How dare you leave me! Can I tag along again?
 
 //POINTER #41 @ $18066 - STRING #41 @ $18AA3
 
 #W16($18066)
 (ベッキー)「わたしベッキー サウスエンドからきたの[LN]
 よろしくネ！[ED]
+Becky:I'm Becky. I came from South End!
 
 
 //POINTER #42 @ $18068 - STRING #42 @ $18ABB
 
 #W16($18068)
 (ベッキー)「またあそびにきてね！[ED]
+Becky:Come and play again!
 
 
 //POINTER #43 @ $1806A - STRING #43 @ $18AC9
@@ -283,6 +318,7 @@
 (ベッキー)「わたし ライセンス・カードを[LN]
 もっているわ。[LN]
 でもダーメ！ あーげない。[ED]
+Becky:I got a license card. But too bad! I ain't giving it to you.
 
 
 //POINTER #44 @ $1806C - STRING #44 @ $18AEA
@@ -290,6 +326,7 @@
 #W16($1806C)
 (ベッキー)「マァ！ すてきなペンダント[LN]
 でもカードは あーげない。[ED]
+Becky:Wow! Such a gorgeous pendant. But I'm still not giving you the card.
 
 
 //POINTER #45 @ $1806E - STRING #45 @ $18B09
@@ -297,6 +334,7 @@
 #W16($1806E)
 (ベッキー)「マァ！ すてきなペンダント[LN]
 どうもありがとう。[ED]
+Becky:Wow! What a gorgeous pendant. Thank you.
 
 
 //POINTER #46 @ $18070 - STRING #46 @ $18B24
@@ -304,6 +342,7 @@
 #W16($18070)
 (ベッキー)「ネェートム わたしのことすき？[BR]
 [04][ED]
+Becky:Heya Tom, do you like me?
 
 
 //POINTER #47 @ $18072 - STRING #47 @ $18B39
@@ -311,12 +350,15 @@
 #W16($18072)
 (ベッキー)「わたしもトムが だーいすき！[LN]
 ハイ！ ライセンス・カードをあげる。[ED]
+Becky:I really like you too Tom! Okay! I'll give you the license card.
+
 
 
 //POINTER #48 @ $18074 - STRING #48 @ $18B57
 
 #W16($18074)
 (ベッキー)「また きてね！[ED]
+Becky:Come again!
 
 
 //POINTER #49 @ $18076 - STRING #49 @ $18B62
@@ -324,6 +366,7 @@
 #W16($18076)
 (ベッキー)「そう！？ わたしもトムなんか[LN]
 だーいきらい！[ED]
+Becky:What?! Well I hate you too Tom!
 
 
 //POINTER #50 @ $18078 - STRING #50 @ $18B7C
@@ -331,6 +374,7 @@
 #W16($18078)
 (ベッキー)「あなたなんて みたくもない。[LN]
 ぺンダント もってかえって！[ED]
+Becky:I can't stand you. Give me back the pendant!
 
 
 //POINTER #51 @ $1807A - STRING #51 @ $18B9D
@@ -339,12 +383,14 @@
 (ベッキー)「たすけにきてくれたのね。[LN]
 いえまでおくってくれる？[BR]
 [04][ED]
+Becky:I see you came to rescue me. Can you take me home?
 
 
 //POINTER #52 @ $1807C - STRING #52 @ $18BBC
 
 #W16($1807C)
 (ベッキー)「わーい！ ありがとう。[ED]
+Becky:Yaay! Thank you.
 
 
 //POINTER #53 @ $1807E - STRING #53 @ $18BCB
@@ -352,12 +398,14 @@
 #W16($1807E)
 (ベッキー)「あなたって みかけによらず[LN]
 はくじょうなのね！ もうしらない。[ED]
+Becky:I didn't think you'd be so cold hearted! We're through.
 
 
 //POINTER #54 @ $18080 - STRING #54 @ $18BEE
 
 #W16($18080)
 (ベッキー)「おくってくれて ありがとう！[ED]
+Thanks for bringing me back!
 
 
 //POINTER #55 @ $18082 - STRING #55 @ $18C00
@@ -366,12 +414,14 @@
 (アルフレッド)「トム！ ひとのこいの[LN]
 じゃまするんじゃねー[LN]
 けっとうだ おもてへでれや！[ED]
+Alfred:Tom! No one gets in the way of love! It's a duel, stand in front!
 
 
 //POINTER #56 @ $18084 - STRING #56 @ $18C28
 
 #W16($18084)
 (アルフレッド)「ワーン！ トムがいじめたー[ED]
+Alfred:Waah! Tom bullied me!
 
 
 //POINTER #57 @ $18086 - STRING #57 @ $18C39
@@ -379,6 +429,7 @@
 #W16($18086)
 (アルフレッド)「どうじゃ！ こんごベッキーに[LN]
 ちょつかい だすんじゃねーぞ。[ED]
+Alfred:How bout that! Don't you meddle with Becky no more.
 
 
 //POINTER #58 @ $18088 - STRING #58 @ $18C59
@@ -388,6 +439,7 @@
 なかなおりしたいなら おれのこぶんに[LN]
 なれや？[BR]
 [04][ED]
+Alfred:You did good this time! How about we make up and you become my underling?
 
 
 //POINTER #59 @ $1808A - STRING #59 @ $18C85
@@ -395,6 +447,7 @@
 #W16($1808A)
 (アルフレッド)「よしっ こんどから おれのいうことを[LN]
 きけよ。[ED]
+Alfred:Alright, you better listen to what I say from now on.
 
 
 //POINTER #60 @ $1808C - STRING #60 @ $18CA0
@@ -403,6 +456,7 @@
 (アルフレッド)「ワッ！ わかったっちゃ。[LN]
 こぶんになるけ なぐらんで！[BR]
 [05][ED]
+^Alfred:Guh! Got it. I'll be your underling, don't hit me!
 
 
 //POINTER #61 @ $1808E - STRING #61 @ $18CC1
@@ -410,12 +464,14 @@
 #W16($1808E)
 (アルフレッド)「また なかまにいれて くれんけの？[BR]
 [05][ED]
+Alfred:Can ya let me join you again?
 
 
 //POINTER #62 @ $18090 - STRING #62 @ $18CD6
 
 #W16($18090)
 (アルフレッド)「ぶち さみしーのー[ED]
+Alfred:I'm soo sad.
 
 
 //POINTER #63 @ $18092 - STRING #63 @ $18CE3
@@ -423,6 +479,7 @@
 #W16($18092)
 (ベ ン)「かわらで シルバーせんちょうの[LN]
 イカダをみたよ。[ED]
+Ben:I saw Captain Silver's raft up on the riverbed.
 
 
 //POINTER #64 @ $18094 - STRING #64 @ $18CF8
@@ -430,6 +487,7 @@
 #W16($18094)
 (ベ ン)「タカラさがしかい？ ネズミのシッポを[LN]
 くれたら なかまになってもええど。[ED]
+Ben:How about a treasure hunt? Go and get me a rat's tail, and I'll join ya.
 
 
 //POINTER #65 @ $18096 - STRING #65 @ $18D1A
@@ -439,6 +497,9 @@
 いやー タカラさがし[LN]
 つきおうちゃるいうのは うそなんじゃ。[LN]
 でも これはいただくぜ。[ED]
+Ben:Hey ain't this a rat's tail? Oh noo,
+I was just kiddin' about the treasure hunt thing and joinin'
+ya. You can have this though.
 
 
 //POINTER #66 @ $18098 - STRING #66 @ $18D57
@@ -446,6 +507,7 @@
 #W16($18098)
 (ベ ン)「ハンニバルの ジヤックにあうと[LN]
 いいことがあるぜ。[ED]
+^Ben:It would be a good idea to meet Jack from Hannibal.
 
 
 //POINTER #67 @ $1809A - STRING #67 @ $18D71
@@ -454,6 +516,7 @@
 (ハック)「よう！ トム。[LN]
 タカラさがし？ おれは はらがへって[LN]
 うごきたくないね。[ED]
+Huck:Hey! Tom. Wanna treasure hunt? I'm too hungry to wanna to move.
 
 
 //POINTER #68 @ $1809C - STRING #68 @ $18D95
@@ -462,12 +525,14 @@
 (ハック)「なにっ！ パンをくれる？[LN]
 おれも なかまになったるがや。[BR]
 [05][ED]
+Huck:What! Bread, for me? I'll join ya.
 
 
 //POINTER #69 @ $1809E - STRING #69 @ $18DB5
 
 #W16($1809E)
 (ハック)「パンをくれたら なかまになったるがや。[ED]
+Huck:I'll join you if you give me bread.
 
 
 //POINTER #70 @ $180A0 - STRING #70 @ $18DCA
@@ -476,6 +541,7 @@
 (ハック)「タカラさがしに ゆくなら[LN]
 おれも ゆくがや。[BR]
 [05][ED]
+Huck:If you're goin' treasure hunting I'm goin' too.
 
 
 //POINTER #71 @ $180A2 - STRING #71 @ $18DE2
@@ -484,6 +550,7 @@
 (ボ ブ)「ノースフィルドの ちかくのもりに[LN]
 オオカミがでてさー つうこうにんを[LN]
 おそうらしいぜ。[ED]
+Bob:Wolves have been comin' out the forest near Northfield. I heard they attack people passin' by.
 
 
 //POINTER #72 @ $180A4 - STRING #72 @ $18E0A
@@ -491,6 +558,7 @@
 #W16($180A4)
 (ボ ブ)「なかまになってもいいけどょ[LN]
 ただじゃ いやだぜ。[ED]
+Bob:I can join you, but I ain't doing it for free.
 
 
 //POINTER #73 @ $180A6 - STRING #73 @ $18E24
@@ -498,6 +566,7 @@
 #W16($180A6)
 (ボ ブ)「ドアのとってを くれなきゃあ[LN]
 なかまにゃ ならねーよ。[ED]
+Bob:I ain't joinin' you if you don't give me a doorknob.
 
 
 //POINTER #74 @ $180A8 - STRING #74 @ $18E41
@@ -506,6 +575,7 @@
 (ボ ブ)「おっ！ こいつがほしかったんょ[LN]
 なかまになってやろーじゃん。[BR]
 [05][ED]
+Bob: Oh! I've been wantin' this. I guess I'll join up with ya.
 
 
 //POINTER #75 @ $180AA - STRING #75 @ $18E63
@@ -513,6 +583,7 @@
 #W16($180AA)
 (ボ ブ)「しょうがねーなー！[LN]
 また なかまになったるぜ。[ED]
+^Bob:Ohhh well! I'll join ya later.
 
 
 //POINTER #76 @ $180AC - STRING #76 @ $18E7C
@@ -520,6 +591,7 @@
 #W16($180AC)
 (ボ ブ)「かいぞくのタカラは みつかった？[LN]
 おれは もうやめたぜ。[ED]
+Bob:You found the pirate's treasure? I already gave it up.
 
 
 //POINTER #77 @ $180AE - STRING #77 @ $18E96
@@ -528,6 +600,7 @@
 (ビリー)「カーディフのおかには[LN]
 ものしりな ホプキンスばあさんが[LN]
 すんでるそうじゃん。[ED]
+Billy:Up in Cardiff hill lives old miss Popkins who knows a lot.
 
 
 //POINTER #78 @ $180B0 - STRING #78 @ $18EC0
@@ -537,12 +610,15 @@
 やまわけにしてくれんなら[LN]
 なかまになろうじゃん？[BR]
 [04][ED]
+Billy:When you find the pirate's trasure, how about you split it between us,
+and I'll join you.
 
 
 //POINTER #79 @ $180B2 - STRING #79 @ $18EE7
 
 #W16($180B2)
 (ビリー)「チェッ！いいよーだ バイバィ！[ED]
+Billy:Tsk! Whatever! Bye bye!
 
 
 //POINTER #80 @ $180B4 - STRING #80 @ $18EFA
@@ -551,6 +627,7 @@
 (サリー)「トム！ いったいあんたって[LN]
 エミーとベッキーの どっちがすきなの？[LN]
 はっきりしなさいよ！[ED]
+Sally:Tom! Just who do you like better, Emy or Becky? Tell me upfront!
 
 
 //POINTER #81 @ $180B6 - STRING #81 @ $18F28
@@ -558,12 +635,14 @@
 #W16($180B6)
 (サリー)「エミーが すきなの？[BR]
 [04][ED]
+Sally:So you like Emy then?
 
 
 //POINTER #82 @ $180B8 - STRING #82 @ $18F38
 
 #W16($180B8)
 (サリー)「それじゃあ ベッキーは あきらめるのね。[ED]
+Sally:Then give up on Becky.
 
 
 //POINTER #83 @ $180BA - STRING #83 @ $18F4B
@@ -571,6 +650,7 @@
 #W16($180BA)
 (サリー)「それじゃあ ベッキーが すきなのね？[BR]
 [04][ED]
+Sally:So you like Becky then?
 
 
 //POINTER #84 @ $180BC - STRING #84 @ $18F5E
@@ -578,6 +658,7 @@
 #W16($180BC)
 (サリー)「このうわきものっ！[LN]
 エミーはどうすんの？[ED]
+Sally:You unfaithful brat! How will Emy feel?
 
 
 //POINTER #85 @ $180BE - STRING #85 @ $18F76
@@ -585,6 +666,7 @@
 #W16($180BE)
 (サリー)「それじゃあ どっちでもないわけ？[BR]
 [04][ED]
+Sally:So you mean neither?
 
 
 //POINTER #86 @ $180C0 - STRING #86 @ $18F89
@@ -593,6 +675,7 @@
 (サリー)「それなら わたしとつきあわない。[LN]
 いっしょに つれてって？[BR]
 [04][ED]
+Sally:Then be with me. Can I join you?
 
 
 //POINTER #87 @ $180C2 - STRING #87 @ $18FAC
@@ -601,6 +684,8 @@
 (サリー)「バカね！ あんたみたいな[LN]
 はくじょうものに ついていくわけ[LN]
 ないじゃん！ バーイ！[ED]
+Sally:You idiot! I wouldn't want to be with a cold-hearted jerk like you anyway!
+Bye!
 
 
 //POINTER #88 @ $180C4 - STRING #88 @ $18FD9
@@ -608,6 +693,7 @@
 #W16($180C4)
 (サリー)「フン！ そうゆうこと[LN]
 こっちから ねがいさげだわ。[ED]
+^Sally:Hmph! Well then I'll just take that back.
 
 
 //POINTER #89 @ $180C6 - STRING #89 @ $18FF6
@@ -615,6 +701,7 @@
 #W16($180C6)
 (サリー)「いったい あんたって[LN]
 なにを かんがえているの？[ED]
+Sally:Just what in the heck are you thinking?
 
 
 //POINTER #90 @ $180C8 - STRING #90 @ $19012
@@ -623,6 +710,7 @@
 (サリー)「あんたなんか かいぞくのタカラより[LN]
 ゴミのやまを みつけるほうが[LN]
 おにあいよ！[ED]
+Sally:Why, I think you'd be better off finding a pile of trash than pirate's treasure!
 
 
 //POINTER #91 @ $180CA - STRING #91 @ $19037
@@ -632,6 +720,8 @@
 オオカミが でてこまってるんだや[LN]
 いっしょに たいじにゆくべ？[BR]
 [04][ED]
+Joe:Hey Tom! Wolves have been comin' out the forest near here.
+How about we go get them together?
 
 
 //POINTER #92 @ $180CC - STRING #92 @ $1906B
@@ -640,12 +730,14 @@
 (ジョー)「ほんだら オオカミたいじのあと[LN]
 タカラさがしに つきあうずら[BR]
 [05][ED]
+^Joe:Well, we can go treasure huntin' after we take care of the wolves.
 
 
 //POINTER #93 @ $180CE - STRING #93 @ $19089
 
 #W16($180CE)
 (ジョー)「しかたない ほかをあたるべか。[ED]
+Joe:Oh well, I guess I gotta go ask someone else.
 
 
 //POINTER #94 @ $180D0 - STRING #94 @ $1909C
@@ -654,12 +746,14 @@
 (ジョー)「また タカラさがしのメンバーに[LN]
 くわえてくれずら？[BR]
 [05][ED]
+^Joe:You still lookin' for members to go trasure huntin'?
 
 
 //POINTER #95 @ $180D2 - STRING #95 @ $190B7
 
 #W16($180D2)
 (ジョー)「きっとあとで なきをみるだべ。[ED]
+Joe:I'm sure it'll be tough.
 
 
 //POINTER #96 @ $180D4 - STRING #96 @ $190CA
@@ -668,6 +762,7 @@
 (ジョニー)「タカラさがしにゆくんだって[LN]
 ぼくもなかまにいれて ほしいずら？[BR]
 [05][ED]
+Johnny:You're going treasure huntin', would you like if I tagged along?
 
 
 //POINTER #97 @ $180D6 - STRING #97 @ $190E9
@@ -676,12 +771,14 @@
 (ジョニー)「ほんだら しかたにゃあだや[LN]
 ぼくがみつけた ネズミのシッポを[LN]
 あげるべ。[ED]
+Johnny:Well, whatever. I'll give ya this rat's tail I found.
 
 
 //POINTER #98 @ $180D8 - STRING #98 @ $19111
 
 #W16($180D8)
 (ジョニー)「きがかわったら さそってくれずら。[ED]
+^Johnny:Let me know if you change your mind.
 
 
 //POINTER #99 @ $180DA - STRING #99 @ $19126
@@ -692,6 +789,8 @@
 なかまになるから[LN]
 ここからだしてくれ！？[BR]
 [04][ED]
+Dick:I've came looking for a cross, but I got lost in the forest.
+Can you let me join you and get me out of here?!
 
 
 //POINTER #100 @ $180DC - STRING #100 @ $1915C
@@ -700,6 +799,7 @@
 (デック)「アハッ？ また まよっちゃった。[LN]
 なかまにいれて？[BR]
 [05][ED]
+Dick:Wha? I got myself lost again. Can I join you?
 
 
 //POINTER #101 @ $180DE - STRING #101 @ $19179
@@ -707,6 +807,7 @@
 #W16($180DE)
 (インディ)「おれ まだつづける[LN]
 セイショ さえあれば**[ED]
+Indy:If only I still had a Bible...
 
 
 //POINTER #102 @ $180E0 - STRING #102 @ $19193
@@ -716,12 +817,15 @@
 それがあれば バケモノこわくない。[LN]
 おれも つれていけ？[BR]
 [05][ED]
+Indy:Is that a Bible? With that, I'm not afraid of any monsters.
+Can I join you?
 
 
 //POINTER #103 @ $180E2 - STRING #103 @ $191BC
 
 #W16($180E2)
 (インディ)「おまえ きっとこうかいする！[ED]
+Indy:You're sure to regret this!
 
 
 //POINTER #104 @ $180E4 - STRING #104 @ $191CE
@@ -730,6 +834,7 @@
 (インディ)「おまえ！ タカラさがし[LN]
 おれを つれてゆけ？[BR]
 [04][ED]
+Indy:You! Can I join you treasure hunting?
 
 
 //POINTER #105 @ $180E6 - STRING #105 @ $191E6
@@ -738,6 +843,7 @@
 (ウィリー)「カーディフのおかは かわしもの[LN]
 あかいもりの さんばしから[LN]
 すこしのぼったところにあるよ。[ED]
+
 
 
 //POINTER #106 @ $180E8 - STRING #106 @ $19217
@@ -1666,7 +1772,7 @@
 //POINTER #224 @ $181D4 - STRING #224 @ $1A3FD
 
 #W16($181D4)
-(ジャック)「ざんねんやったな。[LN]
+(　　)「ざんねんやったな。[LN]
 また ちょうせんしにこいや。[ED]
 
 
