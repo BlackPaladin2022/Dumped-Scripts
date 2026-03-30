@@ -1,113 +1,327 @@
+
 //GAME NAME:		
 
 //BLOCK #003 NAME:		Dialogue Block 04 (RAW)
 //Block Range: $28790 - $28E17
 
+((Due to the nature of japanese sentence structure, it might make some of these messages
+come off as awkward. Feel free to change the formatting and text if you know how. Also some
+of the context is a little confusing so make sure you check on that))
+
 の こうげき！[ED]
+'s attack!
+
 を つかった！[ED]
+is used!
+
 を なげた！[ED]
+is thrown!
+
 こうかが なかった[ED]
+No effect.
+
 の たいりょくが 1になった！[ED]
+'s HP became 1!
+
 てが すべってしまった！[ED]
+Their hand slipped!
+
 ジョンは ほねに めが くらんだ！[ED]
+John's distracted by a bone!
+
 ジョン 「ワン！ ワン！ ワン！」[ED]
+John:Ruff! Ruff! Ruff!
+
 は たまを なげれなくなった！[ED]
+became unable to throw the ball!
+
 ジョン 「キャイーン！ キャン キャン」[ED]
+John:Yiiip! Yip yip!
+
 は たまを なげれない[ED]
+was unable to throw the ball.
+
 を かなしばらせた！[ED]
+is tied up!
+
 は かなしばっている[ED]
+is tied!
+
 の まほう を ふうじこんだ！[ED]
+'s magic is sealed!
+
 は まほう を ふうじこまれている[ED]
+'s magic has been sealed.
+
 トム ハック「ヘンシーン」！[ED]
+Tom, Huck:"TRANSFOORM!"
+
 を よびだしてしまった！[ED]
+is called out!
+
 はとは どこかへ とんでいった！[ED]
+The dove flew off somewhere!
+
 の じゃくてんを ついた！[ED]
+'s weakpoint is hit!
+
 は ふっかつした！[ED]
+is revived!
+
 の ちからを ふうじこんだ！[ED]
+'s power is sealed!
+
 は ビローンを となえた！[ED]
+cast
+
 は サイナラを となえた！[ED]
+cast 
 の うえで せんこうが はしった！[ED]
+'s above had a flash of light!
+
 は ゲンキを となえた！[ED]
+cast Heal!
+
 は メラメラを となえた！[ED]
+cast Flash!
+
 は カリキュラを となえた！[ED]
+cast Curric!
+
 の たいりょく[ED]
+'s HP
+
 の こうげきりょく[ED]
+'s attack
+
 の しゅびりょく[ED]
+'s defense
+
 の すばやさ[ED]
+'s speed
+
 が 2ばいに ふえた！[ED]
+became doubled!
+
 が 1・5ばいだ！[ED]
+became multiplied by 1.5!
+
 が はんぶんにへった！[ED]
+became halved!
+
 は ねむりダマ[ED]
+used sleepsphere
+
 は ねむってしまった！[ED]
+fell asleep
+
 は いびきをかいている・・・[ED]
+is snoring...
+
 は しょうきに もどった！[ED]
+became normal!
+
 は きょうふダマ[ED]
+used fearsphere
+
 は かなしばってしまったた！[ED]
+was tied up!
+
 の かなしばりが とけない[ED]
+can't escape being tied.
+
 は かなしばり から ぬけた！[ED]
+was freed from being tied!
+
 は わすれダマ[ED]
+used forgetsphere
+
 は ぶきようになった！[ED]
+became clumsy!
+
 は ぶきように なっている[ED]
+is clumsy.
+
 の きようさが もどった！[ED]
+is no longer clumsy!
+
 は いがいがダマ[ED]
+used painsphere
+
 は けがをおった！[ED]
+became maimed!
+
 は けがを している[ED]
+is maimed.
+
 の けがが なおった！[ED]
+is head from being maimed!
+
 は ボタンを おした！[ED]
+pressed the button!
+
 それは リセットボタン だった！[ED]
+That was the reset button!
+
 レッドは ジムをさらった！[ED]
+Red took Jim!
+
 は にげていった[ED]
+ran away.
+
 が かいふくした[ED]
+was healed.
+
 ひっさつ！！[ED]
+Special!!
+
 を ふきとばした！[ED]
+their the weapon!
+
 しっぱい！ はんどうが かえってきた！[ED]
+Failed! Recoil!
+
 だめだ！ メンバーが たりない！[ED]
+You can't! Not enough members!
+
 ひっさつは ふうじこまれている！[ED]
+Special is sealed!
+
 「にげろーっ！」[ED]
+"Ruuun!"
+
 ころんだ！[ED]
+Tripped!
+
 「おいら 1かい やすむだがや」[ED]
+"Lemme rest one turn."
+
 ハック は パス してるだがや！[ED]
+Huck passed!
+
 「ほんとは ねてないよ！」[ED]
+"I ain't really sleeping!"
+
 は すきを みせてしまった！[ED]
+let their guard down!
+
 「キャー！ キャー！ キャー！」[ED]
+Yip! Yip! Yip!
+
 の きが くるった！[ED]
+has lost their mind!
+
 「はなしあいで かいけつ しよう」[ED]
+"Let's talk this out."
+
 を せっとくした！[ED]
+was persuaded!
+
 「みんなっ オレにまかせとけ！」[ED]
+"Leave it to me everyone!"
+
 「ゴメン わるいのは キミたちなんだ」[ED]
+"Sorry, it's your fault."
+
 は なっとくした！[ED]
+agreed!
+
 「ニャッ ハッ ハッ ハッ！」[ED]
+"Yah ha ha ha!"
+
 は わらわれるのが いやだった[ED]
+hates laughter.
+
 「いーんだもん なんでぃ ちぇっ」[ED]
+"Well fine then tch."
+
 「どーなったって しらないからなー」[ED]
+"I dunno how it'll turn out for ya."
+
 「きょうは これで かいさん！」[ED]
+"I'll end this now!"
+
 「オレ おこった ゆるさない！」[ED]
+"I won't let you get away with angerin' me!"
+
 は インディの いかりに ふれた！[ED]
+was missed by Indy's rage!
+
 やったーっ！ トムたちは よりつよくなった[ED]
+You did it! Tom and friends become stronger.
+
 きみたちのことは けっして わすれないよ。[ED]
+I won't ever forget you guys.
+
 でも トムがやられた ひとまず たいきゃくだ！ [ED]
+But Tom was done in. Retreat for now!
+
 「レッド！ さっさと やっちまえ！」[ED]
+"Red! Get them now!"
+
 「フランクリンが だまっちゃいないぞっ」[ED]
+"Franklin ain't being fooled."
+
 「あれっ けん わすれてきちゃった」[ED]
+"Huh, I forget my sword."
+
 「がまん がまん がまん じっとがまん」[ED]
+"I can't take it I can't I can't keep still like this."
+
 「ノースフィールド にしがわ もり はし」[ED]
+"Northfields forest's west bridge."
+
 「おいら ほね ほしい だけだっち！」[ED]
+"I just wanna bone!"
+
 「クソーッ おまえら よってたかってっ！」」[ED]
+"Damn, you guys are here!"
+
 「ベッキーは おれの ものさ！」[ED]
+"Becky's mine!"
+
      「おりゃーっ！」[ED]
+	"Raahh!"
+	
 「もうだいじょうぶ！ では しっけい」[ED]
+"It's alright now. Now pardon me."
+
 「はやく にげたほうが いいぞ！」[ED]
+"You should get out of here now!"
+
 「こんどは おこして あげよう」[ED]
+"This time I'll wake you up."
+
 「おそーかな やめよかな・・・」[ED]
+"It's late, stoppit..."
+
 「ハックのすがたを かしてもらいました[ED]
+"Huck's body has been returned."
+
 「ほんとうのことを おしえましょう[ED]
+"I'll tell you the truth."
+
 「せんちょうは むかし かいぞくだった[ED]
+"The captain was once a pirate long ago."
+
 「かいぞくの まほうは ひとのすがたを[ED]
+"The pirate's magic changed people"
+
 「ばけものに してしまうのです[ED]
+"into monsters"
+
 「でも かれを せめては いけません[ED]
+"But you can't let him get away with it."
+
 「りゆうは かならず みつかるはずです[ED]
+"You'll surely find out why."
+
 「ひだり と みぎ は いつも ぎゃく」[ED]
+"Left and right are always opposite."
+
 「ハックをつれてないと あとでこまるぞ」[ED]
+"It'd be good to take Huck with you."
+
 ん[ED]
 ん[ED]
 ん[ED]
@@ -123,10 +337,25 @@
 ん[ED]
 ん[ED]
 ん[ED]
+((Possible formatting or something above))
+
 みをかわした！[ED]
+is found!
+
 は やられている！[ED]
+is slain!
+
 フランクリンの ちからが はんげんした！[ED]
+Franklin's power was halved!
+
 いまが ひっさつの チャーンス！[ED]
+Now is the chance for a special!
+
 が やられた！[ED]
+got slain!
+
 の ダメージ！[ED]
+damage!
+
 を やっつけた！[ED]
+was defeated!
