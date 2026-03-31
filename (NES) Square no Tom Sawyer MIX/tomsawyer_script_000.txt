@@ -21,7 +21,7 @@ Pirate's treasure
 
 #W16($18018)
 [null]サウスエンド[null][ED]
-South End
+Southend
 
 
 //POINTER #3 @ $1801A - STRING #3 @ $1882D
@@ -1848,7 +1848,7 @@ of the path in front of the mountain cottage.
 たおさないことにゃあ[LN]
 いつまでたっても ひとをおそうずらで。[null][ED]
 Palmer:It don't matter how many wolves we get. Unless we get the leader
-controlling them they'll just keep on attackin' people.
+controlling 'em they'll just keep on attackin' people.
 
 
 //POINTER #211 @ $181BA - STRING #211 @ $1A1F3
@@ -2519,7 +2519,7 @@ Using the joker repel would be good.
 [null]「バケモノさわぎで さいきんまで[LN]
 あばれてた かいぞくまで[LN]
 このまちを にげてったよ。[ED]
-Because of the trouble the monsters are causing, the pirates that were rampant here
+Because of the trouble the monsters are causing, the pirates that were rampant here until recently
 have fled.
 
 
@@ -2649,7 +2649,7 @@ Foster:Thank you, I appreciate your help.
 まゆ[06]モゆソず。7<$8A>。ちユ。コユ<$AD><$D5>マパ<$FF>[D0][05]<$AD>ウ[06]<$F0>ー<$A9>[LN]
 ッウ[06]。レユ。ポユゆ[0F]ビ<$EA><$EA><$A9>[03]ち<$E9>[LN]
 [D0]<$FB><$EA><$EA>ウ<$AD><$D3>オ8シ<$A8>ッ<$D3>オガ[ED]
-((Not sure what this is either))
+^((Not sure what this is either))
 
 
 //POINTER #288 @ $18254 - STRING #288 @ $1AF42
@@ -2927,7 +2927,7 @@ This is Southend, it's a dangerous place.
 [null]「このまちは あたらしいサウスエンドと[LN]
 ふるいサウスエンドの ふたつに[LN]
 わかれているんだ。[null][ED]
-This down is split between New Southend and Old Southend.
+This town is split between New Southend and Old Southend.
 
 
 //POINTER #318 @ $18290 - STRING #318 @ $1B3F1
