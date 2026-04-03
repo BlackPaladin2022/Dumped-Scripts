@@ -2184,7 +2184,7 @@ Wadkins:That's right. You're pretty good? Hoy?! Your body is gettin' better.
 #W16($181FE)
 (ワドキンス)「みじゅくもの ハズレやでー！[LN]
 せっかんじゃ！[ED]
-Wadkins:Wrong you fool! Take that!
+Wadkins:Wrong you fool! Take this!
 
 
 //POINTER #246 @ $18200 - STRING #246 @ $1A6EC
