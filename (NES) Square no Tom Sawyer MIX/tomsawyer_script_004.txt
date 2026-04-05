@@ -1,3 +1,4 @@
+
 //GAME NAME:		
 
 //BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE)
@@ -12,8 +13,14 @@
 
 #W16($29F32)
  たたかう[BR]
+ Fight
+ 
  ひっさつ[BR]
+ Special
+ 
  アイテム[BR]
+ Item
+ 
  [D0][BR]
 [ED]
 
@@ -28,7 +35,10 @@
 
 #W16($29F36)
  たたかう[BR]
+ Fight 
  ひっさつ[BR]
+ Special
+ 
  [D0][BR]
 [ED]
 
@@ -37,7 +47,11 @@
 
 #W16($29F38)
  ひっさつ[BR]
+ Special
+ 
  アイテム[BR]
+ Item
+ 
  [D0][BR]
 [ED]
 
@@ -46,7 +60,11 @@
 
 #W16($29F3A)
  たたかう[BR]
+ Fight
+ 
  アイテム[BR]
+ Item
+ 
  [D0][BR]
 [null]び[ED]
 
