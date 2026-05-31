@@ -1,3 +1,4 @@
+
 //GAME NAME:		
 
 //BLOCK #002 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
@@ -8,6 +9,7 @@
  アメリカがっしゅうこく[LN]
   ミズリーしゅう[LN]
 1855ねんの あるばん・・・[ED]
+One night in Missouri, United States 1855...
 
 
 //POINTER #1 @ $2124F - STRING #1 @ $212C6
@@ -16,19 +18,21 @@
 「ここは いったいどこだろう？[LN]
 かわむこうに あるまちは[LN]
 どこなんだろう？[ED]
-
+Where in the world is this? What's the town past the river?
 
 //POINTER #2 @ $21251 - STRING #2 @ $212EC
 
 #W16($21251)
 「トム なにいってんのよ[LN]
 サウスエ・・じゃないの。[ED]
+Tom, what are you sayin'? It's the town of Southwest.
 
 
 //POINTER #3 @ $21253 - STRING #3 @ $21306
 
 #W16($21253)
 「サウス・・・？ しらないよそんなとこ。[ED]
+Southwe...? I dunno a place like that.
 
 
 //POINTER #4 @ $21255 - STRING #4 @ $2131B
@@ -36,12 +40,15 @@
 #W16($21255)
 「かいぞくのタカラが あのまちの[LN]
 どこかにねむっているって はなしですだ。[ED]
+It's said there's pirate's treasure hidden someplace
+in that town.
 
 
 //POINTER #5 @ $21257 - STRING #5 @ $21341
 
 #W16($21257)
 「えっ ほんと？ ほんとかい！[ED]
+Wow, really? Really?!
 
 
 //POINTER #6 @ $21259 - STRING #6 @ $21351
@@ -49,12 +56,14 @@
 #W16($21259)
 「ジムっ！ エミーっ！ はやくこいよ[LN]
 でないと ふねがでちゃうぞっ！[ED]
+Jim! Emy! Hurry up. The boat's about to leave!
 
 
 //POINTER #7 @ $2125B - STRING #7 @ $21374
 
 #W16($2125B)
 「ハックっ！ おれもいくよ！[ED]
+Huck! I'm going too!
 
 
 //POINTER #8 @ $2125D - STRING #8 @ $21383
@@ -62,12 +71,14 @@
 #W16($2125D)
 「ゴメン！ トム きっぷ3まいしか[LN]
 ないんだ。[ED]
+Sorry Tom! I only got 3 tickets.
 
 
 //POINTER #9 @ $2125F - STRING #9 @ $2139B
 
 #W16($2125F)
 「ハック ジム はやく はやくっ！[ED]
+Huck, Jim, hurry on up!
 
 
 //POINTER #10 @ $21261 - STRING #10 @ $213AD
@@ -75,6 +86,7 @@
 #W16($21261)
 「まってくれよ ハックっ ジム [LN]
 エミー・・・・・[ED]
+Wait up Huck, Jim, Emy...
 
 
 //POINTER #11 @ $21263 - STRING #11 @ $213C7
@@ -84,6 +96,13 @@
 さぁ はやくおきるんだよ トム(サリー)        「あけるぞっ！[LN]
 [LN]
         トム「うんっ！[ED]
+((Weird formatting here))
+Tom! How long are you going to sleep for?
+Now hurry up and get up Tom.
+
+	Sally:I'm comin' in!
+	
+	Tom:Mmph!
 
 
 //POINTER #12 @ $21265 - STRING #12 @ $213EC
@@ -92,6 +111,9 @@
         「あけるぞっ！[LN]
 [LN]
         トム「うんっ！[ED]
+		I'm comin' in!
+		
+		Tom:Mmph!
 
 
 //POINTER #13 @ $21267 - STRING #13 @ $2140D
@@ -99,6 +121,12 @@
 #W16($21267)
      トム「みろよ これは・・・[LN]
    ハック「とけいだいのかねだがやっ！[ED]
+   Tom:Look, this is...
+   
+   Huck:The clock tower's bell!
+   
+   
+   
 
 
 //POINTER #14 @ $21269 - STRING #14 @ $21435
@@ -106,6 +134,8 @@
 #W16($21269)
    このとき うしろにおとこが たって[LN]
    いたことに だれもきがつかなかった[ED]
+   No one noticed a man's been standing behind them this whole time.
+   
 
 
 //POINTER #15 @ $2126B - STRING #15 @ $2145F
@@ -113,6 +143,8 @@
 #W16($2126B)
   やっとの おもいで ほらあなを ぬけだすと[LN]
  だれがおいたのか そこには いかだが あった[ED]
+ Finally they escaped whoever was following after them after 
+ exiting the hole. There they find a raft.
 
 
 //POINTER #16 @ $2126D - STRING #16 @ $2148F
@@ -120,6 +152,8 @@
 #W16($2126D)
     しばらくして ハックがいった。[LN]
   「なぁ トム このいかだ だれのだろう？[ED]
+  After a while, Huck spoke.
+  "Hey Tom, who's this raft belong to?"
 
 
 //POINTER #17 @ $2126F - STRING #17 @ $214BA
@@ -127,12 +161,15 @@
 #W16($2126F)
  「なぁ トム フランクリンのこえ どこかで[LN]
  きいたこと あるようなきが しないか？[ED]
+ Hey Tom I think I heard Franklin's voice comin' from somewhere don't
+ ya think?
 
 
 //POINTER #18 @ $21271 - STRING #18 @ $214E6
 
 #W16($21271)
 「なあ トム なんのために こんなこと・・・[ED]
+Hey Tom, why do you think this...
 
 
 //POINTER #19 @ $21273 - STRING #19 @ $214FD
@@ -143,6 +180,17 @@
 そうだ そうにちがい・・・[LN]
 「トムっ きいてるのか トム(サリー)     トムは かんがえていた[LN]
    つかめそうで つかめないことを[ED]
+Hey Tom, what kind of relation do you think the Bikke the pirate and
+the captain have?
+
+Becky:Hey Tom, the captain used to be a pirate long ago do ya think?
+
+Sally:Tom, you listening Tom?
+
+Tom thinks about many things, both complex and obvious.
+
+
+
 
 
 //POINTER #20 @ $21275 - STRING #20 @ $21527
@@ -152,6 +200,13 @@
 そうだ そうにちがい・・・[LN]
 「トムっ きいてるのか トム(サリー)     トムは かんがえていた[LN]
    つかめそうで つかめないことを[ED]
+Becky:Hey Tom, the captain used to be a pirate long ago do ya think?
+
+Sally:Tom, you listening Tom?
+
+Tom thinks about many things, both complex and obvious.
+
+
 
 
 //POINTER #21 @ $21277 - STRING #21 @ $2155D
@@ -159,6 +214,7 @@
 #W16($21277)
      トムは かんがえていた[LN]
    つかめそうで つかめないことを[ED]
+   Tom thinks about many things, both complex and obvious.
 
 
 //POINTER #22 @ $21279 - STRING #22 @ $21581
@@ -167,6 +223,8 @@
   もしかしたら せんちょうは ぼうけんが[LN]
  どれほど すばらしい ものか そのことを[LN]
  おしえてくれたのかもしれない[ED]
+ Perhaps the captain can tell us of what brilliant things they've found
+ or have happened to them.
 
 
 //POINTER #23 @ $2127B - STRING #23 @ $215BD
@@ -174,6 +232,8 @@
 #W16($2127B)
 もくてきは なんだっていいんだ たいせつなのは[LN]
 ぼうけんしようとする じぶんなのかもしれない[ED]
+What's the goal of all this? Maybe what's important is the adventure itself.
+
 
 
 //POINTER #24 @ $2127D - STRING #24 @ $215EC
@@ -181,6 +241,9 @@
 #W16($2127D)
      しばらくして トムがいった[LN]
      「わからないよ でも・・・[ED]
+	After a while, Tom spoke.
+	I dunno, but...
+	
 
 
 //POINTER #25 @ $2127F - STRING #25 @ $21612
@@ -188,6 +251,8 @@
 #W16($2127F)
      「でも なんだい トム(ベッキー)「でも なんか うれしいんだ ほんとうのたから[LN]
 じゃなくても こうかいなんかしないさ！[ED]
+	Becky:...but what Tom?
+	Tom:But I feel glad. It may not be real treasure, but I have no regrets!
 
 
 //POINTER #26 @ $21281 - STRING #26 @ $21624
@@ -195,12 +260,14 @@
 #W16($21281)
 「でも なんか うれしいんだ ほんとうのたから[LN]
 じゃなくても こうかいなんかしないさ！[ED]
+Tom:But I feel glad. It may not be real treasure, but I have no regrets!
 
 
 //POINTER #27 @ $21283 - STRING #27 @ $21650
 
 #W16($21283)
        「おれもだ！[ED]
+	   Me too!
 
 
 //POINTER #28 @ $21285 - STRING #28 @ $2165E
@@ -213,6 +280,7 @@
  のふたまたみぎいずみひだり[LN]
  くらやみのたにたからはじゅ[LN]
  うじかのしたをほればいい。[ED]
+ ((This is a bunch of jumbled up words, not entirely sure what to do here))
 
 
 //POINTER #29 @ $21287 - STRING #29 @ $216C7
@@ -220,6 +288,8 @@
 #W16($21287)
 グラフィック[LN]
 みうら まさあき[ED]
+Graphic:
+Masaaki Miura
 
 
 //POINTER #30 @ $21289 - STRING #30 @ $216D7
@@ -227,6 +297,8 @@
 #W16($21289)
 グラフィック[LN]
 ほしの まさのり[ED]
+Graphic:
+Masanori Hoshino
 
 
 //POINTER #31 @ $2128B - STRING #31 @ $216E7
@@ -234,6 +306,8 @@
 #W16($2128B)
 グラフィック[LN]
 ときた たかし[ED]
+Graphic:
+Takashi Tokita
 
 
 //POINTER #32 @ $2128D - STRING #32 @ $216F6
@@ -241,6 +315,8 @@
 #W16($2128D)
 プログラム[LN]
 あだち けいたろう[ED]
+Program:
+Keitarou Adachi
 
 
 //POINTER #33 @ $2128F - STRING #33 @ $21706
@@ -248,6 +324,8 @@
 #W16($2128F)
 プログラム[LN]
 よしい きよし[ED]
+Program:
+Kiyoshi Yoshii
 
 
 //POINTER #34 @ $21291 - STRING #34 @ $21714
@@ -255,6 +333,8 @@
 #W16($21291)
 プログラム[LN]
 なかむら ひろし[ED]
+Program:
+Hiroshi Nakamura
 
 
 //POINTER #35 @ $21293 - STRING #35 @ $21723
@@ -262,6 +342,8 @@
 #W16($21293)
 おんがく[LN]
 うえまつ のぶお[ED]
+Music:
+Nobuo Uematsu
 
 
 //POINTER #36 @ $21295 - STRING #36 @ $21731
@@ -269,6 +351,8 @@
 #W16($21295)
 きょうりょく[LN]
 たなか ひろみち[ED]
+Assistance:
+Hiromichi Tanaka
 
 
 //POINTER #37 @ $21297 - STRING #37 @ $21741
@@ -276,6 +360,8 @@
 #W16($21297)
 シナリオ[LN]
 こもり ごうじん [ED]
+Scenario:
+Koujin Komori
 
 
 //POINTER #38 @ $21299 - STRING #38 @ $21750
@@ -283,6 +369,8 @@
 #W16($21299)
 きかく[LN]
 ほしの のぶゆき[ED]
+Planning:
+Nobuyuki Hoshino
 
 
 //POINTER #39 @ $2129B - STRING #39 @ $2175D
@@ -290,6 +378,8 @@
 #W16($2129B)
 きかく[LN]
 いとう ひろゆき[ED]
+Planning:
+Hiroyuki Itou
 
 
 //POINTER #40 @ $2129D - STRING #40 @ $2176A
@@ -297,4 +387,6 @@
 #W16($2129D)
 せいさく[LN]
 スクウェア    チーム[ED]
+Made by:
+SQUARE TEAM
 

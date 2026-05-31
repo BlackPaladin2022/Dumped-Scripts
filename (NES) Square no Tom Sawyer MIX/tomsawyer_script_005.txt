@@ -4,43 +4,123 @@
 //Block Range: $36020 - $36168
 
 タイル    [LN]
+Tile
+
 あおいカード [LN]
+Blue card
+
 あかいカード [LN]
+Red card
 きいろのカード[LN]
+Yellow card
+
 ライセンス  [LN]
+License
+
 せいしょ   [LN]
+Bible
+
 ペンダント  [LN]
+Pendant
+
 ノコギリ   [LN]
+Saw
+
 ロープ    [LN]
+Rope
+
 ベッキー   [LN]
+Becky
+
 ハト     [LN]
+Dove
+
 テント    [LN]
+Tent
+
 オオカミのキバ[LN]
+Wolf fang
+
 へんしんだま [LN]
+Form sphere
+
 ミッチ    [LN]
+At
+
 シルベ    [LN]
+Las
+
 ほね     [LN]
+Bone
+
 ジョン    [LN]
+John
+
 ドリトルじてん[LN]
+Dolittle dictionary
+
 ワナ     [LN]
+Trap
+
 ドアのとって [LN]
+Doorknob
+
 スコップ   [LN]
+Shovel
+
 かんしゃくダマ[LN]
+Rage sphere
+
 とけい    [LN]
+Clock
+
 パン     [LN]
+Bread
+
 ネズミのシッポ[LN]
+Rat's tail
+
 てがみ    [LN]
+Letter
+
 クロス    [LN]
+Cross
+
 まほうのクツ [LN]
+Magic shoes
+
 まほうのマント[LN]
+Magic cloak
+
 かいぞくメダル[LN]
+Pirate's medal
+
 ハート3   [LN]
+Heart 3
+
 ジョーカー  [LN]
+Joker
+
 べんとう   [LN]
+Lunch
+
 いちのこりのは[LN]
+Hangon leaf
+
 ランプ    [LN]
+Lamp
+
 くんしょう  [LN]
+Medal
+
 カギ     [LN]
+Key
+
 くすり    [LN]
+Medicine
+
 ガラスだま  [LN]
+Glass ball
+
 ふるいきんか [LN]
+Old coin

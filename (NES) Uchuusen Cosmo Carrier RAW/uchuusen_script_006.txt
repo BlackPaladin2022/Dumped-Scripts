@@ -3,5 +3,7 @@
 //BLOCK #006 NAME:		Dialogue Block (RAW 01)
 //Block Range: $1871A - $1872B
 
-コウゲキブツ ハ[LN]
-アリマセン[ED]
+繧ｳ繧ｦ繧ｲ繧ｭ繝悶ヤ 繝充LN]
+繧｢繝ｪ繝槭そ繝ｳ[ED]
+NOTHING TO ATTACK
+
