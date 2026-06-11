@@ -1,0 +1,63 @@
+//GAME NAME:		
+
+//BLOCK #014 NAME:		Dialogue Block 15 (POINTER_RELATIVE)
+
+//POINTER #0 @ $4DA0 - STRING #0 @ $4DB4
+
+#W16($4DA0)
+[00][ED]
+
+
+//POINTER #1 @ $4DA2 - STRING #1 @ $4DB6
+
+#W16($4DA2)
+えっ、[06]円だれかに にてるって？[ED]
+
+
+//POINTER #2 @ $4DA4 - STRING #2 @ $4DC8
+
+#W16($4DA4)
+きのせいですわ[04][08]よぉ[ED]
+
+
+//POINTER #3 @ $4DA6 - STRING #3 @ $4DD5
+
+#W16($4DA6)
+[04][04]でも、[06]九うちのことも まだ おぼえてて [04][02]ほしいっちゃ[ED]
+
+
+//POINTER #4 @ $4DA8 - STRING #4 @ $4DF8
+
+#W16($4DA8)
+円おかい上げぇ[ED]
+
+
+//POINTER #5 @ $4DAA - STRING #5 @ $4E01
+
+#W16($4DAA)
+[04][08]あのぉ、[04][02]うちは、カードは つかえませんからねぇ[ED]
+
+
+//POINTER #6 @ $4DAC - STRING #6 @ $4E1E
+
+#W16($4DAC)
+お金さえいただければ、なんなりと おかいもとめ下さぁい[ED]
+
+
+//POINTER #7 @ $4DAE - STRING #7 @ $4E3C
+
+#W16($4DAE)
+[04][08]あのぉ、[04][02]うちは、ぶつぶつこうかんも しませんからねぇ[ED]
+
+
+//POINTER #8 @ $4DB0 - STRING #8 @ $4E5D
+
+#W16($4DB0)
+まいどありがとうございますぅ[06][R][ED]
+
+
+//POINTER #9 @ $4DB2 - STRING #9 @ $4E72
+
+#W16($4DB2)
+そんなことをすると、でんげきをおみまいするっちゃ！[06]行[01]それにしても、なれないはなしかたは つかれるっちゃ[ED]
+

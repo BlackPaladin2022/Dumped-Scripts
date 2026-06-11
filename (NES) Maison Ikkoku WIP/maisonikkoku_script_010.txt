@@ -1,0 +1,45 @@
+//GAME NAME:		
+
+//BLOCK #010 NAME:		Dialogue Block 11 (POINTER_RELATIVE)
+
+//POINTER #0 @ $4988 - STRING #0 @ $4996
+
+#W16($4988)
+[00][ED]
+
+
+//POINTER #1 @ $498A - STRING #1 @ $4998
+
+#W16($498A)
+はっ[06]円はっ[ED]
+
+
+//POINTER #2 @ $498C - STRING #2 @ $499F
+
+#W16($498C)
+ばう、[06] ばう[ED]
+
+
+//POINTER #3 @ $498E - STRING #3 @ $49A9
+
+#W16($498E)
+ばう~[06][0C]ん[ED]
+
+
+//POINTER #4 @ $4990 - STRING #4 @ $49B1
+
+#W16($4990)
+ばうっ、[06] ばう~[06][0C]ん[ED]
+
+
+//POINTER #5 @ $4992 - STRING #5 @ $49C0
+
+#W16($4992)
+ばう[06]円ばう[ED]
+
+
+//POINTER #6 @ $4994 - STRING #6 @ $49C9
+
+#W16($4994)
+クンクン[ED]
+

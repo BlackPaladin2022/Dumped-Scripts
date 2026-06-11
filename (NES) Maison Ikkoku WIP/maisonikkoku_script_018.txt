@@ -1,0 +1,33 @@
+//GAME NAME:		
+
+//BLOCK #018 NAME:		Dialogue Block 19 (POINTER_RELATIVE)
+
+//POINTER #0 @ $52E0 - STRING #0 @ $52EA
+
+#W16($52E0)
+[00][ED]
+
+
+//POINTER #1 @ $52E2 - STRING #1 @ $52EC
+
+#W16($52E2)
+こずえは、まだまだ子供ですから・・[ED]
+
+
+//POINTER #2 @ $52E4 - STRING #2 @ $5302
+
+#W16($52E4)
+こずえのこと、よろしくおねがいしますね。[ED]
+
+
+//POINTER #3 @ $52E6 - STRING #3 @ $5319
+
+#W16($52E6)
+花は、主人のしゅみ なんですよ。[ED]
+
+
+//POINTER #4 @ $52E8 - STRING #4 @ $532B
+
+#W16($52E8)
+うちのこずえは子供ですから。[06]右[ED]
+
