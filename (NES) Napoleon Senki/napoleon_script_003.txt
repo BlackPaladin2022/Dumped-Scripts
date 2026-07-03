@@ -1,0 +1,99 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		Dialogue Block 04 (POINTER_RELATIVE)
+
+//POINTER #0 @ $D4A8 - STRING #0 @ $D4C8
+
+#W16($D4A8)
+[Pos. 2130]このふ゛たいの しきかんは[ED]
+
+
+//POINTER #1 @ $D4AA - STRING #1 @ $D4D8
+
+#W16($D4AA)
+[Pos. 2170]とても ゆうめいて゛す。[ED]
+
+
+//POINTER #2 @ $D4AC - STRING #2 @ $D4E7
+
+#W16($D4AC)
+[Pos. 2130]このふ゛たいて゛は,く゛んきの[ED]
+
+
+//POINTER #3 @ $D4AE - STRING #3 @ $D4F9
+
+#W16($D4AE)
+[Pos. 2170]みた゛れか゛,めた゛ちます。[ED]
+
+
+//POINTER #4 @ $D4B0 - STRING #4 @ $D50A
+
+#W16($D4B0)
+[Pos. 2130]このふ゛たいは,すこし[ED]
+
+
+//POINTER #5 @ $D4B2 - STRING #5 @ $D518
+
+#W16($D4B2)
+[Pos. 2170]つかれているようて゛す。[ED]
+
+
+//POINTER #6 @ $D4B4 - STRING #6 @ $D527
+
+#W16($D4B4)
+[Pos. 2130]このふ゛たいへの ほきゅう[ED]
+
+
+//POINTER #7 @ $D4B6 - STRING #7 @ $D537
+
+#W16($D4B6)
+[Pos. 2170]か゛おくれています。[ED]
+
+
+//POINTER #8 @ $D4B8 - STRING #8 @ $D544
+
+#W16($D4B8)
+[Pos. 2130]このふ゛たいて゛は,まいにち[ED]
+
+
+//POINTER #9 @ $D4BA - STRING #9 @ $D555
+
+#W16($D4BA)
+[Pos. 2170]けんかか゛あります。[ED]
+
+
+//POINTER #10 @ $D4BC - STRING #10 @ $D562
+
+#W16($D4BC)
+[Pos. 2130]このふ゛たいの きりつは,[ED]
+
+
+//POINTER #11 @ $D4BE - STRING #11 @ $D572
+
+#W16($D4BE)
+[Pos. 2170]とてもきひ゛しい。[ED]
+
+
+//POINTER #12 @ $D4C0 - STRING #12 @ $D57E
+
+#W16($D4C0)
+[Pos. 2130]このふ゛たいて゛は,いま,[ED]
+
+
+//POINTER #13 @ $D4C2 - STRING #13 @ $D58E
+
+#W16($D4C2)
+[Pos. 2170]さくせんをたてています。[ED]
+
+
+//POINTER #14 @ $D4C4 - STRING #14 @ $D59D
+
+#W16($D4C4)
+[Pos. 2130]このふ゛たいには,ゆうしゅ[ED]
+
+
+//POINTER #15 @ $D4C6 - STRING #15 @ $D5AD
+
+#W16($D4C6)
+[Pos. 2170]うな へいか゛,おおい。[ED]
+

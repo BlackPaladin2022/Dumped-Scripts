@@ -1,0 +1,1185 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		Dialogue Block 02 (POINTER_RELATIVE)
+
+//POINTER #0 @ $1FBE - STRING #0 @ $2148
+
+#W16($1FBE)
+いっこくかんに入る[ED]
+
+
+//POINTER #1 @ $1FC0 - STRING #1 @ $2152
+
+#W16($1FC0)
+やねの上にのぼる[ED]
+
+
+//POINTER #2 @ $1FC2 - STRING #2 @ $215C
+
+#W16($1FC2)
+でかける[ED]
+
+
+//POINTER #3 @ $1FC4 - STRING #3 @ $2162
+
+#W16($1FC4)
+はなす[ED]
+
+
+//POINTER #4 @ $1FC6 - STRING #4 @ $2166
+
+#W16($1FC6)
+見せる[ED]
+
+
+//POINTER #5 @ $1FC8 - STRING #5 @ $216A
+
+#W16($1FC8)
+つかう[ED]
+
+
+//POINTER #6 @ $1FCA - STRING #6 @ $216E
+
+#W16($1FCA)
+とる[ED]
+
+
+//POINTER #7 @ $1FCC - STRING #7 @ $2171
+
+#W16($1FCC)
+あける[ED]
+
+
+//POINTER #8 @ $1FCE - STRING #8 @ $2175
+
+#W16($1FCE)
+しめる[ED]
+
+
+//POINTER #9 @ $1FD0 - STRING #9 @ $2179
+
+#W16($1FD0)
+でんわに出る[ED]
+
+
+//POINTER #10 @ $1FD2 - STRING #10 @ $2181
+
+#W16($1FD2)
+右に行く[ED]
+
+
+//POINTER #11 @ $1FD4 - STRING #11 @ $2186
+
+#W16($1FD4)
+まえに行く[ED]
+
+
+//POINTER #12 @ $1FD6 - STRING #12 @ $218C
+
+#W16($1FD6)
+ななおけ[ED]
+
+
+//POINTER #13 @ $1FD8 - STRING #13 @ $2191
+
+#W16($1FD8)
+でんわ しない[ED]
+
+
+//POINTER #14 @ $1FDA - STRING #14 @ $219A
+
+#W16($1FDA)
+さかもと[ED]
+
+
+//POINTER #15 @ $1FDC - STRING #15 @ $219F
+
+#W16($1FDC)
+五代のじっか[ED]
+
+
+//POINTER #16 @ $1FDE - STRING #16 @ $21A7
+
+#W16($1FDE)
+かんりにん室[ED]
+
+
+//POINTER #17 @ $1FE0 - STRING #17 @ $21AE
+
+#W16($1FE0)
+一号室に入る[ED]
+
+
+//POINTER #18 @ $1FE2 - STRING #18 @ $21B5
+
+#W16($1FE2)
+左に行く[ED]
+
+
+//POINTER #19 @ $1FE4 - STRING #19 @ $21BA
+
+#W16($1FE4)
+たたく[ED]
+
+
+//POINTER #20 @ $1FE6 - STRING #20 @ $21BE
+
+#W16($1FE6)
+二号室に入る[ED]
+
+
+//POINTER #21 @ $1FE8 - STRING #21 @ $21C5
+
+#W16($1FE8)
+外に出る[ED]
+
+
+//POINTER #22 @ $1FEA - STRING #22 @ $21CA
+
+#W16($1FEA)
+うごかす[ED]
+
+
+//POINTER #23 @ $1FEC - STRING #23 @ $21D0
+
+#W16($1FEC)
+トイレに入る[ED]
+
+
+//POINTER #24 @ $1FEE - STRING #24 @ $21D7
+
+#W16($1FEE)
+2かいに上がる[ED]
+
+
+//POINTER #25 @ $1FF0 - STRING #25 @ $21E0
+
+#W16($1FF0)
+かんりにん室に入る[ED]
+
+
+//POINTER #26 @ $1FF2 - STRING #26 @ $21EA
+
+#W16($1FF2)
+うしろに行く[ED]
+
+
+//POINTER #27 @ $1FF4 - STRING #27 @ $21F1
+
+#W16($1FF4)
+へやを出る[ED]
+
+
+//POINTER #28 @ $1FF6 - STRING #28 @ $21F7
+
+#W16($1FF6)
+ものほしばに出る[ED]
+
+
+//POINTER #29 @ $1FF8 - STRING #29 @ $2201
+
+#W16($1FF8)
+すわる[ED]
+
+
+//POINTER #30 @ $1FFA - STRING #30 @ $2205
+
+#W16($1FFA)
+ななおけに行く[ED]
+
+
+//POINTER #31 @ $1FFC - STRING #31 @ $220D
+
+#W16($1FFC)
+ことわって出る[ED]
+
+
+//POINTER #32 @ $1FFE - STRING #32 @ $2215
+
+#W16($1FFE)
+おとなしけに行く[ED]
+
+
+//POINTER #33 @ $2000 - STRING #33 @ $221E
+
+#W16($2000)
+とりなす[ED]
+
+
+//POINTER #34 @ $2002 - STRING #34 @ $2223
+
+#W16($2002)
+手をにぎる[ED]
+
+
+//POINTER #35 @ $2004 - STRING #35 @ $222A
+
+#W16($2004)
+立ち上がる[ED]
+
+
+//POINTER #36 @ $2006 - STRING #36 @ $2231
+
+#W16($2006)
+キスする[ED]
+
+
+//POINTER #37 @ $2008 - STRING #37 @ $2236
+
+#W16($2008)
+だきしめる[ED]
+
+
+//POINTER #38 @ $200A - STRING #38 @ $223D
+
+#W16($200A)
+押したおす[ED]
+
+
+//POINTER #39 @ $200C - STRING #39 @ $2243
+
+#W16($200C)
+わめく[ED]
+
+
+//POINTER #40 @ $200E - STRING #40 @ $2247
+
+#W16($200E)
+お酒をのむ[ED]
+
+
+//POINTER #41 @ $2010 - STRING #41 @ $224D
+
+#W16($2010)
+ねてしまう[ED]
+
+
+//POINTER #42 @ $2012 - STRING #42 @ $2253
+
+#W16($2012)
+響子さんにせまる[ED]
+
+
+//POINTER #43 @ $2014 - STRING #43 @ $225C
+
+#W16($2014)
+へやに入る[ED]
+
+
+//POINTER #44 @ $2016 - STRING #44 @ $2262
+
+#W16($2016)
+見る[ED]
+
+
+//POINTER #45 @ $2018 - STRING #45 @ $2265
+
+#W16($2018)
+1かいにおりる[ED]
+
+
+//POINTER #46 @ $201A - STRING #46 @ $226D
+
+#W16($201A)
+かんがえる[ED]
+
+
+//POINTER #47 @ $201C - STRING #47 @ $2274
+
+#W16($201C)
+中にもどる[ED]
+
+
+//POINTER #48 @ $201E - STRING #48 @ $227B
+
+#W16($201E)
+とびおりる[ED]
+
+
+//POINTER #49 @ $2020 - STRING #49 @ $2282
+
+#W16($2020)
+四号室に入る[ED]
+
+
+//POINTER #50 @ $2022 - STRING #50 @ $2289
+
+#W16($2022)
+やねうらに上がる[ED]
+
+
+//POINTER #51 @ $2024 - STRING #51 @ $2293
+
+#W16($2024)
+五号室に入る[ED]
+
+
+//POINTER #52 @ $2026 - STRING #52 @ $229A
+
+#W16($2026)
+六号室に入る[ED]
+
+
+//POINTER #53 @ $2028 - STRING #53 @ $22A1
+
+#W16($2028)
+押入に入る[ED]
+
+
+//POINTER #54 @ $202A - STRING #54 @ $22A7
+
+#W16($202A)
+あなに入る[ED]
+
+
+//POINTER #55 @ $202C - STRING #55 @ $22AD
+
+#W16($202C)
+五号室へ出る[ED]
+
+
+//POINTER #56 @ $202E - STRING #56 @ $22B4
+
+#W16($202E)
+四号室へ出る[ED]
+
+
+//POINTER #57 @ $2030 - STRING #57 @ $22BB
+
+#W16($2030)
+もちもの[ED]
+
+
+//POINTER #58 @ $2032 - STRING #58 @ $22C0
+
+#W16($2032)
+たべる[ED]
+
+
+//POINTER #59 @ $2034 - STRING #59 @ $22C5
+
+#W16($2034)
+下におりる[ED]
+
+
+//POINTER #60 @ $2036 - STRING #60 @ $22CB
+
+#W16($2036)
+ちかづく[ED]
+
+
+//POINTER #61 @ $2038 - STRING #61 @ $22D1
+
+#W16($2038)
+2かいにもどる[ED]
+
+
+//POINTER #62 @ $203A - STRING #62 @ $22DA
+
+#W16($203A)
+もうそうにひたる[ED]
+
+
+//POINTER #63 @ $203C - STRING #63 @ $22E3
+
+#W16($203C)
+かう[ED]
+
+
+//POINTER #64 @ $203E - STRING #64 @ $22E6
+
+#W16($203E)
+花をそなえる[ED]
+
+
+//POINTER #65 @ $2040 - STRING #65 @ $22ED
+
+#W16($2040)
+こずえと・・[ED]
+
+
+//POINTER #66 @ $2042 - STRING #66 @ $22F5
+
+#W16($2042)
+はなしをする[ED]
+
+
+//POINTER #67 @ $2044 - STRING #67 @ $22FC
+
+#W16($2044)
+はじめから[ED]
+
+
+//POINTER #68 @ $2046 - STRING #68 @ $2303
+
+#W16($2046)
+つづきから[ED]
+
+
+//POINTER #69 @ $2048 - STRING #69 @ $230A
+
+#W16($2048)
+ロードする[ED]
+
+
+//POINTER #70 @ $204A - STRING #70 @ $2311
+
+#W16($204A)
+中止する[ED]
+
+
+//POINTER #71 @ $204C - STRING #71 @ $2316
+
+#W16($204C)
+用をたす[ED]
+
+
+//POINTER #72 @ $204E - STRING #72 @ $231B
+
+#W16($204E)
+トイレを出る[ED]
+
+
+//POINTER #73 @ $2050 - STRING #73 @ $2322
+
+#W16($2050)
+セーブする[ED]
+
+
+//POINTER #74 @ $2052 - STRING #74 @ $232F
+
+#W16($2052)
+さいふ[ED]
+
+
+//POINTER #75 @ $2054 - STRING #75 @ $2333
+
+#W16($2054)
+お酒[ED]
+
+
+//POINTER #76 @ $2056 - STRING #76 @ $2336
+
+#W16($2056)
+かんづめ[ED]
+
+
+//POINTER #77 @ $2058 - STRING #77 @ $233C
+
+#W16($2058)
+[ED]
+
+
+//POINTER #78 @ $205A - STRING #78 @ $233D
+
+#W16($205A)
+おべんとう[ED]
+
+
+//POINTER #79 @ $205C - STRING #79 @ $2344
+
+#W16($205C)
+やきとり[ED]
+
+
+//POINTER #80 @ $205E - STRING #80 @ $2349
+
+#W16($205E)
+おかし[ED]
+
+
+//POINTER #81 @ $2060 - STRING #81 @ $234D
+
+#W16($2060)
+パン[ED]
+
+
+//POINTER #82 @ $2062 - STRING #82 @ $2351
+
+#W16($2062)
+ケーキ[ED]
+
+
+//POINTER #83 @ $2064 - STRING #83 @ $2355
+
+#W16($2064)
+まねきねこ[ED]
+
+
+//POINTER #84 @ $2066 - STRING #84 @ $235B
+
+#W16($2066)
+シャツ[ED]
+
+
+//POINTER #85 @ $2068 - STRING #85 @ $235F
+
+#W16($2068)
+たこやき[ED]
+
+
+//POINTER #86 @ $206A - STRING #86 @ $2364
+
+#W16($206A)
+あかまむし[ED]
+
+
+//POINTER #87 @ $206C - STRING #87 @ $236A
+
+#W16($206C)
+たまご[ED]
+
+
+//POINTER #88 @ $206E - STRING #88 @ $236F
+
+#W16($206E)
+大ごや[ED]
+
+
+//POINTER #89 @ $2070 - STRING #89 @ $2374
+
+#W16($2070)
+でんとう[ED]
+
+
+//POINTER #90 @ $2072 - STRING #90 @ $237A
+
+#W16($2072)
+まど[ED]
+
+
+//POINTER #91 @ $2074 - STRING #91 @ $237E
+
+#W16($2074)
+ゆうびんうけ[ED]
+
+
+//POINTER #92 @ $2076 - STRING #92 @ $2386
+
+#W16($2076)
+はがき[ED]
+
+
+//POINTER #93 @ $2078 - STRING #93 @ $238B
+
+#W16($2078)
+ゆか[ED]
+
+
+//POINTER #94 @ $207A - STRING #94 @ $238E
+
+#W16($207A)
+かべ[ED]
+
+
+//POINTER #95 @ $207C - STRING #95 @ $2392
+
+#W16($207C)
+でんわ[ED]
+
+
+//POINTER #96 @ $207E - STRING #96 @ $2397
+
+#W16($207E)
+こくばん[ED]
+
+
+//POINTER #97 @ $2080 - STRING #97 @ $239D
+
+#W16($2080)
+マット[ED]
+
+
+//POINTER #98 @ $2082 - STRING #98 @ $23A1
+
+#W16($2082)
+とびら[ED]
+
+
+//POINTER #99 @ $2084 - STRING #99 @ $23A6
+
+#W16($2084)
+テーブル[ED]
+
+
+//POINTER #100 @ $2086 - STRING #100 @ $23AC
+
+#W16($2086)
+たたみ[ED]
+
+
+//POINTER #101 @ $2088 - STRING #101 @ $23B0
+
+#W16($2088)
+ふすま[ED]
+
+
+//POINTER #102 @ $208A - STRING #102 @ $23B4
+
+#W16($208A)
+押入のふすま[ED]
+
+
+//POINTER #103 @ $208C - STRING #103 @ $23BB
+
+#W16($208C)
+テレビ[ED]
+
+
+//POINTER #104 @ $208E - STRING #104 @ $23C0
+
+#W16($208E)
+たんす[ED]
+
+
+//POINTER #105 @ $2090 - STRING #105 @ $23C4
+
+#W16($2090)
+カーテン[ED]
+
+
+//POINTER #106 @ $2092 - STRING #106 @ $23C9
+
+#W16($2092)
+まど[ED]
+
+
+//POINTER #107 @ $2094 - STRING #107 @ $23CD
+
+#W16($2094)
+きょうだい[ED]
+
+
+//POINTER #108 @ $2096 - STRING #108 @ $23D4
+
+#W16($2096)
+タオル[ED]
+
+
+//POINTER #109 @ $2098 - STRING #109 @ $23D8
+
+#W16($2098)
+ハンカチ[ED]
+
+
+//POINTER #110 @ $209A - STRING #110 @ $23DD
+
+#W16($209A)
+くつした[ED]
+
+
+//POINTER #111 @ $209C - STRING #111 @ $23E2
+
+#W16($209C)
+ストッキング[ED]
+
+
+//POINTER #112 @ $209E - STRING #112 @ $23EA
+
+#W16($209E)
+ブラジャー[ED]
+
+
+//POINTER #113 @ $20A0 - STRING #113 @ $23F2
+
+#W16($20A0)
+パンティー[ED]
+
+
+//POINTER #114 @ $20A2 - STRING #114 @ $23F9
+
+#W16($20A2)
+とびら[ED]
+
+
+//POINTER #115 @ $20A4 - STRING #115 @ $23FE
+
+#W16($20A4)
+トイレのとびら[ED]
+
+
+//POINTER #116 @ $20A6 - STRING #116 @ $2407
+
+#W16($20A6)
+そら[ED]
+
+
+//POINTER #117 @ $20A8 - STRING #117 @ $240A
+
+#W16($20A8)
+てすり[ED]
+
+
+//POINTER #118 @ $20AA - STRING #118 @ $240E
+
+#W16($20AA)
+いた[ED]
+
+
+//POINTER #119 @ $20AC - STRING #119 @ $2411
+
+#W16($20AC)
+くぎ[ED]
+
+
+//POINTER #120 @ $20AE - STRING #120 @ $2415
+
+#W16($20AE)
+ざぶとん[ED]
+
+
+//POINTER #121 @ $20B0 - STRING #121 @ $241C
+
+#W16($20B0)
+かがみ[ED]
+
+
+//POINTER #122 @ $20B2 - STRING #122 @ $2421
+
+#W16($20B2)
+ほんだな[ED]
+
+
+//POINTER #123 @ $20B4 - STRING #123 @ $2427
+
+#W16($20B4)
+ポスター[ED]
+
+
+//POINTER #124 @ $20B6 - STRING #124 @ $242D
+
+#W16($20B6)
+じゅうたん[ED]
+
+
+//POINTER #125 @ $20B8 - STRING #125 @ $2434
+
+#W16($20B8)
+べット[ED]
+
+
+//POINTER #126 @ $20BA - STRING #126 @ $2439
+
+#W16($20BA)
+カレンダー[ED]
+
+
+//POINTER #127 @ $20BC - STRING #127 @ $2440
+
+#W16($20BC)
+クッション[ED]
+
+
+//POINTER #128 @ $20BE - STRING #128 @ $2446
+
+#W16($20BE)
+まくら[ED]
+
+
+//POINTER #129 @ $20C0 - STRING #129 @ $244A
+
+#W16($20C0)
+ふとん[ED]
+
+
+//POINTER #130 @ $20C2 - STRING #130 @ $244E
+
+#W16($20C2)
+はぐるま[ED]
+
+
+//POINTER #131 @ $20C4 - STRING #131 @ $2454
+
+#W16($20C4)
+レバー[ED]
+
+
+//POINTER #132 @ $20C6 - STRING #132 @ $2459
+
+#W16($20C6)
+かわら[ED]
+
+
+//POINTER #133 @ $20C8 - STRING #133 @ $245D
+
+#W16($20C8)
+まちなみ[ED]
+
+
+//POINTER #134 @ $20CA - STRING #134 @ $2462
+
+#W16($20CA)
+カウンター[ED]
+
+
+//POINTER #135 @ $20CC - STRING #135 @ $2468
+
+#W16($20CC)
+いす[ED]
+
+
+//POINTER #136 @ $20CE - STRING #136 @ $246B
+
+#W16($20CE)
+そくせきめん[ED]
+
+
+//POINTER #137 @ $20D0 - STRING #137 @ $2472
+
+#W16($20D0)
+花[ED]
+
+
+//POINTER #138 @ $20D2 - STRING #138 @ $2474
+
+#W16($20D2)
+レジ[ED]
+
+
+//POINTER #139 @ $20D4 - STRING #139 @ $2478
+
+#W16($20D4)
+おはか[ED]
+
+
+//POINTER #140 @ $20D6 - STRING #140 @ $247C
+
+#W16($20D6)
+木[ED]
+
+
+//POINTER #141 @ $20D8 - STRING #141 @ $247E
+
+#W16($20D8)
+つくえ[ED]
+
+
+//POINTER #142 @ $20DA - STRING #142 @ $2482
+
+#W16($20DA)
+ほん[ED]
+
+
+//POINTER #143 @ $20DC - STRING #143 @ $2485
+
+#W16($20DC)
+えき[ED]
+
+
+//POINTER #144 @ $20DE - STRING #144 @ $2488
+
+#W16($20DE)
+とけい[ED]
+
+
+//POINTER #145 @ $20E0 - STRING #145 @ $248C
+
+#W16($20E0)
+えきいん[ED]
+
+
+//POINTER #146 @ $20E2 - STRING #146 @ $2491
+
+#W16($20E2)
+おとなしけ[ED]
+
+
+//POINTER #147 @ $20E4 - STRING #147 @ $2497
+
+#W16($20E4)
+ななおけ[ED]
+
+
+//POINTER #148 @ $20E6 - STRING #148 @ $249C
+
+#W16($20E6)
+いっこくかん[ED]
+
+
+//POINTER #149 @ $20E8 - STRING #149 @ $24A3
+
+#W16($20E8)
+ちゃちゃまる[ED]
+
+
+//POINTER #150 @ $20EA - STRING #150 @ $24AA
+
+#W16($20EA)
+スーパー[ED]
+
+
+//POINTER #151 @ $20EC - STRING #151 @ $24B0
+
+#W16($20EC)
+そういちろうのはか[ED]
+
+
+//POINTER #152 @ $20EE - STRING #152 @ $24BA
+
+#W16($20EE)
+とけいざかえき[ED]
+
+
+//POINTER #153 @ $20F0 - STRING #153 @ $24C3
+
+#W16($20F0)
+けんたろう[ED]
+
+
+//POINTER #154 @ $20F2 - STRING #154 @ $24C9
+
+#W16($20F2)
+一の瀬のおばさん[ED]
+
+
+//POINTER #155 @ $20F4 - STRING #155 @ $24D3
+
+#W16($20F4)
+はしご[ED]
+
+
+//POINTER #156 @ $20F6 - STRING #156 @ $24D8
+
+#W16($20F6)
+かんりにんさん[ED]
+
+
+//POINTER #157 @ $20F8 - STRING #157 @ $24E0
+
+#W16($20F8)
+みたか[ED]
+
+
+//POINTER #158 @ $20FA - STRING #158 @ $24E4
+
+#W16($20FA)
+響子の父[ED]
+
+
+//POINTER #159 @ $20FC - STRING #159 @ $24E9
+
+#W16($20FC)
+そういちろうさん[ED]
+
+
+//POINTER #160 @ $20FE - STRING #160 @ $24F2
+
+#W16($20FE)
+響子の母[ED]
+
+
+//POINTER #161 @ $2100 - STRING #161 @ $24F7
+
+#W16($2100)
+ばあちゃん[ED]
+
+
+//POINTER #162 @ $2102 - STRING #162 @ $24FE
+
+#W16($2102)
+さかもと[ED]
+
+
+//POINTER #163 @ $2104 - STRING #163 @ $2503
+
+#W16($2104)
+かぎ[ED]
+
+
+//POINTER #164 @ $2106 - STRING #164 @ $2507
+
+#W16($2106)
+四谷さん[ED]
+
+
+//POINTER #165 @ $2108 - STRING #165 @ $250C
+
+#W16($2108)
+四谷さんのしゃしん[ED]
+
+
+//POINTER #166 @ $210A - STRING #166 @ $2516
+
+#W16($210A)
+朱美さん[ED]
+
+
+//POINTER #167 @ $210C - STRING #167 @ $251B
+
+#W16($210C)
+一の瀬のおじさん[ED]
+
+
+//POINTER #168 @ $210E - STRING #168 @ $2525
+
+#W16($210E)
+しゃしん[ED]
+
+
+//POINTER #169 @ $2110 - STRING #169 @ $252A
+
+#W16($2110)
+しゃしん立て[ED]
+
+
+//POINTER #170 @ $2112 - STRING #170 @ $2531
+
+#W16($2112)
+アルバム[ED]
+
+
+//POINTER #171 @ $2114 - STRING #171 @ $2537
+
+#W16($2114)
+ものほしば[ED]
+
+
+//POINTER #172 @ $2116 - STRING #172 @ $253E
+
+#W16($2116)
+こずえちゃん[ED]
+
+
+//POINTER #173 @ $2118 - STRING #173 @ $2546
+
+#W16($2118)
+いくこちゃん[ED]
+
+
+//POINTER #174 @ $211A - STRING #174 @ $254D
+
+#W16($211A)
+小包[ED]
+
+
+//POINTER #175 @ $211C - STRING #175 @ $2550
+
+#W16($211C)
+やねうらへのとびら[ED]
+
+
+//POINTER #176 @ $211E - STRING #176 @ $255B
+
+#W16($211E)
+とんかち[ED]
+
+
+//POINTER #177 @ $2120 - STRING #177 @ $2560
+
+#W16($2120)
+あな[ED]
+
+
+//POINTER #178 @ $2122 - STRING #178 @ $2563
+
+#W16($2122)
+まるた[ED]
+
+
+//POINTER #179 @ $2124 - STRING #179 @ $2567
+
+#W16($2124)
+くぎぬき[ED]
+
+
+//POINTER #180 @ $2126 - STRING #180 @ $256D
+
+#W16($2126)
+かいちゅうでんとう[ED]
+
+
+//POINTER #181 @ $2128 - STRING #181 @ $2578
+
+#W16($2128)
+えっちな本[ED]
+
+
+//POINTER #182 @ $212A - STRING #182 @ $257E
+
+#W16($212A)
+さかやのおじさん[ED]
+
+
+//POINTER #183 @ $212C - STRING #183 @ $2588
+
+#W16($212C)
+マスター[ED]
+
+
+//POINTER #184 @ $212E - STRING #184 @ $258D
+
+#W16($212E)
+てんいん[ED]
+
+
+//POINTER #185 @ $2130 - STRING #185 @ $2592
+
+#W16($2130)
+おじいさん[ED]
+
+
+//POINTER #186 @ $2132 - STRING #186 @ $2599
+
+#W16($2132)
+おばさん[ED]
+
+
+//POINTER #187 @ $2134 - STRING #187 @ $259F
+
+#W16($2134)
+おもいでのしゃしん[ED]
+
+
+//POINTER #188 @ $2136 - STRING #188 @ $25AA
+
+#W16($2136)
+にっき[ED]
+
+
+//POINTER #189 @ $2138 - STRING #189 @ $25AE
+
+#W16($2138)
+響子さんのしゃしん[ED]
+
+
+//POINTER #190 @ $213A - STRING #190 @ $25B8
+
+#W16($213A)
+一の瀬さんしゃしん[ED]
+
+
+//POINTER #191 @ $213C - STRING #191 @ $25C2
+
+#W16($213C)
+朱美さんのしゃしん[ED]
+
+
+//POINTER #192 @ $213E - STRING #192 @ $25CC
+
+#W16($213E)
+こずえの父[ED]
+
+
+//POINTER #193 @ $2140 - STRING #193 @ $25D3
+
+#W16($2140)
+こずえの母[ED]
+
+
+//POINTER #194 @ $2142 - STRING #194 @ $25DA
+
+#W16($2142)
+こずえのおとうと[ED]
+
+
+//POINTER #195 @ $2144 - STRING #195 @ $25E4
+
+#W16($2144)
+五代[ED]
+
+
+//POINTER #196 @ $2146 - STRING #196 @ $25E7
+
+#W16($2146)
+五代のおかあさん[ED]
+

@@ -1,0 +1,51 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Dialogue Block 01 (POINTER_RELATIVE)
+
+//POINTER #0 @ $18D8 - STRING #0 @ $18E8
+
+#W16($18D8)
+[Pos. 22C8]せんとうモート゛をえらんて゛くた゛さい[ED]
+
+
+//POINTER #1 @ $18DA - STRING #1 @ $18FE
+
+#W16($18DA)
+[Pos. 230A]1  せんとうする[ED]
+
+
+//POINTER #2 @ $18DC - STRING #2 @ $190A
+
+#W16($18DC)
+[Pos. 234A]2  し゛と゛うせんとう[ED]
+
+
+//POINTER #3 @ $18DE - STRING #3 @ $1925
+
+#W16($18DE)
+[Pos. 2326]せんとうたいけいをえらんて゛くた゛さい[ED]
+
+
+//POINTER #4 @ $18E0 - STRING #4 @ $193B
+
+#W16($18E0)
+[Pos. 208C]せんとうたいけい[ED]
+
+
+//POINTER #5 @ $18E2 - STRING #5 @ $1919
+
+#W16($18E2)
+[Pos. 22EC]し゛と゛うせんとう[ED]
+
+
+//POINTER #6 @ $18E4 - STRING #6 @ $1946
+
+#W16($18E4)
+[Pos. 2308]PUSH SELECT BUTTON[ED]
+
+
+//POINTER #7 @ $18E6 - STRING #7 @ $195B
+
+#W16($18E6)
+[Pos. 22EB]たいきゃくちゅう[ED]
+
