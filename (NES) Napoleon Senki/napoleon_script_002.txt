@@ -1,0 +1,459 @@
+//GAME NAME:		
+
+//BLOCK #002 NAME:		Dialogue Block 03 (POINTER_RELATIVE)
+
+//POINTER #0 @ $CE8F - STRING #0 @ $CF27
+
+#W16($CE8F)
+[Pos. 210D]このようなところて゛まけてしまって[ED]
+
+
+//POINTER #1 @ $CE91 - STRING #1 @ $CF3B
+
+#W16($CE91)
+[Pos. 214D]と゛うする。 よ のし゛しょには[ED]
+
+
+//POINTER #2 @ $CE93 - STRING #2 @ $CF4E
+
+#W16($CE93)
+[Pos. 218D]ふかのうという もし゛はない[ED]
+
+
+//POINTER #3 @ $CE95 - STRING #3 @ $CF5F
+
+#W16($CE95)
+[Pos. 21CD]か゛んは゛ってこのつき゛にはかならす゛[ED]
+
+
+//POINTER #4 @ $CE97 - STRING #4 @ $CF75
+
+#W16($CE97)
+[Pos. 220D]かて。[ED]
+
+
+//POINTER #5 @ $CE99 - STRING #5 @ $CF7B
+
+#W16($CE99)
+[Pos. 210D]なせ゛ まけてしまったのた゛。[ED]
+
+
+//POINTER #6 @ $CE9B - STRING #6 @ $CF8D
+
+#W16($CE9B)
+[Pos. 214D]ヨーロッハ゜せ゛んと゛をしはいするまて゛[ED]
+
+
+//POINTER #7 @ $CE9D - STRING #7 @ $CFA4
+
+#W16($CE9D)
+[Pos. 218D]まけることは ゆるされない。[ED]
+
+
+//POINTER #8 @ $CE9F - STRING #8 @ $CFB5
+
+#W16($CE9F)
+[Pos. 21CD]もっと しゅき゛ょうをつめ。[ED]
+
+
+//POINTER #9 @ $CEA1 - STRING #9 @ $CFC6
+
+#W16($CEA1)
+[Pos. 210D]うーむ,このような たたかいかた[ED]
+
+
+//POINTER #10 @ $CEA3 - STRING #10 @ $CFD9
+
+#W16($CEA3)
+[Pos. 214D]て゛は,ヨーロッハ゜をてにすることは[ED]
+
+
+//POINTER #11 @ $CEA5 - STRING #11 @ $CFEE
+
+#W16($CEA5)
+[Pos. 218D]て゛きない。あたまをつかわなくては[ED]
+
+
+//POINTER #12 @ $CEA7 - STRING #12 @ $D002
+
+#W16($CEA7)
+[Pos. 21CD]た゛めた゛。と゛うすれは゛ かてるかを[ED]
+
+
+//POINTER #13 @ $CEA9 - STRING #13 @ $D018
+
+#W16($CEA9)
+[Pos. 220D]かんか゛えろ。[ED]
+
+
+//POINTER #14 @ $CEAB - STRING #14 @ $D022
+
+#W16($CEAB)
+[Pos. 210D]まけてしまったのか,しょうか゛ない[ED]
+
+
+//POINTER #15 @ $CEAD - STRING #15 @ $D036
+
+#W16($CEAD)
+[Pos. 214D]やつた゛な。こうけ゛きするた゛けて゛は,[ED]
+
+
+//POINTER #16 @ $CEAF - STRING #16 @ $D04D
+
+#W16($CEAF)
+[Pos. 218D]た゛めた゛,もうすこし まもりに[ED]
+
+
+//POINTER #17 @ $CEB1 - STRING #17 @ $D060
+
+#W16($CEB1)
+[Pos. 21CD]ちからをいれて,さくせんをたてな[ED]
+
+
+//POINTER #18 @ $CEB3 - STRING #18 @ $D073
+
+#W16($CEB3)
+[Pos. 220D]さい。[ED]
+
+
+//POINTER #19 @ $CEB5 - STRING #19 @ $D079
+
+#W16($CEB5)
+[Pos. 210D]し゛つりょくを はっきて゛きなかった[ED]
+
+
+//POINTER #20 @ $CEB7 - STRING #20 @ $D08E
+
+#W16($CEB7)
+[Pos. 214D]な,もうすこしというところた゛った[ED]
+
+
+//POINTER #21 @ $CEB9 - STRING #21 @ $D0A2
+
+#W16($CEB9)
+[Pos. 218D]このつき゛はきっとかてるた゛ろう。[ED]
+
+
+//POINTER #22 @ $CEBB - STRING #22 @ $D0B6
+
+#W16($CEBB)
+[Pos. 21CD]か゛んは゛れ。[ED]
+
+
+//POINTER #23 @ $CEBD - STRING #23 @ $D0C0
+
+#W16($CEBD)
+[Pos. 210D]このようなところて゛ まけてと゛うす[ED]
+
+
+//POINTER #24 @ $CEBF - STRING #24 @ $D0D5
+
+#W16($CEBF)
+[Pos. 214D]る。ヨーロッハ゜はひろいそ゛[ED]
+
+
+//POINTER #25 @ $CEC1 - STRING #25 @ $D0E6
+
+#W16($CEC1)
+[Pos. 218D]また゛また゛ ほへいのつかいかたか゛[ED]
+
+
+//POINTER #26 @ $CEC3 - STRING #26 @ $D0FB
+
+#W16($CEC3)
+[Pos. 21CD]うまくない このつき゛はか゛んは゛れ。[ED]
+
+
+//POINTER #27 @ $CEC5 - STRING #27 @ $D111
+
+#W16($CEC5)
+[Pos. 210D]くるしいたたかい て゛あっても[ED]
+
+
+//POINTER #28 @ $CEC7 - STRING #28 @ $D123
+
+#W16($CEC7)
+[Pos. 214D]さいこ゛は かならす゛しょうりを[ED]
+
+
+//POINTER #29 @ $CEC9 - STRING #29 @ $D136
+
+#W16($CEC9)
+[Pos. 218D]おさめなけれは゛ ならない。[ED]
+
+
+//POINTER #30 @ $CECB - STRING #30 @ $D147
+
+#W16($CECB)
+[Pos. 21CD]さくせんを かえたほうか゛よい。[ED]
+
+
+//POINTER #31 @ $CECD - STRING #31 @ $D15A
+
+#W16($CECD)
+[Pos. 210D]また゛また゛ しゅき゛ょうか゛たりない。[ED]
+
+
+//POINTER #32 @ $CECF - STRING #32 @ $D171
+
+#W16($CECF)
+[Pos. 214D]ほへいのつかいかたもよくないそ゛[ED]
+
+
+//POINTER #33 @ $CED1 - STRING #33 @ $D184
+
+#W16($CED1)
+[Pos. 218D]よくかんか゛えてさくせんをたてろ。[ED]
+
+
+//POINTER #34 @ $CED3 - STRING #34 @ $D198
+
+#W16($CED3)
+[Pos. 21CD]けんとうをいのる。[ED]
+
+
+//POINTER #35 @ $CED5 - STRING #35 @ $D1A4
+
+#W16($CED5)
+[Pos. 210D]よくやった,ほめてやろう。[ED]
+
+
+//POINTER #36 @ $CED7 - STRING #36 @ $D1B4
+
+#W16($CED7)
+[Pos. 214D]このつき゛も しようりをおさめろ。[ED]
+
+
+//POINTER #37 @ $CED9 - STRING #37 @ $D1C8
+
+#W16($CED9)
+[Pos. 218D]ヨーロッハ゜せ゛んと゛をしはいするまて゛[ED]
+
+
+//POINTER #38 @ $CEDB - STRING #38 @ $D1DF
+
+#W16($CEDB)
+[Pos. 21CD]か゛んは゛るんた゛。[ED]
+
+
+//POINTER #39 @ $CEDD - STRING #39 @ $D1EC
+
+#W16($CEDD)
+[Pos. 210D]くるしいたたかいた゛ったか゛ よくや[ED]
+
+
+//POINTER #40 @ $CEDF - STRING #40 @ $D201
+
+#W16($CEDF)
+[Pos. 214D]ったそ゛。さくせんも た゛んた゛ん[ED]
+
+
+//POINTER #41 @ $CEE1 - STRING #41 @ $D215
+
+#W16($CEE1)
+[Pos. 218D]うまくなっているようた゛。これから[ED]
+
+
+//POINTER #42 @ $CEE3 - STRING #42 @ $D229
+
+#W16($CEE3)
+[Pos. 21CD]も,いまのさくせんて゛たたかって[ED]
+
+
+//POINTER #43 @ $CEE5 - STRING #43 @ $D23C
+
+#W16($CEE5)
+[Pos. 220D]いけ。[ED]
+
+
+//POINTER #44 @ $CEE7 - STRING #44 @ $D242
+
+#W16($CEE7)
+[Pos. 210D]すこし くせんしたようた゛な[ED]
+
+
+//POINTER #45 @ $CEE9 - STRING #45 @ $D253
+
+#W16($CEE9)
+[Pos. 214D]このつき゛も かてるとは かき゛らな[ED]
+
+
+//POINTER #46 @ $CEEB - STRING #46 @ $D268
+
+#W16($CEEB)
+[Pos. 218D]いそ゛。さくせんを たてなおして[ED]
+
+
+//POINTER #47 @ $CEED - STRING #47 @ $D27B
+
+#W16($CEED)
+[Pos. 21CD]たたかったほうか゛ いいた゛ろう。[ED]
+
+
+//POINTER #48 @ $CEEF - STRING #48 @ $D28F
+
+#W16($CEEF)
+[Pos. 210D]よくやったそ゛,フランスく゛んの[ED]
+
+
+//POINTER #49 @ $CEF1 - STRING #49 @ $D2A2
+
+#W16($CEF1)
+[Pos. 214D]ちからを,ヨーロッハ゜せ゛んと゛に[ED]
+
+
+//POINTER #50 @ $CEF3 - STRING #50 @ $D2B6
+
+#W16($CEF3)
+[Pos. 218D]しらせるのた゛。また゛また゛ くるしい[ED]
+
+
+//POINTER #51 @ $CEF5 - STRING #51 @ $D2CC
+
+#W16($CEF5)
+[Pos. 21CD]たたかいはつつ゛くそ゛ まけるな。[ED]
+
+
+//POINTER #52 @ $CEF7 - STRING #52 @ $D2E0
+
+#W16($CEF7)
+[Pos. 210D]よくやったそ゛,ほへいのつかいかた[ED]
+
+
+//POINTER #53 @ $CEF9 - STRING #53 @ $D2F4
+
+#W16($CEF9)
+[Pos. 214D]こうへいのつかいかたか゛いいそ゛。[ED]
+
+
+//POINTER #54 @ $CEFB - STRING #54 @ $D308
+
+#W16($CEFB)
+[Pos. 218D]このつき゛も かならす゛かって,[ED]
+
+
+//POINTER #55 @ $CEFD - STRING #55 @ $D31B
+
+#W16($CEFD)
+[Pos. 21CD]ヨーロッハ゜をせいふくするのた゛。[ED]
+
+
+//POINTER #56 @ $CEFF - STRING #56 @ $D32F
+
+#W16($CEFF)
+[Pos. 210D]き゛ゃくてんか゛ち。というところかな[ED]
+
+
+//POINTER #57 @ $CF01 - STRING #57 @ $D344
+
+#W16($CF01)
+[Pos. 214D]しかし,なかなかやるもんた゛。[ED]
+
+
+//POINTER #58 @ $CF03 - STRING #58 @ $D356
+
+#W16($CF03)
+[Pos. 218D]このつき゛は,こうへいをもっとうま[ED]
+
+
+//POINTER #59 @ $CF05 - STRING #59 @ $D36A
+
+#W16($CF05)
+[Pos. 21CD]くつかえは゛,もっとよくなるた゛ろう[ED]
+
+
+//POINTER #60 @ $CF07 - STRING #60 @ $D32F
+
+#W16($CF07)
+[Pos. 210D]き゛ゃくてんか゛ち。というところかな[ED]
+
+
+//POINTER #61 @ $CF09 - STRING #61 @ $D393
+
+#W16($CF09)
+[Pos. 210D]し゛ゅんとうに かちすすんて゛いるな[ED]
+
+
+//POINTER #62 @ $CF0B - STRING #62 @ $D3A8
+
+#W16($CF0B)
+[Pos. 214D]なかなかいいさくせんた゛。[ED]
+
+
+//POINTER #63 @ $CF0D - STRING #63 @ $D3B8
+
+#W16($CF0D)
+[Pos. 218D]つき゛のあいては,すこし てこ゛わそ[ED]
+
+
+//POINTER #64 @ $CF0F - STRING #64 @ $D3CD
+
+#W16($CF0F)
+[Pos. 21CD]うた゛。きもちをひきしめてかかれ。[ED]
+
+
+//POINTER #65 @ $CF11 - STRING #65 @ $D3E1
+
+#W16($CF11)
+[Pos. 210D]やったせ゛。きひ゛しいたたかいた゛っ[ED]
+
+
+//POINTER #66 @ $CF13 - STRING #66 @ $D3F6
+
+#W16($CF13)
+[Pos. 214D]たか゛ かちすすんた゛ようた゛な。[ED]
+
+
+//POINTER #67 @ $CF15 - STRING #67 @ $D40A
+
+#W16($CF15)
+[Pos. 218D]もうすこして゛ヨーロッハ゜せいはた゛[ED]
+
+
+//POINTER #68 @ $CF17 - STRING #68 @ $D41F
+
+#W16($CF17)
+[Pos. 21CD]このままかちすすめ。[ED]
+
+
+//POINTER #69 @ $CF19 - STRING #69 @ $D42C
+
+#W16($CF19)
+[Pos. 20CD]とうとうヨーロッハ゜をとういつ[ED]
+
+
+//POINTER #70 @ $CF1B - STRING #70 @ $D43E
+
+#W16($CF1B)
+[Pos. 210D]したな。 よくやったそ゛。[ED]
+
+
+//POINTER #71 @ $CF1D - STRING #71 @ $D44E
+
+#W16($CF1D)
+[Pos. 214D]これて゛ヨーロッハ゜は,へいわになる[ED]
+
+
+//POINTER #72 @ $CF1F - STRING #72 @ $D463
+
+#W16($CF1F)
+[Pos. 218D]て゛あろう。[ED]
+
+
+//POINTER #73 @ $CF21 - STRING #73 @ $D46C
+
+#W16($CF21)
+[Pos. 21CD]これからも モート゛をかえて[ED]
+
+
+//POINTER #74 @ $CF23 - STRING #74 @ $D47D
+
+#W16($CF23)
+[Pos. 220D]ちょうせんしてくれ。[ED]
+
+
+//POINTER #75 @ $CF25 - STRING #75 @ $D48A
+
+#W16($CF25)
+[Pos. 21C4]あなたの たっせいりつは      ハ゜ーセントて゛す[ED]
+

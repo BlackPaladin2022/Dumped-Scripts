@@ -1,0 +1,651 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		Dialogue Block 02 (POINTER_RELATIVE)
+
+//POINTER #0 @ $C62D - STRING #0 @ $C705
+
+#W16($C62D)
+[Pos. 232C]イタリアえんせい[ED]
+
+
+//POINTER #1 @ $C62F - STRING #1 @ $C710
+
+#W16($C62F)
+[Pos. 232C]エシ゛フ゜トえんせい[ED]
+
+
+//POINTER #2 @ $C631 - STRING #2 @ $C71D
+
+#W16($C631)
+[Pos. 232A]アウステルリッツのたたかい[ED]
+
+
+//POINTER #3 @ $C633 - STRING #3 @ $C72D
+
+#W16($C633)
+[Pos. 232C]スヘ゜インえんせい[ED]
+
+
+//POINTER #4 @ $C635 - STRING #4 @ $C739
+
+#W16($C635)
+[Pos. 232B]オーストリアせんそう[ED]
+
+
+//POINTER #5 @ $C637 - STRING #5 @ $C746
+
+#W16($C637)
+[Pos. 232C]ロシアえんせい[ED]
+
+
+//POINTER #6 @ $C639 - STRING #6 @ $C750
+
+#W16($C639)
+[Pos. 232B]ライフ゜チヒのたたかい[ED]
+
+
+//POINTER #7 @ $C63B - STRING #7 @ $C75E
+
+#W16($C63B)
+[Pos. 232B]ワーテルローのたたかい[ED]
+
+
+//POINTER #8 @ $C63D - STRING #8 @ $C76C
+
+#W16($C63D)
+[Pos. 22CC]シ ナ リ オ[ED]
+
+
+//POINTER #9 @ $C63F - STRING #9 @ $C776
+
+#W16($C63F)
+[Pos. 2090]たたかいに かちました[ED]
+
+
+//POINTER #10 @ $C641 - STRING #10 @ $C784
+
+#W16($C641)
+[Pos. 2090]たたかいに まけました[ED]
+
+
+//POINTER #11 @ $C643 - STRING #11 @ $C792
+
+#W16($C643)
+[Pos. 228E]はんらん[ED]
+
+
+//POINTER #12 @ $C645 - STRING #12 @ $C799
+
+#W16($C645)
+[Pos. 22ED]SELECT[ED]
+
+
+//POINTER #13 @ $C647 - STRING #13 @ $C7A2
+
+#W16($C647)
+[Pos. 20D2][ED]
+
+
+//POINTER #14 @ $C649 - STRING #14 @ $C7A5
+
+#W16($C649)
+[Pos. 2348]PUSH START BUTTON[ED]
+
+
+//POINTER #15 @ $C64B - STRING #15 @ $C7B9
+
+#W16($C64B)
+[Pos. 208C]イタリアえんせい[ED]
+
+
+//POINTER #16 @ $C64D - STRING #16 @ $C7C4
+
+#W16($C64D)
+[Pos. 20C4]1796ねん,ナホ゜レオンはイタリアをせんりょうし[ED]
+
+
+//POINTER #17 @ $C64F - STRING #17 @ $C7E0
+
+#W16($C64F)
+[Pos. 2104]ているオーストリアく゛んのこうけ゛きをめいし゛られた。[ED]
+
+
+//POINTER #18 @ $C651 - STRING #18 @ $C7FE
+
+#W16($C651)
+[Pos. 2144]ほ゛ろほ゛ろのく゛んふ゜くをまとったフランスく゛んへいしに[ED]
+
+
+//POINTER #19 @ $C653 - STRING #19 @ $C81E
+
+#W16($C653)
+[Pos. 2184]イタリアにゆけは゛,しょくんにめいよとさ゛いさんをあ[ED]
+
+
+//POINTER #20 @ $C655 - STRING #20 @ $C83B
+
+#W16($C655)
+[Pos. 21C4]たえるとやくそくした。[ED]
+
+
+//POINTER #21 @ $C657 - STRING #21 @ $C849
+
+#W16($C657)
+[Pos. 208C]エシ゛フ゜トえんせい[ED]
+
+
+//POINTER #22 @ $C659 - STRING #22 @ $C856
+
+#W16($C659)
+[Pos. 20C4]イタリアをせんりょうしたナホ゜レオンは,せいし゛,[ED]
+
+
+//POINTER #23 @ $C65B - STRING #23 @ $C872
+
+#W16($C65B)
+[Pos. 2104]か゛いこうのすへ゛てのけんりょくをにき゛った。[ED]
+
+
+//POINTER #24 @ $C65D - STRING #24 @ $C88C
+
+#W16($C65D)
+[Pos. 2144]1798ねん,ひか゛しちちゅうかい,およひ゛ にし[ED]
+
+
+//POINTER #25 @ $C65F - STRING #25 @ $C8A8
+
+#W16($C65F)
+[Pos. 2184]イント゛しょとうをしはいしているイキ゛リスをおひ゛やか[ED]
+
+
+//POINTER #26 @ $C661 - STRING #26 @ $C8C6
+
+#W16($C661)
+[Pos. 21C4]すために,ナホ゜レオンはエシ゛フ゜トへへいをすすめた。[ED]
+
+
+//POINTER #27 @ $C663 - STRING #27 @ $C8E4
+
+#W16($C663)
+[Pos. 2089]アウステルリッツのたたかい[ED]
+
+
+//POINTER #28 @ $C665 - STRING #28 @ $C8F4
+
+#W16($C665)
+[Pos. 20C4]1805ねん,トラフアルカ゛ーおきのかいせんて゛やふ゛[ED]
+
+
+//POINTER #29 @ $C667 - STRING #29 @ $C912
+
+#W16($C667)
+[Pos. 2104]れてしまったナホ゜レオンは,めいよかいふくのきかい[ED]
+
+
+//POINTER #30 @ $C669 - STRING #30 @ $C92E
+
+#W16($C669)
+[Pos. 2144]をねらっていた。りくせんにし゛しんをもつナホ゜レオン[ED]
+
+
+//POINTER #31 @ $C66B - STRING #31 @ $C94B
+
+#W16($C66B)
+[Pos. 2184]は,フランスのと゛うめいこくハ゛イエルンにしんにゅう[ED]
+
+
+//POINTER #32 @ $C66D - STRING #32 @ $C968
+
+#W16($C66D)
+[Pos. 21C4]したオーストリアにたいしたたかいをいと゛んた゛。[ED]
+
+
+//POINTER #33 @ $C66F - STRING #33 @ $C983
+
+#W16($C66F)
+[Pos. 208C]スヘ゜インえんせい[ED]
+
+
+//POINTER #34 @ $C671 - STRING #34 @ $C98F
+
+#W16($C671)
+[Pos. 20C4]1806ねん,ナホ゜レオンはイキ゛リスをヨーロッハ゜か[ED]
+
+
+//POINTER #35 @ $C673 - STRING #35 @ $C9AD
+
+#W16($C673)
+[Pos. 2104]らこりつさせるため,たいりくふうされいをた゛した。[ED]
+
+
+//POINTER #36 @ $C675 - STRING #36 @ $C9C9
+
+#W16($C675)
+[Pos. 2144]1807ねん,これをまもろうとしないスヘ゜インにた[ED]
+
+
+//POINTER #37 @ $C677 - STRING #37 @ $C9E5
+
+#W16($C677)
+[Pos. 2184]いし,たたかいをいと゛む,イキ゛リスをこりつさせろ。[ED]
+
+
+//POINTER #38 @ $C679 - STRING #38 @ $CA02
+
+#W16($C679)
+<$20>しオーストリアせんそう[ED]
+
+
+//POINTER #39 @ $C67B - STRING #39 @ $CA0F
+
+#W16($C67B)
+[Pos. 20C4]ナホ゜レオンか゛ヨーロッハ゜たいりくをせいあつするため[ED]
+
+
+//POINTER #40 @ $C67D - STRING #40 @ $CA2D
+
+#W16($C67D)
+[Pos. 2104]には,となりのたいこくオーストリアをたたいておか[ED]
+
+
+//POINTER #41 @ $C67F - STRING #41 @ $CA48
+
+#W16($C67F)
+[Pos. 2144]なくてはならない。ナホ゜レオンは,1809ねん,[ED]
+
+
+//POINTER #42 @ $C681 - STRING #42 @ $CA63
+
+#W16($C681)
+[Pos. 2184]オーストリアにたたかいをいと゛んた゛。[ED]
+
+
+//POINTER #43 @ $C683 - STRING #43 @ $CA79
+
+#W16($C683)
+[Pos. 21C4]オーストリアをせいあつしロシアへのみちをひらけ。[ED]
+
+
+//POINTER #44 @ $C685 - STRING #44 @ $CA94
+
+#W16($C685)
+[Pos. 208C]ロシアえんせい[ED]
+
+
+//POINTER #45 @ $C687 - STRING #45 @ $CA9E
+
+#W16($C687)
+[Pos. 20C4]ナホ゜レオンは,フ゜ロイセン,オーストリアとと゛うめい[ED]
+
+
+//POINTER #46 @ $C689 - STRING #46 @ $CABC
+
+#W16($C689)
+[Pos. 2104]をむすひ゛,ナホ゜レオンにていこうするのは,ロシアと[ED]
+
+
+//POINTER #47 @ $C68B - STRING #47 @ $CAD9
+
+#W16($C68B)
+[Pos. 2144]イキ゛リスた゛けになった。1812ねん,ナホ゜レオンは[ED]
+
+
+//POINTER #48 @ $C68D - STRING #48 @ $CAF7
+
+#W16($C68D)
+[Pos. 2184]たいりくふうされいをまもらないことをりゆうに,[ED]
+
+
+//POINTER #49 @ $C68F - STRING #49 @ $CB11
+
+#W16($C68F)
+[Pos. 21C4]ロシアにせめいることをきめた。[ED]
+
+
+//POINTER #50 @ $C691 - STRING #50 @ $CB23
+
+#W16($C691)
+[Pos. 208A]ライフ゜チヒのたたかい[ED]
+
+
+//POINTER #51 @ $C693 - STRING #51 @ $CB31
+
+#W16($C693)
+[Pos. 20C4]ナホ゜レオンか゛,ロシアからかえると,そこにまちうけ[ED]
+
+
+//POINTER #52 @ $C695 - STRING #52 @ $CB4E
+
+#W16($C695)
+[Pos. 2104]ていたのは,フ゜ロイセンとオーストリアのと゛うめいく゛[ED]
+
+
+//POINTER #53 @ $C697 - STRING #53 @ $CB6C
+
+#W16($C697)
+[Pos. 2144]んて゛あった。1813ねんナホ゜レオンは,ここにさい[ED]
+
+
+//POINTER #54 @ $C699 - STRING #54 @ $CB89
+
+#W16($C699)
+[Pos. 2184]こ゛のたたかいをいと゛むことになる。[ED]
+
+
+//POINTER #55 @ $C69B - STRING #55 @ $CB9E
+
+#W16($C69B)
+[Pos. 208A]ワーテルローのたたかい[ED]
+
+
+//POINTER #56 @ $C69D - STRING #56 @ $CBAC
+
+#W16($C69D)
+[Pos. 20C4]たたかいにやふ゛れたナホ゜レオンはエルハ゛とうになか゛さ[ED]
+
+
+//POINTER #57 @ $C69F - STRING #57 @ $CBCB
+
+#W16($C69F)
+[Pos. 2104]れた。しかし,このえへいのきゅうしゅつによりハ゜リ[ED]
+
+
+//POINTER #58 @ $C6A1 - STRING #58 @ $CBE7
+
+#W16($C6A1)
+[Pos. 2144]へもと゛り,もういちと゛へいをあけ゛ることをきめた。[ED]
+
+
+//POINTER #59 @ $C6A3 - STRING #59 @ $CC04
+
+#W16($C6A3)
+[Pos. 2184]もし,このいくさにかつことか゛て゛きたなら,ナホ゜レオ[ED]
+
+
+//POINTER #60 @ $C6A5 - STRING #60 @ $CC22
+
+#W16($C6A5)
+[Pos. 21C4]ンは,そのちからをかいふくするた゛ろう。[ED]
+
+
+//POINTER #61 @ $C6A7 - STRING #61 @ $CC39
+
+#W16($C6A7)
+[Pos. 2224]け゛んさ゛いの たっせいりつ     ハ゜ーセント[ED]
+
+
+//POINTER #62 @ $C6A9 - STRING #62 @ $CC55
+
+#W16($C6A9)
+[Pos. 2264]てんこう[ED]
+
+
+//POINTER #63 @ $C6AB - STRING #63 @ $CC5C
+
+#W16($C6AB)
+[Pos. 22A4]みかたふ゛たい        てきふ゛たい[ED]
+
+
+//POINTER #64 @ $C6AD - STRING #64 @ $CC74
+
+#W16($C6AD)
+[Pos. 22E4]ほきゅうふ゛たい       まちのかす゛[ED]
+
+
+//POINTER #65 @ $C6AF - STRING #65 @ $C7A5
+
+#W16($C6AF)
+[Pos. 2348]PUSH START BUTTON[ED]
+
+
+//POINTER #66 @ $C6B1 - STRING #66 @ $CC8C
+
+#W16($C6B1)
+[Pos. 226C]よい[ED]
+
+
+//POINTER #67 @ $C6B3 - STRING #67 @ $CC91
+
+#W16($C6B3)
+[Pos. 226C]よい[ED]
+
+
+//POINTER #68 @ $C6B5 - STRING #68 @ $CC96
+
+#W16($C6B5)
+[Pos. 226C]わるい[ED]
+
+
+//POINTER #69 @ $C6B7 - STRING #69 @ $CC9C
+
+#W16($C6B7)
+[Pos. 22E6]てきか゛ほきゅうふ゛たいとこ゛うりゅうしました。[ED]
+
+
+//POINTER #70 @ $C6B9 - STRING #70 @ $CCB7
+
+#W16($C6B9)
+[Pos. 22E8]ほきゅうふ゛たいとこ゛うりゅうしました。[ED]
+
+
+//POINTER #71 @ $C6BB - STRING #71 @ $CCCE
+
+#W16($C6BB)
+[Pos. 22EB]てきか゛かちました。[ED]
+
+
+//POINTER #72 @ $C6BD - STRING #72 @ $CCDB
+
+#W16($C6BD)
+[Pos. 22EB]みかたか゛かちました。[ED]
+
+
+//POINTER #73 @ $C6BF - STRING #73 @ $CCE9
+
+#W16($C6BF)
+[Pos. 20B4]てきのふ゛たい[ED]
+
+
+//POINTER #74 @ $C6C1 - STRING #74 @ $CCF3
+
+#W16($C6C1)
+[Pos. 20A5]みかたのふ゛たい[ED]
+
+
+//POINTER #75 @ $C6C3 - STRING #75 @ $CCFE
+
+#W16($C6C3)
+[Pos. 20A5]ほきゅうふ゛たい[ED]
+
+
+//POINTER #76 @ $C6C5 - STRING #76 @ $CD09
+
+#W16($C6C5)
+[Pos. 20A5]てきのふ゛たい[ED]
+
+
+//POINTER #77 @ $C6C7 - STRING #77 @ $CD13
+
+#W16($C6C7)
+[Pos. 20B4]ほきゅうふ゛たい[ED]
+
+
+//POINTER #78 @ $C6C9 - STRING #78 @ $CD1E
+
+#W16($C6C9)
+[Pos. 20E4]ほへい[ED]
+
+
+//POINTER #79 @ $C6CB - STRING #79 @ $CD24
+
+#W16($C6CB)
+[Pos. 2124]てっほ゜うへい[ED]
+
+
+//POINTER #80 @ $C6CD - STRING #80 @ $CD2E
+
+#W16($C6CD)
+[Pos. 2164]ほうへい[ED]
+
+
+//POINTER #81 @ $C6CF - STRING #81 @ $CD35
+
+#W16($C6CF)
+[Pos. 21A4]こうへい[ED]
+
+
+//POINTER #82 @ $C6D1 - STRING #82 @ $CD3C
+
+#W16($C6D1)
+[Pos. 21E4]きへい[ED]
+
+
+//POINTER #83 @ $C6D3 - STRING #83 @ $CD42
+
+#W16($C6D3)
+[Pos. 2224]かしかん[ED]
+
+
+//POINTER #84 @ $C6D5 - STRING #84 @ $CD49
+
+#W16($C6D5)
+[Pos. 2264]しかん[ED]
+
+
+//POINTER #85 @ $C6D7 - STRING #85 @ $CD4F
+
+#W16($C6D7)
+[Pos. 22A4]ほへい[ED]
+
+
+//POINTER #86 @ $C6D9 - STRING #86 @ $CD55
+
+#W16($C6D9)
+[Pos. 20F2]ほへい[ED]
+
+
+//POINTER #87 @ $C6DB - STRING #87 @ $CD5B
+
+#W16($C6DB)
+[Pos. 2132]てっほ゜うへい[ED]
+
+
+//POINTER #88 @ $C6DD - STRING #88 @ $CD65
+
+#W16($C6DD)
+[Pos. 2172]ほうへい[ED]
+
+
+//POINTER #89 @ $C6DF - STRING #89 @ $CD6C
+
+#W16($C6DF)
+[Pos. 21B2]こうへい[ED]
+
+
+//POINTER #90 @ $C6E1 - STRING #90 @ $CD73
+
+#W16($C6E1)
+[Pos. 21F2]きへい[ED]
+
+
+//POINTER #91 @ $C6E3 - STRING #91 @ $CD79
+
+#W16($C6E3)
+[Pos. 2232]かしかん[ED]
+
+
+//POINTER #92 @ $C6E5 - STRING #92 @ $CD80
+
+#W16($C6E5)
+[Pos. 2272]しかん[ED]
+
+
+//POINTER #93 @ $C6E7 - STRING #93 @ $CD86
+
+#W16($C6E7)
+[Pos. 22B2]ほへい[ED]
+
+
+//POINTER #94 @ $C6E9 - STRING #94 @ $CD8C
+
+#W16($C6E9)
+[Pos. 206C]せんとうけっか[ED]
+
+
+//POINTER #95 @ $C6EB - STRING #95 @ $CD96
+
+#W16($C6EB)
+[Pos. 22E8]たいきゃくにしっは゜いしました。[ED]
+
+
+//POINTER #96 @ $C6ED - STRING #96 @ $CDA9
+
+#W16($C6ED)
+[Pos. 22E9]たいきゃくちゅうにかちました。[ED]
+
+
+//POINTER #97 @ $C6EF - STRING #97 @ $CDBB
+
+#W16($C6EF)
+[Pos. 22EB]たいきゃくしました。[ED]
+
+
+//POINTER #98 @ $C6F1 - STRING #98 @ $CDC8
+
+#W16($C6F1)
+[Pos. 22A5]ナホ゜レオンは,たたかいにまけ エルハ゛とうになか゛[ED]
+
+
+//POINTER #99 @ $C6F3 - STRING #99 @ $CDE5
+
+#W16($C6F3)
+[Pos. 22E5]された。しかし,よくとしにはた゛っしゅつをはかり[ED]
+
+
+//POINTER #100 @ $C6F5 - STRING #100 @ $CE00
+
+#W16($C6F5)
+[Pos. 2325]ハ゜リへむかった。[ED]
+
+
+//POINTER #101 @ $C6F7 - STRING #101 @ $CE0C
+
+#W16($C6F7)
+[Pos. 22A5]ナホ゜レオンは,たたかいにまけ セントヘレナとう[ED]
+
+
+//POINTER #102 @ $C6F9 - STRING #102 @ $CE27
+
+#W16($C6F9)
+[Pos. 22E5]へなか゛された。いこ゛ふたたひ゛ せんちにもと゛るこ[ED]
+
+
+//POINTER #103 @ $C6FB - STRING #103 @ $CE44
+
+#W16($C6FB)
+[Pos. 2325]とはなかった。[ED]
+
+
+//POINTER #104 @ $C6FD - STRING #104 @ $CE4E
+
+#W16($C6FD)
+[Pos. 2126]みかたか゛ てきの ほんきょちに のりこみ[ED]
+
+
+//POINTER #105 @ $C6FF - STRING #105 @ $CE66
+
+#W16($C6FF)
+[Pos. 2166]ました。[ED]
+
+
+//POINTER #106 @ $C701 - STRING #106 @ $CE6D
+
+#W16($C701)
+[Pos. 2126]てきか゛ みかたの ほんきょちに のりこん[ED]
+
+
+//POINTER #107 @ $C703 - STRING #107 @ $CE85
+
+#W16($C703)
+[Pos. 2166]て゛きました。[ED]
+

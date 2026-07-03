@@ -1,0 +1,771 @@
+//GAME NAME:		
+
+//BLOCK #004 NAME:		Dialogue Block 05 (POINTER_RELATIVE)
+
+//POINTER #0 @ $D5BC - STRING #0 @ $D6BC
+
+#W16($D5BC)
+[Pos. 2130]このふ゛たいの,こうへいは[ED]
+
+
+//POINTER #1 @ $D5BE - STRING #1 @ $D6CC
+
+#W16($D5BE)
+[Pos. 2170]とてもゆうしゅうて゛す。[ED]
+
+
+//POINTER #2 @ $D5C0 - STRING #2 @ $D6DB
+
+#W16($D5C0)
+[Pos. 21B0]こうへいを いかした[ED]
+
+
+//POINTER #3 @ $D5C2 - STRING #3 @ $D6E8
+
+#W16($D5C2)
+[Pos. 21F0]たたかいかたを せよ。[ED]
+
+
+//POINTER #4 @ $D5C4 - STRING #4 @ $D6F6
+
+#W16($D5C4)
+[Pos. 2130]きへいを せ゛んめんに[ED]
+
+
+//POINTER #5 @ $D5C6 - STRING #5 @ $D704
+
+#W16($D5C6)
+[Pos. 2170]たてて,きと゛うりょくを[ED]
+
+
+//POINTER #6 @ $D5C8 - STRING #6 @ $D713
+
+#W16($D5C8)
+[Pos. 21B0]いかした たたかいかたの[ED]
+
+
+//POINTER #7 @ $D5CA - STRING #7 @ $D722
+
+#W16($D5CA)
+[Pos. 21F0]て゛きる ふ゛たいて゛す[ED]
+
+
+//POINTER #8 @ $D5CC - STRING #8 @ $D731
+
+#W16($D5CC)
+[Pos. 2130]こうけ゛きりょくのある[ED]
+
+
+//POINTER #9 @ $D5CE - STRING #9 @ $D73F
+
+#W16($D5CE)
+[Pos. 2170]ふ゛たいて゛す。ほうへいや,[ED]
+
+
+//POINTER #10 @ $D5D0 - STRING #10 @ $D750
+
+#W16($D5D0)
+[Pos. 21B0]てっほ゜うへいを,うまく[ED]
+
+
+//POINTER #11 @ $D5D2 - STRING #11 @ $D75F
+
+#W16($D5D2)
+[Pos. 21F0]しき してくた゛さい。[ED]
+
+
+//POINTER #12 @ $D5D4 - STRING #12 @ $D76D
+
+#W16($D5D4)
+[Pos. 2130]みかたの く゛んの しゅり[ED]
+
+
+//POINTER #13 @ $D5D6 - STRING #13 @ $D77D
+
+#W16($D5D6)
+[Pos. 2170]ょく ふ゛たいて゛す。[ED]
+
+
+//POINTER #14 @ $D5D8 - STRING #14 @ $D78B
+
+#W16($D5D8)
+[Pos. 21B0]きょうりょくな,こうけ゛き[ED]
+
+
+//POINTER #15 @ $D5DA - STRING #15 @ $D79B
+
+#W16($D5DA)
+[Pos. 21F0]りょくと ほ゛うき゛ょりょく[ED]
+
+
+//POINTER #16 @ $D5DC - STRING #16 @ $D7AC
+
+#W16($D5DC)
+[Pos. 2230]を もちます。[ED]
+
+
+//POINTER #17 @ $D5DE - STRING #17 @ $D7B6
+
+#W16($D5DE)
+[Pos. 2130]てっほ゜うへいか゛,こうけ゛き[ED]
+
+
+//POINTER #18 @ $D5E0 - STRING #18 @ $D7C8
+
+#W16($D5E0)
+[Pos. 2170]のちゅうしんに なってい[ED]
+
+
+//POINTER #19 @ $D5E2 - STRING #19 @ $D7D7
+
+#W16($D5E2)
+[Pos. 21B0]るふ゛たいて゛す。かんか゛えて[ED]
+
+
+//POINTER #20 @ $D5E4 - STRING #20 @ $D7E9
+
+#W16($D5E4)
+[Pos. 21F0]しきを してくた゛さい。[ED]
+
+
+//POINTER #21 @ $D5E6 - STRING #21 @ $D7F8
+
+#W16($D5E6)
+[Pos. 2130]みかたのなかて゛,にんす゛う[ED]
+
+
+//POINTER #22 @ $D5E8 - STRING #22 @ $D809
+
+#W16($D5E8)
+[Pos. 2170]のすくない ふ゛たいて゛す。[ED]
+
+
+//POINTER #23 @ $D5EA - STRING #23 @ $D81A
+
+#W16($D5EA)
+[Pos. 21B0]たたかいかたを,かんか゛え[ED]
+
+
+//POINTER #24 @ $D5EC - STRING #24 @ $D82A
+
+#W16($D5EC)
+[Pos. 21F0]てくた゛さい。[ED]
+
+
+//POINTER #25 @ $D5EE - STRING #25 @ $D834
+
+#W16($D5EE)
+[Pos. 2130]しかんのにんす゛うのおおい[ED]
+
+
+//POINTER #26 @ $D5F0 - STRING #26 @ $D844
+
+#W16($D5F0)
+[Pos. 2170]ふ゛たいて゛す。はくへいせん[ED]
+
+
+//POINTER #27 @ $D5F2 - STRING #27 @ $D855
+
+#W16($D5F2)
+[Pos. 21B0]につよい へいしか゛そろっ[ED]
+
+
+//POINTER #28 @ $D5F4 - STRING #28 @ $D865
+
+#W16($D5F4)
+[Pos. 21F0]ています。[ED]
+
+
+//POINTER #29 @ $D5F6 - STRING #29 @ $D86D
+
+#W16($D5F6)
+[Pos. 2130]みかたのふ゛たいて゛は,ほへ[ED]
+
+
+//POINTER #30 @ $D5F8 - STRING #30 @ $D87E
+
+#W16($D5F8)
+[Pos. 2170]いのにんす゛うのおおい[ED]
+
+
+//POINTER #31 @ $D5FA - STRING #31 @ $D88C
+
+#W16($D5FA)
+[Pos. 21B0]ふ゛たいて゛す。てきへいを[ED]
+
+
+//POINTER #32 @ $D5FC - STRING #32 @ $D89C
+
+#W16($D5FC)
+[Pos. 21F0]とりかこむ さくせんを[ED]
+
+
+//POINTER #33 @ $D5FE - STRING #33 @ $D8AA
+
+#W16($D5FE)
+[Pos. 2230]たててくた゛さい。[ED]
+
+
+//POINTER #34 @ $D600 - STRING #34 @ $D8B6
+
+#W16($D600)
+[Pos. 2130]ゆうしゅうな しきかんを[ED]
+
+
+//POINTER #35 @ $D602 - STRING #35 @ $D8C5
+
+#W16($D602)
+[Pos. 2170]もったふ゛たいて゛す。ふ゛たい[ED]
+
+
+//POINTER #36 @ $D604 - STRING #36 @ $D8D7
+
+#W16($D604)
+[Pos. 21B0]のにんす゛うは おおくあり[ED]
+
+
+//POINTER #37 @ $D606 - STRING #37 @ $D8E7
+
+#W16($D606)
+[Pos. 21F0]ませんか゛ゆうかんなへい[ED]
+
+
+//POINTER #38 @ $D608 - STRING #38 @ $D8F6
+
+#W16($D608)
+[Pos. 2230]か゛ そろっています。[ED]
+
+
+//POINTER #39 @ $D60A - STRING #39 @ $D904
+
+#W16($D60A)
+[Pos. 2130]きと゛うりょくのある ふ゛た[ED]
+
+
+//POINTER #40 @ $D60C - STRING #40 @ $D915
+
+#W16($D60C)
+[Pos. 2170]いて゛す。きへいや こうへ[ED]
+
+
+//POINTER #41 @ $D60E - STRING #41 @ $D925
+
+#W16($D60E)
+[Pos. 21B0]い なと゛のきと゛うりょくの[ED]
+
+
+//POINTER #42 @ $D610 - STRING #42 @ $D936
+
+#W16($D610)
+[Pos. 21F0]あるへいしを うまく[ED]
+
+
+//POINTER #43 @ $D612 - STRING #43 @ $D943
+
+#W16($D612)
+[Pos. 2230]いかしてくた゛さい。[ED]
+
+
+//POINTER #44 @ $D614 - STRING #44 @ $D950
+
+#W16($D614)
+[Pos. 2130]きへいのにんす゛うか゛ おお[ED]
+
+
+//POINTER #45 @ $D616 - STRING #45 @ $D961
+
+#W16($D616)
+[Pos. 2170]い ふ゛たいて゛す。このふ゛た[ED]
+
+
+//POINTER #46 @ $D618 - STRING #46 @ $D973
+
+#W16($D618)
+[Pos. 21B0]いをてにいれれは゛,きと゛う[ED]
+
+
+//POINTER #47 @ $D61A - STRING #47 @ $D984
+
+#W16($D61A)
+[Pos. 21F0]りょくを えられます。[ED]
+
+
+//POINTER #48 @ $D61C - STRING #48 @ $D992
+
+#W16($D61C)
+[Pos. 2130]ほうへいのにんす゛うか゛ お[ED]
+
+
+//POINTER #49 @ $D61E - STRING #49 @ $D9A3
+
+#W16($D61E)
+[Pos. 2170]おい ふ゛たいて゛す。 この[ED]
+
+
+//POINTER #50 @ $D620 - STRING #50 @ $D9B4
+
+#W16($D620)
+[Pos. 21B0]ふ゛たいをてにいれれは゛,こ[ED]
+
+
+//POINTER #51 @ $D622 - STRING #51 @ $D9C5
+
+#W16($D622)
+[Pos. 21F0]うけ゛きりょくを えること[ED]
+
+
+//POINTER #52 @ $D624 - STRING #52 @ $D9D5
+
+#W16($D624)
+[Pos. 2230]か゛て゛きます。[ED]
+
+
+//POINTER #53 @ $D626 - STRING #53 @ $D9E0
+
+#W16($D626)
+[Pos. 2130]てっほ゜うへいのにんす゛うか゛[ED]
+
+
+//POINTER #54 @ $D628 - STRING #54 @ $D9F2
+
+#W16($D628)
+[Pos. 2170]おおいふ゛たいて゛す。このふ゛[ED]
+
+
+//POINTER #55 @ $D62A - STRING #55 @ $DA04
+
+#W16($D62A)
+[Pos. 21B0]たいを てにいれれは゛,こ[ED]
+
+
+//POINTER #56 @ $D62C - STRING #56 @ $DA14
+
+#W16($D62C)
+[Pos. 21F0]うけ゛きりょくを えること[ED]
+
+
+//POINTER #57 @ $D62E - STRING #57 @ $DA24
+
+#W16($D62E)
+[Pos. 2230]か゛て゛きます。[ED]
+
+
+//POINTER #58 @ $D630 - STRING #58 @ $DA2F
+
+#W16($D630)
+[Pos. 2130]にんす゛うのおおいふ゛たい[ED]
+
+
+//POINTER #59 @ $D632 - STRING #59 @ $DA3F
+
+#W16($D632)
+[Pos. 2170]て゛はありませんか゛ はくへ[ED]
+
+
+//POINTER #60 @ $D634 - STRING #60 @ $DA50
+
+#W16($D634)
+[Pos. 21B0]いせんて゛ ちからをはっき[ED]
+
+
+//POINTER #61 @ $D636 - STRING #61 @ $DA60
+
+#W16($D636)
+[Pos. 21F0]するへいか゛います。[ED]
+
+
+//POINTER #62 @ $D638 - STRING #62 @ $DA6D
+
+#W16($D638)
+[Pos. 2130]ほへいのにんす゛うか゛ おお[ED]
+
+
+//POINTER #63 @ $D63A - STRING #63 @ $DA7E
+
+#W16($D63A)
+[Pos. 2170]く,と゛のような さくせん[ED]
+
+
+//POINTER #64 @ $D63C - STRING #64 @ $DA8E
+
+#W16($D63C)
+[Pos. 21B0]て゛も ちからをはっきする[ED]
+
+
+//POINTER #65 @ $D63E - STRING #65 @ $DA9E
+
+#W16($D63E)
+[Pos. 21F0]ふ゛たいて゛す。[ED]
+
+
+//POINTER #66 @ $D640 - STRING #66 @ $DAA9
+
+#W16($D640)
+[Pos. 2130]ハ゛ランスのよい ふ゛たいて゛[ED]
+
+
+//POINTER #67 @ $D642 - STRING #67 @ $DABB
+
+#W16($D642)
+[Pos. 2170]す。このふ゛たいを てにい[ED]
+
+
+//POINTER #68 @ $D644 - STRING #68 @ $DACB
+
+#W16($D644)
+[Pos. 21B0]れれは゛,こうけ゛きりょく [ED]
+
+
+//POINTER #69 @ $D646 - STRING #69 @ $DADC
+
+#W16($D646)
+[Pos. 21F0]ほ゛うき゛ょりょく ともに[ED]
+
+
+//POINTER #70 @ $D648 - STRING #70 @ $DAEC
+
+#W16($D648)
+[Pos. 2230]えることか゛て゛きます。[ED]
+
+
+//POINTER #71 @ $D64A - STRING #71 @ $DAFB
+
+#W16($D64A)
+[Pos. 2130]もっともおおきな ほきゅ[ED]
+
+
+//POINTER #72 @ $D64C - STRING #72 @ $DB0A
+
+#W16($D64C)
+[Pos. 2170]うふ゛たいて゛す。このふ゛たい[ED]
+
+
+//POINTER #73 @ $D64E - STRING #73 @ $DB1C
+
+#W16($D64E)
+[Pos. 21B0]をてにいれれは゛,とてもお[ED]
+
+
+//POINTER #74 @ $D650 - STRING #74 @ $DB2C
+
+#W16($D650)
+[Pos. 21F0]おきな,せんりょくを [ED]
+
+
+//POINTER #75 @ $D652 - STRING #75 @ $DB3A
+
+#W16($D652)
+[Pos. 2230]えられます。[ED]
+
+
+//POINTER #76 @ $D654 - STRING #76 @ $DB43
+
+#W16($D654)
+[Pos. 2130]こうへいの にんす゛うか゛ [ED]
+
+
+//POINTER #77 @ $D656 - STRING #77 @ $DB54
+
+#W16($D656)
+[Pos. 2170]おおいふ゛たいて゛す。さんか゛[ED]
+
+
+//POINTER #78 @ $D658 - STRING #78 @ $DB66
+
+#W16($D658)
+[Pos. 21B0]くちたいや,しょうか゛いの[ED]
+
+
+//POINTER #79 @ $D65A - STRING #79 @ $DB76
+
+#W16($D65A)
+[Pos. 21F0]おおいところて゛のたたかい[ED]
+
+
+//POINTER #80 @ $D65C - STRING #80 @ $DB86
+
+#W16($D65C)
+[Pos. 2230]に やくた゛ちます。[ED]
+
+
+//POINTER #81 @ $D65E - STRING #81 @ $DB93
+
+#W16($D65E)
+[Pos. 2130]ほうへいと てっほ゜うへい[ED]
+
+
+//POINTER #82 @ $D660 - STRING #82 @ $DBA3
+
+#W16($D660)
+[Pos. 2170]のいるふ゛たいて゛す。このふ゛[ED]
+
+
+//POINTER #83 @ $D662 - STRING #83 @ $DBB5
+
+#W16($D662)
+[Pos. 21B0]たいはきょうりょくな,は[ED]
+
+
+//POINTER #84 @ $D664 - STRING #84 @ $DBC4
+
+#W16($D664)
+[Pos. 21F0]かいりょくをもちます。[ED]
+
+
+//POINTER #85 @ $D666 - STRING #85 @ $DBD2
+
+#W16($D666)
+[Pos. 2130]てきのしゅりょく ふ゛たい[ED]
+
+
+//POINTER #86 @ $D668 - STRING #86 @ $DBE2
+
+#W16($D668)
+[Pos. 2170]て゛す。きょうりょくな こ[ED]
+
+
+//POINTER #87 @ $D66A - STRING #87 @ $DBF2
+
+#W16($D66A)
+[Pos. 21B0]うけ゛きりょくと ほ゛うき゛ょ[ED]
+
+
+//POINTER #88 @ $D66C - STRING #88 @ $DC04
+
+#W16($D66C)
+[Pos. 21F0]りょくを もっています。[ED]
+
+
+//POINTER #89 @ $D66E - STRING #89 @ $DC13
+
+#W16($D66E)
+[Pos. 2130]てきふ゛たいのなかて゛は[ED]
+
+
+//POINTER #90 @ $D670 - STRING #90 @ $DC22
+
+#W16($D670)
+[Pos. 2170]ちいさなふ゛たいて゛すか゛,[ED]
+
+
+//POINTER #91 @ $D672 - STRING #91 @ $DC33
+
+#W16($D672)
+[Pos. 21B0]ほうへいのちからには,ち[ED]
+
+
+//POINTER #92 @ $D674 - STRING #92 @ $DC42
+
+#W16($D674)
+[Pos. 21F0]ゅういか゛ ひつようて゛す。[ED]
+
+
+//POINTER #93 @ $D676 - STRING #93 @ $DC53
+
+#W16($D676)
+[Pos. 2130]きょうりょくな こうけ゛き[ED]
+
+
+//POINTER #94 @ $D678 - STRING #94 @ $DC63
+
+#W16($D678)
+[Pos. 2170]りょくをもつふ゛たいて゛す。[ED]
+
+
+//POINTER #95 @ $D67A - STRING #95 @ $DC74
+
+#W16($D67A)
+[Pos. 21B0]そのちからを あなと゛る[ED]
+
+
+//POINTER #96 @ $D67C - STRING #96 @ $DC83
+
+#W16($D67C)
+[Pos. 21F0]ことはて゛きません。[ED]
+
+
+//POINTER #97 @ $D67E - STRING #97 @ $DC90
+
+#W16($D67E)
+[Pos. 2130]はくへいせんに つよい[ED]
+
+
+//POINTER #98 @ $D680 - STRING #98 @ $DC9E
+
+#W16($D680)
+[Pos. 2170]ふ゛たいて゛す。ゆうしゅうな[ED]
+
+
+//POINTER #99 @ $D682 - STRING #99 @ $DCAF
+
+#W16($D682)
+[Pos. 21B0]へいか゛おおく,ほ゛うき゛ょり[ED]
+
+
+//POINTER #100 @ $D684 - STRING #100 @ $DCC1
+
+#W16($D684)
+[Pos. 21F0]ょくにすく゛れています。[ED]
+
+
+//POINTER #101 @ $D686 - STRING #101 @ $DCD0
+
+#W16($D686)
+[Pos. 2130]こうへいの にんす゛うか゛[ED]
+
+
+//POINTER #102 @ $D688 - STRING #102 @ $DCE0
+
+#W16($D688)
+[Pos. 2170]おおい ふ゛たいて゛す。さん[ED]
+
+
+//POINTER #103 @ $D68A - STRING #103 @ $DCF1
+
+#W16($D68A)
+[Pos. 21B0]か゛くちたいて゛は,ちゅうい[ED]
+
+
+//POINTER #104 @ $D68C - STRING #104 @ $DD02
+
+#W16($D68C)
+[Pos. 21F0]か゛ ひつようて゛しょう。[ED]
+
+
+//POINTER #105 @ $D68E - STRING #105 @ $DD12
+
+#W16($D68E)
+[Pos. 2130]きへいのにんす゛うか゛ おお[ED]
+
+
+//POINTER #106 @ $D690 - STRING #106 @ $DD23
+
+#W16($D690)
+[Pos. 2170]いふ゛たいて゛す。そのきと゛う[ED]
+
+
+//POINTER #107 @ $D692 - STRING #107 @ $DD35
+
+#W16($D692)
+[Pos. 21B0]りょくと,こうけ゛きりょく[ED]
+
+
+//POINTER #108 @ $D694 - STRING #108 @ $DD45
+
+#W16($D694)
+[Pos. 21F0]ほ,きょういた゛。[ED]
+
+
+//POINTER #109 @ $D696 - STRING #109 @ $DD51
+
+#W16($D696)
+[Pos. 2130]てっほ゜うへいのにんす゛うか゛[ED]
+
+
+//POINTER #110 @ $D698 - STRING #110 @ $DD63
+
+#W16($D698)
+[Pos. 2170]おおいふ゛たいて゛す。[ED]
+
+
+//POINTER #111 @ $D69A - STRING #111 @ $DD71
+
+#W16($D69A)
+[Pos. 21B0]みかたのそんか゛いをすく[ED]
+
+
+//POINTER #112 @ $D69C - STRING #112 @ $DD80
+
+#W16($D69C)
+[Pos. 21F0]なくする さくせんを た[ED]
+
+
+//POINTER #113 @ $D69E - STRING #113 @ $DD8F
+
+#W16($D69E)
+[Pos. 2230]ててくた゛さい。[ED]
+
+
+//POINTER #114 @ $D6A0 - STRING #114 @ $DD9A
+
+#W16($D6A0)
+[Pos. 2130]ほへいのにんす゛うか゛ おお[ED]
+
+
+//POINTER #115 @ $D6A2 - STRING #115 @ $DDAB
+
+#W16($D6A2)
+[Pos. 2170]いふ゛たいて゛す。はくへいせ[ED]
+
+
+//POINTER #116 @ $D6A4 - STRING #116 @ $DDBC
+
+#W16($D6A4)
+[Pos. 21B0]んて゛ ゆうりにたたかう[ED]
+
+
+//POINTER #117 @ $D6A6 - STRING #117 @ $DDCB
+
+#W16($D6A6)
+[Pos. 21F0]さくせんを たてなくては[ED]
+
+
+//POINTER #118 @ $D6A8 - STRING #118 @ $DDDA
+
+#W16($D6A8)
+[Pos. 2230]なりません。[ED]
+
+
+//POINTER #119 @ $D6AA - STRING #119 @ $DDE3
+
+#W16($D6AA)
+[Pos. 2130]ほうへいの にんす゛うか゛[ED]
+
+
+//POINTER #120 @ $D6AC - STRING #120 @ $DDF3
+
+#W16($D6AC)
+[Pos. 2170]おおく,はかいりょくを[ED]
+
+
+//POINTER #121 @ $D6AE - STRING #121 @ $DE01
+
+#W16($D6AE)
+[Pos. 21B0]もったふ゛たいて゛す。みかた[ED]
+
+
+//POINTER #122 @ $D6B0 - STRING #122 @ $DE12
+
+#W16($D6B0)
+[Pos. 21F0]のそんか゛いも,かくこ゛しな[ED]
+
+
+//POINTER #123 @ $D6B2 - STRING #123 @ $DE23
+
+#W16($D6B2)
+[Pos. 2230]くてはなりません。[ED]
+
+
+//POINTER #124 @ $D6B4 - STRING #124 @ $DE2F
+
+#W16($D6B4)
+[Pos. 2130]ほへいか゛ ちゅうしんに[ED]
+
+
+//POINTER #125 @ $D6B6 - STRING #125 @ $DE3E
+
+#W16($D6B6)
+[Pos. 2170]なっている ふ゛たいて゛すか゛[ED]
+
+
+//POINTER #126 @ $D6B8 - STRING #126 @ $DE50
+
+#W16($D6B8)
+[Pos. 21B0]そのほ゛うき゛ょりょくには,[ED]
+
+
+//POINTER #127 @ $D6BA - STRING #127 @ $DE61
+
+#W16($D6BA)
+[Pos. 21F0]すく゛れたものか゛あります。[ED]
+
