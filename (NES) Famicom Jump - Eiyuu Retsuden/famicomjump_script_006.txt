@@ -1,0 +1,220 @@
+//GAME NAME:		
+
+//BLOCK #006 NAME:		Dialogue Block 07 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2BD81 - STRING #0 @ $2BDC7
+
+#W16($2BD81)
+だい[F0]けっせんじょう[ED]
+
+
+//POINTER #1 @ $2BD83 - STRING #1 @ $2BDD2
+
+#W16($2BD83)
+よみがえった だいまおう [F3][ED]
+
+
+//POINTER #2 @ $2BD85 - STRING #2 @ $2BDE1
+
+#W16($2BD85)
+おういけいしょうこうほ キンにくマン[F3][ED]
+
+
+//POINTER #3 @ $2BD87 - STRING #3 @ $2BDF5
+
+#W16($2BD87)
+ビクトリーきゅうだん とうげ [F3][ED]
+
+
+//POINTER #4 @ $2BD89 - STRING #4 @ $2BE06
+
+#W16($2BD89)
+パーフェクト・キーパー ジノ・[F3][ED]
+
+
+//POINTER #5 @ $2BD8B - STRING #5 @ $2BE17
+
+#W16($2BD8B)
+せいきまつ はしゃ [F3][ED]
+
+
+//POINTER #6 @ $2BD8D - STRING #6 @ $2BE23
+
+#W16($2BD8D)
+おとこじゅく 3ごうせいひっとう [F3][ED]
+
+
+//POINTER #7 @ $2BD8F - STRING #7 @ $2BE36
+
+#W16($2BD8F)
+ハレンチがくえん きょうし [F3][ED]
+
+
+//POINTER #8 @ $2BD91 - STRING #8 @ $2BE46
+
+#W16($2BD91)
+デビルサイダー [F3]はくしゃく[ED]
+
+
+//POINTER #9 @ $2BD93 - STRING #9 @ $2BE55
+
+#W16($2BD93)
+せかいせいふくを たくらむ かがくしゃ [F3][ED]
+
+
+//POINTER #10 @ $2BD95 - STRING #10 @ $2BE6B
+
+#W16($2BD95)
+ねつを あやつる モード ほのおの [F3][ED]
+
+
+//POINTER #11 @ $2BD97 - STRING #11 @ $2BE7F
+
+#W16($2BD97)
+ふたごとうげの ぬし [F3][ED]
+
+
+//POINTER #12 @ $2BD99 - STRING #12 @ $2BE8C
+
+#W16($2BD99)
+ジェミニの ゴールドセイント [F3][ED]
+
+
+//POINTER #13 @ $2BD9B - STRING #13 @ $2BE9D
+
+#W16($2BD9B)
+うちゅうの ていおう [F3][ED]
+
+
+//POINTER #14 @ $2BD9D - STRING #14 @ $2BEAA
+
+#W16($2BD9D)
+しょうぶする      もどる[ED]
+
+
+//POINTER #15 @ $2BD9F - STRING #15 @ $2BEBA
+
+#W16($2BD9F)
+だれに しますか？[LN]
+[F0][F1][F2][F3][ED]
+
+
+//POINTER #16 @ $2BDA1 - STRING #16 @ $2BEC9
+
+#W16($2BDA1)
+[F2]で いいかな？[LN]
+      はい       いいえ[ED]
+
+
+//POINTER #17 @ $2BDA3 - STRING #17 @ $2BEE5
+
+#W16($2BDA3)
+たたかう        ひっさつわざ[LN]
+にげる[ED]
+
+
+//POINTER #18 @ $2BDA5 - STRING #18 @ $2BEFC
+
+#W16($2BDA5)
+[F2]は [F0]の ダメージを うけた！[ED]
+
+
+//POINTER #19 @ $2BDA7 - STRING #19 @ $2BF0D
+
+#W16($2BDA7)
+[F3]に [F0]の ダメージを あたえた！[ED]
+
+
+//POINTER #20 @ $2BDA9 - STRING #20 @ $2BF1F
+
+#W16($2BDA9)
+[F2]は ダメージを うけていない！[ED]
+
+
+//POINTER #21 @ $2BDAB - STRING #21 @ $2BF30
+
+#W16($2BDAB)
+[F3]は ダメージを うけていない！[ED]
+
+
+//POINTER #22 @ $2BDAD - STRING #22 @ $2BF41
+
+#W16($2BDAD)
+[F2]は ぎゃくに [F0]の[LN]
+ダメージを うけてしまった！[ED]
+
+
+//POINTER #23 @ $2BDAF - STRING #23 @ $2BF5B
+
+#W16($2BDAF)
+[F3]は ぎゃくに [F0]の[LN]
+ダメージを うけてしまった！[ED]
+
+
+//POINTER #24 @ $2BDB1 - STRING #24 @ $2BF75
+
+#W16($2BDB1)
+[F2]は やられてしまった！[ED]
+
+
+//POINTER #25 @ $2BDB3 - STRING #25 @ $2BF82
+
+#W16($2BDB3)
+[F3]は やられてしまった！[ED]
+
+
+//POINTER #26 @ $2BDB5 - STRING #26 @ $2BF8F
+
+#W16($2BDB5)
+[F2]は にげだした！[ED]
+
+
+//POINTER #27 @ $2BDB7 - STRING #27 @ $2BF99
+
+#W16($2BDB7)
+[F2]は にげられない！[ED]
+
+
+//POINTER #28 @ $2BDB9 - STRING #28 @ $2BFA4
+
+#W16($2BDB9)
+[F2]の こうげき！[ED]
+
+
+//POINTER #29 @ $2BDBB - STRING #29 @ $2BFAD
+
+#W16($2BDBB)
+[F3]の こうげき！[ED]
+
+
+//POINTER #30 @ $2BDBD - STRING #30 @ $2BFB6
+
+#W16($2BDBD)
+[ED]
+
+
+//POINTER #31 @ $2BDBF - STRING #31 @ $2BFB7
+
+#W16($2BDBF)
+[F1]ちが たりなーいっ！[ED]
+
+
+//POINTER #32 @ $2BDC1 - STRING #32 @ $2BFC3
+
+#W16($2BDC1)
+[F5]の どりょくちを わけてあげるかい？[LN]
+      はい       いいえ[ED]
+
+
+//POINTER #33 @ $2BDC3 - STRING #33 @ $2BFEA
+
+#W16($2BDC3)
+[F5]の どりょくち[LN]
+[F2]の[F1]ち[ED]
+
+
+//POINTER #34 @ $2BDC5 - STRING #34 @ $2BFF8
+
+#W16($2BDC5)
+これで いいかな？    はい   いいえ[ED]
+

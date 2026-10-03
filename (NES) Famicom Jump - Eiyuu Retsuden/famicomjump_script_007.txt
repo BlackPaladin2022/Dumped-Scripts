@@ -1,0 +1,35 @@
+//GAME NAME:		
+
+//BLOCK #007 NAME:		Dialogue Block 07 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2F873 - STRING #0 @ $2F887
+
+#W16($2F873)
+モノリスで きいた ことばを[LN]
+おもいだすんだ！[ED]
+
+
+//POINTER #1 @ $2F875 - STRING #1 @ $2F89F
+
+#W16($2F875)
+この ジャンプ・ワールドを[LN]
+すくえるのは きみだけだ！[ED]
+
+
+//POINTER #2 @ $2F877 - STRING #2 @ $2F8BB
+
+#W16($2F877)
+ダメ ダメ！ ちがうでしょ！[ED]
+
+
+//POINTER #3 @ $2F879 - STRING #3 @ $2F8CA
+
+#W16($2F879)
+さあ この ことばを おぼえておけ！[ED]
+
+
+//POINTER #4 @ $2F87B - STRING #4 @ $2F8DD
+
+#W16($2F87B)
+キミの なまえを きめるんだ！[ED]
+

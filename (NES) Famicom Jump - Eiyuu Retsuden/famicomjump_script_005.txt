@@ -1,0 +1,129 @@
+//GAME NAME:		
+
+//BLOCK #005 NAME:		Dialogue Block 06 (POINTER_RELATIVE)
+
+//POINTER #0 @ $2A385 - STRING #0 @ $2A3AF
+
+#W16($2A385)
+かのう[ED]
+
+
+//POINTER #1 @ $2A387 - STRING #1 @ $2A3B3
+
+#W16($2A387)
+もも[ED]
+
+
+//POINTER #2 @ $2A389 - STRING #2 @ $2A3B6
+
+#W16($2A389)
+たろー[ED]
+
+
+//POINTER #3 @ $2A38B - STRING #3 @ $2A3BA
+
+#W16($2A38B)
+ケンシロウ[ED]
+
+
+//POINTER #4 @ $2A38D - STRING #4 @ $2A3C0
+
+#W16($2A38D)
+ぬけさく[ED]
+
+
+//POINTER #5 @ $2A38F - STRING #5 @ $2A3C5
+
+#W16($2A38F)
+セイヤ[ED]
+
+
+//POINTER #6 @ $2A391 - STRING #6 @ $2A3C9
+
+#W16($2A391)
+つばさ[ED]
+
+
+//POINTER #7 @ $2A393 - STRING #7 @ $2A3CD
+
+#W16($2A393)
+きゅういち[ED]
+
+
+//POINTER #8 @ $2A395 - STRING #8 @ $2A3D3
+
+#W16($2A395)
+ゴクウ[ED]
+
+
+//POINTER #9 @ $2A397 - STRING #9 @ $2A3D7
+
+#W16($2A397)
+れいき[ED]
+
+
+//POINTER #10 @ $2A399 - STRING #10 @ $2A3DB
+
+#W16($2A399)
+イサム[ED]
+
+
+//POINTER #11 @ $2A39B - STRING #11 @ $2A3DF
+
+#W16($2A39B)
+アラレちゃん[ED]
+
+
+//POINTER #12 @ $2A39D - STRING #12 @ $2A3E6
+
+#W16($2A39D)
+ジョジョ[ED]
+
+
+//POINTER #13 @ $2A39F - STRING #13 @ $2A3EB
+
+#W16($2A39F)
+りょう[ED]
+
+
+//POINTER #14 @ $2A3A1 - STRING #14 @ $2A3EF
+
+#W16($2A3A1)
+まんきち[ED]
+
+
+//POINTER #15 @ $2A3A3 - STRING #15 @ $2A3F4
+
+#W16($2A3A3)
+キンにくマン[ED]
+
+
+//POINTER #16 @ $2A3A5 - STRING #16 @ $2A3FB
+
+#W16($2A3A5)
+？？[ED]
+
+
+//POINTER #17 @ $2A3A7 - STRING #17 @ $2A3FE
+
+#W16($2A3A7)
+？？？[ED]
+
+
+//POINTER #18 @ $2A3A9 - STRING #18 @ $2A402
+
+#W16($2A3A9)
+？？？？[ED]
+
+
+//POINTER #19 @ $2A3AB - STRING #19 @ $2A407
+
+#W16($2A3AB)
+？？？？？[ED]
+
+
+//POINTER #20 @ $2A3AD - STRING #20 @ $2A40D
+
+#W16($2A3AD)
+？？？？？？[ED]
+

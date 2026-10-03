@@ -1,0 +1,89 @@
+//GAME NAME:		
+
+//BLOCK #000 NAME:		Dialogue Block 01 (POINTER_RELATIVE)
+
+//POINTER #0 @ $EF38 - STRING #0 @ $EF54
+
+#W16($EF38)
+    タ  ー  イ  ム ・ ・ ・[ED]
+
+
+//POINTER #1 @ $EF3A - STRING #1 @ $EF69
+
+#W16($EF3A)
+      ス リ ー ッ プ ！[ED]
+
+
+//POINTER #2 @ $EF3C - STRING #2 @ $EF7B
+
+#W16($EF3C)
+      ほ ん に ー ・ ・ ・[ED]
+
+
+//POINTER #3 @ $EF3E - STRING #3 @ $EF8F
+
+#W16($EF3E)
+      は い り ゃ ー っ ！[ED]
+
+
+//POINTER #4 @ $EF40 - STRING #4 @ $EFA3
+
+#W16($EF40)
+     イェイ！ イェイ！ イェイ！[ED]
+
+
+//POINTER #5 @ $EF42 - STRING #5 @ $EFB7
+
+#W16($EF42)
+    しんだなかまを いきかえらせよう！[ED]
+
+
+//POINTER #6 @ $EF44 - STRING #6 @ $EFCD
+
+#W16($EF44)
+    ちわーす！ たっきゅうびんでーす[ED]
+
+
+//POINTER #7 @ $EF46 - STRING #7 @ $EFE2
+
+#W16($EF46)
+     ウフッ? あなたもすきねー！[ED]
+
+
+//POINTER #8 @ $EF48 - STRING #8 @ $EFF6
+
+#W16($EF48)
+[ED]
+
+
+//POINTER #9 @ $EF4A - STRING #9 @ $EFF7
+
+#W16($EF4A)
+      いでよ！ シェンロン！！[ED]
+
+
+//POINTER #10 @ $EF4C - STRING #10 @ $F00A
+
+#W16($EF4C)
+       どうも ありがとう！[ED]
+
+
+//POINTER #11 @ $EF4E - STRING #11 @ $F01C
+
+#W16($EF4E)
+    これで ぶじ 20しゅうねんを[LN]
+    むかえることが できる[ED]
+
+
+//POINTER #12 @ $EF50 - STRING #12 @ $F040
+
+#W16($EF50)
+    これからも しゅうかんしょうねん[LN]
+    ジャンプは がんばるぞ[ED]
+
+
+//POINTER #13 @ $EF52 - STRING #13 @ $F065
+
+#W16($EF52)
+       おうえん よろしく！[ED]
+
